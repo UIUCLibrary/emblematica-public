@@ -22,6 +22,7 @@ Namespace Areas.HelpPage
         Private _actualHttpMessageTypes As IDictionary(Of HelpPageSampleKey, Type)
         Private _actionSamples As IDictionary(Of HelpPageSampleKey, Object)
         Private _sampleObjects As IDictionary(Of Type, Object)
+        Private _sampleObjectFactories As IList(Of Func(Of HelpPageSampleGenerator, Type, Object))
 
         ''' <summary>
         ''' Initializes a new instance of the <see cref="HelpPageSampleGenerator"/> class.
@@ -30,6 +31,8 @@ Namespace Areas.HelpPage
             ActualHttpMessageTypes = New Dictionary(Of HelpPageSampleKey, Type)
             ActionSamples = New Dictionary(Of HelpPageSampleKey, Object)
             SampleObjects = New Dictionary(Of Type, Object)
+            SampleObjectFactories = New List(Of Func(Of HelpPageSampleGenerator, Type, Object))
+            SampleObjectFactories.Add(AddressOf DefaultSampleObjectFactory)
         End Sub
 
         ''' <summary>
@@ -65,6 +68,25 @@ Namespace Areas.HelpPage
             End Get
             Friend Set(value As IDictionary(Of Type, Object))
                 _sampleObjects = value
+            End Set
+        End Property
+
+        ''' <summary>
+        ''' Gets factories for the objects that the supported formatters will serialize as samples. Processed in order,
+        ''' stopping when the factory successfully returns a non-<see langref="null"/> object.
+        ''' </summary>
+        ''' <remarks>
+        ''' Collection includes just <see cref="ObjectGenerator.GenerateObject"/> initially. Use
+        ''' <code>SampleObjectFactories.Insert(0, func)</code> to provide an override and
+        ''' <code>SampleObjectFactories.Add(func)</code> to provide a fallback.</remarks>
+        <SuppressMessage("Microsoft.Design", "CA1006:DoNotNestGenericTypesInMemberSignatures",
+            Justification:="This is an appropriate nesting of generic types")>
+        Public Property SampleObjectFactories As IList(Of Func(Of HelpPageSampleGenerator, Type, Object))
+            Get
+                Return _sampleObjectFactories
+            End Get
+            Private Set(value As IList(Of Func(Of HelpPageSampleGenerator, Type, Object)))
+                _sampleObjectFactories = value
             End Set
         End Property
 
@@ -112,7 +134,7 @@ Namespace Areas.HelpPage
 
             ' Do the sample generation based on formatters only if an action doesn't return an HttpResponseMessage.
             ' Here we cannot rely on formatters because we don't know what's in the HttpResponseMessage, it might not even use formatters.
-            If (Not type Is Nothing And Not GetType(HttpResponseMessage).IsAssignableFrom(type)) Then
+            If (Not type Is Nothing AndAlso Not GetType(HttpResponseMessage).IsAssignableFrom(type)) Then
                 Dim sampleObject As Object = GetSampleObject(type)
                 For Each formatter In formatters
                     For Each mediaType As MediaTypeHeaderValue In formatter.SupportedMediaTypes
@@ -145,12 +167,14 @@ Namespace Areas.HelpPage
         Public Overridable Function GetActionSample(controllerName As String, actionName As String, parameterNames As IEnumerable(Of String), type As Type, formatter As MediaTypeFormatter, mediaType As MediaTypeHeaderValue, sampleDirection As SampleDirection) As Object
             Dim sample As New Object
 
-            ' First, try get sample provided for a specific mediaType, controllerName, actionName and parameterNames.
-            ' If not found, try get the sample provided for a specific mediaType, controllerName and actionName regardless of the parameterNames
-            ' If still not found, try get the sample provided for a specific type and mediaType 
-            If (ActionSamples.TryGetValue(New HelpPageSampleKey(mediaType, sampleDirection, controllerName, actionName, parameterNames), sample) Or
-                ActionSamples.TryGetValue(New HelpPageSampleKey(mediaType, sampleDirection, controllerName, actionName, New String() {"*"}), sample) Or
-                ActionSamples.TryGetValue(New HelpPageSampleKey(mediaType, type), sample)) Then
+            ' First, try to get the sample provided for the specified mediaType, sampleDirection, controllerName, actionName and parameterNames.
+            ' If not found, try to get the sample provided for the specified mediaType, sampleDirection, controllerName and actionName regardless of the parameterNames.
+            ' If still not found, try to get the sample provided for the specified mediaType and type.
+            ' Finally, try to get the sample provided for the specified mediaType.
+            If (ActionSamples.TryGetValue(New HelpPageSampleKey(mediaType, sampleDirection, controllerName, actionName, parameterNames), sample) OrElse
+                ActionSamples.TryGetValue(New HelpPageSampleKey(mediaType, sampleDirection, controllerName, actionName, New String() {"*"}), sample) OrElse
+                ActionSamples.TryGetValue(New HelpPageSampleKey(mediaType, type), sample) OrElse
+                ActionSamples.TryGetValue(New HelpPageSampleKey(mediaType), sample)) Then
                 Return sample
             End If
             Return Nothing
@@ -158,19 +182,49 @@ Namespace Areas.HelpPage
 
         ''' <summary>
         ''' Gets the sample object that will be serialized by the formatters. 
-        ''' First, it will look at the <see cref="SampleObjects"/>. If no sample object is found, it will try to create one using <see cref="ObjectGenerator"/>.
+        ''' First, it will look at the <see cref="SampleObjects"/>. If no sample object is found, it will try to create
+        ''' one using <see cref="DefaultSampleObjectFactory"/> (which wraps an <see cref="ObjectGenerator"/>) and other
+        ''' factories in <see cref="SampleObjectFactories"/>.
         ''' </summary>
         ''' <param name="type">The type.</param>
         ''' <returns>The sample object.</returns>
+        <SuppressMessage("Microsoft.Design", "CA1031:DoNotCatchGeneralExceptionTypes",
+            Justification:="Even if all items in SampleObjectFactories throw, problem will be visible as missing sample.")>
         Public Overridable Function GetSampleObject(type As Type) As Object
             Dim sampleObject As New Object
 
             If (Not SampleObjects.TryGetValue(type, sampleObject)) Then
-                ' Try create a default sample object
-                Dim objectGenerator As New ObjectGenerator()
-                sampleObject = objectGenerator.GenerateObject(type)
+                ' No specific object available, try our factories.
+                For Each factory As Func(Of HelpPageSampleGenerator, Type, Object) In SampleObjectFactories
+                    If factory Is Nothing Then
+                        Continue For
+                    End If
+
+                    Try
+                        sampleObject = factory(Me, type)
+                        If sampleObject IsNot Nothing Then
+                            Exit For
+                        End If
+                    Catch
+                        ' Ignore any problems encountered in the factory; go on to the next one (if any).
+                    End Try
+                Next
             End If
+
             Return sampleObject
+        End Function
+
+        ''' <summary>
+        ''' Resolves the actual type of <see cref="System.Net.Http.ObjectContent(Of T)"/> passed to the <see cref="System.Net.Http.HttpRequestMessage"/> in an action.
+        ''' </summary>
+        ''' <param name="api">The <see cref="ApiDescription"/>.</param>
+        ''' <returns>The type.</returns>
+        Public Overridable Function ResolveHttpRequestMessageType(api As ApiDescription) As Type
+            Dim controllerName As String = api.ActionDescriptor.ControllerDescriptor.ControllerName
+            Dim actionName As String = api.ActionDescriptor.ActionName
+            Dim parameterNames As IEnumerable(Of String) = api.ParameterDescriptions.[Select](Function(p) p.Name)
+            Dim formatters As Collection(Of MediaTypeFormatter) = Nothing
+            Return ResolveType(api, controllerName, actionName, parameterNames, SampleDirection.Request, formatters)
         End Function
 
         ''' <summary>
@@ -267,7 +321,7 @@ Namespace Areas.HelpPage
                     "An exception has occurred while using the formatter '{0}' to generate sample for media type '{1}'. Exception message: {2}",
                     formatter.GetType().Name,
                     mediaType.MediaType,
-                    e.Message))
+                    UnwrapException(e).Message))
             Finally
                 If (Not MS Is Nothing) Then
                     MS.Dispose()
@@ -277,6 +331,20 @@ Namespace Areas.HelpPage
                 End If
             End Try
             Return sample
+        End Function
+
+        Friend Shared Function UnwrapException(exception As Exception) As Exception
+            Dim aggregateException As AggregateException = TryCast(exception, AggregateException)
+            If aggregateException IsNot Nothing Then
+                Return aggregateException.Flatten().InnerException
+            End If
+            Return exception
+        End Function
+
+        Private Shared Function DefaultSampleObjectFactory(sampleGenerator As HelpPageSampleGenerator, type As Type) As Object
+            ' Try create a default sample object
+            Dim objectGenerator As New ObjectGenerator()
+            Return objectGenerator.GenerateObject(type)
         End Function
 
         <SuppressMessage("Microsoft.Design", "CA1031:DoNotCatchGeneralExceptionTypes", Justification:="Handling the failure by returning the original string.")>

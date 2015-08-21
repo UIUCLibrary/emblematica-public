@@ -1,35 +1,39 @@
 @Imports System.Collections.ObjectModel
 @Imports System.Web.Http.Description
 @Imports System.Threading
-@ModelType Collection(Of ApiParameterDescription)
+@Imports EmblematicaAPI.Areas.HelpPage.ModelDescriptions
+@ModelType IList(Of ParameterDescription)
 
-<table class="help-page-table">
-    <thead>
-    <tr><th>Name</th><th>Description</th><th>Additional information</th></tr>
-    </thead>
-    <tbody>
-    @For Each parameter As ApiParameterDescription In Model
-        Dim parameterDocumentation As String = If(Not parameter.Documentation Is Nothing,
-                                                  parameter.Documentation,
-                                                  "No documentation available.")
-
-        ' Don't show CancellationToken because it's a special parameter
-        If (Not GetType(CancellationToken).IsAssignableFrom(parameter.ParameterDescriptor.ParameterType)) Then
-            @<tr>
-                <td class="parameter-name"><b>@parameter.Name</b></td>
-                <td class="parameter-documentation"><pre>@parameterDocumentation</pre></td>
-                <td class="parameter-source">
-                    @Select parameter.Source
-                    Case ApiParameterSource.FromBody
-                            @<p>Define this parameter in the request <b>body</b>.</p>
-                    Case ApiParameterSource.FromUri
-                            @<p>Define this parameter in the request <b>URI</b>.</p>
-                    Case Else
+@If Model.Count > 0 Then
+    @<table class="help-page-table">
+        <thead>
+            <tr><th>Name</th><th>Description</th><th>Type</th><th>Additional information</th></tr>
+        </thead>
+        <tbody>
+            @For Each parameter As ParameterDescription In Model
+                Dim modelDescription As ModelDescription = parameter.TypeDescription
+                @<tr>
+                    <td class="parameter-name">@parameter.Name</td>
+                    <td class="parameter-documentation">
+                        <p>@parameter.Documentation</p>
+                    </td>
+                    <td class="parameter-type">
+                        @Html.DisplayFor(Function(m) modelDescription.ModelType, "ModelDescriptionLink", New With {.modelDescription = modelDescription})
+                    </td>
+                    <td class="parameter-annotations">
+                        @If parameter.Annotations.Count > 0 Then
+                            @For Each annotation As ParameterAnnotation In parameter.Annotations
+                                @<p>@annotation.Documentation</p>
+                            Next
+                        else
                             @<p>None.</p>
-                    End Select
-                </td>
-            </tr>
-        End If
-    Next
-    </tbody>
-</table>
+                        End If 
+                    </td>
+                </tr>
+            Next
+        </tbody>
+    </table>
+Else
+    @<p>None.</p>
+End If
+
