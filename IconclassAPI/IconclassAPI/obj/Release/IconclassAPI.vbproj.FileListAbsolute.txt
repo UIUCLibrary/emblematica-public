@@ -1,0 +1,129 @@
+C:\Users\mjsarol\documents\visual studio 2013\Projects\IconclassAPI\IconclassAPI\bin\IconclassAPI.dll.config
+C:\Users\mjsarol\documents\visual studio 2013\Projects\IconclassAPI\IconclassAPI\bin\IconclassAPI.dll
+C:\Users\mjsarol\documents\visual studio 2013\Projects\IconclassAPI\IconclassAPI\bin\IconclassAPI.pdb
+C:\Users\mjsarol\documents\visual studio 2013\Projects\IconclassAPI\IconclassAPI\bin\IconclassAPI.xml
+C:\Users\mjsarol\documents\visual studio 2013\Projects\IconclassAPI\IconclassAPI\bin\Antlr3.Runtime.dll
+C:\Users\mjsarol\documents\visual studio 2013\Projects\IconclassAPI\IconclassAPI\bin\EntityFramework.dll
+C:\Users\mjsarol\documents\visual studio 2013\Projects\IconclassAPI\IconclassAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\mjsarol\documents\visual studio 2013\Projects\IconclassAPI\IconclassAPI\bin\HtmlAgilityPack.dll
+C:\Users\mjsarol\documents\visual studio 2013\Projects\IconclassAPI\IconclassAPI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\mjsarol\documents\visual studio 2013\Projects\IconclassAPI\IconclassAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\mjsarol\documents\visual studio 2013\Projects\IconclassAPI\IconclassAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\mjsarol\documents\visual studio 2013\Projects\IconclassAPI\IconclassAPI\bin\Microsoft.Owin.dll
+C:\Users\mjsarol\documents\visual studio 2013\Projects\IconclassAPI\IconclassAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\mjsarol\documents\visual studio 2013\Projects\IconclassAPI\IconclassAPI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\mjsarol\documents\visual studio 2013\Projects\IconclassAPI\IconclassAPI\bin\Microsoft.Owin.Security.dll
+C:\Users\mjsarol\documents\visual studio 2013\Projects\IconclassAPI\IconclassAPI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\mjsarol\documents\visual studio 2013\Projects\IconclassAPI\IconclassAPI\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\mjsarol\documents\visual studio 2013\Projects\IconclassAPI\IconclassAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\mjsarol\documents\visual studio 2013\Projects\IconclassAPI\IconclassAPI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\mjsarol\documents\visual studio 2013\Projects\IconclassAPI\IconclassAPI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\mjsarol\documents\visual studio 2013\Projects\IconclassAPI\IconclassAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\mjsarol\documents\visual studio 2013\Projects\IconclassAPI\IconclassAPI\bin\Newtonsoft.Json.dll
+C:\Users\mjsarol\documents\visual studio 2013\Projects\IconclassAPI\IconclassAPI\bin\Owin.dll
+C:\Users\mjsarol\documents\visual studio 2013\Projects\IconclassAPI\IconclassAPI\bin\System.Web.Helpers.dll
+C:\Users\mjsarol\documents\visual studio 2013\Projects\IconclassAPI\IconclassAPI\bin\System.Web.Mvc.dll
+C:\Users\mjsarol\documents\visual studio 2013\Projects\IconclassAPI\IconclassAPI\bin\System.Web.Optimization.dll
+C:\Users\mjsarol\documents\visual studio 2013\Projects\IconclassAPI\IconclassAPI\bin\System.Web.Razor.dll
+C:\Users\mjsarol\documents\visual studio 2013\Projects\IconclassAPI\IconclassAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\mjsarol\documents\visual studio 2013\Projects\IconclassAPI\IconclassAPI\bin\System.Web.WebPages.dll
+C:\Users\mjsarol\documents\visual studio 2013\Projects\IconclassAPI\IconclassAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\mjsarol\documents\visual studio 2013\Projects\IconclassAPI\IconclassAPI\bin\WebGrease.dll
+C:\Users\mjsarol\documents\visual studio 2013\Projects\IconclassAPI\IconclassAPI\bin\HtmlAgilityPack.pdb
+C:\Users\mjsarol\documents\visual studio 2013\Projects\IconclassAPI\IconclassAPI\bin\HtmlAgilityPack.xml
+C:\Users\mjsarol\documents\visual studio 2013\Projects\IconclassAPI\IconclassAPI\bin\System.Web.Helpers.xml
+C:\Users\mjsarol\documents\visual studio 2013\Projects\IconclassAPI\IconclassAPI\bin\System.Web.Mvc.xml
+C:\Users\mjsarol\documents\visual studio 2013\Projects\IconclassAPI\IconclassAPI\bin\System.Web.Optimization.xml
+C:\Users\mjsarol\documents\visual studio 2013\Projects\IconclassAPI\IconclassAPI\bin\System.Web.Razor.xml
+C:\Users\mjsarol\documents\visual studio 2013\Projects\IconclassAPI\IconclassAPI\bin\System.Web.WebPages.xml
+C:\Users\mjsarol\documents\visual studio 2013\Projects\IconclassAPI\IconclassAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\mjsarol\documents\visual studio 2013\Projects\IconclassAPI\IconclassAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\mjsarol\documents\visual studio 2013\Projects\IconclassAPI\IconclassAPI\bin\Antlr3.Runtime.pdb
+C:\Users\mjsarol\documents\visual studio 2013\Projects\IconclassAPI\IconclassAPI\bin\Newtonsoft.Json.xml
+C:\Users\mjsarol\documents\visual studio 2013\Projects\IconclassAPI\IconclassAPI\bin\EntityFramework.xml
+C:\Users\mjsarol\documents\visual studio 2013\Projects\IconclassAPI\IconclassAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\mjsarol\documents\visual studio 2013\Projects\IconclassAPI\IconclassAPI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\mjsarol\documents\visual studio 2013\Projects\IconclassAPI\IconclassAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\mjsarol\documents\visual studio 2013\Projects\IconclassAPI\IconclassAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\mjsarol\documents\visual studio 2013\Projects\IconclassAPI\IconclassAPI\bin\Microsoft.Owin.xml
+C:\Users\mjsarol\documents\visual studio 2013\Projects\IconclassAPI\IconclassAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\mjsarol\documents\visual studio 2013\Projects\IconclassAPI\IconclassAPI\bin\Microsoft.Owin.Security.xml
+C:\Users\mjsarol\documents\visual studio 2013\Projects\IconclassAPI\IconclassAPI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\mjsarol\documents\visual studio 2013\Projects\IconclassAPI\IconclassAPI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\mjsarol\documents\visual studio 2013\Projects\IconclassAPI\IconclassAPI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\mjsarol\documents\visual studio 2013\Projects\IconclassAPI\IconclassAPI\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\mjsarol\documents\visual studio 2013\Projects\IconclassAPI\IconclassAPI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\mjsarol\documents\visual studio 2013\Projects\IconclassAPI\IconclassAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\mjsarol\documents\visual studio 2013\Projects\IconclassAPI\IconclassAPI\obj\Release\IconclassAPI.Resources.resources
+C:\Users\mjsarol\documents\visual studio 2013\Projects\IconclassAPI\IconclassAPI\obj\Release\IconclassAPI.vbproj.GenerateResource.Cache
+C:\Users\mjsarol\documents\visual studio 2013\Projects\IconclassAPI\IconclassAPI\obj\Release\IconclassAPI.dll
+C:\Users\mjsarol\documents\visual studio 2013\Projects\IconclassAPI\IconclassAPI\obj\Release\IconclassAPI.xml
+C:\Users\mjsarol\documents\visual studio 2013\Projects\IconclassAPI\IconclassAPI\obj\Release\IconclassAPI.pdb
+C:\Users\mjsarol\documents\visual studio 2013\Projects\IconclassAPI\IconclassAPI\bin\AutoMapper.dll
+C:\Users\mjsarol\documents\visual studio 2013\Projects\IconclassAPI\IconclassAPI\bin\AutoMapper.xml
+C:\Users\heldreth\source\repos\IconclassAPI\IconclassAPI\bin\IconclassAPI.dll.config
+C:\Users\heldreth\source\repos\IconclassAPI\IconclassAPI\bin\IconclassAPI.dll
+C:\Users\heldreth\source\repos\IconclassAPI\IconclassAPI\bin\IconclassAPI.pdb
+C:\Users\heldreth\source\repos\IconclassAPI\IconclassAPI\bin\IconclassAPI.xml
+C:\Users\heldreth\source\repos\IconclassAPI\IconclassAPI\bin\Antlr3.Runtime.dll
+C:\Users\heldreth\source\repos\IconclassAPI\IconclassAPI\bin\AutoMapper.dll
+C:\Users\heldreth\source\repos\IconclassAPI\IconclassAPI\bin\EntityFramework.dll
+C:\Users\heldreth\source\repos\IconclassAPI\IconclassAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\heldreth\source\repos\IconclassAPI\IconclassAPI\bin\HtmlAgilityPack.dll
+C:\Users\heldreth\source\repos\IconclassAPI\IconclassAPI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\heldreth\source\repos\IconclassAPI\IconclassAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\heldreth\source\repos\IconclassAPI\IconclassAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\heldreth\source\repos\IconclassAPI\IconclassAPI\bin\Microsoft.Owin.dll
+C:\Users\heldreth\source\repos\IconclassAPI\IconclassAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\heldreth\source\repos\IconclassAPI\IconclassAPI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\heldreth\source\repos\IconclassAPI\IconclassAPI\bin\Microsoft.Owin.Security.dll
+C:\Users\heldreth\source\repos\IconclassAPI\IconclassAPI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\heldreth\source\repos\IconclassAPI\IconclassAPI\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\heldreth\source\repos\IconclassAPI\IconclassAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\heldreth\source\repos\IconclassAPI\IconclassAPI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\heldreth\source\repos\IconclassAPI\IconclassAPI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\heldreth\source\repos\IconclassAPI\IconclassAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\heldreth\source\repos\IconclassAPI\IconclassAPI\bin\Newtonsoft.Json.dll
+C:\Users\heldreth\source\repos\IconclassAPI\IconclassAPI\bin\Owin.dll
+C:\Users\heldreth\source\repos\IconclassAPI\IconclassAPI\bin\System.Web.Helpers.dll
+C:\Users\heldreth\source\repos\IconclassAPI\IconclassAPI\bin\System.Web.Mvc.dll
+C:\Users\heldreth\source\repos\IconclassAPI\IconclassAPI\bin\System.Web.Optimization.dll
+C:\Users\heldreth\source\repos\IconclassAPI\IconclassAPI\bin\System.Web.Razor.dll
+C:\Users\heldreth\source\repos\IconclassAPI\IconclassAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\heldreth\source\repos\IconclassAPI\IconclassAPI\bin\System.Web.WebPages.dll
+C:\Users\heldreth\source\repos\IconclassAPI\IconclassAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\heldreth\source\repos\IconclassAPI\IconclassAPI\bin\WebGrease.dll
+C:\Users\heldreth\source\repos\IconclassAPI\IconclassAPI\bin\AutoMapper.xml
+C:\Users\heldreth\source\repos\IconclassAPI\IconclassAPI\bin\HtmlAgilityPack.pdb
+C:\Users\heldreth\source\repos\IconclassAPI\IconclassAPI\bin\HtmlAgilityPack.xml
+C:\Users\heldreth\source\repos\IconclassAPI\IconclassAPI\bin\Newtonsoft.Json.xml
+C:\Users\heldreth\source\repos\IconclassAPI\IconclassAPI\bin\System.Web.Helpers.xml
+C:\Users\heldreth\source\repos\IconclassAPI\IconclassAPI\bin\System.Web.Mvc.xml
+C:\Users\heldreth\source\repos\IconclassAPI\IconclassAPI\bin\System.Web.Optimization.xml
+C:\Users\heldreth\source\repos\IconclassAPI\IconclassAPI\bin\System.Web.Razor.xml
+C:\Users\heldreth\source\repos\IconclassAPI\IconclassAPI\bin\System.Web.WebPages.xml
+C:\Users\heldreth\source\repos\IconclassAPI\IconclassAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\heldreth\source\repos\IconclassAPI\IconclassAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\heldreth\source\repos\IconclassAPI\IconclassAPI\bin\Antlr3.Runtime.pdb
+C:\Users\heldreth\source\repos\IconclassAPI\IconclassAPI\bin\EntityFramework.xml
+C:\Users\heldreth\source\repos\IconclassAPI\IconclassAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\heldreth\source\repos\IconclassAPI\IconclassAPI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\heldreth\source\repos\IconclassAPI\IconclassAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\heldreth\source\repos\IconclassAPI\IconclassAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\heldreth\source\repos\IconclassAPI\IconclassAPI\bin\Microsoft.Owin.xml
+C:\Users\heldreth\source\repos\IconclassAPI\IconclassAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\heldreth\source\repos\IconclassAPI\IconclassAPI\bin\Microsoft.Owin.Security.xml
+C:\Users\heldreth\source\repos\IconclassAPI\IconclassAPI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\heldreth\source\repos\IconclassAPI\IconclassAPI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\heldreth\source\repos\IconclassAPI\IconclassAPI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\heldreth\source\repos\IconclassAPI\IconclassAPI\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\heldreth\source\repos\IconclassAPI\IconclassAPI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\heldreth\source\repos\IconclassAPI\IconclassAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\heldreth\source\repos\IconclassAPI\IconclassAPI\obj\Release\IconclassAPI.Resources.resources
+C:\Users\heldreth\source\repos\IconclassAPI\IconclassAPI\obj\Release\IconclassAPI.vbproj.GenerateResource.cache
+C:\Users\heldreth\source\repos\IconclassAPI\IconclassAPI\obj\Release\IconclassAPI.vbproj.CoreCompileInputs.cache
+C:\Users\heldreth\source\repos\IconclassAPI\IconclassAPI\obj\Release\IconclassAPI.vbproj.CopyComplete
+C:\Users\heldreth\source\repos\IconclassAPI\IconclassAPI\obj\Release\IconclassAPI.dll
+C:\Users\heldreth\source\repos\IconclassAPI\IconclassAPI\obj\Release\IconclassAPI.xml
+C:\Users\heldreth\source\repos\IconclassAPI\IconclassAPI\obj\Release\IconclassAPI.pdb
+C:\Users\heldreth\source\repos\IconclassAPI\IconclassAPI\obj\Release\IconclassAPI.vbprojAssemblyReference.cache

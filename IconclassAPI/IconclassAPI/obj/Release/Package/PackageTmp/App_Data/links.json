@@ -1,0 +1,5 @@
+﻿{
+    "search" : "http://iconclass.org/rkd/0/?q={0}&lang={1}&q_s=1&sort=rank&inc_keys=off",
+    "detail": "http://iconclass.org/json/?notation={0}",
+    "top-level" :  "http://iconclass.org/ICONCLASS.json"
+}
