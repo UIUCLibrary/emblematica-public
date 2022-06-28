@@ -8,16 +8,17 @@ Public Class ApiController
     Inherits System.Web.Mvc.Controller
 
     Function Search(term As String, language As String)
-        Dim searchURL = String.Format("https://iconclass.org/api/search?q={0}&lang={1}&size=999&page=1&sort=rank&keys=0",
+        'changed size variable in querystring below to 7 to limit results
+        Dim searchURL = String.Format("https://iconclass.org/api/search?q={0}&lang={1}&size=7&page=1&sort=rank&keys=0",
                                       term, language)
-
+        Dim numresults = 1
         Try
             Dim notations As New List(Of String)
 
             Dim jsonString As String = WebHelper.GetResource(searchURL)
             Dim searchresults As SearchResults = JsonConvert.DeserializeObject(Of SearchResults)(jsonString)
             For Each result In searchresults.result
-                notations.Add(result)
+                notations.Add(Server.HtmlEncode(result))
             Next
 
             Return Json(notations, JsonRequestBehavior.AllowGet)
@@ -80,9 +81,14 @@ Public Class ApiController
             Dim resultList = results.result
             Dim iconclassListNew As New List(Of IconclassDetail)
 
+
             For Each result In resultList
-                CacheHelper.Add(result.n, result)
-                iconclassListNew.Add(New IconclassDetail(result.n, result.txt, result.p, result.c))
+                If result IsNot Nothing Then
+                    CacheHelper.Add(result.n, result)
+                    iconclassListNew.Add(New IconclassDetail(result.n, result.txt, result.p, result.c))
+                Else
+                    iconclassListNew.Add(New IconclassDetail())
+                End If
             Next
 
             ' combine cached items and newly queried items

@@ -34,13 +34,13 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>12/09/2015 13:53:00</publishTime>
     </File>
     <File Include="bin/IconclassAPI.dll">
-      <publishTime>06/20/2022 09:48:38</publishTime>
+      <publishTime>06/23/2022 15:50:03</publishTime>
     </File>
     <File Include="bin/IconclassAPI.pdb">
-      <publishTime>06/20/2022 09:48:38</publishTime>
+      <publishTime>06/23/2022 15:50:03</publishTime>
     </File>
     <File Include="bin/IconclassAPI.xml">
-      <publishTime>06/20/2022 09:48:38</publishTime>
+      <publishTime>06/23/2022 15:50:03</publishTime>
     </File>
     <File Include="bin/Microsoft.AspNet.Identity.Core.dll">
       <publishTime>12/07/2015 15:25:46</publishTime>

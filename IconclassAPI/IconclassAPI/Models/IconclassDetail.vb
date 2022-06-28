@@ -9,6 +9,13 @@ Public Class IconclassDetail
         Me.Children = Children
     End Sub
 
+    Public Sub New()
+        Me.Notation = ""
+        Me.Labels = New Dictionary(Of String, String)
+        Me.Ancestors = New List(Of String)
+        Me.Children = New List(Of String)
+    End Sub
+
 
     <JsonProperty("n")>
     Public Property Notation As String
