@@ -6,7 +6,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <TimeStampOfAssociatedLegacyPublishXmlFile />
-    <_PublishTargetUrl>REPLACE_WITH_DESTINATNION_UNC</_PublishTargetUrl>
+    <_PublishTargetUrl>\\emblematica.library.illinois.edu\inetpub\proxy\iconclass</_PublishTargetUrl>
   </PropertyGroup>
   <ItemGroup>
     <File Include="App_Data/links.json">
