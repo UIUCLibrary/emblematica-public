@@ -1,0 +1,53 @@
+<% if(FromSearch) { %>
+  <p class="font-16">
+    <a id="back" href="">&lt;&lt; Back to Search Results</a>
+  </p>
+<% } %>
+
+<div class="well font-16">
+  <img class="logo" src="app/img/logos/<%= CollectionCode %>.jpg">
+  <p>
+    <b>Book: </b>
+    <a href="detail/book/<%= bookID %>"><%= BookTitle %></a>
+  </p>
+<!--  <p>
+    <a href="detail/book/<%= bookID %>">More about this book</a>
+  </p>
+  <% if(BookHasEmblems) { %>
+    <p>
+      <a href="detail/book/<%= bookID %>/emblems">View emblems from this book</a>
+    </p>
+  <% } %>-->
+</div>
+
+<% if(MoreInfoLink != null || PicturaLink != null) { %>
+<div class="well">
+  <% if(arkID != null) { %>
+    <% if(CollectionCode == 'Illinois') { %>
+      <a href="http://babel.hathitrust.org/cgi/pt?id=uiuo.<%= arkID %>&seq=<%= PageNumber %>" target="_blank">
+    <% } else if(CollectionCode == 'Duke') { %>
+      <a href="http://babel.hathitrust.org/cgi/pt?id=dul1.<%= arkID %>&seq=<%= PageNumber %>" target="_blank">
+    <% } else if(CollectionCode == 'Getty') { %>
+      <a href="http://babel.hathitrust.org/cgi/pt?id=gri.<%= arkID %>&seq=<%= PageNumber %>" target="_blank">
+    <% } %>
+    HathiTrust page link</a>
+  <% } else if(CollectionCode == 'Illinois') { %>
+    <a href="http://babel.hathitrust.org/cgi/pt?id=uiuc.<%= bookID %>&seq=<%= (Number(PageNumber) + 3) %>" target="_blank">
+      HathiTrust page link
+    </a>
+  <% } %>
+  <br/>
+  <% if(MoreInfoLink != null) { %>
+    <% if(arkID != null || CollectionCode == 'Illinois') { %>
+      <a href="http://djatoka.grainger.illinois.edu/adore-djatoka/resolver?url_ver=Z39.88-2004&rft_id=<%= MoreInfoLink %>&svc_id=info:lanl-repo/svc/getRegion" target="_blank" %>
+    <% } else { %>
+      <a href="<%= MoreInfoLink %>" target="_blank">
+    <% } %>
+    <%= CollectionCode %> emblem link</a>
+  <% } %>
+  <br/>
+  <% if(PicturaLink != null) { %>
+    <a href="<%= PicturaLink %>" target="_blank"><%= CollectionCode %> pictura link</a>
+  <% } %>
+</div>
+<% } %>

@@ -1,0 +1,23 @@
+#detail img {
+	display:block;
+	margin: 0 auto;
+}
+
+#detail p {
+	text-align: center;
+}
+
+#language img {
+	display: inline;
+	height: 10px;
+}
+
+.name {
+	padding-bottom: 8px;
+}
+
+/*
+#display-motto {
+	text-align: center;
+}
+*/

@@ -1,0 +1,75 @@
+#sidebar .nav li h1,
+#sidebar .nav li h2,
+#sidebar .nav li h3 {
+	margin: 10px 0px;
+}
+
+#sidebar .nav li h1 {
+    color: #137185;
+    border-bottom: 1px solid #E6E2D8;
+    padding-bottom: 10px;
+}
+
+#sidebar .nav li h2 a {
+    color: #121F34;
+}
+
+#sidebar .nav li h3 a {
+    color: #525251;
+    padding-left: 20px;
+}
+
+#sidebar .nav input[type=checkbox] + label {
+    width: 100%;
+    background: url("../img/checkbox/unchecked.png") no-repeat right;
+    display: inline-block;
+        padding: 0 0 0 10px;
+    margin-bottom: 0px;
+    color: #525251;
+    font-size: 12px;
+    line-height: 17px;
+    font-weight: normal;
+}
+
+#sidebar .nav input[type=checkbox]:checked + label {
+    width: 100%;
+    background: url("../img/checkbox/checked.png") no-repeat right;
+    display: inline-block;
+    margin-bottom: 0px;
+    color: #525251;
+    font-size: 12px;
+    line-height: 17px;
+    font-weight: normal;
+}
+
+#sidebar .nav input[type=checkbox] {
+    display: none;
+}
+
+#sidebar .nav input[type=checkbox] {
+    margin: 4px 0 0;
+    line-height: normal;
+}
+#sidebar .nav input[type=checkbox] {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    padding: 0;
+}
+
+
+
+#sidebar img {
+    display: block;
+    margin: auto;
+    width: 100%;
+}
+
+#sidebar .logo {
+    width: 40px;
+}
+
+
+#sidebar p {
+    padding-top: 5px;
+}

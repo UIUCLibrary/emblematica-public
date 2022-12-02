@@ -1,0 +1,84 @@
+  <div class="row">
+    <div class="col-md-10 col-md-offset-1">
+      <div class="input-group">
+        <div id="option" class="input-group-btn">
+          <button class="btn-option btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown">
+          <span id="selected-option"></span> <span class="caret"></span>
+          </button>
+          <ul class="dropdown-menu">
+            <li><a href="#">Emblems</a></li>
+            <li><a href="#">Books</a></li>
+          </ul>
+        </div>
+        <span id="and" class="input-group-addon">AND</span>
+        <input type="text" class="form-control" id="term" placeholder="Search keywords">
+        <span class="input-group-btn">
+          <button class="btn-field btn" id="change-field" type="button">
+            <span id="selected-field"></span> <span class="caret"></span>
+          </button>
+           <button class="btn-action btn" id="search" type="button">
+        	<i class="glyphicon glyphicon-search"></i>
+          </button>
+          <button class="btn-action btn" id="add" type="button">
+          	<i class="glyphicon glyphicon-plus"></i>
+          </button>
+          <button class="btn-action btn" id="remove" type="button">
+        	<i class="glyphicon glyphicon-minus"></i>
+          </button>
+        </span>
+      </div>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md-5 col-md-offset-6">
+      <div class="fields" id="books">
+        <div class="radio">
+          <label><input type="radio" name="book-field[<%= index %>]" value="keywords" checked="checked">Keywords</label>
+        </div>
+        <div class="radio">
+          <label><input type="radio" name="book-field[<%= index %>]" value="title">Title Keywords</label>
+        </div>
+        <div class="radio">
+          <label><input type="radio" name="book-field[<%= index %>]" value="author">Author/Contributor</label>
+        </div>
+        <div class="radio">
+          <label><input type="radio" name="book-field[<%= index %>]" value="date">Publication Date</label>
+        </div>
+        <div class="radio">
+          <label><input type="radio" name="book-field[<%= index %>]" value="place">Publication Place</label>
+        </div>
+        <div class="radio">
+          <label><input type="radio" name="book-field[<%= index %>]" value="publisher">Publisher</label>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md-5 col-md-offset-6">
+      <div class="fields" id="emblems">
+        <div class="radio">
+          <label><input type="radio" name="emblem-field[<%= index %>]" value="keywords" checked="checked">Keywords</label>
+        </div>
+        <div class="radio">
+          <label><input type="radio" name="emblem-field[<%= index %>]" value="motto">Motto Transcription</label>
+        </div>
+        <div class="radio">
+          <label><input type="radio" name="emblem-field[<%= index %>]" value="notation">Iconlass Notation</label>
+        </div>
+        <div class="radio" id="iconclass-term">
+          <label><input type="radio" name="emblem-field[<%= index %>]" value="term">Iconclass Term</label>
+          <!--<div id="language" class="dropdown">
+            <button class="btn btn-default dropdown-toggle" type="button" id="iconclass-language" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
+              English
+              <span class="caret"></span>
+            </button>
+            <ul class="dropdown-menu">
+              <li><a href="#"><img src="app/img/flags/germany_square_icon_64.png" class="flag"/> German</a></li>
+              <li><a href="#"><img src="app/img/flags/france_square_icon_64.png" class="flag"/> French</a></li>
+              <li><a href="#"><img src="app/img/flags/italy_square_icon_64.png" class="flag"/> Italian</a></li>
+            </ul>
+          </div>-->
+        </div>
+      </div>
+    </div>
+  </div>

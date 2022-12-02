@@ -1,0 +1,120 @@
+.font-40 {
+	font-size: 40px;
+}
+
+.font-30 {
+    font-size: 30px;
+}
+
+.font-20 {
+	font-size: 20px;
+}
+
+.font-18 {
+	font-size: 18px;
+}
+
+.font-16 {
+	font-size: 16px;
+}
+
+.font-14 {
+	font-size: 14px;
+}
+
+.font-12 {
+	font-size: 12px;
+}
+
+/* Base: 12px = 1vw */
+@media only screen and (max-width : 1200px) {
+	.font-40 {
+		font-size: 3.333vw;
+	}
+
+	.font-30 {
+	    font-size: 2.5vw;
+	}
+
+	.font-20 {
+		font-size: 1.667vw;
+	}
+
+	.font-18 {
+		font-size: 1.5vw;
+	}
+
+	.font-16 {
+		font-size: 1.333vw;
+	}
+
+	.font-14 {
+		font-size: 1.167vw;
+	}
+
+	.font-12 {
+		font-size: 1vw;
+	}
+}
+
+/* Small Devices, Tablets */
+@media only screen and (max-width : 768px) {
+	.font-40 {
+		font-size: 5vw;
+	}
+
+	.font-30 {
+	    font-size: 3.75vw;
+	}
+
+	.font-20 {
+		font-size: 2.5vw;
+	}
+
+	.font-18 {
+		font-size: 2.25vw;
+	}
+
+	.font-16 {
+		font-size: 2vw;
+	}
+
+	.font-14 {
+		font-size: 1.75vw;
+	}
+
+	.font-12 {
+		font-size: 1.5vw;
+	}
+}
+
+/* Extra Small Devices, Phones */ 
+@media only screen and (max-width : 480px) {
+	.font-40 {
+		font-size: 6.5vw;
+	}
+
+	.font-30 {
+	    font-size: 4.875vw;
+	}
+
+	.font-20 {
+		font-size: 3.25vw;
+	}
+
+	.font-18 {
+		font-size: 2.925vw;
+	}
+
+	.font-16 {
+		font-size: 2.6vw;
+	}
+
+	.font-14 {
+		font-size: 2.275vw;
+	}
+
+	.font-12 {
+		font-size: 1.95vw;
+	}
+}

@@ -1,0 +1,25 @@
+<% if(FromSearch) { %>
+  <p class="font-16">
+    <a id="back" href="">&lt;&lt; Back to Search Results</a>
+  </p>
+<% } %>
+
+<% if(HasEmblems == "true") { %>
+<div class="well">
+  <img src="<%= FirstPictura %>">
+    <p class="font-16">
+      <a href="detail/book/<%= bookID %>/emblems">View emblems from this book</a>
+    </p>
+</div>
+<% } %>
+
+<div class="well">
+  <div class="row">
+    <div class="col-sm-3">
+      <img class="logo" src="app/img/logos/<%= CollectionCode %>.jpg">
+    </div>
+    <div class="col-sm-9">
+      <span class="font-14">This book is from the <%= CollectionCode %> collection.</span>
+    </div>
+  </div>
+</div>

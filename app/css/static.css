@@ -1,0 +1,56 @@
+.target h1 {
+	font-size: 20px;
+}
+
+.target h2 {
+	font-size: 16px;
+}
+
+.target p {
+	font-size: 14px;
+}
+
+
+@media only screen and (max-width : 1200px) {
+	.target h1 {
+		font-size: 1.667vw;
+	}
+
+	.target h2 {
+		font-size: 1.5vw;
+	}
+
+	.target p {
+		font-size: 1.167vw;
+	}
+}
+
+/* Small Devices, Tablets */
+@media only screen and (max-width : 768px) {
+	.target h1 {
+		font-size: 2.5vw;
+	}
+
+	.target h2 {
+		font-size: 2.25vw;
+	}
+
+	.target p {
+		font-size: 1.75vw;
+	}
+}
+
+/* Extra Small Devices, Phones */ 
+@media only screen and (max-width : 480px) {
+	.target h1 {
+		font-size: 3.25vw;
+	}
+
+	.target h2 {
+		font-size: 2.925vw;
+	}
+
+	.target p {
+		font-size: 2.275vw;
+	}
+}

@@ -1,0 +1,485 @@
+{
+"Query": {
+"keywords": "a"
+},
+"From": 1,
+"To": 18,
+"Total": 5661,
+"Emblems": [
+{
+"BookID": "cenotaphiumpiism00maic",
+"EmblemID": "E012165",
+"Motto": "A pondere certior. ",
+"PicturaURI": "http://djatoka.grainger.illinois.edu/adore-djatoka/resolver?url_ver=Z39.88-2004&rft_id=http://emblemimages.grainger.illinois.edu/cenotaphiumpiism00maic/JP2processed/cenotaphiumpiism00maic_0023.jp2&svc_id=info:lanl-repo/svc/getRegion&svc_val_fmt=info:ofi/fmt:kev:mtx:jpeg2000&svc.format=image/jpeg&svc.level=5&svc.rotate=0&svc.region=56,4,2076,2252",
+"SpineXML": "<emblem xmlns:xlink=\"http://www.w3.org/1999/xlink\" xmlns:spine=\"http://diglib.hab.de/rules/schema/emblem\" xmlns=\"http://diglib.hab.de/rules/schema/emblem\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:skos=\"http://www.w3.org/2004/02/skos/core#\" xml:id=\"E012165\" citeNo=\"8.0\" xlink:href=\"http://djatoka.grainger.illinois.edu/index.html?url=http://emblemimages.grainger.illinois.edu/cenotaphiumpiism00maic/JP2processed/cenotaphiumpiism00maic_0023.jp2&amp;crop=false\" globalID=\"http://hdl.handle.net/10111/EmblemRegistry:E012165\"><motto xml:id=\"E012165_M1\"><transcription xml:lang=\"de\"><normalisation xml:lang=\"de\" /></transcription><transcription xml:lang=\"la\">A pondere certior.</transcription></motto><pictura xml:id=\"E012165_P1\" xlink:href=\"http://djatoka.grainger.illinois.edu/adore-djatoka/resolver?url_ver=Z39.88-2004&amp;rft_id=http://emblemimages.grainger.illinois.edu/cenotaphiumpiism00maic/JP2processed/cenotaphiumpiism00maic_0023.jp2&amp;svc_id=info:lanl-repo/svc/getRegion&amp;svc_val_fmt=info:ofi/fmt:kev:mtx:jpeg2000&amp;svc.format=image/jpeg&amp;svc.level=5&amp;svc.rotate=0&amp;svc.region=56,4,2076,2252\"><iconclass rdf:about=\"http://www.iconclass.org/rkd/86(A PONDERE CERTIOR)\"><skos:notation>86(A PONDERE CERTIOR)</skos:notation></iconclass></pictura></emblem>"
+},
+{
+"BookID": "emblemasmoralesd00covar",
+"EmblemID": "E020080",
+"Motto": "A tergo nunquam metus ",
+"PicturaURI": "http://djatoka.grainger.illinois.edu/adore-djatoka/resolver?url_ver=Z39.88-2004&rft_id=http://emblemimages.grainger.illinois.edu/emblemasmoralesd00covar/JP2processed/emblemasmoralesd00covar_0331-0332.jp2&svc_id=info:lanl-repo/svc/getRegion&svc_val_fmt=info:ofi/fmt:kev:mtx:jpeg2000&svc.format=image/jpeg&svc.level=5&svc.rotate=0&svc.region=616,472,928,1224",
+"SpineXML": "<emblem xmlns:xlink=\"http://www.w3.org/1999/xlink\" xmlns=\"http://diglib.hab.de/rules/schema/emblem\" xml:id=\"E020080\" xlink:href=\"http://djatoka.grainger.illinois.edu/index.html?url=http://emblemimages.grainger.illinois.edu/emblemasmoralesd00covar/JP2processed/emblemasmoralesd00covar_0331-0332.jp2&amp;crop=false\" globalID=\"http://hdl.handle.net/10111/EmblemRegistry:E020080\" citeNo=\"65\"><motto xml:id=\"E020080_M1\"><transcription xml:lang=\"la\">A tergo nunquam metus </transcription></motto><pictura xml:id=\"E020080_P1\" xlink:href=\"http://djatoka.grainger.illinois.edu/adore-djatoka/resolver?url_ver=Z39.88-2004&amp;rft_id=http://emblemimages.grainger.illinois.edu/emblemasmoralesd00covar/JP2processed/emblemasmoralesd00covar_0331-0332.jp2&amp;svc_id=info:lanl-repo/svc/getRegion&amp;svc_val_fmt=info:ofi/fmt:kev:mtx:jpeg2000&amp;svc.format=image/jpeg&amp;svc.level=5&amp;svc.rotate=0&amp;svc.region=616,472,928,1224\"><!--Please replace with iconclass headings assigned:\n\t\t\t\t\t\t\t\n <iconclass rdf:about=\"http://iconclass.org/sw/[notation]\">\n\t\t   <skos:notation>[notation]</skos:notation>\n\t\t   <keywords>[keyword-repeat the field if there are more than one keyword]</keyword> \n\t\t   <skos:prefLabel xml:lang=\"en\">[label]</skos:prefLabel>\n\t\t</iconclass>\n\t\t\t\t\t\t\t\n--></pictura></emblem>"
+},
+{
+"BookID": "emblemasmoralesd00covar",
+"EmblemID": "E020081",
+"Motto": "A quovis laedimur iuvamurque ",
+"PicturaURI": "http://djatoka.grainger.illinois.edu/adore-djatoka/resolver?url_ver=Z39.88-2004&rft_id=http://emblemimages.grainger.illinois.edu/emblemasmoralesd00covar/JP2processed/emblemasmoralesd00covar_0333-0334.jp2&svc_id=info:lanl-repo/svc/getRegion&svc_val_fmt=info:ofi/fmt:kev:mtx:jpeg2000&svc.format=image/jpeg&svc.level=5&svc.rotate=0&svc.region=560,504,888,1200",
+"SpineXML": "<emblem xmlns:xlink=\"http://www.w3.org/1999/xlink\" xmlns=\"http://diglib.hab.de/rules/schema/emblem\" xml:id=\"E020081\" xlink:href=\"http://djatoka.grainger.illinois.edu/index.html?url=http://emblemimages.grainger.illinois.edu/emblemasmoralesd00covar/JP2processed/emblemasmoralesd00covar_0333-0334.jp2&amp;crop=false\" globalID=\"http://hdl.handle.net/10111/EmblemRegistry:E020081\" citeNo=\"66\"><motto xml:id=\"E020081_M1\"><transcription xml:lang=\"la\">A quovis laedimur iuvamurque</transcription></motto><pictura xml:id=\"E020081_P1\" xlink:href=\"http://djatoka.grainger.illinois.edu/adore-djatoka/resolver?url_ver=Z39.88-2004&amp;rft_id=http://emblemimages.grainger.illinois.edu/emblemasmoralesd00covar/JP2processed/emblemasmoralesd00covar_0333-0334.jp2&amp;svc_id=info:lanl-repo/svc/getRegion&amp;svc_val_fmt=info:ofi/fmt:kev:mtx:jpeg2000&amp;svc.format=image/jpeg&amp;svc.level=5&amp;svc.rotate=0&amp;svc.region=560,504,888,1200\"><!--Please replace with iconclass headings assigned:\n\t\t\t\t\t\t\t\n <iconclass rdf:about=\"http://iconclass.org/sw/[notation]\">\n\t\t   <skos:notation>[notation]</skos:notation>\n\t\t   <keywords>[keyword-repeat the field if there are more than one keyword]</keyword> \n\t\t   <skos:prefLabel xml:lang=\"en\">[label]</skos:prefLabel>\n\t\t</iconclass>\n\t\t\t\t\t\t\t\n--></pictura></emblem>"
+},
+{
+"BookID": "mineruabritannao00peach",
+"EmblemID": "E021534",
+"Motto": "Omnis a Deo sapientia. ",
+"PicturaURI": "http://djatoka.grainger.illinois.edu/adore-djatoka/resolver?url_ver=Z39.88-2004&rft_id=http://emblemimages.grainger.illinois.edu/mineruabritannao00peach/JP2processed/mineruabritannao00peach_0219.jp2&svc_id=info:lanl-repo/svc/getRegion&svc_val_fmt=info:ofi/fmt:kev:mtx:jpeg2000&svc.format=image/jpeg&svc.level=5&svc.rotate=0&svc.region=152,144,1428,1672",
+"SpineXML": "<emblem xmlns:xlink=\"http://www.w3.org/1999/xlink\" xmlns=\"http://diglib.hab.de/rules/schema/emblem\" xml:id=\"E021534\" page=\"188\" xlink:href=\"http://djatoka.grainger.illinois.edu/index.html?url=http://emblemimages.grainger.illinois.edu/mineruabritannao00peach/JP2processed/mineruabritannao00peach_0219.jp2&amp;crop=false\" globalID=\"http://hdl.handle.net/10111/EmblemRegistry:E021534\"><motto xml:id=\"E021534_M1\"><transcription xml:lang=\"la\">Omnis a Deo sapientia.</transcription></motto><pictura xml:id=\"E021534_P1\" xlink:href=\"http://djatoka.grainger.illinois.edu/adore-djatoka/resolver?url_ver=Z39.88-2004&amp;rft_id=http://emblemimages.grainger.illinois.edu/mineruabritannao00peach/JP2processed/mineruabritannao00peach_0219.jp2&amp;svc_id=info:lanl-repo/svc/getRegion&amp;svc_val_fmt=info:ofi/fmt:kev:mtx:jpeg2000&amp;svc.format=image/jpeg&amp;svc.level=5&amp;svc.rotate=0&amp;svc.region=152,144,1428,1672\"><!--Please replace with iconclass headings assigned:\n\t\t\t\t\t\t\t\n <iconclass rdf:about=\"http://iconclass.org/sw/[notation]\">\n\t\t   <skos:notation>[notation]</skos:notation>\n\t\t   <keywords>[keyword-repeat the field if there are more than one keyword]</keyword> \n\t\t   <skos:prefLabel xml:lang=\"en\">[label]</skos:prefLabel>\n\t\t</iconclass>\n\t\t\t\t\t\t\t\n--></pictura></emblem>"
+},
+{
+"BookID": "emblematasivesym00veen",
+"EmblemID": "E021959",
+"Motto": "A mutis consilium. ",
+"PicturaURI": "http://djatoka.grainger.illinois.edu/adore-djatoka/resolver?url_ver=Z39.88-2004&rft_id=http://emblemimages.grainger.illinois.edu/emblematasivesym00veen/JP2Processed/emblematasivesym00veen_0031-0033.jp2&svc_id=info:lanl-repo/svc/getRegion&svc_val_fmt=info:ofi/fmt:kev:mtx:jpeg2000&svc.format=image/jpeg&svc.level=5&svc.rotate=0&svc.region=2002,6382,758,544",
+"SpineXML": "<emblem xmlns:xlink=\"http://www.w3.org/1999/xlink\" xmlns=\"http://diglib.hab.de/rules/schema/emblem\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:skos=\"http://www.w3.org/2004/02/skos/core#\" xml:id=\"E021959\" xlink:href=\"http://djatoka.grainger.illinois.edu/index.html?url=http://emblemimages.grainger.illinois.edu/emblematasivesym00veen/JP2Processed/emblematasivesym00veen_0031-0033.jp2\" globalID=\"http://hdl.handle.net/10111/EmblemRegistry:E021959\" citeNo=\"99\"><motto xmlns:spine=\"http://diglib.hab.de/rules/schema/emblem\" xml:id=\"E021959_M1\"><transcription xml:lang=\"la\">A mutis consilium. </transcription></motto><pictura xml:id=\"E021959_P1\" xlink:href=\"http://djatoka.grainger.illinois.edu/adore-djatoka/resolver?url_ver=Z39.88-2004&amp;rft_id=http://emblemimages.grainger.illinois.edu/emblematasivesym00veen/JP2Processed/emblematasivesym00veen_0031-0033.jp2&amp;svc_id=info:lanl-repo/svc/getRegion&amp;svc_val_fmt=info:ofi/fmt:kev:mtx:jpeg2000&amp;svc.format=image/jpeg&amp;svc.level=5&amp;svc.rotate=0&amp;svc.region=2002,6382,758,544\"><!--Please replace with iconclass headings assigned:\n\t\t\t\t\t\t\t\n <iconclass rdf:about=\"http://iconclass.org/sw/[notation]\">\n\t\t   <skos:notation>[notation]</skos:notation>\n\t\t   <keywords>[keyword-repeat the field if there are more than one keyword]</keyword> \n\t\t   <skos:prefLabel xml:lang=\"en\">[label]</skos:prefLabel>\n\t\t</iconclass>\n\t\t\t\t\t\t\t\n--></pictura></emblem>"
+},
+{
+"BookID": "emblemataphysico00taur",
+"EmblemID": "E020753",
+"Motto": "Vivunt a caudice rami ",
+"PicturaURI": "http://djatoka.grainger.illinois.edu/adore-djatoka/resolver?url_ver=Z39.88-2004&rft_id=http://emblemimages.grainger.illinois.edu/emblemataphysico00taur/JP2processed/emblemataphysico00taur_0273.jp2&svc_id=info:lanl-repo/svc/getRegion&svc_val_fmt=info:ofi/fmt:kev:mtx:jpeg2000&svc.format=image/jpeg&svc.level=5&svc.rotate=0&svc.region=340,48,1240,1524",
+"SpineXML": "<emblem xmlns:xlink=\"http://www.w3.org/1999/xlink\" xmlns:spine=\"http://diglib.hab.de/rules/schema/emblem\" xmlns=\"http://diglib.hab.de/rules/schema/emblem\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:skos=\"http://www.w3.org/2004/02/skos/core#\" xml:id=\"E020753\" xlink:href=\"http://djatoka.grainger.illinois.edu/index.html?url=http://emblemimages.grainger.illinois.edu/emblemataphysico00taur/JP2processed/emblemataphysico00taur_0273.jp2&amp;crop=false\" globalID=\"http://hdl.handle.net/10111/EmblemRegistry:E020753\"><motto xml:id=\"E020753_M1\"><transcription xml:lang=\"la\">Vivunt a caudice rami </transcription></motto><pictura xml:id=\"E020753_P1\" xlink:href=\"http://djatoka.grainger.illinois.edu/adore-djatoka/resolver?url_ver=Z39.88-2004&amp;rft_id=http://emblemimages.grainger.illinois.edu/emblemataphysico00taur/JP2processed/emblemataphysico00taur_0273.jp2&amp;svc_id=info:lanl-repo/svc/getRegion&amp;svc_val_fmt=info:ofi/fmt:kev:mtx:jpeg2000&amp;svc.format=image/jpeg&amp;svc.level=5&amp;svc.rotate=0&amp;svc.region=340,48,1240,1524\"><!--Please replace with iconclass headings assigned:\n                            \n <iconclass\n                            rdf:about=\"http://iconclass.org/sw/[notation]\">\n                            <skos:notation>[notation]</skos:notation>\n                            <keywords>[keyword-repeat the field if there are more than one\n                            keyword]</keyword> <skos:prefLabel\n                            xml:lang=\"en\">[label]</skos:prefLabel> </iconclass>\n                            \n--><iconclass rdf:about=\"http://www.iconclass.org/rkd/86(VIVUNT A CAUDICE RAMI )\"><skos:notation>86(VIVUNT A CAUDICE RAMI )</skos:notation></iconclass></pictura></emblem>"
+},
+{
+"BookID": "emblemasmoralesd00covar",
+"EmblemID": "E019953",
+"Motto": "A mas distancia mas peso ",
+"PicturaURI": "http://djatoka.grainger.illinois.edu/adore-djatoka/resolver?url_ver=Z39.88-2004&rft_id=http://emblemimages.grainger.illinois.edu/emblemasmoralesd00covar/JP2processed/emblemasmoralesd00covar_0083-0084.jp2&svc_id=info:lanl-repo/svc/getRegion&svc_val_fmt=info:ofi/fmt:kev:mtx:jpeg2000&svc.format=image/jpeg&svc.level=5&svc.rotate=0&svc.region=512,464,904,1224",
+"SpineXML": "<emblem xmlns:xlink=\"http://www.w3.org/1999/xlink\" xmlns=\"http://diglib.hab.de/rules/schema/emblem\" xml:id=\"E019953\" xlink:href=\"http://djatoka.grainger.illinois.edu/index.html?url=http://emblemimages.grainger.illinois.edu/emblemasmoralesd00covar/JP2processed/emblemasmoralesd00covar_0083-0084.jp2&amp;crop=false\" globalID=\"http://hdl.handle.net/10111/EmblemRegistry:E019953\" citeNo=\"38\"><motto xml:id=\"E019953_M1\"><transcription xml:lang=\"en\">A mas distancia mas peso <normalisation xml:lang=\"en\" /></transcription></motto><pictura xml:id=\"E019953_P1\" xlink:href=\"http://djatoka.grainger.illinois.edu/adore-djatoka/resolver?url_ver=Z39.88-2004&amp;rft_id=http://emblemimages.grainger.illinois.edu/emblemasmoralesd00covar/JP2processed/emblemasmoralesd00covar_0083-0084.jp2&amp;svc_id=info:lanl-repo/svc/getRegion&amp;svc_val_fmt=info:ofi/fmt:kev:mtx:jpeg2000&amp;svc.format=image/jpeg&amp;svc.level=5&amp;svc.rotate=0&amp;svc.region=512,464,904,1224\"><!--Please replace with iconclass headings assigned:\n\t\t\t\t\t\t\t\n <iconclass rdf:about=\"http://iconclass.org/sw/[notation]\">\n\t\t   <skos:notation>[notation]</skos:notation>\n\t\t   <keywords>[keyword-repeat the field if there are more than one keyword]</keyword> \n\t\t   <skos:prefLabel xml:lang=\"en\">[label]</skos:prefLabel>\n\t\t</iconclass>\n\t\t\t\t\t\t\t\n--></pictura></emblem>"
+},
+{
+"BookID": "moralemblemswith00cats",
+"EmblemID": "E019372",
+"Motto": "A Ship Aground, is a Beacon at Sea. ",
+"PicturaURI": "http://djatoka.grainger.illinois.edu/adore-djatoka/resolver?url_ver=Z39.88-2004&rft_id=http://emblemimages.grainger.illinois.edu/moralemblemswith00cats/JP2processed/moralemblemswith00cats_0181-0184.jp2&svc_id=info:lanl-repo/svc/getRegion&svc_val_fmt=info:ofi/fmt:kev:mtx:jpeg2000&svc.format=image/jpeg&svc.level=5&svc.rotate=0&svc.region=400,248,1592,1592",
+"SpineXML": "<emblem xmlns:xlink=\"http://www.w3.org/1999/xlink\" xmlns:spine=\"http://diglib.hab.de/rules/schema/emblem\" xmlns=\"http://diglib.hab.de/rules/schema/emblem\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:skos=\"http://www.w3.org/2004/02/skos/core#\" xml:id=\"E019372\" page=\"161\" xlink:href=\"http://djatoka.grainger.illinois.edu/index.html?url=http://emblemimages.grainger.illinois.edu/moralemblemswith00cats/JP2processed/moralemblemswith00cats_0181-0184.jp2&amp;crop=false\" globalID=\"http://hdl.handle.net/10111/EmblemRegistry:E019372\"><motto xml:id=\"E019372_M1\"><transcription xml:lang=\"en\">A Ship Aground, is a Beacon at Sea.<normalisation xml:lang=\"en\" /></transcription></motto><pictura xml:id=\"E019372_P1\" xlink:href=\"http://djatoka.grainger.illinois.edu/adore-djatoka/resolver?url_ver=Z39.88-2004&amp;rft_id=http://emblemimages.grainger.illinois.edu/moralemblemswith00cats/JP2processed/moralemblemswith00cats_0181-0184.jp2&amp;svc_id=info:lanl-repo/svc/getRegion&amp;svc_val_fmt=info:ofi/fmt:kev:mtx:jpeg2000&amp;svc.format=image/jpeg&amp;svc.level=5&amp;svc.rotate=0&amp;svc.region=400,248,1592,1592\"><!--Please replace with iconclass headings assigned:\n                            \n <iconclass\n                            rdf:about=\"http://iconclass.org/sw/[notation]\">\n                            <skos:notation>[notation]</skos:notation>\n                            <keywords>[keyword-repeat the field if there are more than one\n                            keyword]</keyword> <skos:prefLabel\n                            xml:lang=\"en\">[label]</skos:prefLabel> </iconclass>\n                            \n--><iconclass rdf:about=\"http://www.iconclass.org/rkd/86(A SHIP AGROUND, IS A BEACON AT SEA)\"><skos:notation>86(A SHIP AGROUND, IS A BEACON AT SEA)</skos:notation></iconclass></pictura></emblem>"
+},
+{
+"BookID": "moralemblemswith00cats",
+"EmblemID": "E019375",
+"Motto": "A Whole Mill to Grind a Peck of Corn. ",
+"PicturaURI": "http://djatoka.grainger.illinois.edu/adore-djatoka/resolver?url_ver=Z39.88-2004&rft_id=http://emblemimages.grainger.illinois.edu/moralemblemswith00cats/JP2processed/moralemblemswith00cats_0193-0196.jp2&svc_id=info:lanl-repo/svc/getRegion&svc_val_fmt=info:ofi/fmt:kev:mtx:jpeg2000&svc.format=image/jpeg&svc.level=5&svc.rotate=0&svc.region=360,256,1576,1568",
+"SpineXML": "<emblem xmlns:xlink=\"http://www.w3.org/1999/xlink\" xmlns:spine=\"http://diglib.hab.de/rules/schema/emblem\" xmlns=\"http://diglib.hab.de/rules/schema/emblem\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:skos=\"http://www.w3.org/2004/02/skos/core#\" xml:id=\"E019375\" page=\"173\" xlink:href=\"http://djatoka.grainger.illinois.edu/index.html?url=http://emblemimages.grainger.illinois.edu/moralemblemswith00cats/JP2processed/moralemblemswith00cats_0193-0196.jp2&amp;crop=false\" globalID=\"http://hdl.handle.net/10111/EmblemRegistry:E019375\"><motto xml:id=\"E019375_M1\"><transcription xml:lang=\"en\">A Whole Mill to Grind a Peck of Corn.<normalisation xml:lang=\"en\" /></transcription></motto><pictura xml:id=\"E019375_P1\" xlink:href=\"http://djatoka.grainger.illinois.edu/adore-djatoka/resolver?url_ver=Z39.88-2004&amp;rft_id=http://emblemimages.grainger.illinois.edu/moralemblemswith00cats/JP2processed/moralemblemswith00cats_0193-0196.jp2&amp;svc_id=info:lanl-repo/svc/getRegion&amp;svc_val_fmt=info:ofi/fmt:kev:mtx:jpeg2000&amp;svc.format=image/jpeg&amp;svc.level=5&amp;svc.rotate=0&amp;svc.region=360,256,1576,1568\"><!--Please replace with iconclass headings assigned:\n                            \n <iconclass\n                            rdf:about=\"http://iconclass.org/sw/[notation]\">\n                            <skos:notation>[notation]</skos:notation>\n                            <keywords>[keyword-repeat the field if there are more than one\n                            keyword]</keyword> <skos:prefLabel\n                            xml:lang=\"en\">[label]</skos:prefLabel> </iconclass>\n                            \n--><iconclass rdf:about=\"http://www.iconclass.org/rkd/86(A WHOLE MILL TO GRIND A PECK OF CORN)\"><skos:notation>86(A WHOLE MILL TO GRIND A PECK OF CORN)</skos:notation></iconclass></pictura></emblem>"
+},
+{
+"BookID": "FPAa",
+"EmblemID": "FPAa084",
+"Motto": "CE FATAL A TA RACE. ",
+"PicturaURI": "http://www.emblems.arts.gla.ac.uk/french/images/pic_l/FPAa084.jpg",
+"SpineXML": "<emblem xmlns=\"http://diglib.hab.de/rules/schema/emblem\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:skos=\"http://www.w3.org/2004/02/skos/core#\" xmlns:oai_sr=\"http://www.openarchives.org/OAI/2.0/static-repository\" xmlns:oai_dc=\"http://www.openarchives.org/OAI/2.0/oai_dc/\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:iihim=\"http://mnemosyne.org/IIHIM/0.1/\" xml:id=\"FPAa084\" xlink:href=\"http://www.emblems.arts.gla.ac.uk/french/emblem.php?id=FPAa084\" globalID=\"http://www.emblems.arts.gla.ac.uk/french/emblem.php?id=FPAa084\"><motto><transcription xml:lang=\"la\">CE FATAL A TA RACE.</transcription></motto><pictura xml:id=\"FPAa084_P1\" xlink:href=\"http://www.emblems.arts.gla.ac.uk/french/images/pic_l/FPAa084.jpg\"><figDesc>A dog biting a detached hand</figDesc><iconclass rdf:about=\"http://www.iconclass.org/rkd/34B11\"><skos:notation>34B11</skos:notation></iconclass><iconclass rdf:about=\"http://www.iconclass.org/rkd/41D225\"><skos:notation>41D225</skos:notation></iconclass><iconclass rdf:about=\"http://www.iconclass.org/rkd/86(CE FATAL A TA RACE)\"><skos:notation>86(CE FATAL A TA RACE)</skos:notation></iconclass></pictura></emblem>"
+},
+{
+"BookID": "moralemblemswith00cats",
+"EmblemID": "E019365",
+"Motto": "A Hen Lays Every Day, But an Ostrich Only Once a Year. ",
+"PicturaURI": "http://djatoka.grainger.illinois.edu/adore-djatoka/resolver?url_ver=Z39.88-2004&rft_id=http://emblemimages.grainger.illinois.edu/moralemblemswith00cats/JP2processed/moralemblemswith00cats_0153-0156.jp2&svc_id=info:lanl-repo/svc/getRegion&svc_val_fmt=info:ofi/fmt:kev:mtx:jpeg2000&svc.format=image/jpeg&svc.level=5&svc.rotate=0&svc.region=400,280,1600,1600",
+"SpineXML": "<emblem xmlns:xlink=\"http://www.w3.org/1999/xlink\" xmlns:spine=\"http://diglib.hab.de/rules/schema/emblem\" xmlns=\"http://diglib.hab.de/rules/schema/emblem\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:skos=\"http://www.w3.org/2004/02/skos/core#\" xml:id=\"E019365\" page=\"133\" xlink:href=\"http://djatoka.grainger.illinois.edu/index.html?url=http://emblemimages.grainger.illinois.edu/moralemblemswith00cats/JP2processed/moralemblemswith00cats_0153-0156.jp2&amp;crop=false\" globalID=\"http://hdl.handle.net/10111/EmblemRegistry:E019365\"><motto xml:id=\"E019365_M1\"><transcription xml:lang=\"en\">A Hen Lays Every Day, But an Ostrich Only Once a Year.<normalisation xml:lang=\"en\" /></transcription></motto><pictura xml:id=\"E019365_P1\" xlink:href=\"http://djatoka.grainger.illinois.edu/adore-djatoka/resolver?url_ver=Z39.88-2004&amp;rft_id=http://emblemimages.grainger.illinois.edu/moralemblemswith00cats/JP2processed/moralemblemswith00cats_0153-0156.jp2&amp;svc_id=info:lanl-repo/svc/getRegion&amp;svc_val_fmt=info:ofi/fmt:kev:mtx:jpeg2000&amp;svc.format=image/jpeg&amp;svc.level=5&amp;svc.rotate=0&amp;svc.region=400,280,1600,1600\"><!--Please replace with iconclass headings assigned:\n                            \n <iconclass\n                            rdf:about=\"http://iconclass.org/sw/[notation]\">\n                            <skos:notation>[notation]</skos:notation>\n                            <keywords>[keyword-repeat the field if there are more than one\n                            keyword]</keyword> <skos:prefLabel\n                            xml:lang=\"en\">[label]</skos:prefLabel> </iconclass>\n                            \n--><iconclass rdf:about=\"http://www.iconclass.org/rkd/86(A HEN LAYS EVERY DAY, BUT AN OSTRICH ONLY ONCE A  YEAR)\"><skos:notation>86(A HEN LAYS EVERY DAY, BUT AN OSTRICH ONLY ONCE A\n YEAR)</skos:notation></iconclass></pictura></emblem>"
+},
+{
+"BookID": "leguidefideledel00baren",
+"EmblemID": "E022115",
+"Motto": "Qui a suffert subs Ponce Pilate, a erte Crucifie mort et enseueli ",
+"PicturaURI": "http://djatoka.grainger.illinois.edu/adore-djatoka/resolver?url_ver=Z39.88-2004&rft_id=http://emblemimages.grainger.illinois.edu/leguidefideledel00baren/JP2Processed/leguidefideledel00baren_0008-0009.jp2&svc_id=info:lanl-repo/svc/getRegion&svc_val_fmt=info:ofi/fmt:kev:mtx:jpeg2000&svc.format=image/jpeg&svc.level=5&svc.rotate=0&svc.region=152,1896,2640,1512",
+"SpineXML": "<emblem xmlns:xlink=\"http://www.w3.org/1999/xlink\" xmlns:spine=\"http://diglib.hab.de/rules/schema/emblem\" xmlns=\"http://diglib.hab.de/rules/schema/emblem\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:skos=\"http://www.w3.org/2004/02/skos/core#\" xml:id=\"E022115\" page=\"4\" xlink:href=\"http://djatoka.grainger.illinois.edu/index.html?url=http://emblemimages.grainger.illinois.edu/leguidefideledel00baren/JP2Processed/leguidefideledel00baren_0008-0009.jp2\" globalID=\"http://hdl.handle.net/10111/EmblemRegistry:E022115\"><motto xml:id=\"E022115_M1\"><transcription xml:lang=\"fr\">Qui a suffert subs Ponce Pilate, a erte Crucifie mort et enseueli</transcription></motto><pictura xml:id=\"E022115_P1\" xlink:href=\"http://djatoka.grainger.illinois.edu/adore-djatoka/resolver?url_ver=Z39.88-2004&amp;rft_id=http://emblemimages.grainger.illinois.edu/leguidefideledel00baren/JP2Processed/leguidefideledel00baren_0008-0009.jp2&amp;svc_id=info:lanl-repo/svc/getRegion&amp;svc_val_fmt=info:ofi/fmt:kev:mtx:jpeg2000&amp;svc.format=image/jpeg&amp;svc.level=5&amp;svc.rotate=0&amp;svc.region=152,1896,2640,1512\"><!--Please replace with iconclass headings assigned:\n                            \n <iconclass\n                            rdf:about=\"http://iconclass.org/sw/[notation]\">\n                            <skos:notation>[notation]</skos:notation>\n                            <keywords>[keyword-repeat the field if there are more than one\n                            keyword]</keyword> <skos:prefLabel\n                            xml:lang=\"en\">[label]</skos:prefLabel> </iconclass>\n                            \n--><iconclass rdf:about=\"http://www.iconclass.org/rkd/73D36\"><skos:notation>73D36</skos:notation></iconclass><iconclass rdf:about=\"http://www.iconclass.org/rkd/73D641\"><skos:notation>73D641</skos:notation></iconclass><iconclass rdf:about=\"http://www.iconclass.org/rkd/73D76\"><skos:notation>73D76</skos:notation></iconclass><iconclass rdf:about=\"http://www.iconclass.org/rkd/86(QUI A SUFFERT SOUS PONCE PILATE, A ESTÉ CRUCIFIÉ  MORT ET ENSEVELI)\"><skos:notation>86(QUI A SUFFERT SOUS PONCE PILATE, A ESTÉ CRUCIFIÉ\n MORT ET ENSEVELI)</skos:notation></iconclass></pictura></emblem>"
+},
+{
+"BookID": "diuerseimpreseac00alci",
+"EmblemID": "E022752",
+"Motto": "Non a te, ma alla Religione. ",
+"PicturaURI": "http://djatoka.grainger.illinois.edu/adore-djatoka/resolver?url_ver=Z39.88-2004&rft_id=http://emblemimages.grainger.illinois.edu/diuerseimpreseac00alci/JP2Processed/diuerseimpreseac00alci_0012.jp2&svc_id=info:lanl-repo/svc/getRegion&svc_val_fmt=info:ofi/fmt:kev:mtx:jpeg2000&svc.format=image/jpeg&svc.level=5&svc.rotate=0&svc.region=452,344,1244,1324",
+"SpineXML": "<emblem xmlns:xlink=\"http://www.w3.org/1999/xlink\" xmlns=\"http://diglib.hab.de/rules/schema/emblem\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:skos=\"http://www.w3.org/2004/02/skos/core#\" xml:id=\"E022752\" xlink:href=\"http://djatoka.grainger.illinois.edu/index.html?url=http://emblemimages.grainger.illinois.edu/diuerseimpreseac00alci/JP2Processed/diuerseimpreseac00alci_0012.jp2\" globalID=\"http://hdl.handle.net/10111/EmblemRegistry:E022752\" citeNo=\"5\"><motto xml:id=\"E022752_M1\"><transcription xml:lang=\"it\">Non a te, ma alla Religione.</transcription></motto><pictura xml:id=\"E022752_P1\" xlink:href=\"http://djatoka.grainger.illinois.edu/adore-djatoka/resolver?url_ver=Z39.88-2004&amp;rft_id=http://emblemimages.grainger.illinois.edu/diuerseimpreseac00alci/JP2Processed/diuerseimpreseac00alci_0012.jp2&amp;svc_id=info:lanl-repo/svc/getRegion&amp;svc_val_fmt=info:ofi/fmt:kev:mtx:jpeg2000&amp;svc.format=image/jpeg&amp;svc.level=5&amp;svc.rotate=0&amp;svc.region=452,344,1244,1324\"><!--Please replace with iconclass headings assigned:\n\t\t\t\t\t\t\t\n <iconclass rdf:about=\"http://iconclass.org/sw/[notation]\">\n\t\t   <skos:notation>[notation]</skos:notation>\n\t\t   <keywords>[keyword-repeat the field if there are more than one keyword]</keyword> \n\t\t   <skos:prefLabel xml:lang=\"en\">[label]</skos:prefLabel>\n\t\t</iconclass>\n\t\t\t\t\t\t\t\n--></pictura></emblem>"
+},
+{
+"BookID": "diuerseimpreseac00alci",
+"EmblemID": "E022841",
+"Motto": "In una giouane bella venuta a morte. ",
+"PicturaURI": "http://djatoka.grainger.illinois.edu/adore-djatoka/resolver?url_ver=Z39.88-2004&rft_id=http://emblemimages.grainger.illinois.edu/diuerseimpreseac00alci/JP2Processed/diuerseimpreseac00alci_0106.jp2&svc_id=info:lanl-repo/svc/getRegion&svc_val_fmt=info:ofi/fmt:kev:mtx:jpeg2000&svc.format=image/jpeg&svc.level=5&svc.rotate=0&svc.region=490,448,1220,1294",
+"SpineXML": "<emblem xmlns:xlink=\"http://www.w3.org/1999/xlink\" xmlns=\"http://diglib.hab.de/rules/schema/emblem\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:skos=\"http://www.w3.org/2004/02/skos/core#\" xml:id=\"E022841\" xlink:href=\"http://djatoka.grainger.illinois.edu/index.html?url=http://emblemimages.grainger.illinois.edu/diuerseimpreseac00alci/JP2Processed/diuerseimpreseac00alci_0106.jp2\" globalID=\"http://hdl.handle.net/10111/EmblemRegistry:E022841\" citeNo=\"94\"><motto xml:id=\"E022841_M1\"><transcription xml:lang=\"it\">In una giouane bella venuta a morte.</transcription></motto><pictura xml:id=\"E022841_P1\" xlink:href=\"http://djatoka.grainger.illinois.edu/adore-djatoka/resolver?url_ver=Z39.88-2004&amp;rft_id=http://emblemimages.grainger.illinois.edu/diuerseimpreseac00alci/JP2Processed/diuerseimpreseac00alci_0106.jp2&amp;svc_id=info:lanl-repo/svc/getRegion&amp;svc_val_fmt=info:ofi/fmt:kev:mtx:jpeg2000&amp;svc.format=image/jpeg&amp;svc.level=5&amp;svc.rotate=0&amp;svc.region=490,448,1220,1294\"><!--Please replace with iconclass headings assigned:\n\t\t\t\t\t\t\t\n <iconclass rdf:about=\"http://iconclass.org/sw/[notation]\">\n\t\t   <skos:notation>[notation]</skos:notation>\n\t\t   <keywords>[keyword-repeat the field if there are more than one keyword]</keyword> \n\t\t   <skos:prefLabel xml:lang=\"en\">[label]</skos:prefLabel>\n\t\t</iconclass>\n\t\t\t\t\t\t\t\n--></pictura></emblem>"
+},
+{
+"BookID": "diuerseimpreseac00alcia",
+"EmblemID": "E022888",
+"Motto": "Non a te, ma alla Religione. ",
+"PicturaURI": "http://djatoka.grainger.illinois.edu/adore-djatoka/resolver?url_ver=Z39.88-2004&rft_id=http://emblemimages.grainger.illinois.edu/diuerseimpreseac00alcia/JP2Processed/diuerseimpreseac00alcia_0013.jp2&svc_id=info:lanl-repo/svc/getRegion&svc_val_fmt=info:ofi/fmt:kev:mtx:jpeg2000&svc.format=image/jpeg&svc.level=5&svc.rotate=0&svc.region=608,384,1244,1292",
+"SpineXML": "<emblem xmlns:xlink=\"http://www.w3.org/1999/xlink\" xmlns=\"http://diglib.hab.de/rules/schema/emblem\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:skos=\"http://www.w3.org/2004/02/skos/core#\" xml:id=\"E022888\" page=\"9\" xlink:href=\"http://djatoka.grainger.illinois.edu/index.html?url=http://emblemimages.grainger.illinois.edu/diuerseimpreseac00alcia/JP2Processed/diuerseimpreseac00alcia_0013.jp2\" globalID=\"http://hdl.handle.net/10111/EmblemRegistry:E022888\" citeNo=\"5\"><motto xml:id=\"E022888_M1\"><transcription xml:lang=\"it\">Non a te, ma alla Religione.</transcription></motto><pictura xml:id=\"E022888_P1\" xlink:href=\"http://djatoka.grainger.illinois.edu/adore-djatoka/resolver?url_ver=Z39.88-2004&amp;rft_id=http://emblemimages.grainger.illinois.edu/diuerseimpreseac00alcia/JP2Processed/diuerseimpreseac00alcia_0013.jp2&amp;svc_id=info:lanl-repo/svc/getRegion&amp;svc_val_fmt=info:ofi/fmt:kev:mtx:jpeg2000&amp;svc.format=image/jpeg&amp;svc.level=5&amp;svc.rotate=0&amp;svc.region=608,384,1244,1292\"><!--Please replace with iconclass headings assigned:\n\t\t\t\t\t\t\t\n <iconclass rdf:about=\"http://iconclass.org/sw/[notation]\">\n\t\t   <skos:notation>[notation]</skos:notation>\n\t\t   <keywords>[keyword-repeat the field if there are more than one keyword]</keyword> \n\t\t   <skos:prefLabel xml:lang=\"en\">[label]</skos:prefLabel>\n\t\t</iconclass>\n\t\t\t\t\t\t\t\n--></pictura></emblem>"
+},
+{
+"BookID": "diuerseimpreseac00alcia",
+"EmblemID": "E023021",
+"Motto": "In una giouane bella venuta a morte. ",
+"PicturaURI": "http://djatoka.grainger.illinois.edu/adore-djatoka/resolver?url_ver=Z39.88-2004&rft_id=http://emblemimages.grainger.illinois.edu/diuerseimpreseac00alcia/JP2Processed/diuerseimpreseac00alcia_0153.jp2&svc_id=info:lanl-repo/svc/getRegion&svc_val_fmt=info:ofi/fmt:kev:mtx:jpeg2000&svc.format=image/jpeg&svc.level=5&svc.rotate=0&svc.region=580,372,1220,1292",
+"SpineXML": "<emblem xmlns:xlink=\"http://www.w3.org/1999/xlink\" xmlns=\"http://diglib.hab.de/rules/schema/emblem\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:skos=\"http://www.w3.org/2004/02/skos/core#\" xml:id=\"E023021\" page=\"149\" xlink:href=\"http://djatoka.grainger.illinois.edu/index.html?url=http://emblemimages.grainger.illinois.edu/diuerseimpreseac00alcia/JP2Processed/diuerseimpreseac00alcia_0153.jp2\" globalID=\"http://hdl.handle.net/10111/EmblemRegistry:E023021\" citeNo=\"138\"><motto xml:id=\"E023021_M1\"><transcription xml:lang=\"it\">In una giouane bella venuta a morte.</transcription></motto><pictura xml:id=\"E023021_P1\" xlink:href=\"http://djatoka.grainger.illinois.edu/adore-djatoka/resolver?url_ver=Z39.88-2004&amp;rft_id=http://emblemimages.grainger.illinois.edu/diuerseimpreseac00alcia/JP2Processed/diuerseimpreseac00alcia_0153.jp2&amp;svc_id=info:lanl-repo/svc/getRegion&amp;svc_val_fmt=info:ofi/fmt:kev:mtx:jpeg2000&amp;svc.format=image/jpeg&amp;svc.level=5&amp;svc.rotate=0&amp;svc.region=580,372,1220,1292\"><!--Please replace with iconclass headings assigned:\n\t\t\t\t\t\t\t\n <iconclass rdf:about=\"http://iconclass.org/sw/[notation]\">\n\t\t   <skos:notation>[notation]</skos:notation>\n\t\t   <keywords>[keyword-repeat the field if there are more than one keyword]</keyword> \n\t\t   <skos:prefLabel xml:lang=\"en\">[label]</skos:prefLabel>\n\t\t</iconclass>\n\t\t\t\t\t\t\t\n--></pictura></emblem>"
+},
+{
+"BookID": "diuerseimpreseac00alcia",
+"EmblemID": "E023049",
+"Motto": "Nella fecondita a se medesima dannosa. ",
+"PicturaURI": "http://djatoka.grainger.illinois.edu/adore-djatoka/resolver?url_ver=Z39.88-2004&rft_id=http://emblemimages.grainger.illinois.edu/diuerseimpreseac00alcia/JP2Processed/diuerseimpreseac00alcia_0181.jp2&svc_id=info:lanl-repo/svc/getRegion&svc_val_fmt=info:ofi/fmt:kev:mtx:jpeg2000&svc.format=image/jpeg&svc.level=5&svc.rotate=0&svc.region=592,316,1236,1284",
+"SpineXML": "<emblem xmlns:xlink=\"http://www.w3.org/1999/xlink\" xmlns=\"http://diglib.hab.de/rules/schema/emblem\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:skos=\"http://www.w3.org/2004/02/skos/core#\" xml:id=\"E023049\" page=\"177\" xlink:href=\"http://djatoka.grainger.illinois.edu/index.html?url=http://emblemimages.grainger.illinois.edu/diuerseimpreseac00alcia/JP2Processed/diuerseimpreseac00alcia_0181.jp2\" globalID=\"http://hdl.handle.net/10111/EmblemRegistry:E023049\" citeNo=\"166\"><motto xml:id=\"E023049_M1\"><transcription xml:lang=\"it\">Nella fecondita a se medesima dannosa.</transcription></motto><pictura xml:id=\"E023049_P1\" xlink:href=\"http://djatoka.grainger.illinois.edu/adore-djatoka/resolver?url_ver=Z39.88-2004&amp;rft_id=http://emblemimages.grainger.illinois.edu/diuerseimpreseac00alcia/JP2Processed/diuerseimpreseac00alcia_0181.jp2&amp;svc_id=info:lanl-repo/svc/getRegion&amp;svc_val_fmt=info:ofi/fmt:kev:mtx:jpeg2000&amp;svc.format=image/jpeg&amp;svc.level=5&amp;svc.rotate=0&amp;svc.region=592,316,1236,1284\"><!--Please replace with iconclass headings assigned:\n\t\t\t\t\t\t\t\n <iconclass rdf:about=\"http://iconclass.org/sw/[notation]\">\n\t\t   <skos:notation>[notation]</skos:notation>\n\t\t   <keywords>[keyword-repeat the field if there are more than one keyword]</keyword> \n\t\t   <skos:prefLabel xml:lang=\"en\">[label]</skos:prefLabel>\n\t\t</iconclass>\n\t\t\t\t\t\t\t\n--></pictura></emblem>"
+},
+{
+"BookID": "diverseimpreseac00alcia",
+"EmblemID": "E023204",
+"Motto": "Non a te, ma alla Religione. ",
+"PicturaURI": "http://djatoka.grainger.illinois.edu/adore-djatoka/resolver?url_ver=Z39.88-2004&rft_id=http://emblemimages.grainger.illinois.edu/diverseimpreseac00alcia/JP2Processed/diverseimpreseac00alcia_0013.jp2&svc_id=info:lanl-repo/svc/getRegion&svc_val_fmt=info:ofi/fmt:kev:mtx:jpeg2000&svc.format=image/jpeg&svc.level=5&svc.rotate=0&svc.region=552,328,972,1028",
+"SpineXML": "<emblem xmlns:xlink=\"http://www.w3.org/1999/xlink\" xmlns=\"http://diglib.hab.de/rules/schema/emblem\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:skos=\"http://www.w3.org/2004/02/skos/core#\" xml:id=\"E023204\" page=\"9\" xlink:href=\"http://djatoka.grainger.illinois.edu/index.html?url=http://emblemimages.grainger.illinois.edu/diverseimpreseac00alcia/JP2Processed/diverseimpreseac00alcia_0013.jp2\" globalID=\"http://hdl.handle.net/10111/EmblemRegistry:E023204\" citeNo=\"5\"><motto xml:id=\"E023204_M1\"><transcription xml:lang=\"it\">Non a te, ma alla Religione.</transcription></motto><pictura xml:id=\"E023204_P1\" xlink:href=\"http://djatoka.grainger.illinois.edu/adore-djatoka/resolver?url_ver=Z39.88-2004&amp;rft_id=http://emblemimages.grainger.illinois.edu/diverseimpreseac00alcia/JP2Processed/diverseimpreseac00alcia_0013.jp2&amp;svc_id=info:lanl-repo/svc/getRegion&amp;svc_val_fmt=info:ofi/fmt:kev:mtx:jpeg2000&amp;svc.format=image/jpeg&amp;svc.level=5&amp;svc.rotate=0&amp;svc.region=552,328,972,1028\"><!--Please replace with iconclass headings assigned:\n\t\t\t\t\t\t\t\n <iconclass rdf:about=\"http://iconclass.org/sw/[notation]\">\n\t\t   <skos:notation>[notation]</skos:notation>\n\t\t   <keywords>[keyword-repeat the field if there are more than one keyword]</keyword> \n\t\t   <skos:prefLabel xml:lang=\"en\">[label]</skos:prefLabel>\n\t\t</iconclass>\n\t\t\t\t\t\t\t\n--></pictura></emblem>"
+}
+],
+"Facets": {
+"PublicationPlace": [
+{
+"Key": "Lyon",
+"Value": 586
+},
+{
+"Key": "Lvgd",
+"Value": 322
+},
+{
+"Key": "A Lyon",
+"Value": 272
+},
+{
+"Key": "A Paris",
+"Value": 208
+},
+{
+"Key": "Antuerpiae",
+"Value": 201
+},
+{
+"Key": "A Anvers",
+"Value": 198
+},
+{
+"Key": "Paris",
+"Value": 191
+},
+{
+"Key": "Patauij",
+"Value": 167
+},
+{
+"Key": "Impresso en la ciudad de Najera",
+"Value": 161
+},
+{
+"Key": "Lvgdvni Batavorvm",
+"Value": 160
+},
+{
+"Key": "En Lyon",
+"Value": 138
+},
+{
+"Key": "Lugduni",
+"Value": 136
+},
+{
+"Key": "Parisiis",
+"Value": 130
+},
+{
+"Key": "A Cologny",
+"Value": 98
+},
+{
+"Key": "Excvsvm Avgvstæ Vindelicorum",
+"Value": 97
+},
+{
+"Key": "Tiguri",
+"Value": 97
+},
+{
+"Key": "Gedruckt zu Franckfurt am Mayn",
+"Value": 93
+},
+{
+"Key": "On les uend à Paris",
+"Value": 80
+},
+{
+"Key": "On les vend a Paris",
+"Value": 78
+},
+{
+"Key": "Lvgdvni",
+"Value": 70
+},
+{
+"Key": "Venetiis",
+"Value": 66
+},
+{
+"Key": "Francofurti ad Moenum",
+"Value": 49
+},
+{
+"Key": "Excvsvm Avgvstae Vindelicorum",
+"Value": 46
+},
+{
+"Key": "Genevae",
+"Value": 38
+},
+{
+"Key": "Metis",
+"Value": 37
+},
+{
+"Key": "London",
+"Value": 36
+},
+{
+"Key": "Geneue",
+"Value": 32
+},
+{
+"Key": "In Lione",
+"Value": 30
+},
+{
+"Key": "Augspurg",
+"Value": 25
+},
+{
+"Key": "Francofurti",
+"Value": 24
+},
+{
+"Key": "Nürnberg",
+"Value": 23
+},
+{
+"Key": "München",
+"Value": 11
+},
+{
+"Key": "Amsterdam",
+"Value": 8
+},
+{
+"Key": "Halifax",
+"Value": 8
+},
+{
+"Key": "Augustae Vindelicorum",
+"Value": 7
+},
+{
+"Key": "London]",
+"Value": 6
+},
+{
+"Key": "Coloniae",
+"Value": 5
+},
+{
+"Key": "Tèubingen",
+"Value": 5
+},
+{
+"Key": "Utrecht",
+"Value": 5
+},
+{
+"Key": "Gedruckt zu Amsterdam",
+"Value": 4
+},
+{
+"Key": "[Nürnberg]",
+"Value": 4
+},
+{
+"Key": "A Londe [sic]",
+"Value": 3
+},
+{
+"Key": "En Madrid",
+"Value": 3
+},
+{
+"Key": "Francofurt, ad Moenum]",
+"Value": 3
+},
+{
+"Key": "Heidelbergæ",
+"Value": 3
+},
+{
+"Key": "Metz]",
+"Value": 3
+},
+{
+"Key": "Nurnberg",
+"Value": 3
+},
+{
+"Key": "Bruxellae",
+"Value": 2
+},
+{
+"Key": "En Brusellas",
+"Value": 2
+},
+{
+"Key": "Franckfurt",
+"Value": 2
+},
+{
+"Key": "Franckfurt am Mayn",
+"Value": 2
+},
+{
+"Key": "Heidelbergae",
+"Value": 2
+},
+{
+"Key": "Nèurnberg",
+"Value": 2
+},
+{
+"Key": "Sulzbaci",
+"Value": 2
+},
+{
+"Key": "Ultraiecti",
+"Value": 2
+},
+{
+"Key": "Zèurych",
+"Value": 2
+},
+{
+"Key": "Anvers",
+"Value": 1
+},
+{
+"Key": "Augustae Vindel",
+"Value": 1
+},
+{
+"Key": "Augustae Vindelicorum]",
+"Value": 1
+},
+{
+"Key": "Bononiae",
+"Value": 1
+},
+{
+"Key": "Dantzig",
+"Value": 1
+},
+{
+"Key": "Dilingae",
+"Value": 1
+},
+{
+"Key": "Dresden",
+"Value": 1
+},
+{
+"Key": "France",
+"Value": 1
+},
+{
+"Key": "Francofvrti",
+"Value": 1
+},
+{
+"Key": "Moguntiµ",
+"Value": 1
+},
+{
+"Key": "Monachii",
+"Value": 1
+},
+{
+"Key": "Noribergae",
+"Value": 1
+},
+{
+"Key": "Norimbergae",
+"Value": 1
+},
+{
+"Key": "Nurembergµ",
+"Value": 1
+},
+{
+"Key": "Nèurmberg",
+"Value": 1
+},
+{
+"Key": "Regensburg",
+"Value": 1
+},
+{
+"Key": "Romae",
+"Value": 1
+},
+{
+"Key": "Te Amsterdam",
+"Value": 1
+},
+{
+"Key": "Wienn",
+"Value": 1
+},
+{
+"Key": "[Augsburg]",
+"Value": 1
+}
+],
+"PublicationDate": [
+{
+"Key": "16th century",
+"Value": 3321
+},
+{
+"Key": "17th century",
+"Value": 2095
+},
+{
+"Key": "18th century",
+"Value": 214
+},
+{
+"Key": "19th century",
+"Value": 30
+},
+{
+"Key": "Unknown",
+"Value": 1
+}
+],
+"Institution": [
+{
+"Key": "Glasgow University",
+"Value": 3710
+},
+{
+"Key": "Utrecht University",
+"Value": 1653
+},
+{
+"Key": "University of Illinois at UC",
+"Value": 191
+},
+{
+"Key": "Herzog August Bibliothek",
+"Value": 107
+}
+],
+"Language": null
+}
+}

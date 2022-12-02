@@ -1,0 +1,49 @@
+<ul id="facets" class="nav">
+  <li><h1 class="font-16">Filters</h1></li>
+  <% _.each(Facets, function(values, facet) { %>
+    <% if(values.length > 0) { %>
+      <li>
+        <h2 class="font-14">
+        	<%= facet %>
+        </h2>
+      </li>
+      <!-- Do not show facet if it is already used as a filter -->
+      <% if(Search.Filter == null || Search.Filter[facet] == null) { %>
+        <% _.each(values, function(value, index) { %>
+          <li class="<%= facet %>" id="<%= facet %>-<%= index %>">
+            <input type="checkbox" class="filter" id="<%= facet %>-<%= value.Key.replace(/ /g,'') %>" value="<%= value.Key %>">
+            <label for="<%= facet %>-<%= value.Key.replace(/ /g,'') %>">
+              <!-- Display language text instead of code in facet list -->
+              <% if(facet == 'Language') { %>
+                <%= data.language[value.Key] %>
+              <% } else { %>
+                <%= value.Key %>
+              <% } %>
+              <% if(facet != 'Iconclass') { %> 
+                (<%= value.Value %>)
+              <% } %>
+            </label>
+          </li>
+        <% }); %>
+      <% } else { %>
+        <li>
+          <input type="checkbox" class="reset" id="show-all-<%= facet %>" value="<%= facet %>">
+          <label for="show-all-<%= facet %>">Show all</label>
+        </li>
+        <li>
+          <input type="checkbox" checked="checked" disabled="disabled">
+          <label>
+            <% if(facet == 'Language') { %>
+              <%= data.language[Search.Filter[facet]] %>
+            <% } else { %>
+              <%= Search.Filter[facet] %>
+            <% } %> 
+          </label>
+        </li>
+      <% } %>
+      <li>
+        <a href="" id="more-<%= facet %>" class="more font-12">More..</a>
+      </li>
+    <% } %>
+  <% }); %>
+</ul>
