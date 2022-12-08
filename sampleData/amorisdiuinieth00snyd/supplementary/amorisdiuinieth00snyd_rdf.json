@@ -1,0 +1,44 @@
+
+   {
+    "@context": "http://schema.org",
+    "@type": "Book",
+    "@id": "http://emblematica.library.illinois.edu/detail/book/amorisdiuinieth00snyd",
+"sameAs": [
+"https://archive.org/details/amorisdiuinieth00snyd",
+"http://n2t.net/ark:/13960/t77s8v97m",
+"http://hdl.handle.net/2027/dul1.ark:/13960/t77s8v97m"
+],
+"name": "Amoris diuini et humani effectus: varii Sacræ Scripturæ Sanctorumq; PP. sententijs : ac Gallicis versibus illustrati",
+"author": [
+{"@id": "http://viaf.org/viaf/86809683/", 
+"@type": "Person", 
+"name": "Snyders, Michael."
+},
+{"@id": "http://viaf.org/viaf/250268132/", 
+"@type": "Person", 
+"name": "Schoor, Gillis van, b. 1596"
+},
+{"@id": "http://viaf.org/viaf/37190940/", 
+"@type": "Person", 
+"name": "Mallery, Karel van, 1571-ca. 1635"
+}
+],
+"about": [{ "name": "Emblems", "url": ["http://id.loc.gov/authorities/subjects/sh85042693"]}],
+"locationCreated": [
+"http://id.loc.gov/vocabulary/countries/be",
+{ "name": "Antuerpiæ"}
+],
+"dateCreated": "1626",
+"publisher": [
+"Apud Michaelem Snyders"
+],
+"inLanguage": ["http://id.loc.gov/vocabulary/iso639-2/lat",
+"http://id.loc.gov/vocabulary/iso639-2/fre"
+],
+"hasPart": [],
+"description": ["[57] leaves of plates ; 15 cm."
+        ,"Engraved throughout."
+        ,"Majority of plates signed by M. Snyders; many also signed G. van Schoor; one has monogram of C. de Mallery."
+        ,"Without signatures, pagination, or foliation."
+        ]
+}

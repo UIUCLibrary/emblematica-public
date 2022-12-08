@@ -1,0 +1,63 @@
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>00932cam a2200241Ia 4500</leader>
+  <controlfield tag="001">000609705</controlfield>
+  <controlfield tag="005">20121209230042.0</controlfield>
+  <controlfield tag="008">841022s1626    be af         000 0 lat d</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">11293651</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)11293651</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NDD</subfield>
+    <subfield code="c">NDD</subfield>
+  </datafield>
+  <datafield tag="041" ind1="0" ind2=" ">
+    <subfield code="a">latfre</subfield>
+  </datafield>
+  <datafield tag="245" ind1="0" ind2="0">
+    <subfield code="a">Amoris diuini et humani effectus :</subfield>
+    <subfield code="b">varii Sacræ Scripturæ Sanctorumq; PP. sententijs : ac Gallicis versibus illustrati.</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Antuerpiæ :</subfield>
+    <subfield code="b">Apud Michaelem Snyders,</subfield>
+    <subfield code="c">1626.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">[57] leaves of plates ;</subfield>
+    <subfield code="c">15 cm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Engraved throughout.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Majority of plates signed by M. Snyders; many also signed G. van Schoor; one has monogram of C. de Mallery.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Without signatures, pagination, or foliation.</subfield>
+  </datafield>
+  <datafield tag="510" ind1="4" ind2=" ">
+    <subfield code="a">Landwehr, J. Emblem books in the Low Countries,</subfield>
+    <subfield code="c">617.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Emblems.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Snyders, Michael.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Schoor, Gillis van,</subfield>
+    <subfield code="d">b. 1596.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Mallery, Karel van,</subfield>
+    <subfield code="d">1571-ca. 1635.</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="1">
+    <subfield code="3">Full text - OCA</subfield>
+    <subfield code="u">https://archive.org/details/amorisdiuinieth00snyd</subfield>
+  </datafield>
+</record>

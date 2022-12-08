@@ -1,0 +1,64 @@
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd" version="3.7">
+  <titleInfo>
+    <title>Amoris diuini et humani effectus</title>
+    <subTitle>varii Sacr&#230; Scriptur&#230; Sanctorumq; PP. sententijs : ac Gallicis versibus illustrati</subTitle>
+  </titleInfo>
+  <name type="personal" authorityURI="http://viaf.org" valueURI="http://viaf.org/viaf/86809683/">
+    <namePart>Snyders, Michael.</namePart>
+  </name>
+  <name type="personal" authorityURI="http://viaf.org" valueURI="http://viaf.org/viaf/250268132/">
+    <namePart>Schoor, Gillis van</namePart>
+    <namePart type="date">b. 1596</namePart>
+  </name>
+  <name type="personal" authorityURI="http://viaf.org" valueURI="http://viaf.org/viaf/37190940/">
+    <namePart>Mallery, Karel van</namePart>
+    <namePart type="date">1571-ca. 1635</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry" authorityURI="http://id.loc.gov/" valueURI="http://id.loc.gov/vocabulary/countries/be">be</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Antuerpi&#230;</placeTerm>
+    </place>
+    <publisher>Apud Michaelem Snyders</publisher>
+    <dateIssued>1626</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code" authorityURI="http://id.loc.gov/" valueURI="http://id.loc.gov/vocabulary/iso639-2/lat">lat</languageTerm>
+  </language>
+  <language>
+    <languageTerm authority="iso639-2b" type="code" authorityURI="http://id.loc.gov/" valueURI="http://id.loc.gov/vocabulary/iso639-2/fre">fre</languageTerm>
+  </language>
+  <physicalDescription>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+    <form authority="marcform">print</form>
+    <extent>[57] leaves of plates ; 15 cm.</extent>
+  </physicalDescription>
+  <note>Engraved throughout.</note>
+  <note>Majority of plates signed by M. Snyders; many also signed G. van Schoor; one has monogram of C. de Mallery.</note>
+  <note>Without signatures, pagination, or foliation.</note>
+  <subject authority="lcsh" authorityURI="http://id.loc.gov/" valueURI="http://id.loc.gov/authorities/subjects/sh85042693">
+    <topic>Emblems</topic>
+  </subject>
+  <identifier type="uri">https://archive.org/details/amorisdiuinieth00snyd</identifier>
+  <location>
+    <url displayLabel="Full text - OCA" usage="primary display">https://archive.org/details/amorisdiuinieth00snyd</url>
+  </location>
+  <genre authority="aat" type="concept" valueURI="http://www.getty.edu/vow/AATFullDisplay?find=&amp;logic=&amp;note=&amp;english=&amp;prev_page=&amp;subjectid=300026286">emblem books</genre>
+  <recordInfo>
+    <descriptionStandard>aacr2</descriptionStandard>
+    <recordContentSource authority="marcorg">NDD</recordContentSource>
+    <recordCreationDate encoding="marc">841022</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20121209230042.0</recordChangeDate>
+    <recordIdentifier>000609705</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.3 using
+                    MARC21slim2MODS3-3.xsl (Revision 1.54)</recordOrigin>
+  </recordInfo>
+  <identifier type="ark">ark:/13960/t77s8v97m</identifier>
+  <location>
+    <url displayLabel="HathiTrust Digital Library">http://hdl.handle.net/2027/dul1.ark:/13960/t77s8v97m</url>
+  </location>
+</mods:mods>
