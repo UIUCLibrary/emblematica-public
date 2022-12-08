@@ -1,0 +1,34 @@
+[{
+  "id": "A46a",
+  "ark_id": null,
+  "spineXML": "http://emblemimages.library.illinois.edu/A46a/supplementary/A46a_spine.xml",
+  "has_emblems": true,
+  "search_keywords": "Andreae Alciati Emblematvm libellvs, nvper in lvcem editvs Andreae Alciati Emblematum libellus, nuper in lucem editus Emblematum liber. Latin. 1546 Alciati, Andrea 1492-1550 Alciati, Andrea, 1492-1550 Rositini, Pietro active 16th century text it Venetiis [Apvd Aldi Filios] M. D. XLVI. [1546] 1546 monographic Annual lat electronic electronic resource electronic resource remote 48 leaves : ill ; 14 cm. (8vo) Edited by Pietro Rossettini da Prat' Alboino (Petrus Rhosithinus/Pietro Rositini). Signatures: A-F⁸. Print version available. Electronic reproduction. Glasgow : University of Glasgow, 2008. Mode of access: WWW. Emblem Books, Latin http://www.emblems.arts.gla.ac.uk/alciato/books.php?id=A46a Landwehr, J. French, Italian, Spanish, and Portuguese emblem books,33. Green, H. Andrea Alciati and his books of emblems,28. aacr dcrmb 080912 Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl (Revision 1.70)",
+  "search_title": [
+"Andreae Alciati Emblematvm libellvs, nvper in lvcem editvs",
+"Andreae Alciati Emblematum libellus, nuper in lucem editus",
+"Emblematum liber. Latin. 1546"
+],
+  "search_publication_date": "1546",
+  "search_publication_place": "Venetiis",
+  "search_publisher": "[Apvd Aldi Filios]",
+  "search_name": [
+"Alciati, Andrea, 1492-1550",
+"Rositini, Pietro active 16th century"
+],
+  "display_title": "Andreae Alciati Emblematvm libellvs, nvper in lvcem editvs",
+  "display_name": [
+"Alciati, Andrea, 1492-1550",
+"Rositini, Pietro active 16th century"
+],
+  "display_publication_date": "1546",
+  "display_publication_place": "Venetiis",
+  "display_collection": "Glasgow University",
+  "display_first_pictura_link": "http://emblemimages.library.illinois.edu/A46a/_access/pictura/E030200.jpg",
+  "facet_collection_code": "Glasgow",
+  "facet_language_code": [
+"lat"
+],
+  "facet_publication_century": "16th century",
+  "facet_publication_place": "Venetiis"
+}]
