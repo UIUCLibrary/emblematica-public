@@ -1,0 +1,208 @@
+
+     {
+        "class": "Item",
+        "id": "",
+        "public_uri": null,
+        "variant": null,
+        "elements": [
+    
+         {
+           "name": "type",
+           "value": "Text", 
+           "uri": null
+          },
+         {
+           "name": "isPartof",
+           "value": "Emblematica Online", 
+           "uri": "http://emblematica.library.illinois.edu/"
+          },
+          {
+           "name": "title",
+           "value": "Andreae Alciati Emblematvm libellvs, nvper in lvcem editvs", 
+           "uri": null
+          },
+          {
+           "name": "title",
+           "value": "Andreae Alciati Emblematum libellus, nuper in lucem editus", 
+           "uri": null
+          },
+          {
+           "name": "title",
+           "value": "Emblematum liber. Latin. 1546", 
+           "uri": null
+          },
+          {
+           "name": "author",
+           "value": "Alciati, Andrea, 1492-1550", 
+           "uri": "http://viaf.org/viaf/51699991"
+          },
+          {
+           "name": "author",
+           "value": "Rositini, Pietro", 
+           "uri": "http://viaf.org/viaf/205346514/"
+          },
+          {
+           "name": "publicationPlace",
+           "value": "it", 
+           "uri": "http://id.loc.gov/vocabulary/countries/it"
+          },
+          {
+           "name": "publicationPlace",
+           "value": "Venetiis", 
+           "uri": ""
+          },
+          {
+           "name": "publisher",
+           "value": "[Apvd Aldi Filios]", 
+           "uri": ""
+          },
+          {
+           "name": "date",
+           "value": "1546", 
+           "uri": null
+          },
+          {
+           "name": "edition",
+           "value": "", 
+           "uri": null
+          },
+          {
+           "name": "issurance",
+           "value": "", 
+           "uri": null
+          },
+          {
+           "name": "extent",
+           "value": "48 leaves : ill", 
+           "uri": null
+          },
+          {
+           "name": "dimensions",
+           "value": "14 cm. (8vo)", 
+           "uri": null
+          },
+          {
+           "name": "language",
+           "value": "lat", 
+           "uri": "http://id.loc.gov/vocabulary/iso639-2/lat"
+          },
+          {
+           "name": "subject",
+           "value": "Emblem Books, Latin", 
+           "uri":  ["http://id.loc.gov/authorities/subjects/sh2004006698"]
+          },
+          {
+           "name": "description",
+           "value": "Edited by Pietro Rossettini da Prat' Alboino (Petrus Rhosithinus/Pietro Rositini).", 
+           "uri": null
+          },
+          {
+           "name": "description",
+           "value": "Signatures: A-F⁸.", 
+           "uri": null
+          },
+          {
+           "name": "description",
+           "value": "Print version available.", 
+           "uri": null
+          },
+          {
+           "name": "description",
+           "value": "Electronic reproduction. Glasgow : University of Glasgow, 2008.", 
+           "uri": null
+          },
+          {
+           "name": "description",
+           "value": "Mode of access: WWW.", 
+           "uri": null
+          }
+       ],
+      "children": ["http://hdl.handle.net/10111/EmblemRegistry:E030200"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E030201"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E030202"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E030203"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E030204"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E030205"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E030206"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E030207"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E030208"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E030209"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E030210"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E030211"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E030212"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E030213"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E030214"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E030215"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E030216"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E030217"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E030218"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E030219"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E030220"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E030221"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E030222"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E030223"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E030224"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E030225"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E030226"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E030227"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E030228"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E030229"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E030230"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E030231"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E030232"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E030233"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E030234"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E030235"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E030236"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E030237"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E030238"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E030239"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E030240"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E030241"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E030242"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E030243"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E030244"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E030245"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E030246"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E030247"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E030248"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E030249"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E030250"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E030251"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E030252"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E030253"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E030254"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E030255"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E030256"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E030257"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E030258"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E030259"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E030260"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E030261"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E030262"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E030263"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E030264"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E030265"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E030266"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E030267"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E030268"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E030269"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E030270"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E030271"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E030272"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E030273"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E030274"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E030275"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E030276"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E030277"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E030278"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E030279"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E030280"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E030281"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E030282"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E030283"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E030284"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E030285"
+         
+      ]
+         }
