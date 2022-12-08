@@ -1,0 +1,41 @@
+
+      {
+   "@context": ["http://schema.org",
+    {"associatedMedia": {
+      "@id": "http://schema.org/associatedMedia",
+      "@container": "@list"
+    }    }
+  ],
+   "@id": "http://emblematica.library.illinois.edu/detail/emblem/A46a047",
+   "sameAs": ["http://hdl.handle.net/10111/EmblemRegistry:E030246"],
+   "@type": "CreativeWork",
+   "name": [
+{"@language" : "http://id.loc.gov/vocabulary/iso639-1/la",
+"@value" : "Respublica liberata."}
+],
+    "thumbnailUrl": "http://emblemimages.library.illinois.edu/A46a/_access/emblem/A46a047.jpg",
+    "isPartOf": "http://emblematica.library.illinois.edu/detail/book/A46a",
+   "dateCreated": "1546",
+   "genre": "http://vocab.getty.edu/page/aat/300123040",
+   "about": [
+"http://iconclass.org/25H114"
+              ,"http://iconclass.org/25I12"
+              ,"http://iconclass.org/41D221(CAP)"
+              ,"http://iconclass.org/44B03"
+              ,"http://iconclass.org/45C13(DAGGER)(+67)"
+              ,"http://iconclass.org/46A183"
+              ,"http://iconclass.org/46B311"
+              ,"http://iconclass.org/48A9857(CAP)"
+              ,"http://iconclass.org/48A9857(SWORD)"
+              ,"http://iconclass.org/51E11(+4)"
+              ,"http://iconclass.org/98B(BRUTUS, M.)3"
+              ,"http://iconclass.org/98B(CAESAR)68"
+              ],
+          "associatedMedia": [
+    "http://www.emblems.arts.gla.ac.uk/alciato/emblem.php?id=A46a047"
+     ], "hasPart": {
+                  "@type": "VisualArtwork",
+                  "artform": "emblem pictura",
+                  "thumbnailUrl": "http://emblemimages.library.illinois.edu/A46a/_access/pictura/A46a047.jpg",
+                  "associatedMedia": [ "http://www.emblems.arts.gla.ac.uk/alciato/images/pic_l/A46a047.jpg"]             
+      } } 

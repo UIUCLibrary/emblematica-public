@@ -1,0 +1,48 @@
+
+      {
+   "@context": ["http://schema.org",
+    {"associatedMedia": {
+      "@id": "http://schema.org/associatedMedia",
+      "@container": "@list"
+    }    }
+  ],
+   "@id": "http://emblematica.library.illinois.edu/detail/emblem/A46a005",
+   "sameAs": ["http://hdl.handle.net/10111/EmblemRegistry:E030204"],
+   "@type": "CreativeWork",
+   "name": [
+{"@language" : "http://id.loc.gov/vocabulary/iso639-1/la",
+"@value" : "Ficta Religio."}
+],
+    "thumbnailUrl": "http://emblemimages.library.illinois.edu/A46a/_access/emblem/A46a005.jpg",
+    "isPartOf": "http://emblematica.library.illinois.edu/detail/book/A46a",
+   "dateCreated": "1546",
+   "genre": "http://vocab.getty.edu/page/aat/300123040",
+   "about": [
+"http://iconclass.org/11N41"
+              ,"http://iconclass.org/22C4(PURPLE)"
+              ,"http://iconclass.org/31A534"
+              ,"http://iconclass.org/31B52"
+              ,"http://iconclass.org/31B6(+51)"
+              ,"http://iconclass.org/31D14(+75)"
+              ,"http://iconclass.org/31D15"
+              ,"http://iconclass.org/33C52"
+              ,"http://iconclass.org/41A422"
+              ,"http://iconclass.org/41C121"
+              ,"http://iconclass.org/41C322"
+              ,"http://iconclass.org/41C711"
+              ,"http://iconclass.org/41D211(+81)"
+              ,"http://iconclass.org/41D211(+82)"
+              ,"http://iconclass.org/41D22"
+              ,"http://iconclass.org/41D23"
+              ,"http://iconclass.org/44B1212"
+              ,"http://iconclass.org/44B191"
+              ,"http://iconclass.org/73G491"
+              ],
+          "associatedMedia": [
+    "http://www.emblems.arts.gla.ac.uk/alciato/emblem.php?id=A46a005"
+     ], "hasPart": {
+                  "@type": "VisualArtwork",
+                  "artform": "emblem pictura",
+                  "thumbnailUrl": "http://emblemimages.library.illinois.edu/A46a/_access/pictura/A46a005.jpg",
+                  "associatedMedia": [ "http://www.emblems.arts.gla.ac.uk/alciato/images/pic_l/A46a005.jpg"]             
+      } } 

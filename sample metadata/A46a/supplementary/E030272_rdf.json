@@ -1,0 +1,45 @@
+
+      {
+   "@context": ["http://schema.org",
+    {"associatedMedia": {
+      "@id": "http://schema.org/associatedMedia",
+      "@container": "@list"
+    }    }
+  ],
+   "@id": "http://emblematica.library.illinois.edu/detail/emblem/A46a073",
+   "sameAs": ["http://hdl.handle.net/10111/EmblemRegistry:E030272"],
+   "@type": "CreativeWork",
+   "name": [
+{"@language" : "http://id.loc.gov/vocabulary/iso639-1/la",
+"@value" : "Temeritas."}
+],
+    "thumbnailUrl": "http://emblemimages.library.illinois.edu/A46a/_access/emblem/A46a073.jpg",
+    "isPartOf": "http://emblematica.library.illinois.edu/detail/book/A46a",
+   "dateCreated": "1546",
+   "genre": "http://vocab.getty.edu/page/aat/300123040",
+   "about": [
+"http://iconclass.org/26A"
+              ,"http://iconclass.org/26C"
+              ,"http://iconclass.org/31D14"
+              ,"http://iconclass.org/41D211(+81)"
+              ,"http://iconclass.org/41D27"
+              ,"http://iconclass.org/43C21311"
+              ,"http://iconclass.org/46C131"
+              ,"http://iconclass.org/46C131613"
+              ,"http://iconclass.org/46C13183"
+              ,"http://iconclass.org/46C145"
+              ,"http://iconclass.org/46C1495"
+              ,"http://iconclass.org/46C1496"
+              ,"http://iconclass.org/52AA21(+4)"
+              ,"http://iconclass.org/52B51"
+              ,"http://iconclass.org/53B3"
+              ,"http://iconclass.org/53C11(+4)"
+              ],
+          "associatedMedia": [
+    "http://www.emblems.arts.gla.ac.uk/alciato/emblem.php?id=A46a073"
+     ], "hasPart": {
+                  "@type": "VisualArtwork",
+                  "artform": "emblem pictura",
+                  "thumbnailUrl": "http://emblemimages.library.illinois.edu/A46a/_access/pictura/A46a073.jpg",
+                  "associatedMedia": [ "http://www.emblems.arts.gla.ac.uk/alciato/images/pic_l/A46a073.jpg"]             
+      } } 

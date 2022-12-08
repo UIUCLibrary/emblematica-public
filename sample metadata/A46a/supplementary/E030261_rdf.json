@@ -1,0 +1,43 @@
+
+      {
+   "@context": ["http://schema.org",
+    {"associatedMedia": {
+      "@id": "http://schema.org/associatedMedia",
+      "@container": "@list"
+    }    }
+  ],
+   "@id": "http://emblematica.library.illinois.edu/detail/emblem/A46a062",
+   "sameAs": ["http://hdl.handle.net/10111/EmblemRegistry:E030261"],
+   "@type": "CreativeWork",
+   "name": [
+{"@language" : "http://id.loc.gov/vocabulary/iso639-1/la",
+"@value" : "Superbia."}
+],
+    "thumbnailUrl": "http://emblemimages.library.illinois.edu/A46a/_access/emblem/A46a062.jpg",
+    "isPartOf": "http://emblematica.library.illinois.edu/detail/book/A46a",
+   "dateCreated": "1546",
+   "genre": "http://vocab.getty.edu/page/aat/300123040",
+   "about": [
+"http://iconclass.org/25D12(MARBLE)"
+              ,"http://iconclass.org/25I152"
+              ,"http://iconclass.org/25I9"
+              ,"http://iconclass.org/31A2352"
+              ,"http://iconclass.org/31A721"
+              ,"http://iconclass.org/41D211(+82)"
+              ,"http://iconclass.org/44B1212"
+              ,"http://iconclass.org/44B191"
+              ,"http://iconclass.org/49L8"
+              ,"http://iconclass.org/54A82(+4)"
+              ,"http://iconclass.org/57AA5"
+              ,"http://iconclass.org/57AA64(+4)"
+              ,"http://iconclass.org/86(NIOBE)"
+              ,"http://iconclass.org/97FF5"
+              ],
+          "associatedMedia": [
+    "http://www.emblems.arts.gla.ac.uk/alciato/emblem.php?id=A46a062"
+     ], "hasPart": {
+                  "@type": "VisualArtwork",
+                  "artform": "emblem pictura",
+                  "thumbnailUrl": "http://emblemimages.library.illinois.edu/A46a/_access/pictura/A46a062.jpg",
+                  "associatedMedia": [ "http://www.emblems.arts.gla.ac.uk/alciato/images/pic_l/A46a062.jpg"]             
+      } } 

@@ -1,0 +1,45 @@
+
+      {
+   "@context": ["http://schema.org",
+    {"associatedMedia": {
+      "@id": "http://schema.org/associatedMedia",
+      "@container": "@list"
+    }    }
+  ],
+   "@id": "http://emblematica.library.illinois.edu/detail/emblem/A46a013",
+   "sameAs": ["http://hdl.handle.net/10111/EmblemRegistry:E030212"],
+   "@type": "CreativeWork",
+   "name": [
+{"@language" : "http://id.loc.gov/vocabulary/iso639-1/la",
+"@value" : "Male parta male dilabuntur."}
+],
+    "thumbnailUrl": "http://emblemimages.library.illinois.edu/A46a/_access/emblem/A46a013.jpg",
+    "isPartOf": "http://emblematica.library.illinois.edu/detail/book/A46a",
+   "dateCreated": "1546",
+   "genre": "http://vocab.getty.edu/page/aat/300123040",
+   "about": [
+"http://iconclass.org/11N35"
+              ,"http://iconclass.org/25F(+422)"
+              ,"http://iconclass.org/25F33(KITE)(+323)"
+              ,"http://iconclass.org/25F33(KITE)(+61)"
+              ,"http://iconclass.org/25G(+21)"
+              ,"http://iconclass.org/25G3"
+              ,"http://iconclass.org/25H114"
+              ,"http://iconclass.org/25H213"
+              ,"http://iconclass.org/25H217"
+              ,"http://iconclass.org/25I12"
+              ,"http://iconclass.org/26A"
+              ,"http://iconclass.org/31A63(+0)"
+              ,"http://iconclass.org/44G544"
+              ,"http://iconclass.org/46C24"
+              ,"http://iconclass.org/52B5112(+4):55A1(+4)"
+              ,"http://iconclass.org/55C11(+4)"
+              ],
+          "associatedMedia": [
+    "http://www.emblems.arts.gla.ac.uk/alciato/emblem.php?id=A46a013"
+     ], "hasPart": {
+                  "@type": "VisualArtwork",
+                  "artform": "emblem pictura",
+                  "thumbnailUrl": "http://emblemimages.library.illinois.edu/A46a/_access/pictura/A46a013.jpg",
+                  "associatedMedia": [ "http://www.emblems.arts.gla.ac.uk/alciato/images/pic_l/A46a013.jpg"]             
+      } } 

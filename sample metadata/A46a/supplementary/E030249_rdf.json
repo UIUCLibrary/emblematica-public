@@ -1,0 +1,48 @@
+
+      {
+   "@context": ["http://schema.org",
+    {"associatedMedia": {
+      "@id": "http://schema.org/associatedMedia",
+      "@container": "@list"
+    }    }
+  ],
+   "@id": "http://emblematica.library.illinois.edu/detail/emblem/A46a050",
+   "sameAs": ["http://hdl.handle.net/10111/EmblemRegistry:E030249"],
+   "@type": "CreativeWork",
+   "name": [
+{"@language" : "http://id.loc.gov/vocabulary/iso639-1/la",
+"@value" : "Nupta contagioso."}
+],
+    "thumbnailUrl": "http://emblemimages.library.illinois.edu/A46a/_access/emblem/A46a050.jpg",
+    "isPartOf": "http://emblematica.library.illinois.edu/detail/book/A46a",
+   "dateCreated": "1546",
+   "genre": "http://vocab.getty.edu/page/aat/300123040",
+   "about": [
+"http://iconclass.org/3.10E+04"
+              ,"http://iconclass.org/31A25161(+931)"
+              ,"http://iconclass.org/31A2711"
+              ,"http://iconclass.org/31A2753"
+              ,"http://iconclass.org/31A4624(SYPHILIS)"
+              ,"http://iconclass.org/31D14(+72)"
+              ,"http://iconclass.org/31EE2353"
+              ,"http://iconclass.org/33A35"
+              ,"http://iconclass.org/41A31"
+              ,"http://iconclass.org/41A323"
+              ,"http://iconclass.org/41D211(+81)"
+              ,"http://iconclass.org/41D221(+81)"
+              ,"http://iconclass.org/41D233(+81)"
+              ,"http://iconclass.org/42B2"
+              ,"http://iconclass.org/42D2"
+              ,"http://iconclass.org/42D30:31A46240"
+              ,"http://iconclass.org/47D8(ROPE)"
+              ,"http://iconclass.org/57AA91"
+              ,"http://iconclass.org/96C(MEZENTIUS)4"
+              ],
+          "associatedMedia": [
+    "http://www.emblems.arts.gla.ac.uk/alciato/emblem.php?id=A46a050"
+     ], "hasPart": {
+                  "@type": "VisualArtwork",
+                  "artform": "emblem pictura",
+                  "thumbnailUrl": "http://emblemimages.library.illinois.edu/A46a/_access/pictura/A46a050.jpg",
+                  "associatedMedia": [ "http://www.emblems.arts.gla.ac.uk/alciato/images/pic_l/A46a050.jpg"]             
+      } } 

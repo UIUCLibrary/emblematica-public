@@ -1,0 +1,39 @@
+
+      {
+   "@context": ["http://schema.org",
+    {"associatedMedia": {
+      "@id": "http://schema.org/associatedMedia",
+      "@container": "@list"
+    }    }
+  ],
+   "@id": "http://emblematica.library.illinois.edu/detail/emblem/A46a046",
+   "sameAs": ["http://hdl.handle.net/10111/EmblemRegistry:E030245"],
+   "@type": "CreativeWork",
+   "name": [
+{"@language" : "http://id.loc.gov/vocabulary/iso639-1/la",
+"@value" : "Salus publica."}
+],
+    "thumbnailUrl": "http://emblemimages.library.illinois.edu/A46a/_access/emblem/A46a046.jpg",
+    "isPartOf": "http://emblematica.library.illinois.edu/detail/book/A46a",
+   "dateCreated": "1546",
+   "genre": "http://vocab.getty.edu/page/aat/300123040",
+   "about": [
+"http://iconclass.org/1.20E+212"
+              ,"http://iconclass.org/12EE62"
+              ,"http://iconclass.org/25F42(+5253)"
+              ,"http://iconclass.org/25FF422"
+              ,"http://iconclass.org/25H113"
+              ,"http://iconclass.org/31A4690"
+              ,"http://iconclass.org/48C161"
+              ,"http://iconclass.org/49G230"
+              ,"http://iconclass.org/92F279"
+              ,"http://iconclass.org/92F27913(+0)"
+              ],
+          "associatedMedia": [
+    "http://www.emblems.arts.gla.ac.uk/alciato/emblem.php?id=A46a046"
+     ], "hasPart": {
+                  "@type": "VisualArtwork",
+                  "artform": "emblem pictura",
+                  "thumbnailUrl": "http://emblemimages.library.illinois.edu/A46a/_access/pictura/A46a046.jpg",
+                  "associatedMedia": [ "http://www.emblems.arts.gla.ac.uk/alciato/images/pic_l/A46a046.jpg"]             
+      } } 

@@ -1,0 +1,43 @@
+
+      {
+   "@context": ["http://schema.org",
+    {"associatedMedia": {
+      "@id": "http://schema.org/associatedMedia",
+      "@container": "@list"
+    }    }
+  ],
+   "@id": "http://emblematica.library.illinois.edu/detail/emblem/A46a022",
+   "sameAs": ["http://hdl.handle.net/10111/EmblemRegistry:E030221"],
+   "@type": "CreativeWork",
+   "name": [
+{"@language" : "http://id.loc.gov/vocabulary/iso639-1/la",
+"@value" : "Facundia difficilis."}
+],
+    "thumbnailUrl": "http://emblemimages.library.illinois.edu/A46a/_access/emblem/A46a022.jpg",
+    "isPartOf": "http://emblematica.library.illinois.edu/detail/book/A46a",
+   "dateCreated": "1546",
+   "genre": "http://vocab.getty.edu/page/aat/300123040",
+   "about": [
+"http://iconclass.org/25GG4(MOLY)(+32)"
+              ,"http://iconclass.org/25H113"
+              ,"http://iconclass.org/25H114"
+              ,"http://iconclass.org/25H13"
+              ,"http://iconclass.org/25H23"
+              ,"http://iconclass.org/25I5"
+              ,"http://iconclass.org/25I9"
+              ,"http://iconclass.org/46C24"
+              ,"http://iconclass.org/49C113"
+              ,"http://iconclass.org/52D3(+4):54DD4(+4)"
+              ,"http://iconclass.org/54A11"
+              ,"http://iconclass.org/92B58(MOLY)"
+              ,"http://iconclass.org/94I16"
+              ,"http://iconclass.org/94I162"
+              ],
+          "associatedMedia": [
+    "http://www.emblems.arts.gla.ac.uk/alciato/emblem.php?id=A46a022"
+     ], "hasPart": {
+                  "@type": "VisualArtwork",
+                  "artform": "emblem pictura",
+                  "thumbnailUrl": "http://emblemimages.library.illinois.edu/A46a/_access/pictura/A46a022.jpg",
+                  "associatedMedia": [ "http://www.emblems.arts.gla.ac.uk/alciato/images/pic_l/A46a022.jpg"]             
+      } } 

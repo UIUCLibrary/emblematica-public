@@ -1,0 +1,46 @@
+
+      {
+   "@context": ["http://schema.org",
+    {"associatedMedia": {
+      "@id": "http://schema.org/associatedMedia",
+      "@container": "@list"
+    }    }
+  ],
+   "@id": "http://emblematica.library.illinois.edu/detail/emblem/A46a007",
+   "sameAs": ["http://hdl.handle.net/10111/EmblemRegistry:E030206"],
+   "@type": "CreativeWork",
+   "name": [
+{"@language" : "http://id.loc.gov/vocabulary/iso639-1/la",
+"@value" : "Antiquissima quaeque commentitia."}
+],
+    "thumbnailUrl": "http://emblemimages.library.illinois.edu/A46a/_access/emblem/A46a007.jpg",
+    "isPartOf": "http://emblematica.library.illinois.edu/detail/book/A46a",
+   "dateCreated": "1546",
+   "genre": "http://vocab.getty.edu/page/aat/300123040",
+   "about": [
+"http://iconclass.org/23T0"
+              ,"http://iconclass.org/25H23"
+              ,"http://iconclass.org/25H2311"
+              ,"http://iconclass.org/25I12"
+              ,"http://iconclass.org/25I5"
+              ,"http://iconclass.org/26A"
+              ,"http://iconclass.org/31A2513"
+              ,"http://iconclass.org/31A2516"
+              ,"http://iconclass.org/31A4527(+23)"
+              ,"http://iconclass.org/31A4561"
+              ,"http://iconclass.org/31A534"
+              ,"http://iconclass.org/48C901"
+              ,"http://iconclass.org/49K1(+55)"
+              ,"http://iconclass.org/51K1(+4)"
+              ,"http://iconclass.org/52A42(+4)"
+              ,"http://iconclass.org/52A44"
+              ,"http://iconclass.org/92H4"
+              ],
+          "associatedMedia": [
+    "http://www.emblems.arts.gla.ac.uk/alciato/emblem.php?id=A46a007"
+     ], "hasPart": {
+                  "@type": "VisualArtwork",
+                  "artform": "emblem pictura",
+                  "thumbnailUrl": "http://emblemimages.library.illinois.edu/A46a/_access/pictura/A46a007.jpg",
+                  "associatedMedia": [ "http://www.emblems.arts.gla.ac.uk/alciato/images/pic_l/A46a007.jpg"]             
+      } } 

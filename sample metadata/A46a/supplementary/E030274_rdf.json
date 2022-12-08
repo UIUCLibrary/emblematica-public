@@ -1,0 +1,66 @@
+
+      {
+   "@context": ["http://schema.org",
+    {"associatedMedia": {
+      "@id": "http://schema.org/associatedMedia",
+      "@container": "@list"
+    }    }
+  ],
+   "@id": "http://emblematica.library.illinois.edu/detail/emblem/A46a075",
+   "sameAs": ["http://hdl.handle.net/10111/EmblemRegistry:E030274"],
+   "@type": "CreativeWork",
+   "name": [
+{"@language" : "http://id.loc.gov/vocabulary/iso639-1/la",
+"@value" : "Vino prudentiam augeri."}
+],
+    "thumbnailUrl": "http://emblemimages.library.illinois.edu/A46a/_access/emblem/A46a075.jpg",
+    "isPartOf": "http://emblematica.library.illinois.edu/detail/book/A46a",
+   "dateCreated": "1546",
+   "genre": "http://vocab.getty.edu/page/aat/300123040",
+   "about": [
+"http://iconclass.org/1.20E+63"
+              ,"http://iconclass.org/1.20E+64"
+              ,"http://iconclass.org/11M41"
+              ,"http://iconclass.org/25G3(OLIVE-TREE)"
+              ,"http://iconclass.org/25H114"
+              ,"http://iconclass.org/25I12"
+              ,"http://iconclass.org/25I5"
+              ,"http://iconclass.org/31A"
+              ,"http://iconclass.org/31A(+9331)"
+              ,"http://iconclass.org/31A2511(+933)"
+              ,"http://iconclass.org/31A2512(+933)"
+              ,"http://iconclass.org/31A2513(+933)"
+              ,"http://iconclass.org/31A26114(+51)"
+              ,"http://iconclass.org/31AA2621(+51)"
+              ,"http://iconclass.org/31B50"
+              ,"http://iconclass.org/31B59"
+              ,"http://iconclass.org/31D12(+89)"
+              ,"http://iconclass.org/31D15"
+              ,"http://iconclass.org/41C671"
+              ,"http://iconclass.org/41C7110"
+              ,"http://iconclass.org/41D211"
+              ,"http://iconclass.org/41D212"
+              ,"http://iconclass.org/41D27"
+              ,"http://iconclass.org/43A(+12)"
+              ,"http://iconclass.org/45C14(LANCE)"
+              ,"http://iconclass.org/45C19(SHIELD)"
+              ,"http://iconclass.org/45C221"
+              ,"http://iconclass.org/48C24"
+              ,"http://iconclass.org/48C244"
+              ,"http://iconclass.org/52A51(+4)"
+              ,"http://iconclass.org/92C2"
+              ,"http://iconclass.org/92C211(+0)"
+              ,"http://iconclass.org/92C28(HELMET)"
+              ,"http://iconclass.org/92C28(LANCE)"
+              ,"http://iconclass.org/92C28(OLIVE-TREE)"
+              ,"http://iconclass.org/92L1"
+              ,"http://iconclass.org/92L111(+0)"
+              ],
+          "associatedMedia": [
+    "http://www.emblems.arts.gla.ac.uk/alciato/emblem.php?id=A46a075"
+     ], "hasPart": {
+                  "@type": "VisualArtwork",
+                  "artform": "emblem pictura",
+                  "thumbnailUrl": "http://emblemimages.library.illinois.edu/A46a/_access/pictura/A46a075.jpg",
+                  "associatedMedia": [ "http://www.emblems.arts.gla.ac.uk/alciato/images/pic_l/A46a075.jpg"]             
+      } } 

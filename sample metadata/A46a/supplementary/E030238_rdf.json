@@ -1,0 +1,41 @@
+
+      {
+   "@context": ["http://schema.org",
+    {"associatedMedia": {
+      "@id": "http://schema.org/associatedMedia",
+      "@container": "@list"
+    }    }
+  ],
+   "@id": "http://emblematica.library.illinois.edu/detail/emblem/A46a039",
+   "sameAs": ["http://hdl.handle.net/10111/EmblemRegistry:E030238"],
+   "@type": "CreativeWork",
+   "name": [
+{"@language" : "http://id.loc.gov/vocabulary/iso639-1/la",
+"@value" : "Buxus."}
+],
+    "thumbnailUrl": "http://emblemimages.library.illinois.edu/A46a/_access/emblem/A46a039.jpg",
+    "isPartOf": "http://emblematica.library.illinois.edu/detail/book/A46a",
+   "dateCreated": "1546",
+   "genre": "http://vocab.getty.edu/page/aat/300123040",
+   "about": [
+"http://iconclass.org/25G13"
+              ,"http://iconclass.org/25G3(+351)"
+              ,"http://iconclass.org/25G31(BOX)(+1)"
+              ,"http://iconclass.org/25H1124"
+              ,"http://iconclass.org/25H113"
+              ,"http://iconclass.org/25I3"
+              ,"http://iconclass.org/26A"
+              ,"http://iconclass.org/33C2"
+              ,"http://iconclass.org/41A16"
+              ,"http://iconclass.org/41A672"
+              ,"http://iconclass.org/48C7353"
+              ,"http://iconclass.org/56B1(+4)"
+              ],
+          "associatedMedia": [
+    "http://www.emblems.arts.gla.ac.uk/alciato/emblem.php?id=A46a039"
+     ], "hasPart": {
+                  "@type": "VisualArtwork",
+                  "artform": "emblem pictura",
+                  "thumbnailUrl": "http://emblemimages.library.illinois.edu/A46a/_access/pictura/A46a039.jpg",
+                  "associatedMedia": [ "http://www.emblems.arts.gla.ac.uk/alciato/images/pic_l/A46a039.jpg"]             
+      } } 

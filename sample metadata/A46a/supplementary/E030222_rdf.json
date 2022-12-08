@@ -1,0 +1,53 @@
+
+      {
+   "@context": ["http://schema.org",
+    {"associatedMedia": {
+      "@id": "http://schema.org/associatedMedia",
+      "@container": "@list"
+    }    }
+  ],
+   "@id": "http://emblematica.library.illinois.edu/detail/emblem/A46a023",
+   "sameAs": ["http://hdl.handle.net/10111/EmblemRegistry:E030222"],
+   "@type": "CreativeWork",
+   "name": [
+{"@language" : "http://id.loc.gov/vocabulary/iso639-1/la",
+"@value" : "Insani gladius."}
+],
+    "thumbnailUrl": "http://emblemimages.library.illinois.edu/A46a/_access/emblem/A46a023.jpg",
+    "isPartOf": "http://emblematica.library.illinois.edu/detail/book/A46a",
+   "dateCreated": "1546",
+   "genre": "http://vocab.getty.edu/page/aat/300123040",
+   "about": [
+"http://iconclass.org/25H13"
+              ,"http://iconclass.org/25H23"
+              ,"http://iconclass.org/25I12"
+              ,"http://iconclass.org/31A2321"
+              ,"http://iconclass.org/31A2511(+933)"
+              ,"http://iconclass.org/31A2512(+933)"
+              ,"http://iconclass.org/31A27112(+9225)"
+              ,"http://iconclass.org/31A464"
+              ,"http://iconclass.org/31D14"
+              ,"http://iconclass.org/32B311(GREEKS)"
+              ,"http://iconclass.org/41D233(+81)"
+              ,"http://iconclass.org/45C13(SWORD)(+63)"
+              ,"http://iconclass.org/45C19(SHIELD)"
+              ,"http://iconclass.org/45C22"
+              ,"http://iconclass.org/45C221"
+              ,"http://iconclass.org/47I212(+939):31A236"
+              ,"http://iconclass.org/47I212(+952)"
+              ,"http://iconclass.org/47I212(+962)"
+              ,"http://iconclass.org/47I212(+963)"
+              ,"http://iconclass.org/52AA511(+4)"
+              ,"http://iconclass.org/56E3(+4)"
+              ,"http://iconclass.org/94G62"
+              ,"http://iconclass.org/95A(AJAX THE GREAT)4"
+              ,"http://iconclass.org/95A(ULYSSES)"
+              ],
+          "associatedMedia": [
+    "http://www.emblems.arts.gla.ac.uk/alciato/emblem.php?id=A46a023"
+     ], "hasPart": {
+                  "@type": "VisualArtwork",
+                  "artform": "emblem pictura",
+                  "thumbnailUrl": "http://emblemimages.library.illinois.edu/A46a/_access/pictura/A46a023.jpg",
+                  "associatedMedia": [ "http://www.emblems.arts.gla.ac.uk/alciato/images/pic_l/A46a023.jpg"]             
+      } } 

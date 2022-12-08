@@ -1,0 +1,44 @@
+
+      {
+   "@context": ["http://schema.org",
+    {"associatedMedia": {
+      "@id": "http://schema.org/associatedMedia",
+      "@container": "@list"
+    }    }
+  ],
+   "@id": "http://emblematica.library.illinois.edu/detail/emblem/A46a026",
+   "sameAs": ["http://hdl.handle.net/10111/EmblemRegistry:E030225"],
+   "@type": "CreativeWork",
+   "name": [
+{"@language" : "http://id.loc.gov/vocabulary/iso639-1/la",
+"@value" : "In nothos."}
+],
+    "thumbnailUrl": "http://emblemimages.library.illinois.edu/A46a/_access/emblem/A46a026.jpg",
+    "isPartOf": "http://emblematica.library.illinois.edu/detail/book/A46a",
+   "dateCreated": "1546",
+   "genre": "http://vocab.getty.edu/page/aat/300123040",
+   "about": [
+"http://iconclass.org/24D"
+              ,"http://iconclass.org/24D211"
+              ,"http://iconclass.org/26A"
+              ,"http://iconclass.org/31A2513(+933)"
+              ,"http://iconclass.org/31A27633"
+              ,"http://iconclass.org/31AA2364(+0)"
+              ,"http://iconclass.org/31D1111"
+              ,"http://iconclass.org/31D15"
+              ,"http://iconclass.org/41D23"
+              ,"http://iconclass.org/41D27"
+              ,"http://iconclass.org/41D9"
+              ,"http://iconclass.org/42A311(+0)"
+              ,"http://iconclass.org/42B360"
+              ,"http://iconclass.org/94L1211(+0)"
+              ,"http://iconclass.org/94L7"
+              ],
+          "associatedMedia": [
+    "http://www.emblems.arts.gla.ac.uk/alciato/emblem.php?id=A46a026"
+     ], "hasPart": {
+                  "@type": "VisualArtwork",
+                  "artform": "emblem pictura",
+                  "thumbnailUrl": "http://emblemimages.library.illinois.edu/A46a/_access/pictura/A46a026.jpg",
+                  "associatedMedia": [ "http://www.emblems.arts.gla.ac.uk/alciato/images/pic_l/A46a026.jpg"]             
+      } } 

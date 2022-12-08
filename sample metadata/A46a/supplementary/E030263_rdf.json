@@ -1,0 +1,46 @@
+
+      {
+   "@context": ["http://schema.org",
+    {"associatedMedia": {
+      "@id": "http://schema.org/associatedMedia",
+      "@container": "@list"
+    }    }
+  ],
+   "@id": "http://emblematica.library.illinois.edu/detail/emblem/A46a064",
+   "sameAs": ["http://hdl.handle.net/10111/EmblemRegistry:E030263"],
+   "@type": "CreativeWork",
+   "name": [
+{"@language" : "http://id.loc.gov/vocabulary/iso639-1/la",
+"@value" : "Invidia."}
+],
+    "thumbnailUrl": "http://emblemimages.library.illinois.edu/A46a/_access/emblem/A46a064.jpg",
+    "isPartOf": "http://emblematica.library.illinois.edu/detail/book/A46a",
+   "dateCreated": "1546",
+   "genre": "http://vocab.getty.edu/page/aat/300123040",
+   "about": [
+"http://iconclass.org/11N32"
+              ,"http://iconclass.org/25F42(+5253)"
+              ,"http://iconclass.org/25G(+222)"
+              ,"http://iconclass.org/25G3(+21)"
+              ,"http://iconclass.org/25H112"
+              ,"http://iconclass.org/25H114"
+              ,"http://iconclass.org/25I12"
+              ,"http://iconclass.org/25I5"
+              ,"http://iconclass.org/31A(+82)"
+              ,"http://iconclass.org/31A2352"
+              ,"http://iconclass.org/31A25161(+933)"
+              ,"http://iconclass.org/31A2531"
+              ,"http://iconclass.org/31AA2221"
+              ,"http://iconclass.org/31B6214"
+              ,"http://iconclass.org/31B62323"
+              ,"http://iconclass.org/41D2339"
+              ,"http://iconclass.org/41D263"
+              ],
+          "associatedMedia": [
+    "http://www.emblems.arts.gla.ac.uk/alciato/emblem.php?id=A46a064"
+     ], "hasPart": {
+                  "@type": "VisualArtwork",
+                  "artform": "emblem pictura",
+                  "thumbnailUrl": "http://emblemimages.library.illinois.edu/A46a/_access/pictura/A46a064.jpg",
+                  "associatedMedia": [ "http://www.emblems.arts.gla.ac.uk/alciato/images/pic_l/A46a064.jpg"]             
+      } } 

@@ -1,0 +1,69 @@
+
+      {
+   "@context": ["http://schema.org",
+    {"associatedMedia": {
+      "@id": "http://schema.org/associatedMedia",
+      "@container": "@list"
+    }    }
+  ],
+   "@id": "http://emblematica.library.illinois.edu/detail/emblem/A46a056",
+   "sameAs": ["http://hdl.handle.net/10111/EmblemRegistry:E030255"],
+   "@type": "CreativeWork",
+   "name": [
+{"@language" : "http://id.loc.gov/vocabulary/iso639-1/la",
+"@value" : "In colores."}
+],
+    "thumbnailUrl": "http://emblemimages.library.illinois.edu/A46a/_access/emblem/A46a056.jpg",
+    "isPartOf": "http://emblematica.library.illinois.edu/detail/book/A46a",
+   "dateCreated": "1546",
+   "genre": "http://vocab.getty.edu/page/aat/300123040",
+   "about": [
+"http://iconclass.org/11N34"
+              ,"http://iconclass.org/11P3121"
+              ,"http://iconclass.org/11P315"
+              ,"http://iconclass.org/14A"
+              ,"http://iconclass.org/22C4(BLACK):42E411"
+              ,"http://iconclass.org/22C4(BLACK):56BB1(+4)"
+              ,"http://iconclass.org/22C4(BLUE):14A1"
+              ,"http://iconclass.org/22C4(BLUE):46C2711"
+              ,"http://iconclass.org/22C4(GOLDEN YELLOW):33C2"
+              ,"http://iconclass.org/22C4(GOLDEN YELLOW):33C52"
+              ,"http://iconclass.org/22C4(GOLDEN YELLOW):55CC11(+4)"
+              ,"http://iconclass.org/22C4(GREEN):56D1(+4)"
+              ,"http://iconclass.org/22C4(RED):46A124"
+              ,"http://iconclass.org/22C4(RED):57A4(+4)"
+              ,"http://iconclass.org/22C4(RUSSET):31A415"
+              ,"http://iconclass.org/22C4(TAWNY YELLOW):57AA76(+4)"
+              ,"http://iconclass.org/22C4(VIOLET):56F12(+4)"
+              ,"http://iconclass.org/22C4(WHITE):11P3121"
+              ,"http://iconclass.org/22C4(WHITE):57A612(+4)"
+              ,"http://iconclass.org/22C40"
+              ,"http://iconclass.org/25G(+32)"
+              ,"http://iconclass.org/25G13"
+              ,"http://iconclass.org/25G4(+32)"
+              ,"http://iconclass.org/31A2211"
+              ,"http://iconclass.org/31D11221"
+              ,"http://iconclass.org/33C2"
+              ,"http://iconclass.org/33C52"
+              ,"http://iconclass.org/33C8"
+              ,"http://iconclass.org/4.20E+24"
+              ,"http://iconclass.org/42E131"
+              ,"http://iconclass.org/43B14"
+              ,"http://iconclass.org/45B"
+              ,"http://iconclass.org/45D323"
+              ,"http://iconclass.org/46A15"
+              ,"http://iconclass.org/56D1"
+              ,"http://iconclass.org/56F22"
+              ,"http://iconclass.org/57A631"
+              ,"http://iconclass.org/57AA76"
+              ,"http://iconclass.org/58A3"
+              ,"http://iconclass.org/92D1916"
+              ],
+          "associatedMedia": [
+    "http://www.emblems.arts.gla.ac.uk/alciato/emblem.php?id=A46a056"
+     ], "hasPart": {
+                  "@type": "VisualArtwork",
+                  "artform": "emblem pictura",
+                  "thumbnailUrl": "http://emblemimages.library.illinois.edu/A46a/_access/pictura/A46a056.jpg",
+                  "associatedMedia": [ "http://www.emblems.arts.gla.ac.uk/alciato/images/pic_l/A46a056.jpg"]             
+      } } 

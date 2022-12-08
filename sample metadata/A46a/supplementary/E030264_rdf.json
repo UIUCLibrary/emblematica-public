@@ -1,0 +1,46 @@
+
+      {
+   "@context": ["http://schema.org",
+    {"associatedMedia": {
+      "@id": "http://schema.org/associatedMedia",
+      "@container": "@list"
+    }    }
+  ],
+   "@id": "http://emblematica.library.illinois.edu/detail/emblem/A46a065",
+   "sameAs": ["http://hdl.handle.net/10111/EmblemRegistry:E030264"],
+   "@type": "CreativeWork",
+   "name": [
+{"@language" : "http://id.loc.gov/vocabulary/iso639-1/la",
+"@value" : "Avaritia."}
+],
+    "thumbnailUrl": "http://emblemimages.library.illinois.edu/A46a/_access/emblem/A46a065.jpg",
+    "isPartOf": "http://emblematica.library.illinois.edu/detail/book/A46a",
+   "dateCreated": "1546",
+   "genre": "http://vocab.getty.edu/page/aat/300123040",
+   "about": [
+"http://iconclass.org/11N34"
+              ,"http://iconclass.org/21D"
+              ,"http://iconclass.org/25G3(APPLE-TREE)(+34)"
+              ,"http://iconclass.org/25H217"
+              ,"http://iconclass.org/25I12"
+              ,"http://iconclass.org/25I6"
+              ,"http://iconclass.org/31A2511"
+              ,"http://iconclass.org/31A2774(+0)"
+              ,"http://iconclass.org/31B6211"
+              ,"http://iconclass.org/31B6233"
+              ,"http://iconclass.org/31D14(+89)"
+              ,"http://iconclass.org/31EE23111"
+              ,"http://iconclass.org/41C129"
+              ,"http://iconclass.org/54F14"
+              ,"http://iconclass.org/55B1"
+              ,"http://iconclass.org/55CC11(+4)"
+              ,"http://iconclass.org/9.30E+82"
+              ],
+          "associatedMedia": [
+    "http://www.emblems.arts.gla.ac.uk/alciato/emblem.php?id=A46a065"
+     ], "hasPart": {
+                  "@type": "VisualArtwork",
+                  "artform": "emblem pictura",
+                  "thumbnailUrl": "http://emblemimages.library.illinois.edu/A46a/_access/pictura/A46a065.jpg",
+                  "associatedMedia": [ "http://www.emblems.arts.gla.ac.uk/alciato/images/pic_l/A46a065.jpg"]             
+      } } 

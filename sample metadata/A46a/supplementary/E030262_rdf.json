@@ -1,0 +1,44 @@
+
+      {
+   "@context": ["http://schema.org",
+    {"associatedMedia": {
+      "@id": "http://schema.org/associatedMedia",
+      "@container": "@list"
+    }    }
+  ],
+   "@id": "http://emblematica.library.illinois.edu/detail/emblem/A46a063",
+   "sameAs": ["http://hdl.handle.net/10111/EmblemRegistry:E030262"],
+   "@type": "CreativeWork",
+   "name": [
+{"@language" : "http://id.loc.gov/vocabulary/iso639-1/la",
+"@value" : "Desidia."}
+],
+    "thumbnailUrl": "http://emblemimages.library.illinois.edu/A46a/_access/emblem/A46a063.jpg",
+    "isPartOf": "http://emblematica.library.illinois.edu/detail/book/A46a",
+   "dateCreated": "1546",
+   "genre": "http://vocab.getty.edu/page/aat/300123040",
+   "about": [
+"http://iconclass.org/11N37"
+              ,"http://iconclass.org/11P31521"
+              ,"http://iconclass.org/12A54(ESSENE)"
+              ,"http://iconclass.org/24D1"
+              ,"http://iconclass.org/24F1"
+              ,"http://iconclass.org/31A2352"
+              ,"http://iconclass.org/41A775"
+              ,"http://iconclass.org/41B121"
+              ,"http://iconclass.org/41B32(+1)"
+              ,"http://iconclass.org/41D212"
+              ,"http://iconclass.org/48C162"
+              ,"http://iconclass.org/52DD1"
+              ,"http://iconclass.org/54DD2(+4)"
+              ,"http://iconclass.org/57AA611"
+              ,"http://iconclass.org/57AA621"
+              ],
+          "associatedMedia": [
+    "http://www.emblems.arts.gla.ac.uk/alciato/emblem.php?id=A46a063"
+     ], "hasPart": {
+                  "@type": "VisualArtwork",
+                  "artform": "emblem pictura",
+                  "thumbnailUrl": "http://emblemimages.library.illinois.edu/A46a/_access/pictura/A46a063.jpg",
+                  "associatedMedia": [ "http://www.emblems.arts.gla.ac.uk/alciato/images/pic_l/A46a063.jpg"]             
+      } } 

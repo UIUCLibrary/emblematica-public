@@ -1,0 +1,43 @@
+
+      {
+   "@context": ["http://schema.org",
+    {"associatedMedia": {
+      "@id": "http://schema.org/associatedMedia",
+      "@container": "@list"
+    }    }
+  ],
+   "@id": "http://emblematica.library.illinois.edu/detail/emblem/A46a008",
+   "sameAs": ["http://hdl.handle.net/10111/EmblemRegistry:E030207"],
+   "@type": "CreativeWork",
+   "name": [
+{"@language" : "http://id.loc.gov/vocabulary/iso639-1/la",
+"@value" : "Prudentes."}
+],
+    "thumbnailUrl": "http://emblemimages.library.illinois.edu/A46a/_access/emblem/A46a008.jpg",
+    "isPartOf": "http://emblematica.library.illinois.edu/detail/book/A46a",
+   "dateCreated": "1546",
+   "genre": "http://vocab.getty.edu/page/aat/300123040",
+   "about": [
+"http://iconclass.org/11M41"
+              ,"http://iconclass.org/25G11"
+              ,"http://iconclass.org/25H112"
+              ,"http://iconclass.org/25I12"
+              ,"http://iconclass.org/26A"
+              ,"http://iconclass.org/31A2352"
+              ,"http://iconclass.org/31A442(+41)"
+              ,"http://iconclass.org/31A534"
+              ,"http://iconclass.org/31D14"
+              ,"http://iconclass.org/41A3281"
+              ,"http://iconclass.org/41D9"
+              ,"http://iconclass.org/52A24(+4)"
+              ,"http://iconclass.org/96A128(JANUS' HEAD)"
+              ,"http://iconclass.org/96A128(KEY)"
+              ],
+          "associatedMedia": [
+    "http://www.emblems.arts.gla.ac.uk/alciato/emblem.php?id=A46a008"
+     ], "hasPart": {
+                  "@type": "VisualArtwork",
+                  "artform": "emblem pictura",
+                  "thumbnailUrl": "http://emblemimages.library.illinois.edu/A46a/_access/pictura/A46a008.jpg",
+                  "associatedMedia": [ "http://www.emblems.arts.gla.ac.uk/alciato/images/pic_l/A46a008.jpg"]             
+      } } 

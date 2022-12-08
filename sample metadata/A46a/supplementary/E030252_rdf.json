@@ -1,0 +1,43 @@
+
+      {
+   "@context": ["http://schema.org",
+    {"associatedMedia": {
+      "@id": "http://schema.org/associatedMedia",
+      "@container": "@list"
+    }    }
+  ],
+   "@id": "http://emblematica.library.illinois.edu/detail/emblem/A46a053",
+   "sameAs": ["http://hdl.handle.net/10111/EmblemRegistry:E030252"],
+   "@type": "CreativeWork",
+   "name": [
+{"@language" : "http://id.loc.gov/vocabulary/iso639-1/la",
+"@value" : "Pe^ parebe^n; ti derexas; ti moi deon, ouk etelesthai;"}
+],
+    "thumbnailUrl": "http://emblemimages.library.illinois.edu/A46a/_access/emblem/A46a053.jpg",
+    "isPartOf": "http://emblematica.library.illinois.edu/detail/book/A46a",
+   "dateCreated": "1546",
+   "genre": "http://vocab.getty.edu/page/aat/300123040",
+   "about": [
+"http://iconclass.org/25D12"
+              ,"http://iconclass.org/25F37(CRANE)(+5245)"
+              ,"http://iconclass.org/25F37(CRANE)(+53)"
+              ,"http://iconclass.org/25G13"
+              ,"http://iconclass.org/25H1124"
+              ,"http://iconclass.org/25H113"
+              ,"http://iconclass.org/25I12"
+              ,"http://iconclass.org/32B311(ITALIANS)"
+              ,"http://iconclass.org/52A53(+4)"
+              ,"http://iconclass.org/54AA43"
+              ,"http://iconclass.org/57A2(+4)"
+              ,"http://iconclass.org/57AA2(+4)"
+              ,"http://iconclass.org/58B21(+4)"
+              ,"http://iconclass.org/98B(PYTHAGORAS)"
+              ],
+          "associatedMedia": [
+    "http://www.emblems.arts.gla.ac.uk/alciato/emblem.php?id=A46a053"
+     ], "hasPart": {
+                  "@type": "VisualArtwork",
+                  "artform": "emblem pictura",
+                  "thumbnailUrl": "http://emblemimages.library.illinois.edu/A46a/_access/pictura/A46a053.jpg",
+                  "associatedMedia": [ "http://www.emblems.arts.gla.ac.uk/alciato/images/pic_l/A46a053.jpg"]             
+      } } 

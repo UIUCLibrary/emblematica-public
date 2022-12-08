@@ -1,0 +1,43 @@
+
+      {
+   "@context": ["http://schema.org",
+    {"associatedMedia": {
+      "@id": "http://schema.org/associatedMedia",
+      "@container": "@list"
+    }    }
+  ],
+   "@id": "http://emblematica.library.illinois.edu/detail/emblem/A46a086",
+   "sameAs": ["http://hdl.handle.net/10111/EmblemRegistry:E030285"],
+   "@type": "CreativeWork",
+   "name": [
+{"@language" : "http://id.loc.gov/vocabulary/iso639-1/la",
+"@value" : "Nunquam procrastinandum."}
+],
+    "thumbnailUrl": "http://emblemimages.library.illinois.edu/A46a/_access/emblem/A46a086.jpg",
+    "isPartOf": "http://emblematica.library.illinois.edu/detail/book/A46a",
+   "dateCreated": "1546",
+   "genre": "http://vocab.getty.edu/page/aat/300123040",
+   "about": [
+"http://iconclass.org/25F24(ELK)(+5245)"
+              ,"http://iconclass.org/25F24(ELK)(+552)"
+              ,"http://iconclass.org/25FF231"
+              ,"http://iconclass.org/25G(+15)"
+              ,"http://iconclass.org/34(+912)"
+              ,"http://iconclass.org/41A12"
+              ,"http://iconclass.org/44B191"
+              ,"http://iconclass.org/46A122(ALCIATUS)3"
+              ,"http://iconclass.org/49L71"
+              ,"http://iconclass.org/51FF521"
+              ,"http://iconclass.org/51M11(+4)"
+              ,"http://iconclass.org/61B2(ALCIATUS, ANDREAS)3"
+              ,"http://iconclass.org/86(MHDEN ANABALLOMENOS)"
+              ,"http://iconclass.org/98B(ALEXANDER THE GREAT)"
+              ],
+          "associatedMedia": [
+    "http://www.emblems.arts.gla.ac.uk/alciato/emblem.php?id=A46a086"
+     ], "hasPart": {
+                  "@type": "VisualArtwork",
+                  "artform": "emblem pictura",
+                  "thumbnailUrl": "http://emblemimages.library.illinois.edu/A46a/_access/pictura/A46a086.jpg",
+                  "associatedMedia": [ "http://www.emblems.arts.gla.ac.uk/alciato/images/pic_l/A46a086.jpg"]             
+      } } 

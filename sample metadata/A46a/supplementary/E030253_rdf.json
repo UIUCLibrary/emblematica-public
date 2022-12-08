@@ -1,0 +1,43 @@
+
+      {
+   "@context": ["http://schema.org",
+    {"associatedMedia": {
+      "@id": "http://schema.org/associatedMedia",
+      "@container": "@list"
+    }    }
+  ],
+   "@id": "http://emblematica.library.illinois.edu/detail/emblem/A46a054",
+   "sameAs": ["http://hdl.handle.net/10111/EmblemRegistry:E030253"],
+   "@type": "CreativeWork",
+   "name": [
+{"@language" : "http://id.loc.gov/vocabulary/iso639-1/la",
+"@value" : "Anechou kai apechou."}
+],
+    "thumbnailUrl": "http://emblemimages.library.illinois.edu/A46a/_access/emblem/A46a054.jpg",
+    "isPartOf": "http://emblematica.library.illinois.edu/detail/book/A46a",
+   "dateCreated": "1546",
+   "genre": "http://vocab.getty.edu/page/aat/300123040",
+   "about": [
+"http://iconclass.org/25G13"
+              ,"http://iconclass.org/25G3(+21)"
+              ,"http://iconclass.org/34(+8)"
+              ,"http://iconclass.org/46C14111"
+              ,"http://iconclass.org/47D8(CHAIN)"
+              ,"http://iconclass.org/47D8(ROPE)"
+              ,"http://iconclass.org/47I2111"
+              ,"http://iconclass.org/47I2112"
+              ,"http://iconclass.org/47I228"
+              ,"http://iconclass.org/54A44(+4)"
+              ,"http://iconclass.org/54F"
+              ,"http://iconclass.org/57A72(+4)"
+              ,"http://iconclass.org/59CC3"
+              ,"http://iconclass.org/98B(EPICTETUS)"
+              ],
+          "associatedMedia": [
+    "http://www.emblems.arts.gla.ac.uk/alciato/emblem.php?id=A46a054"
+     ], "hasPart": {
+                  "@type": "VisualArtwork",
+                  "artform": "emblem pictura",
+                  "thumbnailUrl": "http://emblemimages.library.illinois.edu/A46a/_access/pictura/A46a054.jpg",
+                  "associatedMedia": [ "http://www.emblems.arts.gla.ac.uk/alciato/images/pic_l/A46a054.jpg"]             
+      } } 

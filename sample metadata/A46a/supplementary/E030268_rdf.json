@@ -1,0 +1,42 @@
+
+      {
+   "@context": ["http://schema.org",
+    {"associatedMedia": {
+      "@id": "http://schema.org/associatedMedia",
+      "@container": "@list"
+    }    }
+  ],
+   "@id": "http://emblematica.library.illinois.edu/detail/emblem/A46a069",
+   "sameAs": ["http://hdl.handle.net/10111/EmblemRegistry:E030268"],
+   "@type": "CreativeWork",
+   "name": [
+{"@language" : "http://id.loc.gov/vocabulary/iso639-1/la",
+"@value" : "Aemulatio impar."}
+],
+    "thumbnailUrl": "http://emblemimages.library.illinois.edu/A46a/_access/emblem/A46a069.jpg",
+    "isPartOf": "http://emblematica.library.illinois.edu/detail/book/A46a",
+   "dateCreated": "1546",
+   "genre": "http://vocab.getty.edu/page/aat/300123040",
+   "about": [
+"http://iconclass.org/25F(+452)"
+              ,"http://iconclass.org/25F33(FALCON)(+53)"
+              ,"http://iconclass.org/25F33(KITE)(+53)"
+              ,"http://iconclass.org/25F62(+63)"
+              ,"http://iconclass.org/25F62(BREAM)(+452)"
+              ,"http://iconclass.org/25F62(MULLET)(+452)"
+              ,"http://iconclass.org/25G3(+21)"
+              ,"http://iconclass.org/26A"
+              ,"http://iconclass.org/47I4251"
+              ,"http://iconclass.org/51BB3(+4):54EE33(+4)"
+              ,"http://iconclass.org/57AA6122(+4)"
+              ,"http://iconclass.org/61B2(ALCIATUS, Andreas)3"
+              ,"http://iconclass.org/61B2(OENOCRATES)3"
+              ],
+          "associatedMedia": [
+    "http://www.emblems.arts.gla.ac.uk/alciato/emblem.php?id=A46a069"
+     ], "hasPart": {
+                  "@type": "VisualArtwork",
+                  "artform": "emblem pictura",
+                  "thumbnailUrl": "http://emblemimages.library.illinois.edu/A46a/_access/pictura/A46a069.jpg",
+                  "associatedMedia": [ "http://www.emblems.arts.gla.ac.uk/alciato/images/pic_l/A46a069.jpg"]             
+      } } 

@@ -1,0 +1,42 @@
+
+      {
+   "@context": ["http://schema.org",
+    {"associatedMedia": {
+      "@id": "http://schema.org/associatedMedia",
+      "@container": "@list"
+    }    }
+  ],
+   "@id": "http://emblematica.library.illinois.edu/detail/emblem/A46a052",
+   "sameAs": ["http://hdl.handle.net/10111/EmblemRegistry:E030251"],
+   "@type": "CreativeWork",
+   "name": [
+{"@language" : "http://id.loc.gov/vocabulary/iso639-1/la",
+"@value" : "Ne^phe, kai memne^sapistein. arthra tauta to^n phreno^n."}
+],
+    "thumbnailUrl": "http://emblemimages.library.illinois.edu/A46a/_access/emblem/A46a052.jpg",
+    "isPartOf": "http://emblematica.library.illinois.edu/detail/book/A46a",
+   "dateCreated": "1546",
+   "genre": "http://vocab.getty.edu/page/aat/300123040",
+   "about": [
+"http://iconclass.org/25G4(PENNYROYAL)(+1)"
+              ,"http://iconclass.org/25I12"
+              ,"http://iconclass.org/31A2212"
+              ,"http://iconclass.org/31A2245"
+              ,"http://iconclass.org/31A2763(+0)"
+              ,"http://iconclass.org/41D2662"
+              ,"http://iconclass.org/52A24(+4)"
+              ,"http://iconclass.org/52A51"
+              ,"http://iconclass.org/52AA51"
+              ,"http://iconclass.org/54A2(+4)"
+              ,"http://iconclass.org/54A43(+4)"
+              ,"http://iconclass.org/98B(EPICHARMUS)3"
+              ,"http://iconclass.org/98B(HERACLITUS)3"
+              ],
+          "associatedMedia": [
+    "http://www.emblems.arts.gla.ac.uk/alciato/emblem.php?id=A46a052"
+     ], "hasPart": {
+                  "@type": "VisualArtwork",
+                  "artform": "emblem pictura",
+                  "thumbnailUrl": "http://emblemimages.library.illinois.edu/A46a/_access/pictura/A46a052.jpg",
+                  "associatedMedia": [ "http://www.emblems.arts.gla.ac.uk/alciato/images/pic_l/A46a052.jpg"]             
+      } } 

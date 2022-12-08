@@ -1,0 +1,58 @@
+
+      {
+   "@context": ["http://schema.org",
+    {"associatedMedia": {
+      "@id": "http://schema.org/associatedMedia",
+      "@container": "@list"
+    }    }
+  ],
+   "@id": "http://emblematica.library.illinois.edu/detail/emblem/A46a058",
+   "sameAs": ["http://hdl.handle.net/10111/EmblemRegistry:E030257"],
+   "@type": "CreativeWork",
+   "name": [
+{"@language" : "http://id.loc.gov/vocabulary/iso639-1/la",
+"@value" : "Dicta VII. sapientium."}
+],
+    "thumbnailUrl": "http://emblemimages.library.illinois.edu/A46a/_access/emblem/A46a058.jpg",
+    "isPartOf": "http://emblematica.library.illinois.edu/detail/book/A46a",
+   "dateCreated": "1546",
+   "genre": "http://vocab.getty.edu/page/aat/300123040",
+   "about": [
+"http://iconclass.org/25G4(CORIANDER)(+2)"
+              ,"http://iconclass.org/25G4(FENNEL)(+2)"
+              ,"http://iconclass.org/25G4(PENNYROYAL)"
+              ,"http://iconclass.org/25G4(SENNA)(+2)"
+              ,"http://iconclass.org/25H114"
+              ,"http://iconclass.org/25I12"
+              ,"http://iconclass.org/31A2512"
+              ,"http://iconclass.org/31A511"
+              ,"http://iconclass.org/31A51111"
+              ,"http://iconclass.org/31B6(+933)"
+              ,"http://iconclass.org/31B70"
+              ,"http://iconclass.org/31D15"
+              ,"http://iconclass.org/32B311(SARDINIANS)"
+              ,"http://iconclass.org/41D211"
+              ,"http://iconclass.org/41D2332"
+              ,"http://iconclass.org/43C13(+432)"
+              ,"http://iconclass.org/46B3311"
+              ,"http://iconclass.org/46C131"
+              ,"http://iconclass.org/51FF5(+4)"
+              ,"http://iconclass.org/52A51(+4)"
+              ,"http://iconclass.org/52A53(+4)"
+              ,"http://iconclass.org/53B3(+4)"
+              ,"http://iconclass.org/54A43(+4)"
+              ,"http://iconclass.org/54AA5(+4)"
+              ,"http://iconclass.org/57AA6142(+4)"
+              ,"http://iconclass.org/58BB1(+4)"
+              ,"http://iconclass.org/92B1"
+              ,"http://iconclass.org/96A16"
+              ,"http://iconclass.org/98B(SEVEN SAGES)(+1)"
+              ],
+          "associatedMedia": [
+    "http://www.emblems.arts.gla.ac.uk/alciato/emblem.php?id=A46a058"
+     ], "hasPart": {
+                  "@type": "VisualArtwork",
+                  "artform": "emblem pictura",
+                  "thumbnailUrl": "http://emblemimages.library.illinois.edu/A46a/_access/pictura/A46a058.jpg",
+                  "associatedMedia": [ "http://www.emblems.arts.gla.ac.uk/alciato/images/pic_l/A46a058.jpg"]             
+      } } 

@@ -1,0 +1,39 @@
+
+      {
+   "@context": ["http://schema.org",
+    {"associatedMedia": {
+      "@id": "http://schema.org/associatedMedia",
+      "@container": "@list"
+    }    }
+  ],
+   "@id": "http://emblematica.library.illinois.edu/detail/emblem/A46a032",
+   "sameAs": ["http://hdl.handle.net/10111/EmblemRegistry:E030231"],
+   "@type": "CreativeWork",
+   "name": [
+{"@language" : "http://id.loc.gov/vocabulary/iso639-1/la",
+"@value" : "Quercus."}
+],
+    "thumbnailUrl": "http://emblemimages.library.illinois.edu/A46a/_access/emblem/A46a032.jpg",
+    "isPartOf": "http://emblematica.library.illinois.edu/detail/book/A46a",
+   "dateCreated": "1546",
+   "genre": "http://vocab.getty.edu/page/aat/300123040",
+   "about": [
+"http://iconclass.org/25G13"
+              ,"http://iconclass.org/25G21(ACORN)"
+              ,"http://iconclass.org/25G3(OAK)(+1)"
+              ,"http://iconclass.org/25G3(OAK)(+34)"
+              ,"http://iconclass.org/25H114"
+              ,"http://iconclass.org/26A"
+              ,"http://iconclass.org/43A(+12)"
+              ,"http://iconclass.org/54B3(+4)"
+              ,"http://iconclass.org/57B11(+4):33A60"
+              ,"http://iconclass.org/92B1"
+              ],
+          "associatedMedia": [
+    "http://www.emblems.arts.gla.ac.uk/alciato/emblem.php?id=A46a032"
+     ], "hasPart": {
+                  "@type": "VisualArtwork",
+                  "artform": "emblem pictura",
+                  "thumbnailUrl": "http://emblemimages.library.illinois.edu/A46a/_access/pictura/A46a032.jpg",
+                  "associatedMedia": [ "http://www.emblems.arts.gla.ac.uk/alciato/images/pic_l/A46a032.jpg"]             
+      } } 

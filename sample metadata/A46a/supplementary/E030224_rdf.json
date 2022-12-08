@@ -1,0 +1,56 @@
+
+      {
+   "@context": ["http://schema.org",
+    {"associatedMedia": {
+      "@id": "http://schema.org/associatedMedia",
+      "@container": "@list"
+    }    }
+  ],
+   "@id": "http://emblematica.library.illinois.edu/detail/emblem/A46a025",
+   "sameAs": ["http://hdl.handle.net/10111/EmblemRegistry:E030224"],
+   "@type": "CreativeWork",
+   "name": [
+{"@language" : "http://id.loc.gov/vocabulary/iso639-1/la",
+"@value" : "XII certamina Herculis"}
+],
+    "thumbnailUrl": "http://emblemimages.library.illinois.edu/A46a/_access/emblem/A46a025.jpg",
+    "isPartOf": "http://emblematica.library.illinois.edu/detail/book/A46a",
+   "dateCreated": "1546",
+   "genre": "http://vocab.getty.edu/page/aat/300123040",
+   "about": [
+"http://iconclass.org/11N34"
+              ,"http://iconclass.org/25F23(LION)(+351)"
+              ,"http://iconclass.org/25G3(+21)"
+              ,"http://iconclass.org/25H1124"
+              ,"http://iconclass.org/25H113"
+              ,"http://iconclass.org/31A"
+              ,"http://iconclass.org/31A231"
+              ,"http://iconclass.org/31A2515(+933)"
+              ,"http://iconclass.org/31A534"
+              ,"http://iconclass.org/31D14"
+              ,"http://iconclass.org/31D15"
+              ,"http://iconclass.org/42D39"
+              ,"http://iconclass.org/44G544"
+              ,"http://iconclass.org/45C12(CLUB)"
+              ,"http://iconclass.org/46B5120"
+              ,"http://iconclass.org/46C1215"
+              ,"http://iconclass.org/49C113"
+              ,"http://iconclass.org/52A51"
+              ,"http://iconclass.org/52B5112"
+              ,"http://iconclass.org/55B1"
+              ,"http://iconclass.org/56E2"
+              ,"http://iconclass.org/57A6(+4)"
+              ,"http://iconclass.org/57AA613"
+              ,"http://iconclass.org/57BB13"
+              ,"http://iconclass.org/59B3"
+              ,"http://iconclass.org/94L30"
+              ,"http://iconclass.org/94L8(LION'S SKIN)"
+              ],
+          "associatedMedia": [
+    "http://www.emblems.arts.gla.ac.uk/alciato/emblem.php?id=A46a025"
+     ], "hasPart": {
+                  "@type": "VisualArtwork",
+                  "artform": "emblem pictura",
+                  "thumbnailUrl": "http://emblemimages.library.illinois.edu/A46a/_access/pictura/A46a025.jpg",
+                  "associatedMedia": [ "http://www.emblems.arts.gla.ac.uk/alciato/images/pic_l/A46a025.jpg"]             
+      } } 

@@ -1,0 +1,41 @@
+
+      {
+   "@context": ["http://schema.org",
+    {"associatedMedia": {
+      "@id": "http://schema.org/associatedMedia",
+      "@container": "@list"
+    }    }
+  ],
+   "@id": "http://emblematica.library.illinois.edu/detail/emblem/A46a031",
+   "sameAs": ["http://hdl.handle.net/10111/EmblemRegistry:E030230"],
+   "@type": "CreativeWork",
+   "name": [
+{"@language" : "http://id.loc.gov/vocabulary/iso639-1/la",
+"@value" : "Cupressus."}
+],
+    "thumbnailUrl": "http://emblemimages.library.illinois.edu/A46a/_access/emblem/A46a031.jpg",
+    "isPartOf": "http://emblematica.library.illinois.edu/detail/book/A46a",
+   "dateCreated": "1546",
+   "genre": "http://vocab.getty.edu/page/aat/300123040",
+   "about": [
+"http://iconclass.org/25G(+27)"
+              ,"http://iconclass.org/25G21"
+              ,"http://iconclass.org/25G3(CYPRESS)(+1)"
+              ,"http://iconclass.org/25G31"
+              ,"http://iconclass.org/25G4(COW PARSLEY)"
+              ,"http://iconclass.org/25H113"
+              ,"http://iconclass.org/25H214"
+              ,"http://iconclass.org/26A"
+              ,"http://iconclass.org/42E38(+0)"
+              ,"http://iconclass.org/46A21"
+              ,"http://iconclass.org/51D4(+4):58AA2(+4)"
+              ,"http://iconclass.org/59C21(+4)"
+              ],
+          "associatedMedia": [
+    "http://www.emblems.arts.gla.ac.uk/alciato/emblem.php?id=A46a031"
+     ], "hasPart": {
+                  "@type": "VisualArtwork",
+                  "artform": "emblem pictura",
+                  "thumbnailUrl": "http://emblemimages.library.illinois.edu/A46a/_access/pictura/A46a031.jpg",
+                  "associatedMedia": [ "http://www.emblems.arts.gla.ac.uk/alciato/images/pic_l/A46a031.jpg"]             
+      } } 

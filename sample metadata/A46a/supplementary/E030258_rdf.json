@@ -1,0 +1,44 @@
+
+      {
+   "@context": ["http://schema.org",
+    {"associatedMedia": {
+      "@id": "http://schema.org/associatedMedia",
+      "@container": "@list"
+    }    }
+  ],
+   "@id": "http://emblematica.library.illinois.edu/detail/emblem/A46a059",
+   "sameAs": ["http://hdl.handle.net/10111/EmblemRegistry:E030258"],
+   "@type": "CreativeWork",
+   "name": [
+{"@language" : "http://id.loc.gov/vocabulary/iso639-1/la",
+"@value" : "Terminus."}
+],
+    "thumbnailUrl": "http://emblemimages.library.illinois.edu/A46a/_access/emblem/A46a059.jpg",
+    "isPartOf": "http://emblematica.library.illinois.edu/detail/book/A46a",
+   "dateCreated": "1546",
+   "genre": "http://vocab.getty.edu/page/aat/300123040",
+   "about": [
+"http://iconclass.org/11A"
+              ,"http://iconclass.org/25G3(+21)"
+              ,"http://iconclass.org/25H114"
+              ,"http://iconclass.org/31A222"
+              ,"http://iconclass.org/31A534"
+              ,"http://iconclass.org/31D16"
+              ,"http://iconclass.org/31F10"
+              ,"http://iconclass.org/41D212"
+              ,"http://iconclass.org/48C24"
+              ,"http://iconclass.org/48C244"
+              ,"http://iconclass.org/49L8"
+              ,"http://iconclass.org/51FF5(+4)"
+              ,"http://iconclass.org/54FF12(+4)"
+              ,"http://iconclass.org/86(NULLI CEDO)"
+              ,"http://iconclass.org/96A16"
+              ],
+          "associatedMedia": [
+    "http://www.emblems.arts.gla.ac.uk/alciato/emblem.php?id=A46a059"
+     ], "hasPart": {
+                  "@type": "VisualArtwork",
+                  "artform": "emblem pictura",
+                  "thumbnailUrl": "http://emblemimages.library.illinois.edu/A46a/_access/pictura/A46a059.jpg",
+                  "associatedMedia": [ "http://www.emblems.arts.gla.ac.uk/alciato/images/pic_l/A46a059.jpg"]             
+      } } 

@@ -1,0 +1,49 @@
+
+      {
+   "@context": ["http://schema.org",
+    {"associatedMedia": {
+      "@id": "http://schema.org/associatedMedia",
+      "@container": "@list"
+    }    }
+  ],
+   "@id": "http://emblematica.library.illinois.edu/detail/emblem/A46a011",
+   "sameAs": ["http://hdl.handle.net/10111/EmblemRegistry:E030210"],
+   "@type": "CreativeWork",
+   "name": [
+{"@language" : "http://id.loc.gov/vocabulary/iso639-1/la",
+"@value" : "In Desciscentes."}
+],
+    "thumbnailUrl": "http://emblemimages.library.illinois.edu/A46a/_access/emblem/A46a011.jpg",
+    "isPartOf": "http://emblematica.library.illinois.edu/detail/book/A46a",
+   "dateCreated": "1546",
+   "genre": "http://vocab.getty.edu/page/aat/300123040",
+   "about": [
+"http://iconclass.org/#52B5111(+4):54DD3(+4)"
+              ,"http://iconclass.org/25G13"
+              ,"http://iconclass.org/25G3(+21)"
+              ,"http://iconclass.org/25H114"
+              ,"http://iconclass.org/25I12"
+              ,"http://iconclass.org/25I5"
+              ,"http://iconclass.org/26A"
+              ,"http://iconclass.org/31A234"
+              ,"http://iconclass.org/41A773"
+              ,"http://iconclass.org/41C6413"
+              ,"http://iconclass.org/41D22"
+              ,"http://iconclass.org/41D23"
+              ,"http://iconclass.org/41D268"
+              ,"http://iconclass.org/47I2142(+939):31A247"
+              ,"http://iconclass.org/47I2142(+95):31A2744"
+              ,"http://iconclass.org/47I221"
+              ,"http://iconclass.org/47I2213"
+              ,"http://iconclass.org/52B5112(+4):54D3(+4)"
+              ,"http://iconclass.org/54FF13(+4)"
+              ,"http://iconclass.org/55C11"
+              ],
+          "associatedMedia": [
+    "http://www.emblems.arts.gla.ac.uk/alciato/emblem.php?id=A46a011"
+     ], "hasPart": {
+                  "@type": "VisualArtwork",
+                  "artform": "emblem pictura",
+                  "thumbnailUrl": "http://emblemimages.library.illinois.edu/A46a/_access/pictura/A46a011.jpg",
+                  "associatedMedia": [ "http://www.emblems.arts.gla.ac.uk/alciato/images/pic_l/A46a011.jpg"]             
+      } } 

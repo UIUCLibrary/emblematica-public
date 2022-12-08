@@ -1,0 +1,40 @@
+
+      {
+   "@context": ["http://schema.org",
+    {"associatedMedia": {
+      "@id": "http://schema.org/associatedMedia",
+      "@container": "@list"
+    }    }
+  ],
+   "@id": "http://emblematica.library.illinois.edu/detail/emblem/A46a033",
+   "sameAs": ["http://hdl.handle.net/10111/EmblemRegistry:E030232"],
+   "@type": "CreativeWork",
+   "name": [
+{"@language" : "http://id.loc.gov/vocabulary/iso639-1/la",
+"@value" : "Laurus."}
+],
+    "thumbnailUrl": "http://emblemimages.library.illinois.edu/A46a/_access/emblem/A46a033.jpg",
+    "isPartOf": "http://emblematica.library.illinois.edu/detail/book/A46a",
+   "dateCreated": "1546",
+   "genre": "http://vocab.getty.edu/page/aat/300123040",
+   "about": [
+"http://iconclass.org/25G3(LAUREL)(+1)"
+              ,"http://iconclass.org/25G3(LAUREL)(+34)"
+              ,"http://iconclass.org/25I12"
+              ,"http://iconclass.org/25I146"
+              ,"http://iconclass.org/26A"
+              ,"http://iconclass.org/32B32"
+              ,"http://iconclass.org/41A7632"
+              ,"http://iconclass.org/45I6110"
+              ,"http://iconclass.org/52E2(+4)"
+              ,"http://iconclass.org/54E42(+4)"
+              ,"http://iconclass.org/61B2(CHARLES V [of Holy Roman Empire])3"
+              ],
+          "associatedMedia": [
+    "http://www.emblems.arts.gla.ac.uk/alciato/emblem.php?id=A46a033"
+     ], "hasPart": {
+                  "@type": "VisualArtwork",
+                  "artform": "emblem pictura",
+                  "thumbnailUrl": "http://emblemimages.library.illinois.edu/A46a/_access/pictura/A46a033.jpg",
+                  "associatedMedia": [ "http://www.emblems.arts.gla.ac.uk/alciato/images/pic_l/A46a033.jpg"]             
+      } } 

@@ -1,0 +1,49 @@
+
+      {
+   "@context": ["http://schema.org",
+    {"associatedMedia": {
+      "@id": "http://schema.org/associatedMedia",
+      "@container": "@list"
+    }    }
+  ],
+   "@id": "http://emblematica.library.illinois.edu/detail/emblem/A46a066",
+   "sameAs": ["http://hdl.handle.net/10111/EmblemRegistry:E030265"],
+   "@type": "CreativeWork",
+   "name": [
+{"@language" : "http://id.loc.gov/vocabulary/iso639-1/la",
+"@value" : "Gula."}
+],
+    "thumbnailUrl": "http://emblemimages.library.illinois.edu/A46a/_access/emblem/A46a066.jpg",
+    "isPartOf": "http://emblematica.library.illinois.edu/detail/book/A46a",
+   "dateCreated": "1546",
+   "genre": "http://vocab.getty.edu/page/aat/300123040",
+   "about": [
+"http://iconclass.org/11N35"
+              ,"http://iconclass.org/25F36(PELICAN)"
+              ,"http://iconclass.org/25F37(GULL)"
+              ,"http://iconclass.org/25G13"
+              ,"http://iconclass.org/25H112"
+              ,"http://iconclass.org/31A"
+              ,"http://iconclass.org/31A(+933)"
+              ,"http://iconclass.org/31A2352"
+              ,"http://iconclass.org/31A2421"
+              ,"http://iconclass.org/31A2513"
+              ,"http://iconclass.org/31A26114"
+              ,"http://iconclass.org/31A444(+13)"
+              ,"http://iconclass.org/31A444(+615)"
+              ,"http://iconclass.org/31A444(+615):25F37(CRANE)(+3)"
+              ,"http://iconclass.org/31A534"
+              ,"http://iconclass.org/31B6(+52)"
+              ,"http://iconclass.org/32A4:11N35"
+              ,"http://iconclass.org/54AA43(+4)"
+              ,"http://iconclass.org/92L17"
+              ,"http://iconclass.org/98B(APICIUS, Marcus Gavius)3"
+              ],
+          "associatedMedia": [
+    "http://www.emblems.arts.gla.ac.uk/alciato/emblem.php?id=A46a066"
+     ], "hasPart": {
+                  "@type": "VisualArtwork",
+                  "artform": "emblem pictura",
+                  "thumbnailUrl": "http://emblemimages.library.illinois.edu/A46a/_access/pictura/A46a066.jpg",
+                  "associatedMedia": [ "http://www.emblems.arts.gla.ac.uk/alciato/images/pic_l/A46a066.jpg"]             
+      } } 

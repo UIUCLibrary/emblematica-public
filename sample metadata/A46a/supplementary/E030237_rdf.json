@@ -1,0 +1,39 @@
+
+      {
+   "@context": ["http://schema.org",
+    {"associatedMedia": {
+      "@id": "http://schema.org/associatedMedia",
+      "@container": "@list"
+    }    }
+  ],
+   "@id": "http://emblematica.library.illinois.edu/detail/emblem/A46a038",
+   "sameAs": ["http://hdl.handle.net/10111/EmblemRegistry:E030237"],
+   "@type": "CreativeWork",
+   "name": [
+{"@language" : "http://id.loc.gov/vocabulary/iso639-1/la",
+"@value" : "Hedera."}
+],
+    "thumbnailUrl": "http://emblemimages.library.illinois.edu/A46a/_access/emblem/A46a038.jpg",
+    "isPartOf": "http://emblematica.library.illinois.edu/detail/book/A46a",
+   "dateCreated": "1546",
+   "genre": "http://vocab.getty.edu/page/aat/300123040",
+   "about": [
+"http://iconclass.org/22C4(GOLD)"
+              ,"http://iconclass.org/22C4(GREEN)"
+              ,"http://iconclass.org/25G4(IVY)(+1)"
+              ,"http://iconclass.org/25G4(IVY)(+34)"
+              ,"http://iconclass.org/41A54"
+              ,"http://iconclass.org/41A625"
+              ,"http://iconclass.org/48C921"
+              ,"http://iconclass.org/54A11"
+              ,"http://iconclass.org/92L18(IVY)"
+              ,"http://iconclass.org/92L32(CISSOS)"
+              ],
+          "associatedMedia": [
+    "http://www.emblems.arts.gla.ac.uk/alciato/emblem.php?id=A46a038"
+     ], "hasPart": {
+                  "@type": "VisualArtwork",
+                  "artform": "emblem pictura",
+                  "thumbnailUrl": "http://emblemimages.library.illinois.edu/A46a/_access/pictura/A46a038.jpg",
+                  "associatedMedia": [ "http://www.emblems.arts.gla.ac.uk/alciato/images/pic_l/A46a038.jpg"]             
+      } } 

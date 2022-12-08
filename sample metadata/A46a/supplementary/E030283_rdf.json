@@ -1,0 +1,46 @@
+
+      {
+   "@context": ["http://schema.org",
+    {"associatedMedia": {
+      "@id": "http://schema.org/associatedMedia",
+      "@container": "@list"
+    }    }
+  ],
+   "@id": "http://emblematica.library.illinois.edu/detail/emblem/A46a084",
+   "sameAs": ["http://hdl.handle.net/10111/EmblemRegistry:E030283"],
+   "@type": "CreativeWork",
+   "name": [
+{"@language" : "http://id.loc.gov/vocabulary/iso639-1/la",
+"@value" : "Opulenti haereditas."}
+],
+    "thumbnailUrl": "http://emblemimages.library.illinois.edu/A46a/_access/emblem/A46a084.jpg",
+    "isPartOf": "http://emblematica.library.illinois.edu/detail/book/A46a",
+   "dateCreated": "1546",
+   "genre": "http://vocab.getty.edu/page/aat/300123040",
+   "about": [
+"http://iconclass.org/25F32(CROW)"
+              ,"http://iconclass.org/25F33(VULTURE)"
+              ,"http://iconclass.org/3.10E+04"
+              ,"http://iconclass.org/31D14(+76)"
+              ,"http://iconclass.org/32B311(GREEKS)"
+              ,"http://iconclass.org/41D28"
+              ,"http://iconclass.org/42E5310"
+              ,"http://iconclass.org/45C13(SWORD)"
+              ,"http://iconclass.org/45C22"
+              ,"http://iconclass.org/45C221"
+              ,"http://iconclass.org/45I52(+1)"
+              ,"http://iconclass.org/46A160"
+              ,"http://iconclass.org/59C22(+4)"
+              ,"http://iconclass.org/61E(TROY)"
+              ,"http://iconclass.org/94C"
+              ,"http://iconclass.org/94F821"
+              ,"http://iconclass.org/94F822"
+              ],
+          "associatedMedia": [
+    "http://www.emblems.arts.gla.ac.uk/alciato/emblem.php?id=A46a084"
+     ], "hasPart": {
+                  "@type": "VisualArtwork",
+                  "artform": "emblem pictura",
+                  "thumbnailUrl": "http://emblemimages.library.illinois.edu/A46a/_access/pictura/A46a084.jpg",
+                  "associatedMedia": [ "http://www.emblems.arts.gla.ac.uk/alciato/images/pic_l/A46a084.jpg"]             
+      } } 

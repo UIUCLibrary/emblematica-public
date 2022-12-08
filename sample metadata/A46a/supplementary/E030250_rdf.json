@@ -1,0 +1,43 @@
+
+      {
+   "@context": ["http://schema.org",
+    {"associatedMedia": {
+      "@id": "http://schema.org/associatedMedia",
+      "@container": "@list"
+    }    }
+  ],
+   "@id": "http://emblematica.library.illinois.edu/detail/emblem/A46a051",
+   "sameAs": ["http://hdl.handle.net/10111/EmblemRegistry:E030250"],
+   "@type": "CreativeWork",
+   "name": [
+{"@language" : "http://id.loc.gov/vocabulary/iso639-1/la",
+"@value" : "Consiliarii Principum."}
+],
+    "thumbnailUrl": "http://emblemimages.library.illinois.edu/A46a/_access/emblem/A46a051.jpg",
+    "isPartOf": "http://emblematica.library.illinois.edu/detail/book/A46a",
+   "dateCreated": "1546",
+   "genre": "http://vocab.getty.edu/page/aat/300123040",
+   "about": [
+"http://iconclass.org/25G3(+21)"
+              ,"http://iconclass.org/25H114"
+              ,"http://iconclass.org/31A222(+89)"
+              ,"http://iconclass.org/31A2512(+931)"
+              ,"http://iconclass.org/31A25552(+931)"
+              ,"http://iconclass.org/31A4521"
+              ,"http://iconclass.org/31A4524"
+              ,"http://iconclass.org/31A534"
+              ,"http://iconclass.org/34(+21)"
+              ,"http://iconclass.org/44B1240"
+              ,"http://iconclass.org/44B15121"
+              ,"http://iconclass.org/52E3(+4)"
+              ,"http://iconclass.org/92L72151"
+              ,"http://iconclass.org/95A(ACHILLES)1231"
+              ],
+          "associatedMedia": [
+    "http://www.emblems.arts.gla.ac.uk/alciato/emblem.php?id=A46a051"
+     ], "hasPart": {
+                  "@type": "VisualArtwork",
+                  "artform": "emblem pictura",
+                  "thumbnailUrl": "http://emblemimages.library.illinois.edu/A46a/_access/pictura/A46a051.jpg",
+                  "associatedMedia": [ "http://www.emblems.arts.gla.ac.uk/alciato/images/pic_l/A46a051.jpg"]             
+      } } 

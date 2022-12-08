@@ -1,0 +1,51 @@
+
+      {
+   "@context": ["http://schema.org",
+    {"associatedMedia": {
+      "@id": "http://schema.org/associatedMedia",
+      "@container": "@list"
+    }    }
+  ],
+   "@id": "http://emblematica.library.illinois.edu/detail/emblem/A46a020",
+   "sameAs": ["http://hdl.handle.net/10111/EmblemRegistry:E030219"],
+   "@type": "CreativeWork",
+   "name": [
+{"@language" : "http://id.loc.gov/vocabulary/iso639-1/la",
+"@value" : "Nobiles & generosi."}
+],
+    "thumbnailUrl": "http://emblemimages.library.illinois.edu/A46a/_access/emblem/A46a020.jpg",
+    "isPartOf": "http://emblematica.library.illinois.edu/detail/book/A46a",
+   "dateCreated": "1546",
+   "genre": "http://vocab.getty.edu/page/aat/300123040",
+   "about": [
+"http://iconclass.org/24B"
+              ,"http://iconclass.org/25D13(GOLD)"
+              ,"http://iconclass.org/25F711(CICADA)"
+              ,"http://iconclass.org/25H113"
+              ,"http://iconclass.org/31A2352"
+              ,"http://iconclass.org/31A2512"
+              ,"http://iconclass.org/31A534"
+              ,"http://iconclass.org/31D14"
+              ,"http://iconclass.org/32B2(ATHENIAN)(+3)"
+              ,"http://iconclass.org/32B2(GREEK)(+3)"
+              ,"http://iconclass.org/32B2(ROMAN)(+3)"
+              ,"http://iconclass.org/41D211(+81)"
+              ,"http://iconclass.org/41D212"
+              ,"http://iconclass.org/41D221(+81)"
+              ,"http://iconclass.org/41D2332"
+              ,"http://iconclass.org/41D2644"
+              ,"http://iconclass.org/41D2665"
+              ,"http://iconclass.org/46A120"
+              ,"http://iconclass.org/48C1412"
+              ,"http://iconclass.org/48C162"
+              ,"http://iconclass.org/59B33(+4)"
+              ,"http://iconclass.org/61D(ARCADIA)"
+              ],
+          "associatedMedia": [
+    "http://www.emblems.arts.gla.ac.uk/alciato/emblem.php?id=A46a020"
+     ], "hasPart": {
+                  "@type": "VisualArtwork",
+                  "artform": "emblem pictura",
+                  "thumbnailUrl": "http://emblemimages.library.illinois.edu/A46a/_access/pictura/A46a020.jpg",
+                  "associatedMedia": [ "http://www.emblems.arts.gla.ac.uk/alciato/images/pic_l/A46a020.jpg"]             
+      } } 
