@@ -1,0 +1,112 @@
+
+     {
+        "class": "Item",
+        "id": "",
+        "public_uri": null,
+        "variant": null,
+        "elements": [
+    
+         {
+           "name": "type",
+           "value": "Text", 
+           "uri": null
+          },
+         {
+           "name": "isPartof",
+           "value": "Emblematica Online", 
+           "uri": "http://emblematica.library.illinois.edu/"
+          },
+          {
+           "name": "title",
+           "value": "imagini dei degli antichi", 
+           "uri": null
+          },
+          {
+           "name": "creator",
+           "value": "Cartari, Vincenzo, b. ca. 1500", 
+           "uri": "http://viaf.org/viaf/17144648161752965700"
+          },
+          {
+           "name": "author",
+           "value": "Malfatti, Cesare, b. ca. 1550", 
+           "uri": "http://viaf.org/viaf/71705710"
+          },
+          {
+           "name": "genre",
+           "value": "emblem books", 
+           "uri": "http://www.getty.edu/vow/AATFullDisplay?find=&logic=&note=&english=&prev_page=&subjectid=300026286"
+          },
+          {
+           "name": "publicationPlace",
+           "value": "it", 
+           "uri": "http://id.loc.gov/vocabulary/countries/it"
+          },
+          {
+           "name": "publicationPlace",
+           "value": "In Padoa", 
+           "uri": ""
+          },
+          {
+           "name": "publisher",
+           "value": "appresso Pietro Paulo Tozzi libraro", 
+           "uri": ""
+          },
+          {
+           "name": "date",
+           "value": "1608", 
+           "uri": null
+          },
+          {
+           "name": "edition",
+           "value": "", 
+           "uri": null
+          },
+          {
+           "name": "issurance",
+           "value": "", 
+           "uri": null
+          },
+          {
+           "name": "extent",
+           "value": "", 
+           "uri": null
+          },
+          {
+           "name": "dimensions",
+           "value": "", 
+           "uri": null
+          },
+          {
+           "name": "language",
+           "value": "ita", 
+           "uri": "http://id.loc.gov/vocabulary/iso639-2/ita"
+          },
+          {
+           "name": "subject",
+           "value": "Mythology, Classical--Early works to 1800", 
+           "uri":  ["http://id.loc.gov/authorities/subjects/sh2010103034", "http://id.loc.gov/authorities/subjects/sh85089389"]
+          },
+          {
+           "name": "description",
+           "value": "del Signor Vincenzo Cartari Regiano, novamente ristampate & ricorette ... con l'agiunta di molte principali imagini che nell'altre mancavano, e con la espositione in epilogo di ciasceduna & suo significato ... per Cesare Malfatti Padoano, con un cathalogo del medesimo de 100. è piu famosi dei ... Opera utilissima à historici, poeti, pittori, scultori, & professori di belle lettere.", 
+           "uri": null
+          },
+          {
+           "name": "description",
+           "value": "Engraved title page.", 
+           "uri": null
+          },
+          {
+           "name": "description",
+           "value": "138 nearly full-page engravings.", 
+           "uri": null
+          },
+          {
+           "name": "description",
+           "value": "Colophon: In Padova, nella stamparia de Lorenzo Pasquati. 1607. Ad instantia di Pietro Paolo Tozzi, libraro in Padova, all'insegna del Giesù.", 
+           "uri": null
+          }
+       ],
+      "children": [ 
+      ]
+         }
