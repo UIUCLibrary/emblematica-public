@@ -1,0 +1,55 @@
+[{
+  "id": "E030229",
+  "bookID": "A46a",
+  "ark_id": null,
+  "spineXML": "http://emblemimages.library.illinois.edu/A46a/emblematica/emblem030229.xml",
+  "page_no": 0,
+  "search_keywords": "Amuletum Veneris. A lettuce. 13B 13C31 25G3(+351) 25G4(LETTUCE)(+1) 25G4(ROCKET)(+1) 25H114 25I3 26A 31A22361 33C 33C4 41A16 54E42(+4) 92C48(LETTUCE) 92C49151 92D1",
+  "search_keywords_iconclass_term": "Amuletum Veneris. A lettuce. 13B 13C31 25G3(+351) 25G4(LETTUCE)(+1) 25G4(ROCKET)(+1) 25H114 25I3 26A 31A22361 33C 33C4 41A16 54E42(+4) 92C48(LETTUCE) 92C49151 92D1",
+  "search_motto": [
+"Amuletum Veneris."
+],
+  "search_motto_latin": [
+"Amuletum Veneris."
+],
+  "search_motto_english": null,
+  "search_motto_old_german": null,
+  "search_motto_new_german": null,
+  "search_motto_dutch": null,
+  "search_motto_italian": null,
+  "search_motto_french": null,
+  "search_motto_greek": null,
+  "search_motto_spanish": null,
+ "search_iconclass": [
+"13B",
+"13C31",
+"25G3(+351)",
+"25G4(LETTUCE)(+1)",
+"25G4(ROCKET)(+1)",
+"25H114",
+"25I3",
+"26A",
+"31A22361",
+"33C",
+"33C4",
+"41A16",
+"54E42(+4)",
+"92C48(LETTUCE)",
+"92C49151",
+"92D1"
+],
+ "display_motto": "Amuletum Veneris.",
+  "display_pictura_link": "http://emblemimages.library.illinois.edu/A46a/_access/pictura/E030229.jpg",
+  "display_emblem_link": "http://emblemimages.library.illinois.edu/A46a/_access/emblem/E030229.jpg",
+  "display_book_title": "Andreae Alciati Emblematvm libellvs, nvper in lvcem editvs",
+  "display_book_has_emblems": true,
+  "display_collection": "Glasgow University",
+  "emblem_more_info_link": "http://www.emblems.arts.gla.ac.uk/alciato/emblem.php?id=A46a030",
+  "scanned_pictura_link": "http://www.emblems.arts.gla.ac.uk/alciato/images/pic_l/A46a030.jpg",
+  "facet_collection_code": "Glasgow",
+  "facet_language_code": [
+"lat"
+],
+  "facet_publication_century": "16th century",
+  "facet_publication_place": "Venetiis"
+}]

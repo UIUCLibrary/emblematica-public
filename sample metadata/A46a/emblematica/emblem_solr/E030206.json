@@ -1,0 +1,56 @@
+[{
+  "id": "E030206",
+  "bookID": "A46a",
+  "ark_id": null,
+  "spineXML": "http://emblemimages.library.illinois.edu/A46a/emblematica/emblem030206.xml",
+  "page_no": 0,
+  "search_keywords": "Antiquissima quaeque commentitia. Bearded man with fish s tail in the sea. 23T0 25H23 25H2311 25I12 25I5 26A 31A2513 31A2516 31A4527(+23) 31A4561 31A534 48C901 49K1(+55) 51K1(+4) 52A42(+4) 52A44 92H4",
+  "search_keywords_iconclass_term": "Antiquissima quaeque commentitia. Bearded man with fish s tail in the sea. 23T0 25H23 25H2311 25I12 25I5 26A 31A2513 31A2516 31A4527(+23) 31A4561 31A534 48C901 49K1(+55) 51K1(+4) 52A42(+4) 52A44 92H4",
+  "search_motto": [
+"Antiquissima quaeque commentitia."
+],
+  "search_motto_latin": [
+"Antiquissima quaeque commentitia."
+],
+  "search_motto_english": null,
+  "search_motto_old_german": null,
+  "search_motto_new_german": null,
+  "search_motto_dutch": null,
+  "search_motto_italian": null,
+  "search_motto_french": null,
+  "search_motto_greek": null,
+  "search_motto_spanish": null,
+ "search_iconclass": [
+"23T0",
+"25H23",
+"25H2311",
+"25I12",
+"25I5",
+"26A",
+"31A2513",
+"31A2516",
+"31A4527(+23)",
+"31A4561",
+"31A534",
+"48C901",
+"49K1(+55)",
+"51K1(+4)",
+"52A42(+4)",
+"52A44",
+"92H4"
+],
+ "display_motto": "Antiquissima quaeque commentitia.",
+  "display_pictura_link": "http://emblemimages.library.illinois.edu/A46a/_access/pictura/E030206.jpg",
+  "display_emblem_link": "http://emblemimages.library.illinois.edu/A46a/_access/emblem/E030206.jpg",
+  "display_book_title": "Andreae Alciati Emblematvm libellvs, nvper in lvcem editvs",
+  "display_book_has_emblems": true,
+  "display_collection": "Glasgow University",
+  "emblem_more_info_link": "http://www.emblems.arts.gla.ac.uk/alciato/emblem.php?id=A46a007",
+  "scanned_pictura_link": "http://www.emblems.arts.gla.ac.uk/alciato/images/pic_l/A46a007.jpg",
+  "facet_collection_code": "Glasgow",
+  "facet_language_code": [
+"lat"
+],
+  "facet_publication_century": "16th century",
+  "facet_publication_place": "Venetiis"
+}]

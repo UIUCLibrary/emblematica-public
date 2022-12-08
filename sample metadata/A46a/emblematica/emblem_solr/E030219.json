@@ -1,0 +1,61 @@
+[{
+  "id": "E030219",
+  "bookID": "A46a",
+  "ark_id": null,
+  "spineXML": "http://emblemimages.library.illinois.edu/A46a/emblematica/emblem030219.xml",
+  "page_no": 0,
+  "search_keywords": "Nobiles & generosi. Man sitting on step, one finger pointing. 24B 25D13(GOLD) 25F711(CICADA) 25H113 31A2352 31A2512 31A534 31D14 32B2(ATHENIAN)(+3) 32B2(GREEK)(+3) 32B2(ROMAN)(+3) 41D211(+81) 41D212 41D221(+81) 41D2332 41D2644 41D2665 46A120 48C1412 48C162 59B33(+4) 61D(ARCADIA)",
+  "search_keywords_iconclass_term": "Nobiles & generosi. Man sitting on step, one finger pointing. 24B 25D13(GOLD) 25F711(CICADA) 25H113 31A2352 31A2512 31A534 31D14 32B2(ATHENIAN)(+3) 32B2(GREEK)(+3) 32B2(ROMAN)(+3) 41D211(+81) 41D212 41D221(+81) 41D2332 41D2644 41D2665 46A120 48C1412 48C162 59B33(+4) 61D(ARCADIA)",
+  "search_motto": [
+"Nobiles & generosi."
+],
+  "search_motto_latin": [
+"Nobiles & generosi."
+],
+  "search_motto_english": null,
+  "search_motto_old_german": null,
+  "search_motto_new_german": null,
+  "search_motto_dutch": null,
+  "search_motto_italian": null,
+  "search_motto_french": null,
+  "search_motto_greek": null,
+  "search_motto_spanish": null,
+ "search_iconclass": [
+"24B",
+"25D13(GOLD)",
+"25F711(CICADA)",
+"25H113",
+"31A2352",
+"31A2512",
+"31A534",
+"31D14",
+"32B2(ATHENIAN)(+3)",
+"32B2(GREEK)(+3)",
+"32B2(ROMAN)(+3)",
+"41D211(+81)",
+"41D212",
+"41D221(+81)",
+"41D2332",
+"41D2644",
+"41D2665",
+"46A120",
+"48C1412",
+"48C162",
+"59B33(+4)",
+"61D(ARCADIA)"
+],
+ "display_motto": "Nobiles & generosi.",
+  "display_pictura_link": "http://emblemimages.library.illinois.edu/A46a/_access/pictura/E030219.jpg",
+  "display_emblem_link": "http://emblemimages.library.illinois.edu/A46a/_access/emblem/E030219.jpg",
+  "display_book_title": "Andreae Alciati Emblematvm libellvs, nvper in lvcem editvs",
+  "display_book_has_emblems": true,
+  "display_collection": "Glasgow University",
+  "emblem_more_info_link": "http://www.emblems.arts.gla.ac.uk/alciato/emblem.php?id=A46a020",
+  "scanned_pictura_link": "http://www.emblems.arts.gla.ac.uk/alciato/images/pic_l/A46a020.jpg",
+  "facet_collection_code": "Glasgow",
+  "facet_language_code": [
+"lat"
+],
+  "facet_publication_century": "16th century",
+  "facet_publication_place": "Venetiis"
+}]

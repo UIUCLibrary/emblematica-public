@@ -1,0 +1,52 @@
+[{
+  "id": "E030251",
+  "bookID": "A46a",
+  "ark_id": null,
+  "spineXML": "http://emblemimages.library.illinois.edu/A46a/emblematica/emblem030251.xml",
+  "page_no": 0,
+  "search_keywords": "Ne^phe, kai memne^sapistein. arthra tauta to^n phreno^n. A disembodied hand with a garland round the wrist and an eye in the centre of the palm. 25G4(PENNYROYAL)(+1) 25I12 31A2212 31A2245 31A2763(+0) 41D2662 52A24(+4) 52A51 52AA51 54A2(+4) 54A43(+4) 98B(EPICHARMUS)3 98B(HERACLITUS)3",
+  "search_keywords_iconclass_term": "Ne^phe, kai memne^sapistein. arthra tauta to^n phreno^n. A disembodied hand with a garland round the wrist and an eye in the centre of the palm. 25G4(PENNYROYAL)(+1) 25I12 31A2212 31A2245 31A2763(+0) 41D2662 52A24(+4) 52A51 52AA51 54A2(+4) 54A43(+4) 98B(EPICHARMUS)3 98B(HERACLITUS)3",
+  "search_motto": [
+"Ne^phe, kai memne^sapistein. arthra tauta to^n phreno^n."
+],
+  "search_motto_latin": [
+"Ne^phe, kai memne^sapistein. arthra tauta to^n phreno^n."
+],
+  "search_motto_english": null,
+  "search_motto_old_german": null,
+  "search_motto_new_german": null,
+  "search_motto_dutch": null,
+  "search_motto_italian": null,
+  "search_motto_french": null,
+  "search_motto_greek": null,
+  "search_motto_spanish": null,
+ "search_iconclass": [
+"25G4(PENNYROYAL)(+1)",
+"25I12",
+"31A2212",
+"31A2245",
+"31A2763(+0)",
+"41D2662",
+"52A24(+4)",
+"52A51",
+"52AA51",
+"54A2(+4)",
+"54A43(+4)",
+"98B(EPICHARMUS)3",
+"98B(HERACLITUS)3"
+],
+ "display_motto": "Ne^phe, kai memne^sapistein. arthra tauta to^n phreno^n.",
+  "display_pictura_link": "http://emblemimages.library.illinois.edu/A46a/_access/pictura/E030251.jpg",
+  "display_emblem_link": "http://emblemimages.library.illinois.edu/A46a/_access/emblem/E030251.jpg",
+  "display_book_title": "Andreae Alciati Emblematvm libellvs, nvper in lvcem editvs",
+  "display_book_has_emblems": true,
+  "display_collection": "Glasgow University",
+  "emblem_more_info_link": "http://www.emblems.arts.gla.ac.uk/alciato/emblem.php?id=A46a052",
+  "scanned_pictura_link": "http://www.emblems.arts.gla.ac.uk/alciato/images/pic_l/A46a052.jpg",
+  "facet_collection_code": "Glasgow",
+  "facet_language_code": [
+"lat"
+],
+  "facet_publication_century": "16th century",
+  "facet_publication_place": "Venetiis"
+}]

@@ -1,0 +1,61 @@
+[{
+  "id": "E030205",
+  "bookID": "A46a",
+  "ark_id": null,
+  "spineXML": "http://emblemimages.library.illinois.edu/A46a/emblematica/emblem030205.xml",
+  "page_no": 0,
+  "search_keywords": "Gratiae. Three naked women (Graces). 11S727 25F(+342) 25F(+342):31A2255 25G3(+21) 25G3(+351) 25H1124 31A 31D15(+73) 51D4 51M11 52D3 57A63 57A631 57A8 57AA8 92B1 92C452 92D3 92D31 92D32 92D34(PITHO) 92K24",
+  "search_keywords_iconclass_term": "Gratiae. Three naked women (Graces). 11S727 25F(+342) 25F(+342):31A2255 25G3(+21) 25G3(+351) 25H1124 31A 31D15(+73) 51D4 51M11 52D3 57A63 57A631 57A8 57AA8 92B1 92C452 92D3 92D31 92D32 92D34(PITHO) 92K24",
+  "search_motto": [
+"Gratiae."
+],
+  "search_motto_latin": [
+"Gratiae."
+],
+  "search_motto_english": null,
+  "search_motto_old_german": null,
+  "search_motto_new_german": null,
+  "search_motto_dutch": null,
+  "search_motto_italian": null,
+  "search_motto_french": null,
+  "search_motto_greek": null,
+  "search_motto_spanish": null,
+ "search_iconclass": [
+"11S727",
+"25F(+342)",
+"25F(+342):31A2255",
+"25G3(+21)",
+"25G3(+351)",
+"25H1124",
+"31A",
+"31D15(+73)",
+"51D4",
+"51M11",
+"52D3",
+"57A63",
+"57A631",
+"57A8",
+"57AA8",
+"92B1",
+"92C452",
+"92D3",
+"92D31",
+"92D32",
+"92D34(PITHO)",
+"92K24"
+],
+ "display_motto": "Gratiae.",
+  "display_pictura_link": "http://emblemimages.library.illinois.edu/A46a/_access/pictura/E030205.jpg",
+  "display_emblem_link": "http://emblemimages.library.illinois.edu/A46a/_access/emblem/E030205.jpg",
+  "display_book_title": "Andreae Alciati Emblematvm libellvs, nvper in lvcem editvs",
+  "display_book_has_emblems": true,
+  "display_collection": "Glasgow University",
+  "emblem_more_info_link": "http://www.emblems.arts.gla.ac.uk/alciato/emblem.php?id=A46a006",
+  "scanned_pictura_link": "http://www.emblems.arts.gla.ac.uk/alciato/images/pic_l/A46a006.jpg",
+  "facet_collection_code": "Glasgow",
+  "facet_language_code": [
+"lat"
+],
+  "facet_publication_century": "16th century",
+  "facet_publication_place": "Venetiis"
+}]

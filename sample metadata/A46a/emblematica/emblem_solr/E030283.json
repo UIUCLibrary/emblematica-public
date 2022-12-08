@@ -1,0 +1,56 @@
+[{
+  "id": "E030283",
+  "bookID": "A46a",
+  "ark_id": null,
+  "spineXML": "http://emblemimages.library.illinois.edu/A46a/emblematica/emblem030283.xml",
+  "page_no": 0,
+  "search_keywords": "Opulenti haereditas. Soldiers fighting over the body of a fallen soldier. 25F32(CROW) 25F33(VULTURE) 3.10E+04 31D14(+76) 32B311(GREEKS) 41D28 42E5310 45C13(SWORD) 45C22 45C221 45I52(+1) 46A160 59C22(+4) 61E(TROY) 94C 94F821 94F822",
+  "search_keywords_iconclass_term": "Opulenti haereditas. Soldiers fighting over the body of a fallen soldier. 25F32(CROW) 25F33(VULTURE) 3.10E+04 31D14(+76) 32B311(GREEKS) 41D28 42E5310 45C13(SWORD) 45C22 45C221 45I52(+1) 46A160 59C22(+4) 61E(TROY) 94C 94F821 94F822",
+  "search_motto": [
+"Opulenti haereditas."
+],
+  "search_motto_latin": [
+"Opulenti haereditas."
+],
+  "search_motto_english": null,
+  "search_motto_old_german": null,
+  "search_motto_new_german": null,
+  "search_motto_dutch": null,
+  "search_motto_italian": null,
+  "search_motto_french": null,
+  "search_motto_greek": null,
+  "search_motto_spanish": null,
+ "search_iconclass": [
+"25F32(CROW)",
+"25F33(VULTURE)",
+"3.10E+04",
+"31D14(+76)",
+"32B311(GREEKS)",
+"41D28",
+"42E5310",
+"45C13(SWORD)",
+"45C22",
+"45C221",
+"45I52(+1)",
+"46A160",
+"59C22(+4)",
+"61E(TROY)",
+"94C",
+"94F821",
+"94F822"
+],
+ "display_motto": "Opulenti haereditas.",
+  "display_pictura_link": "http://emblemimages.library.illinois.edu/A46a/_access/pictura/E030283.jpg",
+  "display_emblem_link": "http://emblemimages.library.illinois.edu/A46a/_access/emblem/E030283.jpg",
+  "display_book_title": "Andreae Alciati Emblematvm libellvs, nvper in lvcem editvs",
+  "display_book_has_emblems": true,
+  "display_collection": "Glasgow University",
+  "emblem_more_info_link": "http://www.emblems.arts.gla.ac.uk/alciato/emblem.php?id=A46a084",
+  "scanned_pictura_link": "http://www.emblems.arts.gla.ac.uk/alciato/images/pic_l/A46a084.jpg",
+  "facet_collection_code": "Glasgow",
+  "facet_language_code": [
+"lat"
+],
+  "facet_publication_century": "16th century",
+  "facet_publication_place": "Venetiis"
+}]

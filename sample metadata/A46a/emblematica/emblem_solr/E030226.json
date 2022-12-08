@@ -1,0 +1,58 @@
+[{
+  "id": "E030226",
+  "bookID": "A46a",
+  "ark_id": null,
+  "spineXML": "http://emblemimages.library.illinois.edu/A46a/emblematica/emblem030226.xml",
+  "page_no": 0,
+  "search_keywords": "Sapientia humana stultitia est apud Deum Half man, half dragon. 11A0 25FF422 25H1124 25H113 26A 31A222(+89) 31A2515 (+931) 31A25552 31A421 31A4542 31A458 31A534 52A51(+4) 52AA51(+4) 57AA661(+5) 61E(ATHENS) 73F412(1:20)(+0) 95A(CECROPS)7 95A(CECROPS)79",
+  "search_keywords_iconclass_term": "Sapientia humana stultitia est apud Deum Half man, half dragon. 11A0 25FF422 25H1124 25H113 26A 31A222(+89) 31A2515 (+931) 31A25552 31A421 31A4542 31A458 31A534 52A51(+4) 52AA51(+4) 57AA661(+5) 61E(ATHENS) 73F412(1:20)(+0) 95A(CECROPS)7 95A(CECROPS)79",
+  "search_motto": [
+"Sapientia humana stultitia est apud Deum"
+],
+  "search_motto_latin": [
+"Sapientia humana stultitia est apud Deum"
+],
+  "search_motto_english": null,
+  "search_motto_old_german": null,
+  "search_motto_new_german": null,
+  "search_motto_dutch": null,
+  "search_motto_italian": null,
+  "search_motto_french": null,
+  "search_motto_greek": null,
+  "search_motto_spanish": null,
+ "search_iconclass": [
+"11A0",
+"25FF422",
+"25H1124",
+"25H113",
+"26A",
+"31A222(+89)",
+"31A2515 (+931)",
+"31A25552",
+"31A421",
+"31A4542",
+"31A458",
+"31A534",
+"52A51(+4)",
+"52AA51(+4)",
+"57AA661(+5)",
+"61E(ATHENS)",
+"73F412(1:20)(+0)",
+"95A(CECROPS)7",
+"95A(CECROPS)79"
+],
+ "display_motto": "Sapientia humana stultitia est apud Deum",
+  "display_pictura_link": "http://emblemimages.library.illinois.edu/A46a/_access/pictura/E030226.jpg",
+  "display_emblem_link": "http://emblemimages.library.illinois.edu/A46a/_access/emblem/E030226.jpg",
+  "display_book_title": "Andreae Alciati Emblematvm libellvs, nvper in lvcem editvs",
+  "display_book_has_emblems": true,
+  "display_collection": "Glasgow University",
+  "emblem_more_info_link": "http://www.emblems.arts.gla.ac.uk/alciato/emblem.php?id=A46a027",
+  "scanned_pictura_link": "http://www.emblems.arts.gla.ac.uk/alciato/images/pic_l/A46a027.jpg",
+  "facet_collection_code": "Glasgow",
+  "facet_language_code": [
+"lat"
+],
+  "facet_publication_century": "16th century",
+  "facet_publication_place": "Venetiis"
+}]

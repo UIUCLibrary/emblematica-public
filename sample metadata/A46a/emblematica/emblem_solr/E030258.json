@@ -1,0 +1,54 @@
+[{
+  "id": "E030258",
+  "bookID": "A46a",
+  "ark_id": null,
+  "spineXML": "http://emblemimages.library.illinois.edu/A46a/emblematica/emblem030258.xml",
+  "page_no": 0,
+  "search_keywords": "Terminus. The bust of a man on a plinth with the inscription NULLI CEDO. 11A 25G3(+21) 25H114 31A222 31A534 31D16 31F10 41D212 48C24 48C244 49L8 51FF5(+4) 54FF12(+4) 86(NULLI CEDO) 96A16",
+  "search_keywords_iconclass_term": "Terminus. The bust of a man on a plinth with the inscription NULLI CEDO. 11A 25G3(+21) 25H114 31A222 31A534 31D16 31F10 41D212 48C24 48C244 49L8 51FF5(+4) 54FF12(+4) 86(NULLI CEDO) 96A16",
+  "search_motto": [
+"Terminus."
+],
+  "search_motto_latin": [
+"Terminus."
+],
+  "search_motto_english": null,
+  "search_motto_old_german": null,
+  "search_motto_new_german": null,
+  "search_motto_dutch": null,
+  "search_motto_italian": null,
+  "search_motto_french": null,
+  "search_motto_greek": null,
+  "search_motto_spanish": null,
+ "search_iconclass": [
+"11A",
+"25G3(+21)",
+"25H114",
+"31A222",
+"31A534",
+"31D16",
+"31F10",
+"41D212",
+"48C24",
+"48C244",
+"49L8",
+"51FF5(+4)",
+"54FF12(+4)",
+"86(NULLI CEDO)",
+"96A16"
+],
+ "display_motto": "Terminus.",
+  "display_pictura_link": "http://emblemimages.library.illinois.edu/A46a/_access/pictura/E030258.jpg",
+  "display_emblem_link": "http://emblemimages.library.illinois.edu/A46a/_access/emblem/E030258.jpg",
+  "display_book_title": "Andreae Alciati Emblematvm libellvs, nvper in lvcem editvs",
+  "display_book_has_emblems": true,
+  "display_collection": "Glasgow University",
+  "emblem_more_info_link": "http://www.emblems.arts.gla.ac.uk/alciato/emblem.php?id=A46a059",
+  "scanned_pictura_link": "http://www.emblems.arts.gla.ac.uk/alciato/images/pic_l/A46a059.jpg",
+  "facet_collection_code": "Glasgow",
+  "facet_language_code": [
+"lat"
+],
+  "facet_publication_century": "16th century",
+  "facet_publication_place": "Venetiis"
+}]

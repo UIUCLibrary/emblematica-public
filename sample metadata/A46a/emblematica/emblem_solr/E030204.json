@@ -1,0 +1,58 @@
+[{
+  "id": "E030204",
+  "bookID": "A46a",
+  "ark_id": null,
+  "spineXML": "http://emblemimages.library.illinois.edu/A46a/emblematica/emblem030204.xml",
+  "page_no": 0,
+  "search_keywords": "Ficta Religio. A woman in robes and a crown giving men a drink from a goblet. 11N41 22C4(PURPLE) 31A534 31B52 31B6(+51) 31D14(+75) 31D15 33C52 41A422 41C121 41C322 41C711 41D211(+81) 41D211(+82) 41D22 41D23 44B1212 44B191 73G491",
+  "search_keywords_iconclass_term": "Ficta Religio. A woman in robes and a crown giving men a drink from a goblet. 11N41 22C4(PURPLE) 31A534 31B52 31B6(+51) 31D14(+75) 31D15 33C52 41A422 41C121 41C322 41C711 41D211(+81) 41D211(+82) 41D22 41D23 44B1212 44B191 73G491",
+  "search_motto": [
+"Ficta Religio."
+],
+  "search_motto_latin": [
+"Ficta Religio."
+],
+  "search_motto_english": null,
+  "search_motto_old_german": null,
+  "search_motto_new_german": null,
+  "search_motto_dutch": null,
+  "search_motto_italian": null,
+  "search_motto_french": null,
+  "search_motto_greek": null,
+  "search_motto_spanish": null,
+ "search_iconclass": [
+"11N41",
+"22C4(PURPLE)",
+"31A534",
+"31B52",
+"31B6(+51)",
+"31D14(+75)",
+"31D15",
+"33C52",
+"41A422",
+"41C121",
+"41C322",
+"41C711",
+"41D211(+81)",
+"41D211(+82)",
+"41D22",
+"41D23",
+"44B1212",
+"44B191",
+"73G491"
+],
+ "display_motto": "Ficta Religio.",
+  "display_pictura_link": "http://emblemimages.library.illinois.edu/A46a/_access/pictura/E030204.jpg",
+  "display_emblem_link": "http://emblemimages.library.illinois.edu/A46a/_access/emblem/E030204.jpg",
+  "display_book_title": "Andreae Alciati Emblematvm libellvs, nvper in lvcem editvs",
+  "display_book_has_emblems": true,
+  "display_collection": "Glasgow University",
+  "emblem_more_info_link": "http://www.emblems.arts.gla.ac.uk/alciato/emblem.php?id=A46a005",
+  "scanned_pictura_link": "http://www.emblems.arts.gla.ac.uk/alciato/images/pic_l/A46a005.jpg",
+  "facet_collection_code": "Glasgow",
+  "facet_language_code": [
+"lat"
+],
+  "facet_publication_century": "16th century",
+  "facet_publication_place": "Venetiis"
+}]

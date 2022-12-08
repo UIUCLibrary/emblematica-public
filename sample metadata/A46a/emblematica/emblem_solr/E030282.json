@@ -1,0 +1,45 @@
+[{
+  "id": "E030282",
+  "bookID": "A46a",
+  "ark_id": null,
+  "spineXML": "http://emblemimages.library.illinois.edu/A46a/emblematica/emblem030282.xml",
+  "page_no": 0,
+  "search_keywords": "In garrulum & gulosum. A large bird flapping its wings. 11N35 25F(+49) 25F36(PELICAN)(+54) 25H114 52D4(+4) 54AA43(+4)",
+  "search_keywords_iconclass_term": "In garrulum & gulosum. A large bird flapping its wings. 11N35 25F(+49) 25F36(PELICAN)(+54) 25H114 52D4(+4) 54AA43(+4)",
+  "search_motto": [
+"In garrulum & gulosum."
+],
+  "search_motto_latin": [
+"In garrulum & gulosum."
+],
+  "search_motto_english": null,
+  "search_motto_old_german": null,
+  "search_motto_new_german": null,
+  "search_motto_dutch": null,
+  "search_motto_italian": null,
+  "search_motto_french": null,
+  "search_motto_greek": null,
+  "search_motto_spanish": null,
+ "search_iconclass": [
+"11N35",
+"25F(+49)",
+"25F36(PELICAN)(+54)",
+"25H114",
+"52D4(+4)",
+"54AA43(+4)"
+],
+ "display_motto": "In garrulum & gulosum.",
+  "display_pictura_link": "http://emblemimages.library.illinois.edu/A46a/_access/pictura/E030282.jpg",
+  "display_emblem_link": "http://emblemimages.library.illinois.edu/A46a/_access/emblem/E030282.jpg",
+  "display_book_title": "Andreae Alciati Emblematvm libellvs, nvper in lvcem editvs",
+  "display_book_has_emblems": true,
+  "display_collection": "Glasgow University",
+  "emblem_more_info_link": "http://www.emblems.arts.gla.ac.uk/alciato/emblem.php?id=A46a083",
+  "scanned_pictura_link": "http://www.emblems.arts.gla.ac.uk/alciato/images/pic_l/A46a083.jpg",
+  "facet_collection_code": "Glasgow",
+  "facet_language_code": [
+"lat"
+],
+  "facet_publication_century": "16th century",
+  "facet_publication_place": "Venetiis"
+}]

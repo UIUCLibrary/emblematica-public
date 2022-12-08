@@ -1,0 +1,51 @@
+[{
+  "id": "E030246",
+  "bookID": "A46a",
+  "ark_id": null,
+  "spineXML": "http://emblemimages.library.illinois.edu/A46a/emblematica/emblem030246.xml",
+  "page_no": 0,
+  "search_keywords": "Respublica liberata. A hat supported on the tips of two swords. 25H114 25I12 41D221(CAP) 44B03 45C13(DAGGER)(+67) 46A183 46B311 48A9857(CAP) 48A9857(SWORD) 51E11(+4) 98B(BRUTUS, M.)3 98B(CAESAR)68",
+  "search_keywords_iconclass_term": "Respublica liberata. A hat supported on the tips of two swords. 25H114 25I12 41D221(CAP) 44B03 45C13(DAGGER)(+67) 46A183 46B311 48A9857(CAP) 48A9857(SWORD) 51E11(+4) 98B(BRUTUS, M.)3 98B(CAESAR)68",
+  "search_motto": [
+"Respublica liberata."
+],
+  "search_motto_latin": [
+"Respublica liberata."
+],
+  "search_motto_english": null,
+  "search_motto_old_german": null,
+  "search_motto_new_german": null,
+  "search_motto_dutch": null,
+  "search_motto_italian": null,
+  "search_motto_french": null,
+  "search_motto_greek": null,
+  "search_motto_spanish": null,
+ "search_iconclass": [
+"25H114",
+"25I12",
+"41D221(CAP)",
+"44B03",
+"45C13(DAGGER)(+67)",
+"46A183",
+"46B311",
+"48A9857(CAP)",
+"48A9857(SWORD)",
+"51E11(+4)",
+"98B(BRUTUS, M.)3",
+"98B(CAESAR)68"
+],
+ "display_motto": "Respublica liberata.",
+  "display_pictura_link": "http://emblemimages.library.illinois.edu/A46a/_access/pictura/E030246.jpg",
+  "display_emblem_link": "http://emblemimages.library.illinois.edu/A46a/_access/emblem/E030246.jpg",
+  "display_book_title": "Andreae Alciati Emblematvm libellvs, nvper in lvcem editvs",
+  "display_book_has_emblems": true,
+  "display_collection": "Glasgow University",
+  "emblem_more_info_link": "http://www.emblems.arts.gla.ac.uk/alciato/emblem.php?id=A46a047",
+  "scanned_pictura_link": "http://www.emblems.arts.gla.ac.uk/alciato/images/pic_l/A46a047.jpg",
+  "facet_collection_code": "Glasgow",
+  "facet_language_code": [
+"lat"
+],
+  "facet_publication_century": "16th century",
+  "facet_publication_place": "Venetiis"
+}]

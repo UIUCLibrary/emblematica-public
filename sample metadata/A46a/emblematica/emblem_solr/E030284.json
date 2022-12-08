@@ -1,0 +1,48 @@
+[{
+  "id": "E030284",
+  "bookID": "A46a",
+  "ark_id": null,
+  "spineXML": "http://emblemimages.library.illinois.edu/A46a/emblematica/emblem030284.xml",
+  "page_no": 0,
+  "search_keywords": "Mediolanum. A pig with wool on its shoulders. 11HH(THECLA) 25G3(+21) 25H114 47H14 47I212 61E(AUTUN) 61E(BOURGES) 61E(MILAN) 92C271",
+  "search_keywords_iconclass_term": "Mediolanum. A pig with wool on its shoulders. 11HH(THECLA) 25G3(+21) 25H114 47H14 47I212 61E(AUTUN) 61E(BOURGES) 61E(MILAN) 92C271",
+  "search_motto": [
+"Mediolanum."
+],
+  "search_motto_latin": [
+"Mediolanum."
+],
+  "search_motto_english": null,
+  "search_motto_old_german": null,
+  "search_motto_new_german": null,
+  "search_motto_dutch": null,
+  "search_motto_italian": null,
+  "search_motto_french": null,
+  "search_motto_greek": null,
+  "search_motto_spanish": null,
+ "search_iconclass": [
+"11HH(THECLA)",
+"25G3(+21)",
+"25H114",
+"47H14",
+"47I212",
+"61E(AUTUN)",
+"61E(BOURGES)",
+"61E(MILAN)",
+"92C271"
+],
+ "display_motto": "Mediolanum.",
+  "display_pictura_link": "http://emblemimages.library.illinois.edu/A46a/_access/pictura/E030284.jpg",
+  "display_emblem_link": "http://emblemimages.library.illinois.edu/A46a/_access/emblem/E030284.jpg",
+  "display_book_title": "Andreae Alciati Emblematvm libellvs, nvper in lvcem editvs",
+  "display_book_has_emblems": true,
+  "display_collection": "Glasgow University",
+  "emblem_more_info_link": "http://www.emblems.arts.gla.ac.uk/alciato/emblem.php?id=A46a085",
+  "scanned_pictura_link": "http://www.emblems.arts.gla.ac.uk/alciato/images/pic_l/A46a085.jpg",
+  "facet_collection_code": "Glasgow",
+  "facet_language_code": [
+"lat"
+],
+  "facet_publication_century": "16th century",
+  "facet_publication_place": "Venetiis"
+}]

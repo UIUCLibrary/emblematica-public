@@ -1,0 +1,57 @@
+[{
+  "id": "E030213",
+  "bookID": "A46a",
+  "ark_id": null,
+  "spineXML": "http://emblemimages.library.illinois.edu/A46a/emblematica/emblem030213.xml",
+  "page_no": 0,
+  "search_keywords": "Scyphus Nestoris. A large vessel with birds perched around it. 24D1 24D1(GREAT BEAR) 24D1(LITTLE BEAR) 24F 25D13(GOLD) 25D13(SILVER) 25F39(DOVE)(+15) 31D16 41C321 45A1 48A9845 48C9101 52A51(+4) 54A31(+4) 54A7 9.20E+03 95A(NESTOR) 98B(HOMER)3",
+  "search_keywords_iconclass_term": "Scyphus Nestoris. A large vessel with birds perched around it. 24D1 24D1(GREAT BEAR) 24D1(LITTLE BEAR) 24F 25D13(GOLD) 25D13(SILVER) 25F39(DOVE)(+15) 31D16 41C321 45A1 48A9845 48C9101 52A51(+4) 54A31(+4) 54A7 9.20E+03 95A(NESTOR) 98B(HOMER)3",
+  "search_motto": [
+"Scyphus Nestoris."
+],
+  "search_motto_latin": [
+"Scyphus Nestoris."
+],
+  "search_motto_english": null,
+  "search_motto_old_german": null,
+  "search_motto_new_german": null,
+  "search_motto_dutch": null,
+  "search_motto_italian": null,
+  "search_motto_french": null,
+  "search_motto_greek": null,
+  "search_motto_spanish": null,
+ "search_iconclass": [
+"24D1",
+"24D1(GREAT BEAR)",
+"24D1(LITTLE BEAR)",
+"24F",
+"25D13(GOLD)",
+"25D13(SILVER)",
+"25F39(DOVE)(+15)",
+"31D16",
+"41C321",
+"45A1",
+"48A9845",
+"48C9101",
+"52A51(+4)",
+"54A31(+4)",
+"54A7",
+"9.20E+03",
+"95A(NESTOR)",
+"98B(HOMER)3"
+],
+ "display_motto": "Scyphus Nestoris.",
+  "display_pictura_link": "http://emblemimages.library.illinois.edu/A46a/_access/pictura/E030213.jpg",
+  "display_emblem_link": "http://emblemimages.library.illinois.edu/A46a/_access/emblem/E030213.jpg",
+  "display_book_title": "Andreae Alciati Emblematvm libellvs, nvper in lvcem editvs",
+  "display_book_has_emblems": true,
+  "display_collection": "Glasgow University",
+  "emblem_more_info_link": "http://www.emblems.arts.gla.ac.uk/alciato/emblem.php?id=A46a014",
+  "scanned_pictura_link": "http://www.emblems.arts.gla.ac.uk/alciato/images/pic_l/A46a014.jpg",
+  "facet_collection_code": "Glasgow",
+  "facet_language_code": [
+"lat"
+],
+  "facet_publication_century": "16th century",
+  "facet_publication_place": "Venetiis"
+}]

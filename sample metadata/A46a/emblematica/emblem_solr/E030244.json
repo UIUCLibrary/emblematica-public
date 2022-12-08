@@ -1,0 +1,62 @@
+[{
+  "id": "E030244",
+  "bookID": "A46a",
+  "ark_id": null,
+  "spineXML": "http://emblemimages.library.illinois.edu/A46a/emblematica/emblem030244.xml",
+  "page_no": 0,
+  "search_keywords": "Litera occidit, spiritus vivificat. Soldiers emerging from the ground fighting each other. 25FF422 26A 31A247 31A2512(+933) 31A2621(+51) 31A2711 31A534 31D14(+79) 41D213(+81) 41D233(+81) 45C13(SWORD) 45C19(SHIELD) 48C90 49B43 49C0 49C40 49L10 52A51(+4) 54E3(+4) 61D(GREECE) 86(LITERA OCCIDIT, SPIRITUS VIVICAT) 95A(CADMUS)34 95A(CADMUS)35",
+  "search_keywords_iconclass_term": "Litera occidit, spiritus vivificat. Soldiers emerging from the ground fighting each other. 25FF422 26A 31A247 31A2512(+933) 31A2621(+51) 31A2711 31A534 31D14(+79) 41D213(+81) 41D233(+81) 45C13(SWORD) 45C19(SHIELD) 48C90 49B43 49C0 49C40 49L10 52A51(+4) 54E3(+4) 61D(GREECE) 86(LITERA OCCIDIT, SPIRITUS VIVICAT) 95A(CADMUS)34 95A(CADMUS)35",
+  "search_motto": [
+"Litera occidit, spiritus vivificat."
+],
+  "search_motto_latin": [
+"Litera occidit, spiritus vivificat."
+],
+  "search_motto_english": null,
+  "search_motto_old_german": null,
+  "search_motto_new_german": null,
+  "search_motto_dutch": null,
+  "search_motto_italian": null,
+  "search_motto_french": null,
+  "search_motto_greek": null,
+  "search_motto_spanish": null,
+ "search_iconclass": [
+"25FF422",
+"26A",
+"31A247",
+"31A2512(+933)",
+"31A2621(+51)",
+"31A2711",
+"31A534",
+"31D14(+79)",
+"41D213(+81)",
+"41D233(+81)",
+"45C13(SWORD)",
+"45C19(SHIELD)",
+"48C90",
+"49B43",
+"49C0",
+"49C40",
+"49L10",
+"52A51(+4)",
+"54E3(+4)",
+"61D(GREECE)",
+"86(LITERA OCCIDIT, SPIRITUS VIVICAT)",
+"95A(CADMUS)34",
+"95A(CADMUS)35"
+],
+ "display_motto": "Litera occidit, spiritus vivificat.",
+  "display_pictura_link": "http://emblemimages.library.illinois.edu/A46a/_access/pictura/E030244.jpg",
+  "display_emblem_link": "http://emblemimages.library.illinois.edu/A46a/_access/emblem/E030244.jpg",
+  "display_book_title": "Andreae Alciati Emblematvm libellvs, nvper in lvcem editvs",
+  "display_book_has_emblems": true,
+  "display_collection": "Glasgow University",
+  "emblem_more_info_link": "http://www.emblems.arts.gla.ac.uk/alciato/emblem.php?id=A46a045",
+  "scanned_pictura_link": "http://www.emblems.arts.gla.ac.uk/alciato/images/pic_l/A46a045.jpg",
+  "facet_collection_code": "Glasgow",
+  "facet_language_code": [
+"lat"
+],
+  "facet_publication_century": "16th century",
+  "facet_publication_place": "Venetiis"
+}]

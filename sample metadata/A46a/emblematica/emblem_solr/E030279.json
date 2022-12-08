@@ -1,0 +1,51 @@
+[{
+  "id": "E030279",
+  "bookID": "A46a",
+  "ark_id": null,
+  "spineXML": "http://emblemimages.library.illinois.edu/A46a/emblematica/emblem030279.xml",
+  "page_no": 0,
+  "search_keywords": "Dolus in suos. Ducks eating food in front of a net. 25F(+49) 25F36(DUCK)(+441) 25F36(DUCK)(+53) 25H114 25H121 25I12 34B 34F 43C13(+415) 43C132 57AA6142(+4) 57AA621(+4)",
+  "search_keywords_iconclass_term": "Dolus in suos. Ducks eating food in front of a net. 25F(+49) 25F36(DUCK)(+441) 25F36(DUCK)(+53) 25H114 25H121 25I12 34B 34F 43C13(+415) 43C132 57AA6142(+4) 57AA621(+4)",
+  "search_motto": [
+"Dolus in suos."
+],
+  "search_motto_latin": [
+"Dolus in suos."
+],
+  "search_motto_english": null,
+  "search_motto_old_german": null,
+  "search_motto_new_german": null,
+  "search_motto_dutch": null,
+  "search_motto_italian": null,
+  "search_motto_french": null,
+  "search_motto_greek": null,
+  "search_motto_spanish": null,
+ "search_iconclass": [
+"25F(+49)",
+"25F36(DUCK)(+441)",
+"25F36(DUCK)(+53)",
+"25H114",
+"25H121",
+"25I12",
+"34B",
+"34F",
+"43C13(+415)",
+"43C132",
+"57AA6142(+4)",
+"57AA621(+4)"
+],
+ "display_motto": "Dolus in suos.",
+  "display_pictura_link": "http://emblemimages.library.illinois.edu/A46a/_access/pictura/E030279.jpg",
+  "display_emblem_link": "http://emblemimages.library.illinois.edu/A46a/_access/emblem/E030279.jpg",
+  "display_book_title": "Andreae Alciati Emblematvm libellvs, nvper in lvcem editvs",
+  "display_book_has_emblems": true,
+  "display_collection": "Glasgow University",
+  "emblem_more_info_link": "http://www.emblems.arts.gla.ac.uk/alciato/emblem.php?id=A46a080",
+  "scanned_pictura_link": "http://www.emblems.arts.gla.ac.uk/alciato/images/pic_l/A46a080.jpg",
+  "facet_collection_code": "Glasgow",
+  "facet_language_code": [
+"lat"
+],
+  "facet_publication_century": "16th century",
+  "facet_publication_place": "Venetiis"
+}]

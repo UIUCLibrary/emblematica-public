@@ -1,0 +1,53 @@
+[{
+  "id": "E030261",
+  "bookID": "A46a",
+  "ark_id": null,
+  "spineXML": "http://emblemimages.library.illinois.edu/A46a/emblematica/emblem030261.xml",
+  "page_no": 0,
+  "search_keywords": "Superbia. Woman sitting on a stone seat inscribed NIOBE. 25D12(MARBLE) 25I152 25I9 31A2352 31A721 41D211(+82) 44B1212 44B191 49L8 54A82(+4) 57AA5 57AA64(+4) 86(NIOBE) 97FF5",
+  "search_keywords_iconclass_term": "Superbia. Woman sitting on a stone seat inscribed NIOBE. 25D12(MARBLE) 25I152 25I9 31A2352 31A721 41D211(+82) 44B1212 44B191 49L8 54A82(+4) 57AA5 57AA64(+4) 86(NIOBE) 97FF5",
+  "search_motto": [
+"Superbia."
+],
+  "search_motto_latin": [
+"Superbia."
+],
+  "search_motto_english": null,
+  "search_motto_old_german": null,
+  "search_motto_new_german": null,
+  "search_motto_dutch": null,
+  "search_motto_italian": null,
+  "search_motto_french": null,
+  "search_motto_greek": null,
+  "search_motto_spanish": null,
+ "search_iconclass": [
+"25D12(MARBLE)",
+"25I152",
+"25I9",
+"31A2352",
+"31A721",
+"41D211(+82)",
+"44B1212",
+"44B191",
+"49L8",
+"54A82(+4)",
+"57AA5",
+"57AA64(+4)",
+"86(NIOBE)",
+"97FF5"
+],
+ "display_motto": "Superbia.",
+  "display_pictura_link": "http://emblemimages.library.illinois.edu/A46a/_access/pictura/E030261.jpg",
+  "display_emblem_link": "http://emblemimages.library.illinois.edu/A46a/_access/emblem/E030261.jpg",
+  "display_book_title": "Andreae Alciati Emblematvm libellvs, nvper in lvcem editvs",
+  "display_book_has_emblems": true,
+  "display_collection": "Glasgow University",
+  "emblem_more_info_link": "http://www.emblems.arts.gla.ac.uk/alciato/emblem.php?id=A46a062",
+  "scanned_pictura_link": "http://www.emblems.arts.gla.ac.uk/alciato/images/pic_l/A46a062.jpg",
+  "facet_collection_code": "Glasgow",
+  "facet_language_code": [
+"lat"
+],
+  "facet_publication_century": "16th century",
+  "facet_publication_place": "Venetiis"
+}]

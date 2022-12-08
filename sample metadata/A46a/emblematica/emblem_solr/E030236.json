@@ -1,0 +1,45 @@
+[{
+  "id": "E030236",
+  "bookID": "A46a",
+  "ark_id": null,
+  "spineXML": "http://emblemimages.library.illinois.edu/A46a/emblematica/emblem030236.xml",
+  "page_no": 0,
+  "search_keywords": "Ilex. A holm oak tree. 25G13 25G3(HOLM-OAK)(+1) 25G3(HOLM-OAK)(+34) 44F0 51G4 58AA1",
+  "search_keywords_iconclass_term": "Ilex. A holm oak tree. 25G13 25G3(HOLM-OAK)(+1) 25G3(HOLM-OAK)(+34) 44F0 51G4 58AA1",
+  "search_motto": [
+"Ilex."
+],
+  "search_motto_latin": [
+"Ilex."
+],
+  "search_motto_english": null,
+  "search_motto_old_german": null,
+  "search_motto_new_german": null,
+  "search_motto_dutch": null,
+  "search_motto_italian": null,
+  "search_motto_french": null,
+  "search_motto_greek": null,
+  "search_motto_spanish": null,
+ "search_iconclass": [
+"25G13",
+"25G3(HOLM-OAK)(+1)",
+"25G3(HOLM-OAK)(+34)",
+"44F0",
+"51G4",
+"58AA1"
+],
+ "display_motto": "Ilex.",
+  "display_pictura_link": "http://emblemimages.library.illinois.edu/A46a/_access/pictura/E030236.jpg",
+  "display_emblem_link": "http://emblemimages.library.illinois.edu/A46a/_access/emblem/E030236.jpg",
+  "display_book_title": "Andreae Alciati Emblematvm libellvs, nvper in lvcem editvs",
+  "display_book_has_emblems": true,
+  "display_collection": "Glasgow University",
+  "emblem_more_info_link": "http://www.emblems.arts.gla.ac.uk/alciato/emblem.php?id=A46a037",
+  "scanned_pictura_link": "http://www.emblems.arts.gla.ac.uk/alciato/images/pic_l/A46a037.jpg",
+  "facet_collection_code": "Glasgow",
+  "facet_language_code": [
+"lat"
+],
+  "facet_publication_century": "16th century",
+  "facet_publication_place": "Venetiis"
+}]

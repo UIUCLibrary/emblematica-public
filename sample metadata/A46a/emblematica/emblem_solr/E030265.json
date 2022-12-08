@@ -1,0 +1,59 @@
+[{
+  "id": "E030265",
+  "bookID": "A46a",
+  "ark_id": null,
+  "spineXML": "http://emblemimages.library.illinois.edu/A46a/emblematica/emblem030265.xml",
+  "page_no": 0,
+  "search_keywords": "Gula. Naked man with a long neck holding on to a bird. 11N35 25F36(PELICAN) 25F37(GULL) 25G13 25H112 31A 31A(+933) 31A2352 31A2421 31A2513 31A26114 31A444(+13) 31A444(+615) 31A444(+615):25F37(CRANE)(+3) 31A534 31B6(+52) 32A4:11N35 54AA43(+4) 92L17 98B(APICIUS, Marcus Gavius)3",
+  "search_keywords_iconclass_term": "Gula. Naked man with a long neck holding on to a bird. 11N35 25F36(PELICAN) 25F37(GULL) 25G13 25H112 31A 31A(+933) 31A2352 31A2421 31A2513 31A26114 31A444(+13) 31A444(+615) 31A444(+615):25F37(CRANE)(+3) 31A534 31B6(+52) 32A4:11N35 54AA43(+4) 92L17 98B(APICIUS, Marcus Gavius)3",
+  "search_motto": [
+"Gula."
+],
+  "search_motto_latin": [
+"Gula."
+],
+  "search_motto_english": null,
+  "search_motto_old_german": null,
+  "search_motto_new_german": null,
+  "search_motto_dutch": null,
+  "search_motto_italian": null,
+  "search_motto_french": null,
+  "search_motto_greek": null,
+  "search_motto_spanish": null,
+ "search_iconclass": [
+"11N35",
+"25F36(PELICAN)",
+"25F37(GULL)",
+"25G13",
+"25H112",
+"31A",
+"31A(+933)",
+"31A2352",
+"31A2421",
+"31A2513",
+"31A26114",
+"31A444(+13)",
+"31A444(+615)",
+"31A444(+615):25F37(CRANE)(+3)",
+"31A534",
+"31B6(+52)",
+"32A4:11N35",
+"54AA43(+4)",
+"92L17",
+"98B(APICIUS, Marcus Gavius)3"
+],
+ "display_motto": "Gula.",
+  "display_pictura_link": "http://emblemimages.library.illinois.edu/A46a/_access/pictura/E030265.jpg",
+  "display_emblem_link": "http://emblemimages.library.illinois.edu/A46a/_access/emblem/E030265.jpg",
+  "display_book_title": "Andreae Alciati Emblematvm libellvs, nvper in lvcem editvs",
+  "display_book_has_emblems": true,
+  "display_collection": "Glasgow University",
+  "emblem_more_info_link": "http://www.emblems.arts.gla.ac.uk/alciato/emblem.php?id=A46a066",
+  "scanned_pictura_link": "http://www.emblems.arts.gla.ac.uk/alciato/images/pic_l/A46a066.jpg",
+  "facet_collection_code": "Glasgow",
+  "facet_language_code": [
+"lat"
+],
+  "facet_publication_century": "16th century",
+  "facet_publication_place": "Venetiis"
+}]

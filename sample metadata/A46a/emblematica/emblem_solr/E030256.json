@@ -1,0 +1,62 @@
+[{
+  "id": "E030256",
+  "bookID": "A46a",
+  "ark_id": null,
+  "spineXML": "http://emblemimages.library.illinois.edu/A46a/emblematica/emblem030256.xml",
+  "page_no": 0,
+  "search_keywords": "Vigilantia, & custodia. A church with a cock on the tower, guarded by a lion at the door. 11A 11P15 11Q712 24A11 25F23(LION)(+1) 25F23(LION)(+535) 25H114 25I144 26C41 31A2212 31A2351 34B232(+51) 34B232(+91) 44B1 45B310 46A170 48A9845 48C162 48C24 48C244 48C73431 52A23(+4) 54E42(+4)",
+  "search_keywords_iconclass_term": "Vigilantia, & custodia. A church with a cock on the tower, guarded by a lion at the door. 11A 11P15 11Q712 24A11 25F23(LION)(+1) 25F23(LION)(+535) 25H114 25I144 26C41 31A2212 31A2351 34B232(+51) 34B232(+91) 44B1 45B310 46A170 48A9845 48C162 48C24 48C244 48C73431 52A23(+4) 54E42(+4)",
+  "search_motto": [
+"Vigilantia, & custodia."
+],
+  "search_motto_latin": [
+"Vigilantia, & custodia."
+],
+  "search_motto_english": null,
+  "search_motto_old_german": null,
+  "search_motto_new_german": null,
+  "search_motto_dutch": null,
+  "search_motto_italian": null,
+  "search_motto_french": null,
+  "search_motto_greek": null,
+  "search_motto_spanish": null,
+ "search_iconclass": [
+"11A",
+"11P15",
+"11Q712",
+"24A11",
+"25F23(LION)(+1)",
+"25F23(LION)(+535)",
+"25H114",
+"25I144",
+"26C41",
+"31A2212",
+"31A2351",
+"34B232(+51)",
+"34B232(+91)",
+"44B1",
+"45B310",
+"46A170",
+"48A9845",
+"48C162",
+"48C24",
+"48C244",
+"48C73431",
+"52A23(+4)",
+"54E42(+4)"
+],
+ "display_motto": "Vigilantia, & custodia.",
+  "display_pictura_link": "http://emblemimages.library.illinois.edu/A46a/_access/pictura/E030256.jpg",
+  "display_emblem_link": "http://emblemimages.library.illinois.edu/A46a/_access/emblem/E030256.jpg",
+  "display_book_title": "Andreae Alciati Emblematvm libellvs, nvper in lvcem editvs",
+  "display_book_has_emblems": true,
+  "display_collection": "Glasgow University",
+  "emblem_more_info_link": "http://www.emblems.arts.gla.ac.uk/alciato/emblem.php?id=A46a057",
+  "scanned_pictura_link": "http://www.emblems.arts.gla.ac.uk/alciato/images/pic_l/A46a057.jpg",
+  "facet_collection_code": "Glasgow",
+  "facet_language_code": [
+"lat"
+],
+  "facet_publication_century": "16th century",
+  "facet_publication_place": "Venetiis"
+}]

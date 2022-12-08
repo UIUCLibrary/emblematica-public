@@ -1,0 +1,57 @@
+[{
+  "id": "E030200",
+  "bookID": "A46a",
+  "ark_id": null,
+  "spineXML": "http://emblemimages.library.illinois.edu/A46a/emblematica/emblem030200.xml",
+  "page_no": 0,
+  "search_keywords": "In divites publico malo. Man holding a staff standing by a stream watching nets. 25D26 25F63 25G3 25H114 31A244 31A2621(+51) 31AA2512(+933) 31D14 41D211(+81) 43C(+4)(STICK) 43C1(+415) 43C128 44F0 45A 54FF11(+4) 55A1(+4) 55CC11(+4) 59CC1",
+  "search_keywords_iconclass_term": "In divites publico malo. Man holding a staff standing by a stream watching nets. 25D26 25F63 25G3 25H114 31A244 31A2621(+51) 31AA2512(+933) 31D14 41D211(+81) 43C(+4)(STICK) 43C1(+415) 43C128 44F0 45A 54FF11(+4) 55A1(+4) 55CC11(+4) 59CC1",
+  "search_motto": [
+"In divites publico malo."
+],
+  "search_motto_latin": [
+"In divites publico malo."
+],
+  "search_motto_english": null,
+  "search_motto_old_german": null,
+  "search_motto_new_german": null,
+  "search_motto_dutch": null,
+  "search_motto_italian": null,
+  "search_motto_french": null,
+  "search_motto_greek": null,
+  "search_motto_spanish": null,
+ "search_iconclass": [
+"25D26",
+"25F63",
+"25G3",
+"25H114",
+"31A244",
+"31A2621(+51)",
+"31AA2512(+933)",
+"31D14",
+"41D211(+81)",
+"43C(+4)(STICK)",
+"43C1(+415)",
+"43C128",
+"44F0",
+"45A",
+"54FF11(+4)",
+"55A1(+4)",
+"55CC11(+4)",
+"59CC1"
+],
+ "display_motto": "In divites publico malo.",
+  "display_pictura_link": "http://emblemimages.library.illinois.edu/A46a/_access/pictura/E030200.jpg",
+  "display_emblem_link": "http://emblemimages.library.illinois.edu/A46a/_access/emblem/E030200.jpg",
+  "display_book_title": "Andreae Alciati Emblematvm libellvs, nvper in lvcem editvs",
+  "display_book_has_emblems": true,
+  "display_collection": "Glasgow University",
+  "emblem_more_info_link": "http://www.emblems.arts.gla.ac.uk/alciato/emblem.php?id=A46a001",
+  "scanned_pictura_link": "http://www.emblems.arts.gla.ac.uk/alciato/images/pic_l/A46a001.jpg",
+  "facet_collection_code": "Glasgow",
+  "facet_language_code": [
+"lat"
+],
+  "facet_publication_century": "16th century",
+  "facet_publication_place": "Venetiis"
+}]

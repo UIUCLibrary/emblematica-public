@@ -1,0 +1,54 @@
+[{
+  "id": "E030262",
+  "bookID": "A46a",
+  "ark_id": null,
+  "spineXML": "http://emblemimages.library.illinois.edu/A46a/emblematica/emblem030262.xml",
+  "page_no": 0,
+  "search_keywords": "Desidia. Hooded man sitting on some kind of mill. 11N37 11P31521 12A54(ESSENE) 24D1 24F1 31A2352 41A775 41B121 41B32(+1) 41D212 48C162 52DD1 54DD2(+4) 57AA611 57AA621",
+  "search_keywords_iconclass_term": "Desidia. Hooded man sitting on some kind of mill. 11N37 11P31521 12A54(ESSENE) 24D1 24F1 31A2352 41A775 41B121 41B32(+1) 41D212 48C162 52DD1 54DD2(+4) 57AA611 57AA621",
+  "search_motto": [
+"Desidia."
+],
+  "search_motto_latin": [
+"Desidia."
+],
+  "search_motto_english": null,
+  "search_motto_old_german": null,
+  "search_motto_new_german": null,
+  "search_motto_dutch": null,
+  "search_motto_italian": null,
+  "search_motto_french": null,
+  "search_motto_greek": null,
+  "search_motto_spanish": null,
+ "search_iconclass": [
+"11N37",
+"11P31521",
+"12A54(ESSENE)",
+"24D1",
+"24F1",
+"31A2352",
+"41A775",
+"41B121",
+"41B32(+1)",
+"41D212",
+"48C162",
+"52DD1",
+"54DD2(+4)",
+"57AA611",
+"57AA621"
+],
+ "display_motto": "Desidia.",
+  "display_pictura_link": "http://emblemimages.library.illinois.edu/A46a/_access/pictura/E030262.jpg",
+  "display_emblem_link": "http://emblemimages.library.illinois.edu/A46a/_access/emblem/E030262.jpg",
+  "display_book_title": "Andreae Alciati Emblematvm libellvs, nvper in lvcem editvs",
+  "display_book_has_emblems": true,
+  "display_collection": "Glasgow University",
+  "emblem_more_info_link": "http://www.emblems.arts.gla.ac.uk/alciato/emblem.php?id=A46a063",
+  "scanned_pictura_link": "http://www.emblems.arts.gla.ac.uk/alciato/images/pic_l/A46a063.jpg",
+  "facet_collection_code": "Glasgow",
+  "facet_language_code": [
+"lat"
+],
+  "facet_publication_century": "16th century",
+  "facet_publication_place": "Venetiis"
+}]

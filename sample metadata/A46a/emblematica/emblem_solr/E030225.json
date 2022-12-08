@@ -1,0 +1,54 @@
+[{
+  "id": "E030225",
+  "bookID": "A46a",
+  "ark_id": null,
+  "spineXML": "http://emblemimages.library.illinois.edu/A46a/emblematica/emblem030225.xml",
+  "page_no": 0,
+  "search_keywords": "In nothos. Juno reclining on a cloud suckling an infant. 24D 24D211 26A 31A2513(+933) 31A27633 31AA2364(+0) 31D1111 31D15 41D23 41D27 41D9 42A311(+0) 42B360 94L1211(+0) 94L7",
+  "search_keywords_iconclass_term": "In nothos. Juno reclining on a cloud suckling an infant. 24D 24D211 26A 31A2513(+933) 31A27633 31AA2364(+0) 31D1111 31D15 41D23 41D27 41D9 42A311(+0) 42B360 94L1211(+0) 94L7",
+  "search_motto": [
+"In nothos."
+],
+  "search_motto_latin": [
+"In nothos."
+],
+  "search_motto_english": null,
+  "search_motto_old_german": null,
+  "search_motto_new_german": null,
+  "search_motto_dutch": null,
+  "search_motto_italian": null,
+  "search_motto_french": null,
+  "search_motto_greek": null,
+  "search_motto_spanish": null,
+ "search_iconclass": [
+"24D",
+"24D211",
+"26A",
+"31A2513(+933)",
+"31A27633",
+"31AA2364(+0)",
+"31D1111",
+"31D15",
+"41D23",
+"41D27",
+"41D9",
+"42A311(+0)",
+"42B360",
+"94L1211(+0)",
+"94L7"
+],
+ "display_motto": "In nothos.",
+  "display_pictura_link": "http://emblemimages.library.illinois.edu/A46a/_access/pictura/E030225.jpg",
+  "display_emblem_link": "http://emblemimages.library.illinois.edu/A46a/_access/emblem/E030225.jpg",
+  "display_book_title": "Andreae Alciati Emblematvm libellvs, nvper in lvcem editvs",
+  "display_book_has_emblems": true,
+  "display_collection": "Glasgow University",
+  "emblem_more_info_link": "http://www.emblems.arts.gla.ac.uk/alciato/emblem.php?id=A46a026",
+  "scanned_pictura_link": "http://www.emblems.arts.gla.ac.uk/alciato/images/pic_l/A46a026.jpg",
+  "facet_collection_code": "Glasgow",
+  "facet_language_code": [
+"lat"
+],
+  "facet_publication_century": "16th century",
+  "facet_publication_place": "Venetiis"
+}]

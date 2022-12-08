@@ -1,0 +1,46 @@
+[{
+  "id": "E030273",
+  "bookID": "A46a",
+  "ark_id": null,
+  "spineXML": "http://emblemimages.library.illinois.edu/A46a/emblematica/emblem030273.xml",
+  "page_no": 0,
+  "search_keywords": "Garrulitas. Bird perched on a tree. 25F32(SWALLOW) 25G(+211) 25G3(+21) 25H114 26A 52D4(+4) 97DD23(+0)",
+  "search_keywords_iconclass_term": "Garrulitas. Bird perched on a tree. 25F32(SWALLOW) 25G(+211) 25G3(+21) 25H114 26A 52D4(+4) 97DD23(+0)",
+  "search_motto": [
+"Garrulitas."
+],
+  "search_motto_latin": [
+"Garrulitas."
+],
+  "search_motto_english": null,
+  "search_motto_old_german": null,
+  "search_motto_new_german": null,
+  "search_motto_dutch": null,
+  "search_motto_italian": null,
+  "search_motto_french": null,
+  "search_motto_greek": null,
+  "search_motto_spanish": null,
+ "search_iconclass": [
+"25F32(SWALLOW)",
+"25G(+211)",
+"25G3(+21)",
+"25H114",
+"26A",
+"52D4(+4)",
+"97DD23(+0)"
+],
+ "display_motto": "Garrulitas.",
+  "display_pictura_link": "http://emblemimages.library.illinois.edu/A46a/_access/pictura/E030273.jpg",
+  "display_emblem_link": "http://emblemimages.library.illinois.edu/A46a/_access/emblem/E030273.jpg",
+  "display_book_title": "Andreae Alciati Emblematvm libellvs, nvper in lvcem editvs",
+  "display_book_has_emblems": true,
+  "display_collection": "Glasgow University",
+  "emblem_more_info_link": "http://www.emblems.arts.gla.ac.uk/alciato/emblem.php?id=A46a074",
+  "scanned_pictura_link": "http://www.emblems.arts.gla.ac.uk/alciato/images/pic_l/A46a074.jpg",
+  "facet_collection_code": "Glasgow",
+  "facet_language_code": [
+"lat"
+],
+  "facet_publication_century": "16th century",
+  "facet_publication_place": "Venetiis"
+}]

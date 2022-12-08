@@ -1,0 +1,53 @@
+[{
+  "id": "E030252",
+  "bookID": "A46a",
+  "ark_id": null,
+  "spineXML": "http://emblemimages.library.illinois.edu/A46a/emblematica/emblem030252.xml",
+  "page_no": 0,
+  "search_keywords": "Pe^ parebe^n; ti derexas; ti moi deon, ouk etelesthai; A crane carrying a stone in its claws. 25D12 25F37(CRANE)(+5245) 25F37(CRANE)(+53) 25G13 25H1124 25H113 25I12 32B311(ITALIANS) 52A53(+4) 54AA43 57A2(+4) 57AA2(+4) 58B21(+4) 98B(PYTHAGORAS)",
+  "search_keywords_iconclass_term": "Pe^ parebe^n; ti derexas; ti moi deon, ouk etelesthai; A crane carrying a stone in its claws. 25D12 25F37(CRANE)(+5245) 25F37(CRANE)(+53) 25G13 25H1124 25H113 25I12 32B311(ITALIANS) 52A53(+4) 54AA43 57A2(+4) 57AA2(+4) 58B21(+4) 98B(PYTHAGORAS)",
+  "search_motto": [
+"Pe^ parebe^n; ti derexas; ti moi deon, ouk etelesthai;"
+],
+  "search_motto_latin": [
+"Pe^ parebe^n; ti derexas; ti moi deon, ouk etelesthai;"
+],
+  "search_motto_english": null,
+  "search_motto_old_german": null,
+  "search_motto_new_german": null,
+  "search_motto_dutch": null,
+  "search_motto_italian": null,
+  "search_motto_french": null,
+  "search_motto_greek": null,
+  "search_motto_spanish": null,
+ "search_iconclass": [
+"25D12",
+"25F37(CRANE)(+5245)",
+"25F37(CRANE)(+53)",
+"25G13",
+"25H1124",
+"25H113",
+"25I12",
+"32B311(ITALIANS)",
+"52A53(+4)",
+"54AA43",
+"57A2(+4)",
+"57AA2(+4)",
+"58B21(+4)",
+"98B(PYTHAGORAS)"
+],
+ "display_motto": "Pe^ parebe^n; ti derexas; ti moi deon, ouk etelesthai;",
+  "display_pictura_link": "http://emblemimages.library.illinois.edu/A46a/_access/pictura/E030252.jpg",
+  "display_emblem_link": "http://emblemimages.library.illinois.edu/A46a/_access/emblem/E030252.jpg",
+  "display_book_title": "Andreae Alciati Emblematvm libellvs, nvper in lvcem editvs",
+  "display_book_has_emblems": true,
+  "display_collection": "Glasgow University",
+  "emblem_more_info_link": "http://www.emblems.arts.gla.ac.uk/alciato/emblem.php?id=A46a053",
+  "scanned_pictura_link": "http://www.emblems.arts.gla.ac.uk/alciato/images/pic_l/A46a053.jpg",
+  "facet_collection_code": "Glasgow",
+  "facet_language_code": [
+"lat"
+],
+  "facet_publication_century": "16th century",
+  "facet_publication_place": "Venetiis"
+}]

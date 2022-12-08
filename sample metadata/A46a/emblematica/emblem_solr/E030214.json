@@ -1,0 +1,52 @@
+[{
+  "id": "E030214",
+  "bookID": "A46a",
+  "ark_id": null,
+  "spineXML": "http://emblemimages.library.illinois.edu/A46a/emblematica/emblem030214.xml",
+  "page_no": 0,
+  "search_keywords": "Senex puellam amans. Tomb of an old man with an owl perched on the edge. 25F34 3.10E+04 31D5 33C52 41A31 42D311(+0) 42E31 46B31 48C162 56F2(+4) 57AA76 98B(SOPHOCLES)2 98C(ARCHIPPE)2",
+  "search_keywords_iconclass_term": "Senex puellam amans. Tomb of an old man with an owl perched on the edge. 25F34 3.10E+04 31D5 33C52 41A31 42D311(+0) 42E31 46B31 48C162 56F2(+4) 57AA76 98B(SOPHOCLES)2 98C(ARCHIPPE)2",
+  "search_motto": [
+"Senex puellam amans."
+],
+  "search_motto_latin": [
+"Senex puellam amans."
+],
+  "search_motto_english": null,
+  "search_motto_old_german": null,
+  "search_motto_new_german": null,
+  "search_motto_dutch": null,
+  "search_motto_italian": null,
+  "search_motto_french": null,
+  "search_motto_greek": null,
+  "search_motto_spanish": null,
+ "search_iconclass": [
+"25F34",
+"3.10E+04",
+"31D5",
+"33C52",
+"41A31",
+"42D311(+0)",
+"42E31",
+"46B31",
+"48C162",
+"56F2(+4)",
+"57AA76",
+"98B(SOPHOCLES)2",
+"98C(ARCHIPPE)2"
+],
+ "display_motto": "Senex puellam amans.",
+  "display_pictura_link": "http://emblemimages.library.illinois.edu/A46a/_access/pictura/E030214.jpg",
+  "display_emblem_link": "http://emblemimages.library.illinois.edu/A46a/_access/emblem/E030214.jpg",
+  "display_book_title": "Andreae Alciati Emblematvm libellvs, nvper in lvcem editvs",
+  "display_book_has_emblems": true,
+  "display_collection": "Glasgow University",
+  "emblem_more_info_link": "http://www.emblems.arts.gla.ac.uk/alciato/emblem.php?id=A46a015",
+  "scanned_pictura_link": "http://www.emblems.arts.gla.ac.uk/alciato/images/pic_l/A46a015.jpg",
+  "facet_collection_code": "Glasgow",
+  "facet_language_code": [
+"lat"
+],
+  "facet_publication_century": "16th century",
+  "facet_publication_place": "Venetiis"
+}]

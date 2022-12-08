@@ -1,0 +1,52 @@
+[{
+  "id": "E030220",
+  "bookID": "A46a",
+  "ark_id": null,
+  "spineXML": "http://emblemimages.library.illinois.edu/A46a/emblematica/emblem030220.xml",
+  "page_no": 0,
+  "search_keywords": "Ignavi. Bird of prey. 25F33(BUZZARD) 25F33(FALCON) 25F37(HERON)(+0) 25G11 25G13 25H112 25H113 25I12 46A180 54AA11(+4) 54BB6 61B2(ARDELIO)3 97D3(ASTERIAS)",
+  "search_keywords_iconclass_term": "Ignavi. Bird of prey. 25F33(BUZZARD) 25F33(FALCON) 25F37(HERON)(+0) 25G11 25G13 25H112 25H113 25I12 46A180 54AA11(+4) 54BB6 61B2(ARDELIO)3 97D3(ASTERIAS)",
+  "search_motto": [
+"Ignavi."
+],
+  "search_motto_latin": [
+"Ignavi."
+],
+  "search_motto_english": null,
+  "search_motto_old_german": null,
+  "search_motto_new_german": null,
+  "search_motto_dutch": null,
+  "search_motto_italian": null,
+  "search_motto_french": null,
+  "search_motto_greek": null,
+  "search_motto_spanish": null,
+ "search_iconclass": [
+"25F33(BUZZARD)",
+"25F33(FALCON)",
+"25F37(HERON)(+0)",
+"25G11",
+"25G13",
+"25H112",
+"25H113",
+"25I12",
+"46A180",
+"54AA11(+4)",
+"54BB6",
+"61B2(ARDELIO)3",
+"97D3(ASTERIAS)"
+],
+ "display_motto": "Ignavi.",
+  "display_pictura_link": "http://emblemimages.library.illinois.edu/A46a/_access/pictura/E030220.jpg",
+  "display_emblem_link": "http://emblemimages.library.illinois.edu/A46a/_access/emblem/E030220.jpg",
+  "display_book_title": "Andreae Alciati Emblematvm libellvs, nvper in lvcem editvs",
+  "display_book_has_emblems": true,
+  "display_collection": "Glasgow University",
+  "emblem_more_info_link": "http://www.emblems.arts.gla.ac.uk/alciato/emblem.php?id=A46a021",
+  "scanned_pictura_link": "http://www.emblems.arts.gla.ac.uk/alciato/images/pic_l/A46a021.jpg",
+  "facet_collection_code": "Glasgow",
+  "facet_language_code": [
+"lat"
+],
+  "facet_publication_century": "16th century",
+  "facet_publication_place": "Venetiis"
+}]
