@@ -1,0 +1,51 @@
+<emblem xmlns="http://diglib.hab.de/rules/schema/emblem" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:oai_sr="http://www.openarchives.org/OAI/2.0/static-repository" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai="http://www.openarchives.org/OAI/2.0/" xmlns:iihim="http://mnemosyne.org/IIHIM/0.1/" xml:id="A46a010" xlink:href="http://www.emblems.arts.gla.ac.uk/alciato/emblem.php?id=A46a010" globalID="http://hdl.handle.net/10111/EmblemRegistry:E030209">
+    <motto>
+      <transcription xml:lang="la">Luxuriosum opes.</transcription>
+    </motto>
+    <pictura xml:id="A46a010_P1" xlink:href="http://www.emblems.arts.gla.ac.uk/alciato/images/pic_l/A46a010.jpg">
+      <figDesc>Birds eating the fruit in a tree.</figDesc>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/25F32(CROW)(+53)">
+        <skos:notation>25F32(CROW)(+53)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/25F32(RAVEN)(+53)">
+        <skos:notation>25F32(RAVEN)(+53)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/25G3(FIG-TREE)">
+        <skos:notation>25G3(FIG-TREE)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/25H1121">
+        <skos:notation>25H1121</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/25H13">
+        <skos:notation>25H13</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/25H1314">
+        <skos:notation>25H1314</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/25H23">
+        <skos:notation>25H23</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/25I12">
+        <skos:notation>25I12</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/33C520">
+        <skos:notation>33C520</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/46C24">
+        <skos:notation>46C24</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/52AA51">
+        <skos:notation>52AA51</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/54BB6(+4)">
+        <skos:notation>54BB6(+4)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/55B1(+4)">
+        <skos:notation>55B1(+4)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/55C11(+4)">
+        <skos:notation>55C11(+4)</skos:notation>
+      </iconclass>
+    </pictura>
+  </emblem>
+  

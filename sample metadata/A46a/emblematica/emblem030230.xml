@@ -1,0 +1,45 @@
+<emblem xmlns="http://diglib.hab.de/rules/schema/emblem" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:oai_sr="http://www.openarchives.org/OAI/2.0/static-repository" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai="http://www.openarchives.org/OAI/2.0/" xmlns:iihim="http://mnemosyne.org/IIHIM/0.1/" xml:id="A46a031" xlink:href="http://www.emblems.arts.gla.ac.uk/alciato/emblem.php?id=A46a031" globalID="http://hdl.handle.net/10111/EmblemRegistry:E030230">
+    <motto>
+      <transcription xml:lang="la">Cupressus.</transcription>
+    </motto>
+    <pictura xml:id="A46a031_P1" xlink:href="http://www.emblems.arts.gla.ac.uk/alciato/images/pic_l/A46a031.jpg">
+      <figDesc>A cypress tree</figDesc>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/25G(+27)">
+        <skos:notation>25G(+27)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/25G21">
+        <skos:notation>25G21</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/25G3(CYPRESS)(+1)">
+        <skos:notation>25G3(CYPRESS)(+1)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/25G31">
+        <skos:notation>25G31</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/25G4(COW PARSLEY)">
+        <skos:notation>25G4(COW PARSLEY)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/25H113">
+        <skos:notation>25H113</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/25H214">
+        <skos:notation>25H214</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/26A">
+        <skos:notation>26A</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/42E38(+0)">
+        <skos:notation>42E38(+0)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/46A21">
+        <skos:notation>46A21</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/51D4(+4):58AA2(+4)">
+        <skos:notation>51D4(+4):58AA2(+4)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/59C21(+4)">
+        <skos:notation>59C21(+4)</skos:notation>
+      </iconclass>
+    </pictura>
+  </emblem>
+  

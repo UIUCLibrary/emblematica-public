@@ -1,0 +1,39 @@
+<emblem xmlns="http://diglib.hab.de/rules/schema/emblem" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:oai_sr="http://www.openarchives.org/OAI/2.0/static-repository" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai="http://www.openarchives.org/OAI/2.0/" xmlns:iihim="http://mnemosyne.org/IIHIM/0.1/" xml:id="A46a046" xlink:href="http://www.emblems.arts.gla.ac.uk/alciato/emblem.php?id=A46a046" globalID="http://hdl.handle.net/10111/EmblemRegistry:E030245">
+    <motto>
+      <transcription xml:lang="la">Salus publica.</transcription>
+    </motto>
+    <pictura xml:id="A46a046_P1" xlink:href="http://www.emblems.arts.gla.ac.uk/alciato/images/pic_l/A46a046.jpg">
+      <figDesc>A dragon on top of a plinth beside a snake on top of a column.</figDesc>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/1.20E+212">
+        <skos:notation>1.20E+212</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/12EE62">
+        <skos:notation>12EE62</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/25F42(+5253)">
+        <skos:notation>25F42(+5253)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/25FF422">
+        <skos:notation>25FF422</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/25H113">
+        <skos:notation>25H113</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/31A4690">
+        <skos:notation>31A4690</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/48C161">
+        <skos:notation>48C161</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/49G230">
+        <skos:notation>49G230</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/92F279">
+        <skos:notation>92F279</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/92F27913(+0)">
+        <skos:notation>92F27913(+0)</skos:notation>
+      </iconclass>
+    </pictura>
+  </emblem>
+  

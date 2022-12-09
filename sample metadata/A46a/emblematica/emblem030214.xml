@@ -1,0 +1,48 @@
+<emblem xmlns="http://diglib.hab.de/rules/schema/emblem" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:oai_sr="http://www.openarchives.org/OAI/2.0/static-repository" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai="http://www.openarchives.org/OAI/2.0/" xmlns:iihim="http://mnemosyne.org/IIHIM/0.1/" xml:id="A46a015" xlink:href="http://www.emblems.arts.gla.ac.uk/alciato/emblem.php?id=A46a015" globalID="http://hdl.handle.net/10111/EmblemRegistry:E030214">
+    <motto>
+      <transcription xml:lang="la">Senex puellam amans.</transcription>
+    </motto>
+    <pictura xml:id="A46a015_P1" xlink:href="http://www.emblems.arts.gla.ac.uk/alciato/images/pic_l/A46a015.jpg">
+      <figDesc>Tomb of an old man with an owl perched on the edge.</figDesc>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/25F34">
+        <skos:notation>25F34</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/3.10E+04">
+        <skos:notation>3.10E+04</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/31D5">
+        <skos:notation>31D5</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/33C52">
+        <skos:notation>33C52</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/41A31">
+        <skos:notation>41A31</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/42D311(+0)">
+        <skos:notation>42D311(+0)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/42E31">
+        <skos:notation>42E31</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/46B31">
+        <skos:notation>46B31</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/48C162">
+        <skos:notation>48C162</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/56F2(+4)">
+        <skos:notation>56F2(+4)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/57AA76">
+        <skos:notation>57AA76</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/98B(SOPHOCLES)2">
+        <skos:notation>98B(SOPHOCLES)2</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/98C(ARCHIPPE)2">
+        <skos:notation>98C(ARCHIPPE)2</skos:notation>
+      </iconclass>
+    </pictura>
+  </emblem>
+  

@@ -1,0 +1,93 @@
+<emblem xmlns="http://diglib.hab.de/rules/schema/emblem" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:oai_sr="http://www.openarchives.org/OAI/2.0/static-repository" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai="http://www.openarchives.org/OAI/2.0/" xmlns:iihim="http://mnemosyne.org/IIHIM/0.1/" xml:id="A46a002" xlink:href="http://www.emblems.arts.gla.ac.uk/alciato/emblem.php?id=A46a002" globalID="http://hdl.handle.net/10111/EmblemRegistry:E030201">
+    <motto>
+      <transcription xml:lang="la">In Iuventam.</transcription>
+    </motto>
+    <pictura xml:id="A46a002_P1" xlink:href="http://www.emblems.arts.gla.ac.uk/alciato/images/pic_l/A46a002.jpg">
+      <figDesc>Two statues on a plinth, one holding a staff, one a lyre.</figDesc>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/12EE63">
+        <skos:notation>12EE63</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/25H2323">
+        <skos:notation>25H2323</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/25I12">
+        <skos:notation>25I12</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/31A(+933)">
+        <skos:notation>31A(+933)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/31A2512">
+        <skos:notation>31A2512</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/31A2513(+933)">
+        <skos:notation>31A2513(+933)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/31A2515">
+        <skos:notation>31A2515</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/31A2621(+51)">
+        <skos:notation>31A2621(+51)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/31A46">
+        <skos:notation>31A46</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/31A4690">
+        <skos:notation>31A4690</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/31D12(+89)">
+        <skos:notation>31D12(+89)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/31D120">
+        <skos:notation>31D120</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/31D14">
+        <skos:notation>31D14</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/31D5">
+        <skos:notation>31D5</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/41D212">
+        <skos:notation>41D212</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/41D223">
+        <skos:notation>41D223</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/43A(+12)">
+        <skos:notation>43A(+12)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/44B191">
+        <skos:notation>44B191</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/44B192">
+        <skos:notation>44B192</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/48C24">
+        <skos:notation>48C24</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/48C7321">
+        <skos:notation>48C7321</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/56B2(+4)">
+        <skos:notation>56B2(+4)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/91B135">
+        <skos:notation>91B135</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/92B1226">
+        <skos:notation>92B1226</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/92B3">
+        <skos:notation>92B3</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/92B38(LYRE)(+0)">
+        <skos:notation>92B38(LYRE)(+0)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/92L1">
+        <skos:notation>92L1</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/95B(SEMELE)">
+        <skos:notation>95B(SEMELE)</skos:notation>
+      </iconclass>
+    </pictura>
+  </emblem>
+  

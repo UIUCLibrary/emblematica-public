@@ -1,0 +1,48 @@
+<emblem xmlns="http://diglib.hab.de/rules/schema/emblem" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:oai_sr="http://www.openarchives.org/OAI/2.0/static-repository" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai="http://www.openarchives.org/OAI/2.0/" xmlns:iihim="http://mnemosyne.org/IIHIM/0.1/" xml:id="A46a069" xlink:href="http://www.emblems.arts.gla.ac.uk/alciato/emblem.php?id=A46a069" globalID="http://hdl.handle.net/10111/EmblemRegistry:E030268">
+    <motto>
+      <transcription xml:lang="la">Aemulatio impar.</transcription>
+    </motto>
+    <pictura xml:id="A46a069_P1" xlink:href="http://www.emblems.arts.gla.ac.uk/alciato/images/pic_l/A46a069.jpg">
+      <figDesc>Two birds of prey flying one above the other.</figDesc>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/25F(+452)">
+        <skos:notation>25F(+452)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/25F33(FALCON)(+53)">
+        <skos:notation>25F33(FALCON)(+53)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/25F33(KITE)(+53)">
+        <skos:notation>25F33(KITE)(+53)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/25F62(+63)">
+        <skos:notation>25F62(+63)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/25F62(BREAM)(+452)">
+        <skos:notation>25F62(BREAM)(+452)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/25F62(MULLET)(+452)">
+        <skos:notation>25F62(MULLET)(+452)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/25G3(+21)">
+        <skos:notation>25G3(+21)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/26A">
+        <skos:notation>26A</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/47I4251">
+        <skos:notation>47I4251</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/51BB3(+4):54EE33(+4)">
+        <skos:notation>51BB3(+4):54EE33(+4)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/57AA6122(+4)">
+        <skos:notation>57AA6122(+4)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/61B2(ALCIATUS, Andreas)3">
+        <skos:notation>61B2(ALCIATUS, Andreas)3</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/61B2(OENOCRATES)3">
+        <skos:notation>61B2(OENOCRATES)3</skos:notation>
+      </iconclass>
+    </pictura>
+  </emblem>
+  

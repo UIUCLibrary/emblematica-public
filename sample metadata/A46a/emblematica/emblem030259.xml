@@ -1,0 +1,30 @@
+<emblem xmlns="http://diglib.hab.de/rules/schema/emblem" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:oai_sr="http://www.openarchives.org/OAI/2.0/static-repository" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai="http://www.openarchives.org/OAI/2.0/" xmlns:iihim="http://mnemosyne.org/IIHIM/0.1/" xml:id="A46a060" xlink:href="http://www.emblems.arts.gla.ac.uk/alciato/emblem.php?id=A46a060" globalID="http://hdl.handle.net/10111/EmblemRegistry:E030259">
+    <motto>
+      <transcription xml:lang="la">In dies meliora.</transcription>
+    </motto>
+    <pictura xml:id="A46a060_P1" xlink:href="http://www.emblems.arts.gla.ac.uk/alciato/images/pic_l/A46a060.jpg">
+      <figDesc>A boar s head on a platter.</figDesc>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/23A330">
+        <skos:notation>23A330</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/33A4">
+        <skos:notation>33A4</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/41C342">
+        <skos:notation>41C342</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/43A141">
+        <skos:notation>43A141</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/47I212(+933)">
+        <skos:notation>47I212(+933)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/51L4(+4)">
+        <skos:notation>51L4(+4)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/56D3(+4)">
+        <skos:notation>56D3(+4)</skos:notation>
+      </iconclass>
+    </pictura>
+  </emblem>
+  

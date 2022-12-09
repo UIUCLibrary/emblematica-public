@@ -1,0 +1,60 @@
+<emblem xmlns="http://diglib.hab.de/rules/schema/emblem" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:oai_sr="http://www.openarchives.org/OAI/2.0/static-repository" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai="http://www.openarchives.org/OAI/2.0/" xmlns:iihim="http://mnemosyne.org/IIHIM/0.1/" xml:id="A46a084" xlink:href="http://www.emblems.arts.gla.ac.uk/alciato/emblem.php?id=A46a084" globalID="http://hdl.handle.net/10111/EmblemRegistry:E030283">
+    <motto>
+      <transcription xml:lang="la">Opulenti haereditas.</transcription>
+    </motto>
+    <pictura xml:id="A46a084_P1" xlink:href="http://www.emblems.arts.gla.ac.uk/alciato/images/pic_l/A46a084.jpg">
+      <figDesc>Soldiers fighting over the body of a fallen soldier.</figDesc>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/25F32(CROW)">
+        <skos:notation>25F32(CROW)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/25F33(VULTURE)">
+        <skos:notation>25F33(VULTURE)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/3.10E+04">
+        <skos:notation>3.10E+04</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/31D14(+76)">
+        <skos:notation>31D14(+76)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/32B311(GREEKS)">
+        <skos:notation>32B311(GREEKS)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/41D28">
+        <skos:notation>41D28</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/42E5310">
+        <skos:notation>42E5310</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/45C13(SWORD)">
+        <skos:notation>45C13(SWORD)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/45C22">
+        <skos:notation>45C22</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/45C221">
+        <skos:notation>45C221</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/45I52(+1)">
+        <skos:notation>45I52(+1)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/46A160">
+        <skos:notation>46A160</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/59C22(+4)">
+        <skos:notation>59C22(+4)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/61E(TROY)">
+        <skos:notation>61E(TROY)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/94C">
+        <skos:notation>94C</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/94F821">
+        <skos:notation>94F821</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/94F822">
+        <skos:notation>94F822</skos:notation>
+      </iconclass>
+    </pictura>
+  </emblem>
+  

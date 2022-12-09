@@ -1,0 +1,81 @@
+<emblem xmlns="http://diglib.hab.de/rules/schema/emblem" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:oai_sr="http://www.openarchives.org/OAI/2.0/static-repository" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai="http://www.openarchives.org/OAI/2.0/" xmlns:iihim="http://mnemosyne.org/IIHIM/0.1/" xml:id="A46a023" xlink:href="http://www.emblems.arts.gla.ac.uk/alciato/emblem.php?id=A46a023" globalID="http://hdl.handle.net/10111/EmblemRegistry:E030222">
+    <motto>
+      <transcription xml:lang="la">Insani gladius.</transcription>
+    </motto>
+    <pictura xml:id="A46a023_P1" xlink:href="http://www.emblems.arts.gla.ac.uk/alciato/images/pic_l/A46a023.jpg">
+      <figDesc>A soldier killing pigs with a sword.</figDesc>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/25H13">
+        <skos:notation>25H13</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/25H23">
+        <skos:notation>25H23</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/25I12">
+        <skos:notation>25I12</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/31A2321">
+        <skos:notation>31A2321</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/31A2511(+933)">
+        <skos:notation>31A2511(+933)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/31A2512(+933)">
+        <skos:notation>31A2512(+933)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/31A27112(+9225)">
+        <skos:notation>31A27112(+9225)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/31A464">
+        <skos:notation>31A464</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/31D14">
+        <skos:notation>31D14</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/32B311(GREEKS)">
+        <skos:notation>32B311(GREEKS)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/41D233(+81)">
+        <skos:notation>41D233(+81)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/45C13(SWORD)(+63)">
+        <skos:notation>45C13(SWORD)(+63)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/45C19(SHIELD)">
+        <skos:notation>45C19(SHIELD)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/45C22">
+        <skos:notation>45C22</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/45C221">
+        <skos:notation>45C221</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/47I212(+939):31A236">
+        <skos:notation>47I212(+939):31A236</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/47I212(+952)">
+        <skos:notation>47I212(+952)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/47I212(+962)">
+        <skos:notation>47I212(+962)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/47I212(+963)">
+        <skos:notation>47I212(+963)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/52AA511(+4)">
+        <skos:notation>52AA511(+4)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/56E3(+4)">
+        <skos:notation>56E3(+4)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/94G62">
+        <skos:notation>94G62</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/95A(AJAX THE GREAT)4">
+        <skos:notation>95A(AJAX THE GREAT)4</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/95A(ULYSSES)">
+        <skos:notation>95A(ULYSSES)</skos:notation>
+      </iconclass>
+    </pictura>
+  </emblem>
+  

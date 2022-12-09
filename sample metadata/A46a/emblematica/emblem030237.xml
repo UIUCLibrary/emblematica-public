@@ -1,0 +1,39 @@
+<emblem xmlns="http://diglib.hab.de/rules/schema/emblem" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:oai_sr="http://www.openarchives.org/OAI/2.0/static-repository" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai="http://www.openarchives.org/OAI/2.0/" xmlns:iihim="http://mnemosyne.org/IIHIM/0.1/" xml:id="A46a038" xlink:href="http://www.emblems.arts.gla.ac.uk/alciato/emblem.php?id=A46a038" globalID="http://hdl.handle.net/10111/EmblemRegistry:E030237">
+    <motto>
+      <transcription xml:lang="la">Hedera.</transcription>
+    </motto>
+    <pictura xml:id="A46a038_P1" xlink:href="http://www.emblems.arts.gla.ac.uk/alciato/images/pic_l/A46a038.jpg">
+      <figDesc>Ivy.</figDesc>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/22C4(GOLD)">
+        <skos:notation>22C4(GOLD)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/22C4(GREEN)">
+        <skos:notation>22C4(GREEN)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/25G4(IVY)(+1)">
+        <skos:notation>25G4(IVY)(+1)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/25G4(IVY)(+34)">
+        <skos:notation>25G4(IVY)(+34)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/41A54">
+        <skos:notation>41A54</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/41A625">
+        <skos:notation>41A625</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/48C921">
+        <skos:notation>48C921</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/54A11">
+        <skos:notation>54A11</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/92L18(IVY)">
+        <skos:notation>92L18(IVY)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/92L32(CISSOS)">
+        <skos:notation>92L32(CISSOS)</skos:notation>
+      </iconclass>
+    </pictura>
+  </emblem>
+  

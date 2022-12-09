@@ -1,0 +1,120 @@
+<emblem xmlns="http://diglib.hab.de/rules/schema/emblem" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:oai_sr="http://www.openarchives.org/OAI/2.0/static-repository" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai="http://www.openarchives.org/OAI/2.0/" xmlns:iihim="http://mnemosyne.org/IIHIM/0.1/" xml:id="A46a075" xlink:href="http://www.emblems.arts.gla.ac.uk/alciato/emblem.php?id=A46a075" globalID="http://hdl.handle.net/10111/EmblemRegistry:E030274">
+    <motto>
+      <transcription xml:lang="la">Vino prudentiam augeri.</transcription>
+    </motto>
+    <pictura xml:id="A46a075_P1" xlink:href="http://www.emblems.arts.gla.ac.uk/alciato/images/pic_l/A46a075.jpg">
+      <figDesc>Two statues (Bacchus and Minerva) on a plinth.</figDesc>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/1.20E+63">
+        <skos:notation>1.20E+63</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/1.20E+64">
+        <skos:notation>1.20E+64</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/11M41">
+        <skos:notation>11M41</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/25G3(OLIVE-TREE)">
+        <skos:notation>25G3(OLIVE-TREE)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/25H114">
+        <skos:notation>25H114</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/25I12">
+        <skos:notation>25I12</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/25I5">
+        <skos:notation>25I5</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/31A">
+        <skos:notation>31A</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/31A(+9331)">
+        <skos:notation>31A(+9331)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/31A2511(+933)">
+        <skos:notation>31A2511(+933)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/31A2512(+933)">
+        <skos:notation>31A2512(+933)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/31A2513(+933)">
+        <skos:notation>31A2513(+933)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/31A26114(+51)">
+        <skos:notation>31A26114(+51)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/31AA2621(+51)">
+        <skos:notation>31AA2621(+51)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/31B50">
+        <skos:notation>31B50</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/31B59">
+        <skos:notation>31B59</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/31D12(+89)">
+        <skos:notation>31D12(+89)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/31D15">
+        <skos:notation>31D15</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/41C671">
+        <skos:notation>41C671</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/41C7110">
+        <skos:notation>41C7110</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/41D211">
+        <skos:notation>41D211</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/41D212">
+        <skos:notation>41D212</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/41D27">
+        <skos:notation>41D27</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/43A(+12)">
+        <skos:notation>43A(+12)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/45C14(LANCE)">
+        <skos:notation>45C14(LANCE)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/45C19(SHIELD)">
+        <skos:notation>45C19(SHIELD)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/45C221">
+        <skos:notation>45C221</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/48C24">
+        <skos:notation>48C24</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/48C244">
+        <skos:notation>48C244</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/52A51(+4)">
+        <skos:notation>52A51(+4)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/92C2">
+        <skos:notation>92C2</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/92C211(+0)">
+        <skos:notation>92C211(+0)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/92C28(HELMET)">
+        <skos:notation>92C28(HELMET)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/92C28(LANCE)">
+        <skos:notation>92C28(LANCE)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/92C28(OLIVE-TREE)">
+        <skos:notation>92C28(OLIVE-TREE)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/92L1">
+        <skos:notation>92L1</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/92L111(+0)">
+        <skos:notation>92L111(+0)</skos:notation>
+      </iconclass>
+    </pictura>
+  </emblem>
+  

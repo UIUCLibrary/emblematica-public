@@ -1,0 +1,36 @@
+<emblem xmlns="http://diglib.hab.de/rules/schema/emblem" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:oai_sr="http://www.openarchives.org/OAI/2.0/static-repository" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai="http://www.openarchives.org/OAI/2.0/" xmlns:iihim="http://mnemosyne.org/IIHIM/0.1/" xml:id="A46a085" xlink:href="http://www.emblems.arts.gla.ac.uk/alciato/emblem.php?id=A46a085" globalID="http://hdl.handle.net/10111/EmblemRegistry:E030284">
+    <motto>
+      <transcription xml:lang="la">Mediolanum.</transcription>
+    </motto>
+    <pictura xml:id="A46a085_P1" xlink:href="http://www.emblems.arts.gla.ac.uk/alciato/images/pic_l/A46a085.jpg">
+      <figDesc>A pig with wool on its shoulders.</figDesc>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/11HH(THECLA)">
+        <skos:notation>11HH(THECLA)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/25G3(+21)">
+        <skos:notation>25G3(+21)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/25H114">
+        <skos:notation>25H114</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/47H14">
+        <skos:notation>47H14</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/47I212">
+        <skos:notation>47I212</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/61E(AUTUN)">
+        <skos:notation>61E(AUTUN)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/61E(BOURGES)">
+        <skos:notation>61E(BOURGES)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/61E(MILAN)">
+        <skos:notation>61E(MILAN)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/92C271">
+        <skos:notation>92C271</skos:notation>
+      </iconclass>
+    </pictura>
+  </emblem>
+  

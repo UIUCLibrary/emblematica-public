@@ -1,0 +1,93 @@
+<emblem xmlns="http://diglib.hab.de/rules/schema/emblem" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:oai_sr="http://www.openarchives.org/OAI/2.0/static-repository" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai="http://www.openarchives.org/OAI/2.0/" xmlns:iihim="http://mnemosyne.org/IIHIM/0.1/" xml:id="A46a078" xlink:href="http://www.emblems.arts.gla.ac.uk/alciato/emblem.php?id=A46a078" globalID="http://hdl.handle.net/10111/EmblemRegistry:E030277">
+    <motto>
+      <transcription xml:lang="la">Ars naturam adiuvans.</transcription>
+    </motto>
+    <pictura xml:id="A46a078_P1" xlink:href="http://www.emblems.arts.gla.ac.uk/alciato/images/pic_l/A46a078.jpg">
+      <figDesc>Two statues: one of Hermes with two heads and four faces, standing on a cube; one of Fortune standing on a sphere.</figDesc>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/20">
+        <skos:notation>20</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/25F(+342):25F(+154)">
+        <skos:notation>25F(+342):25F(+154)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/25F42(+154)">
+        <skos:notation>25F42(+154)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/25H114">
+        <skos:notation>25H114</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/26C">
+        <skos:notation>26C</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/31A2352">
+        <skos:notation>31A2352</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/31A2515(+9331)">
+        <skos:notation>31A2515(+9331)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/31A442">
+        <skos:notation>31A442</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/31AA2422">
+        <skos:notation>31AA2422</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/31D14">
+        <skos:notation>31D14</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/31D14(+89)">
+        <skos:notation>31D14(+89)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/31D15(+89)">
+        <skos:notation>31D15(+89)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/41A54">
+        <skos:notation>41A54</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/41D221(HAT)(+81)">
+        <skos:notation>41D221(HAT)(+81)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/41D27">
+        <skos:notation>41D27</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/44B192">
+        <skos:notation>44B192</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/480">
+        <skos:notation>480</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/49A0:31D12">
+        <skos:notation>49A0:31D12</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/49B44">
+        <skos:notation>49B44</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/49C0">
+        <skos:notation>49C0</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/49C1">
+        <skos:notation>49C1</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/49D452">
+        <skos:notation>49D452</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/49D48">
+        <skos:notation>49D48</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/54F12(+11)">
+        <skos:notation>54F12(+11)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/54F12(+4)">
+        <skos:notation>54F12(+4)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/92B57">
+        <skos:notation>92B57</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/92B58(CADUCEUS)">
+        <skos:notation>92B58(CADUCEUS)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/92B58(PETASUS)">
+        <skos:notation>92B58(PETASUS)</skos:notation>
+      </iconclass>
+    </pictura>
+  </emblem>
+  

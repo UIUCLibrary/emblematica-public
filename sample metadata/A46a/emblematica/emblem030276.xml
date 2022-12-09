@@ -1,0 +1,66 @@
+<emblem xmlns="http://diglib.hab.de/rules/schema/emblem" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:oai_sr="http://www.openarchives.org/OAI/2.0/static-repository" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai="http://www.openarchives.org/OAI/2.0/" xmlns:iihim="http://mnemosyne.org/IIHIM/0.1/" xml:id="A46a077" xlink:href="http://www.emblems.arts.gla.ac.uk/alciato/emblem.php?id=A46a077" globalID="http://hdl.handle.net/10111/EmblemRegistry:E030276">
+    <motto>
+      <transcription xml:lang="la">Vis naturae.</transcription>
+    </motto>
+    <pictura xml:id="A46a077_P1" xlink:href="http://www.emblems.arts.gla.ac.uk/alciato/images/pic_l/A46a077.jpg">
+      <figDesc>Half man, half goat with pipes at his feet</figDesc>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/11M41">
+        <skos:notation>11M41</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/20">
+        <skos:notation>20</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/25G3(+21)">
+        <skos:notation>25G3(+21)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/25H113">
+        <skos:notation>25H113</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/25I12">
+        <skos:notation>25I12</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/25I5">
+        <skos:notation>25I5</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/30">
+        <skos:notation>30</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/31A222(+89)">
+        <skos:notation>31A222(+89)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/31A2351">
+        <skos:notation>31A2351</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/31A26114">
+        <skos:notation>31A26114</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/31A4521">
+        <skos:notation>31A4521</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/31A534">
+        <skos:notation>31A534</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/47I214(+9332)">
+        <skos:notation>47I214(+9332)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/47I214(+934)">
+        <skos:notation>47I214(+934)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/48C7353">
+        <skos:notation>48C7353</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/57AA51">
+        <skos:notation>57AA51</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/58B6(+4)">
+        <skos:notation>58B6(+4)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/92L5">
+        <skos:notation>92L5</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/92L58(SYRINX)">
+        <skos:notation>92L58(SYRINX)</skos:notation>
+      </iconclass>
+    </pictura>
+  </emblem>
+  

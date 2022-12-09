@@ -1,0 +1,50 @@
+<emblem xmlns="http://diglib.hab.de/rules/schema/emblem" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:oai_sr="http://www.openarchives.org/OAI/2.0/static-repository" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai="http://www.openarchives.org/OAI/2.0/" xmlns:iihim="http://mnemosyne.org/IIHIM/0.1/" xml:id="A46a086" xlink:href="http://www.emblems.arts.gla.ac.uk/alciato/emblem.php?id=A46a086" globalID="http://hdl.handle.net/10111/EmblemRegistry:E030285">
+    <motto>
+      <transcription xml:lang="la">Nunquam procrastinandum.</transcription>
+    </motto>
+    <pictura xml:id="A46a086_P1" xlink:href="http://www.emblems.arts.gla.ac.uk/alciato/images/pic_l/A46a086.jpg">
+      <figDesc>Coat of arms with an elk, a shield, a helmet and a banner with Greek inscription.</figDesc>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/25F24(ELK)(+5245)">
+        <skos:notation>25F24(ELK)(+5245)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/25F24(ELK)(+552)">
+        <skos:notation>25F24(ELK)(+552)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/25FF231">
+        <skos:notation>25FF231</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/25G(+15)">
+        <skos:notation>25G(+15)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/34(+912)">
+        <skos:notation>34(+912)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/41A12">
+        <skos:notation>41A12</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/44B191">
+        <skos:notation>44B191</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/46A122(ALCIATUS)3">
+        <skos:notation>46A122(ALCIATUS)3</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/49L71">
+        <skos:notation>49L71</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/51FF521">
+        <skos:notation>51FF521</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/51M11(+4)">
+        <skos:notation>51M11(+4)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/61B2(ALCIATUS, ANDREAS)3">
+        <skos:notation>61B2(ALCIATUS, ANDREAS)3</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/86(MHDEN ANABALLOMENOS)">
+        <skos:notation>86(MHDEN ANABALLOMENOS)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/98B(ALEXANDER THE GREAT)">
+        <skos:notation>98B(ALEXANDER THE GREAT)</skos:notation>
+      </iconclass>
+    </pictura>
+  </emblem>

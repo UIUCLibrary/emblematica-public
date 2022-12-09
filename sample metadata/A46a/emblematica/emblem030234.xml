@@ -1,0 +1,24 @@
+<emblem xmlns="http://diglib.hab.de/rules/schema/emblem" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:oai_sr="http://www.openarchives.org/OAI/2.0/static-repository" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai="http://www.openarchives.org/OAI/2.0/" xmlns:iihim="http://mnemosyne.org/IIHIM/0.1/" xml:id="A46a035" xlink:href="http://www.emblems.arts.gla.ac.uk/alciato/emblem.php?id=A46a035" globalID="http://hdl.handle.net/10111/EmblemRegistry:E030234">
+    <motto>
+      <transcription xml:lang="la">Picea.</transcription>
+    </motto>
+    <pictura xml:id="A46a035_P1" xlink:href="http://www.emblems.arts.gla.ac.uk/alciato/images/pic_l/A46a035.jpg">
+      <figDesc>A spruce tree.</figDesc>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/25G11">
+        <skos:notation>25G11</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/25G3(PINE)(+1)">
+        <skos:notation>25G3(PINE)(+1)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/25G3(SPRUCE)(+1)">
+        <skos:notation>25G3(SPRUCE)(+1)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/25I146">
+        <skos:notation>25I146</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/42A190">
+        <skos:notation>42A190</skos:notation>
+      </iconclass>
+    </pictura>
+  </emblem>
+  

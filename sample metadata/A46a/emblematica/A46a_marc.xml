@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+   <leader>00000nam  2200000 a 4500</leader>
+   <controlfield tag="007">cr</controlfield>
+   <controlfield tag="008">080912s1546    it a    s     000 0 lat d</controlfield>
+   <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="d">StGlU</subfield>
+      <subfield code="e">dcrmb</subfield>
+   </datafield>
+   <datafield tag="059" ind1=" " ind2=" ">
+      <subfield code="a">Sp Coll</subfield>
+      <subfield code="x">S.M.</subfield>
+      <subfield code="q">29</subfield>
+   </datafield>
+   <datafield tag="100" ind1="1" ind2=" ">
+      <subfield code="a">Alciati, Andrea,</subfield>
+      <subfield code="d">1492-1550.</subfield>
+   </datafield>
+   <datafield tag="240" ind1="1" ind2="0">
+      <subfield code="a">Emblematum liber.</subfield>
+      <subfield code="l">Latin.</subfield>
+      <subfield code="f">1546</subfield>
+   </datafield>
+   <datafield tag="245" ind1="1" ind2="0">
+      <subfield code="a">Andreae Alciati Emblematvm libellvs, nvper in lvcem editvs.</subfield>
+      <subfield code="h">[electronic resource].</subfield>
+   </datafield>
+   <datafield tag="246" ind1="3" ind2=" ">
+      <subfield code="a">Andreae Alciati Emblematum libellus, nuper in lucem editus</subfield>
+   </datafield>
+   <datafield tag="260" ind1=" " ind2=" ">
+      <subfield code="a">Venetiis, :</subfield>
+      <subfield code="b">[Apvd Aldi Filios],</subfield>
+      <subfield code="c">M. D. XLVI. [1546]</subfield>
+   </datafield>
+   <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">48 leaves :</subfield>
+      <subfield code="b">ill ;</subfield>
+      <subfield code="c">14 cm. (8vo)</subfield>
+   </datafield>
+   <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">Edited by Pietro Rossettini da Prat' Alboino (Petrus Rhosithinus/Pietro Rositini).</subfield>
+   </datafield>
+   <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">Signatures: A-F&#x2078;.</subfield>
+   </datafield>
+   <datafield tag="510" ind1="4" ind2=" ">
+      <subfield code="a">Landwehr, J. French, Italian, Spanish, and Portuguese emblem books,</subfield>
+      <subfield code="c">33.</subfield>
+   </datafield>
+   <datafield tag="510" ind1="4" ind2=" ">
+      <subfield code="a">Green, H. Andrea Alciati and his books of emblems,</subfield>
+      <subfield code="c">28.</subfield>
+   </datafield>
+   <datafield tag="530" ind1=" " ind2=" ">
+      <subfield code="a">Print version available.</subfield>
+   </datafield>
+   <datafield tag="533" ind1=" " ind2=" ">
+      <subfield code="a">Electronic reproduction.</subfield>
+      <subfield code="b">Glasgow :</subfield>
+      <subfield code="c">University of Glasgow,</subfield>
+      <subfield code="d">2008.</subfield>
+   </datafield>
+   <datafield tag="538" ind1=" " ind2=" ">
+      <subfield code="a">Mode of access: WWW.</subfield>
+   </datafield>
+   <datafield tag="590" ind1="1" ind2=" ">
+      <subfield code="a">White,</subfield>
+      <subfield code="c">Mr.</subfield>
+   </datafield>
+   <datafield tag="592" ind1="0" ind2="0">
+      <subfield code="a">Venice</subfield>
+      <subfield code="b">1546</subfield>
+   </datafield>
+   <datafield tag="593" ind1="1" ind2=" ">
+      <subfield code="a">Manuzio, Aldo,</subfield>
+      <subfield code="c">Heirs of,</subfield>
+      <subfield code="d">fl. 1520?-1560.</subfield>
+   </datafield>
+   <datafield tag="595" ind1=" " ind2=" ">
+      <subfield code="a">This copy lacks leaf F8; ms. notes by Stirling Maxwell on front flyleaf, "This copy ... cost me ... &#x00A3;3 - 3. I bought it of [sic] Mr White in Piccadilly 1869. I never saw a copy for sale before. W. S. M."</subfield>
+   </datafield>
+   <datafield tag="598" ind1="0" ind2="0">
+      <subfield code="a">Access to original restricted. Digital version must be used. Permission to consult original must be obtained from Keeper of Special Collections.</subfield>
+   </datafield>
+   <datafield tag="599" ind1="0" ind2="0">
+      <subfield code="a">Stirling Maxwell</subfield>
+   </datafield>
+   <datafield tag="650" ind1=" " ind2="0">
+      <subfield code="a">Emblem Books, Latin.</subfield>
+   </datafield>
+   <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Rositini, Pietro,</subfield>
+      <subfield code="d">active 16th century.</subfield>
+   </datafield>
+   <datafield tag="856" ind1="4" ind2="0">
+      <subfield code="u">http://www.emblems.arts.gla.ac.uk/alciato/ books.php?id=A46a</subfield>
+      <subfield code="z">Connect to electronic version</subfield>
+   </datafield>
+</record>

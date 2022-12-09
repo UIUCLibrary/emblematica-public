@@ -1,0 +1,45 @@
+<emblem xmlns="http://diglib.hab.de/rules/schema/emblem" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:oai_sr="http://www.openarchives.org/OAI/2.0/static-repository" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai="http://www.openarchives.org/OAI/2.0/" xmlns:iihim="http://mnemosyne.org/IIHIM/0.1/" xml:id="A46a018" xlink:href="http://www.emblems.arts.gla.ac.uk/alciato/emblem.php?id=A46a018" globalID="http://hdl.handle.net/10111/EmblemRegistry:E030217">
+    <motto>
+      <transcription xml:lang="la">Concordia insuperabilis.</transcription>
+    </motto>
+    <pictura xml:id="A46a018_P1" xlink:href="http://www.emblems.arts.gla.ac.uk/alciato/images/pic_l/A46a018.jpg">
+      <figDesc>A three headed man.</figDesc>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/25G13">
+        <skos:notation>25G13</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/25G3(+21)">
+        <skos:notation>25G3(+21)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/25H113">
+        <skos:notation>25H113</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/25I5">
+        <skos:notation>25I5</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/31A">
+        <skos:notation>31A</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/31A2513">
+        <skos:notation>31A2513</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/31A442(+41)">
+        <skos:notation>31A442(+41)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/31A534">
+        <skos:notation>31A534</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/51E2">
+        <skos:notation>51E2</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/54E31(+4)">
+        <skos:notation>54E31(+4)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/54F2">
+        <skos:notation>54F2</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/95A(GERYON)71">
+        <skos:notation>95A(GERYON)71</skos:notation>
+      </iconclass>
+    </pictura>
+  </emblem>
+  

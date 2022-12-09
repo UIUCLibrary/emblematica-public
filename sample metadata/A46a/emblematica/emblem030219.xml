@@ -1,0 +1,75 @@
+<emblem xmlns="http://diglib.hab.de/rules/schema/emblem" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:oai_sr="http://www.openarchives.org/OAI/2.0/static-repository" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai="http://www.openarchives.org/OAI/2.0/" xmlns:iihim="http://mnemosyne.org/IIHIM/0.1/" xml:id="A46a020" xlink:href="http://www.emblems.arts.gla.ac.uk/alciato/emblem.php?id=A46a020" globalID="http://hdl.handle.net/10111/EmblemRegistry:E030219">
+    <motto>
+      <transcription xml:lang="la">Nobiles &amp; generosi.</transcription>
+    </motto>
+    <pictura xml:id="A46a020_P1" xlink:href="http://www.emblems.arts.gla.ac.uk/alciato/images/pic_l/A46a020.jpg">
+      <figDesc>Man sitting on step, one finger pointing.</figDesc>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/24B">
+        <skos:notation>24B</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/25D13(GOLD)">
+        <skos:notation>25D13(GOLD)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/25F711(CICADA)">
+        <skos:notation>25F711(CICADA)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/25H113">
+        <skos:notation>25H113</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/31A2352">
+        <skos:notation>31A2352</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/31A2512">
+        <skos:notation>31A2512</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/31A534">
+        <skos:notation>31A534</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/31D14">
+        <skos:notation>31D14</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/32B2(ATHENIAN)(+3)">
+        <skos:notation>32B2(ATHENIAN)(+3)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/32B2(GREEK)(+3)">
+        <skos:notation>32B2(GREEK)(+3)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/32B2(ROMAN)(+3)">
+        <skos:notation>32B2(ROMAN)(+3)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/41D211(+81)">
+        <skos:notation>41D211(+81)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/41D212">
+        <skos:notation>41D212</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/41D221(+81)">
+        <skos:notation>41D221(+81)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/41D2332">
+        <skos:notation>41D2332</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/41D2644">
+        <skos:notation>41D2644</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/41D2665">
+        <skos:notation>41D2665</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/46A120">
+        <skos:notation>46A120</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/48C1412">
+        <skos:notation>48C1412</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/48C162">
+        <skos:notation>48C162</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/59B33(+4)">
+        <skos:notation>59B33(+4)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/61D(ARCADIA)">
+        <skos:notation>61D(ARCADIA)</skos:notation>
+      </iconclass>
+    </pictura>
+  </emblem>
+  

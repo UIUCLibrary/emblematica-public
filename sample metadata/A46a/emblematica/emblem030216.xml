@@ -1,0 +1,60 @@
+<emblem xmlns="http://diglib.hab.de/rules/schema/emblem" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:oai_sr="http://www.openarchives.org/OAI/2.0/static-repository" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai="http://www.openarchives.org/OAI/2.0/" xmlns:iihim="http://mnemosyne.org/IIHIM/0.1/" xml:id="A46a017" xlink:href="http://www.emblems.arts.gla.ac.uk/alciato/emblem.php?id=A46a017" globalID="http://hdl.handle.net/10111/EmblemRegistry:E030216">
+    <motto>
+      <transcription xml:lang="la">Strenuorum immortale nomen.</transcription>
+    </motto>
+    <pictura xml:id="A46a017_P1" xlink:href="http://www.emblems.arts.gla.ac.uk/alciato/images/pic_l/A46a017.jpg">
+      <figDesc>A tomb by the seashore bearing flowers and the inscription ACHILLES.</figDesc>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/25G4(AMARANTH)">
+        <skos:notation>25G4(AMARANTH)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/25H13">
+        <skos:notation>25H13</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/25H23">
+        <skos:notation>25H23</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/26A">
+        <skos:notation>26A</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/32B2(GREEK)(+3)">
+        <skos:notation>32B2(GREEK)(+3)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/42E31">
+        <skos:notation>42E31</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/42E441">
+        <skos:notation>42E441</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/46C24">
+        <skos:notation>46C24</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/48A9833">
+        <skos:notation>48A9833</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/49L8">
+        <skos:notation>49L8</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/54A8(+4)">
+        <skos:notation>54A8(+4)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/58B3(+4)">
+        <skos:notation>58B3(+4)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/59B32(+4)">
+        <skos:notation>59B32(+4)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/86(ACHILLES)">
+        <skos:notation>86(ACHILLES)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/94G533">
+        <skos:notation>94G533</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/95A(HECTOR)">
+        <skos:notation>95A(HECTOR)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/98B(HOMER)3">
+        <skos:notation>98B(HOMER)3</skos:notation>
+      </iconclass>
+    </pictura>
+  </emblem>
+  

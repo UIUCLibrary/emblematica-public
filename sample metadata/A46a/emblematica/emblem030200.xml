@@ -1,0 +1,63 @@
+<emblem xmlns="http://diglib.hab.de/rules/schema/emblem" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:oai_sr="http://www.openarchives.org/OAI/2.0/static-repository" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai="http://www.openarchives.org/OAI/2.0/" xmlns:iihim="http://mnemosyne.org/IIHIM/0.1/" xml:id="A46a001" xlink:href="http://www.emblems.arts.gla.ac.uk/alciato/emblem.php?id=A46a001" globalID="http://hdl.handle.net/10111/EmblemRegistry:E030200">
+    <motto>
+      <transcription xml:lang="la">In divites publico malo.</transcription>
+    </motto>
+    <pictura xml:id="A46a001_P1" xlink:href="http://www.emblems.arts.gla.ac.uk/alciato/images/pic_l/A46a001.jpg">
+      <figDesc>Man holding a staff standing by a stream watching nets.</figDesc>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/25D26">
+        <skos:notation>25D26</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/25F63">
+        <skos:notation>25F63</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/25G3">
+        <skos:notation>25G3</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/25H114">
+        <skos:notation>25H114</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/31A244">
+        <skos:notation>31A244</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/31A2621(+51)">
+        <skos:notation>31A2621(+51)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/31AA2512(+933)">
+        <skos:notation>31AA2512(+933)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/31D14">
+        <skos:notation>31D14</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/41D211(+81)">
+        <skos:notation>41D211(+81)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/43C(+4)(STICK)">
+        <skos:notation>43C(+4)(STICK)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/43C1(+415)">
+        <skos:notation>43C1(+415)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/43C128">
+        <skos:notation>43C128</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/44F0">
+        <skos:notation>44F0</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/45A">
+        <skos:notation>45A</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/54FF11(+4)">
+        <skos:notation>54FF11(+4)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/55A1(+4)">
+        <skos:notation>55A1(+4)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/55CC11(+4)">
+        <skos:notation>55CC11(+4)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/59CC1">
+        <skos:notation>59CC1</skos:notation>
+      </iconclass>
+    </pictura>
+  </emblem>
+  

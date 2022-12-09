@@ -1,0 +1,48 @@
+<emblem xmlns="http://diglib.hab.de/rules/schema/emblem" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:oai_sr="http://www.openarchives.org/OAI/2.0/static-repository" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai="http://www.openarchives.org/OAI/2.0/" xmlns:iihim="http://mnemosyne.org/IIHIM/0.1/" xml:id="A46a036" xlink:href="http://www.emblems.arts.gla.ac.uk/alciato/emblem.php?id=A46a036" globalID="http://hdl.handle.net/10111/EmblemRegistry:E030235">
+    <motto>
+      <transcription xml:lang="la">Cotonea.</transcription>
+    </motto>
+    <pictura xml:id="A46a036_P1" xlink:href="http://www.emblems.arts.gla.ac.uk/alciato/images/pic_l/A46a036.jpg">
+      <figDesc>A quince tree.</figDesc>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/25G13">
+        <skos:notation>25G13</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/25G3(QUINCE-TREE)(+1)">
+        <skos:notation>25G3(QUINCE-TREE)(+1)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/25G3(QUINCE-TREE)(+34)">
+        <skos:notation>25G3(QUINCE-TREE)(+34)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/25H13">
+        <skos:notation>25H13</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/25H23">
+        <skos:notation>25H23</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/25I12">
+        <skos:notation>25I12</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/25I5">
+        <skos:notation>25I5</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/31A2233">
+        <skos:notation>31A2233</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/31A331">
+        <skos:notation>31A331</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/31B6235">
+        <skos:notation>31B6235</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/42D170">
+        <skos:notation>42D170</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/46C24">
+        <skos:notation>46C24</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/98B(SOLON)3">
+        <skos:notation>98B(SOLON)3</skos:notation>
+      </iconclass>
+    </pictura>
+  </emblem>
+  

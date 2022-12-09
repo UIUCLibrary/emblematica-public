@@ -1,0 +1,66 @@
+<emblem xmlns="http://diglib.hab.de/rules/schema/emblem" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:oai_sr="http://www.openarchives.org/OAI/2.0/static-repository" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai="http://www.openarchives.org/OAI/2.0/" xmlns:iihim="http://mnemosyne.org/IIHIM/0.1/" xml:id="A46a050" xlink:href="http://www.emblems.arts.gla.ac.uk/alciato/emblem.php?id=A46a050" globalID="http://hdl.handle.net/10111/EmblemRegistry:E030249">
+    <motto>
+      <transcription xml:lang="la">Nupta contagioso.</transcription>
+    </motto>
+    <pictura xml:id="A46a050_P1" xlink:href="http://www.emblems.arts.gla.ac.uk/alciato/images/pic_l/A46a050.jpg">
+      <figDesc>A man walking with a corpse tied to his side.</figDesc>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/3.10E+04">
+        <skos:notation>3.10E+04</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/31A25161(+931)">
+        <skos:notation>31A25161(+931)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/31A2711">
+        <skos:notation>31A2711</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/31A2753">
+        <skos:notation>31A2753</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/31A4624(SYPHILIS)">
+        <skos:notation>31A4624(SYPHILIS)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/31D14(+72)">
+        <skos:notation>31D14(+72)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/31EE2353">
+        <skos:notation>31EE2353</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/33A35">
+        <skos:notation>33A35</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/41A31">
+        <skos:notation>41A31</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/41A323">
+        <skos:notation>41A323</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/41D211(+81)">
+        <skos:notation>41D211(+81)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/41D221(+81)">
+        <skos:notation>41D221(+81)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/41D233(+81)">
+        <skos:notation>41D233(+81)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/42B2">
+        <skos:notation>42B2</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/42D2">
+        <skos:notation>42D2</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/42D30:31A46240">
+        <skos:notation>42D30:31A46240</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/47D8(ROPE)">
+        <skos:notation>47D8(ROPE)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/57AA91">
+        <skos:notation>57AA91</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/96C(MEZENTIUS)4">
+        <skos:notation>96C(MEZENTIUS)4</skos:notation>
+      </iconclass>
+    </pictura>
+  </emblem>
+  

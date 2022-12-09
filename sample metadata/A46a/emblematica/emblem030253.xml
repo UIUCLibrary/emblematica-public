@@ -1,0 +1,51 @@
+<emblem xmlns="http://diglib.hab.de/rules/schema/emblem" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:oai_sr="http://www.openarchives.org/OAI/2.0/static-repository" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai="http://www.openarchives.org/OAI/2.0/" xmlns:iihim="http://mnemosyne.org/IIHIM/0.1/" xml:id="A46a054" xlink:href="http://www.emblems.arts.gla.ac.uk/alciato/emblem.php?id=A46a054" globalID="http://hdl.handle.net/10111/EmblemRegistry:E030253">
+    <motto>
+      <transcription xml:lang="la">Anechou kai apechou.</transcription>
+    </motto>
+    <pictura xml:id="A46a054_P1" xlink:href="http://www.emblems.arts.gla.ac.uk/alciato/images/pic_l/A46a054.jpg">
+      <figDesc>A bull with one leg attached to a chain round its neck.</figDesc>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/25G13">
+        <skos:notation>25G13</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/25G3(+21)">
+        <skos:notation>25G3(+21)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/34(+8)">
+        <skos:notation>34(+8)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/46C14111">
+        <skos:notation>46C14111</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/47D8(CHAIN)">
+        <skos:notation>47D8(CHAIN)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/47D8(ROPE)">
+        <skos:notation>47D8(ROPE)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/47I2111">
+        <skos:notation>47I2111</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/47I2112">
+        <skos:notation>47I2112</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/47I228">
+        <skos:notation>47I228</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/54A44(+4)">
+        <skos:notation>54A44(+4)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/54F">
+        <skos:notation>54F</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/57A72(+4)">
+        <skos:notation>57A72(+4)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/59CC3">
+        <skos:notation>59CC3</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/98B(EPICTETUS)">
+        <skos:notation>98B(EPICTETUS)</skos:notation>
+      </iconclass>
+    </pictura>
+  </emblem>
+  

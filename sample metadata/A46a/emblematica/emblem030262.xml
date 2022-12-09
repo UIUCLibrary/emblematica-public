@@ -1,0 +1,54 @@
+<emblem xmlns="http://diglib.hab.de/rules/schema/emblem" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:oai_sr="http://www.openarchives.org/OAI/2.0/static-repository" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai="http://www.openarchives.org/OAI/2.0/" xmlns:iihim="http://mnemosyne.org/IIHIM/0.1/" xml:id="A46a063" xlink:href="http://www.emblems.arts.gla.ac.uk/alciato/emblem.php?id=A46a063" globalID="http://hdl.handle.net/10111/EmblemRegistry:E030262">
+    <motto>
+      <transcription xml:lang="la">Desidia.</transcription>
+    </motto>
+    <pictura xml:id="A46a063_P1" xlink:href="http://www.emblems.arts.gla.ac.uk/alciato/images/pic_l/A46a063.jpg">
+      <figDesc>Hooded man sitting on some kind of mill.</figDesc>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/11N37">
+        <skos:notation>11N37</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/11P31521">
+        <skos:notation>11P31521</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/12A54(ESSENE)">
+        <skos:notation>12A54(ESSENE)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/24D1">
+        <skos:notation>24D1</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/24F1">
+        <skos:notation>24F1</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/31A2352">
+        <skos:notation>31A2352</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/41A775">
+        <skos:notation>41A775</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/41B121">
+        <skos:notation>41B121</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/41B32(+1)">
+        <skos:notation>41B32(+1)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/41D212">
+        <skos:notation>41D212</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/48C162">
+        <skos:notation>48C162</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/52DD1">
+        <skos:notation>52DD1</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/54DD2(+4)">
+        <skos:notation>54DD2(+4)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/57AA611">
+        <skos:notation>57AA611</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/57AA621">
+        <skos:notation>57AA621</skos:notation>
+      </iconclass>
+    </pictura>
+  </emblem>
+  

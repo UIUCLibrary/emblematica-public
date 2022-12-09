@@ -1,0 +1,66 @@
+<emblem xmlns="http://diglib.hab.de/rules/schema/emblem" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:oai_sr="http://www.openarchives.org/OAI/2.0/static-repository" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai="http://www.openarchives.org/OAI/2.0/" xmlns:iihim="http://mnemosyne.org/IIHIM/0.1/" xml:id="A46a071" xlink:href="http://www.emblems.arts.gla.ac.uk/alciato/emblem.php?id=A46a071" globalID="http://hdl.handle.net/10111/EmblemRegistry:E030270">
+    <motto>
+      <transcription xml:lang="la">Philautia.</transcription>
+    </motto>
+    <pictura xml:id="A46a071_P1" xlink:href="http://www.emblems.arts.gla.ac.uk/alciato/images/pic_l/A46a071.jpg">
+      <figDesc>Young man leaning on a staff looking at his reflection in a well.</figDesc>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/25G13">
+        <skos:notation>25G13</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/25G3(+21)">
+        <skos:notation>25G3(+21)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/25G41(NARCISSUS)">
+        <skos:notation>25G41(NARCISSUS)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/25H112">
+        <skos:notation>25H112</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/25H16">
+        <skos:notation>25H16</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/31A231">
+        <skos:notation>31A231</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/31A244">
+        <skos:notation>31A244</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/31A2627">
+        <skos:notation>31A2627</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/31B6212">
+        <skos:notation>31B6212</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/31D12">
+        <skos:notation>31D12</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/41A3911">
+        <skos:notation>41A3911</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/41D211(+81)">
+        <skos:notation>41D211(+81)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/41D233(+81)">
+        <skos:notation>41D233(+81)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/41D263">
+        <skos:notation>41D263</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/49C30">
+        <skos:notation>49C30</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/52A44">
+        <skos:notation>52A44</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/52AA51(+4)">
+        <skos:notation>52AA51(+4)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/56F241(+4)">
+        <skos:notation>56F241(+4)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/95A(NARCISSUS)21">
+        <skos:notation>95A(NARCISSUS)21</skos:notation>
+      </iconclass>
+    </pictura>
+  </emblem>
+  
