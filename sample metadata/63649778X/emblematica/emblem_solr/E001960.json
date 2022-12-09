@@ -1,0 +1,40 @@
+[{
+  "id": "E001960",
+  "bookID": "63649778X",
+  "ark_id": null,
+  "spineXML": "http://emblemimages.library.illinois.edu/63649778X/emblematica/emblem001960.xml",
+  "page_no": 123,
+  "search_keywords": "Soluitur Quia Solatur. 86(SOLUITUR QUIA SOLATUR) Sprichwörter, Redewendungen, etc. Redewendung Sprichwort",
+  "search_keywords_iconclass_term": "Soluitur Quia Solatur. 86(SOLUITUR QUIA SOLATUR) Sprichwörter, Redewendungen, etc. Redewendung SprichwortSprichwörter, Redewendungen, etc. Redewendung Sprichwort",
+  "search_motto": [
+"Soluitur Quia Solatur."
+],
+  "search_motto_latin": [
+"Soluitur Quia Solatur."
+],
+  "search_motto_english": null,
+  "search_motto_old_german": null,
+  "search_motto_new_german": null,
+  "search_motto_dutch": null,
+  "search_motto_italian": null,
+  "search_motto_french": null,
+  "search_motto_greek": null,
+  "search_motto_spanish": null,
+ "search_iconclass": [
+"86(SOLUITUR QUIA SOLATUR)"
+],
+ "display_motto": "Soluitur Quia Solatur.",
+  "display_pictura_link": "http://emblemimages.library.illinois.edu/63649778X/_access/pictura/E001960.jpg",
+  "display_emblem_link": "http://emblemimages.library.illinois.edu/63649778X/_access/emblem/E001960.jpg",
+  "display_book_title": "Monumentum Extremi Honoris, Perennis Virtutis Piis Manibus Serenissimi, Ac Potentissimi Principis Ferdinandi Mariae, Utriusque Bavariae, ac Superioris Palatinatus Ducis, Comitis Palatini Rheni, S.R.I. Archidapiferi Electoris, Landgravii Leuchtenbergensis: In Regio Electorali Templo RR. PP. Clericorum Regularium Erectum, ac Nuncupatum",
+  "display_book_has_emblems": true,
+  "display_collection": "Herzog August Bibliothek",
+  "emblem_more_info_link": null,
+  "scanned_pictura_link": "http://diglib.hab.de/drucke/xb-4f-364-1s/start.htm?image=00131",
+  "facet_collection_code": "HAB",
+  "facet_language_code": [
+"lat"
+],
+  "facet_publication_century": "17th century",
+  "facet_publication_place": "Monachii"
+}]

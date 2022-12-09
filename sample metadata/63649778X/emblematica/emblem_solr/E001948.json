@@ -1,0 +1,46 @@
+[{
+  "id": "E001948",
+  "bookID": "63649778X",
+  "ark_id": null,
+  "spineXML": "http://emblemimages.library.illinois.edu/63649778X/emblematica/emblem001948.xml",
+  "page_no": 75,
+  "search_keywords": "Optima Quae Que Latent. 86(OPTIMA QUAE QUE LATENT) Sprichwörter, Redewendungen, etc. Redewendung Sprichwort 46C24 Segelschiff, Segelboot segeln 25H2322 Meer Meer See 25F72(MUSSEL) Mollusken: Muschel Muschel 25H133 Strand Strand 57A641 Diskretion, Bescheidenheit; Ripa: Discretione, Modestia Diskretion discretione Bescheidenheit modestia 57A644 Ergebenheit; Ripa: Ossequio Ergebenheit ossequio",
+  "search_keywords_iconclass_term": "Optima Quae Que Latent. 86(OPTIMA QUAE QUE LATENT) Sprichwörter, Redewendungen, etc. Redewendung Sprichwort 46C24 Segelschiff, Segelboot segeln 25H2322 Meer Meer See 25F72(MUSSEL) Mollusken: Muschel Muschel 25H133 Strand Strand 57A641 Diskretion, Bescheidenheit; Ripa: Discretione, Modestia Diskretion discretione Bescheidenheit modestia 57A644 Ergebenheit; Ripa: Ossequio Ergebenheit ossequioSprichwörter, Redewendungen, etc. Redewendung Sprichwort Segelschiff, Segelboot segeln Meer Meer See Mollusken: Muschel Muschel Strand Strand Diskretion, Bescheidenheit; Ripa: Discretione, Modestia Diskretion discretione Bescheidenheit modestia Ergebenheit; Ripa: Ossequio Ergebenheit ossequio",
+  "search_motto": [
+"Optima Quae Que Latent."
+],
+  "search_motto_latin": [
+"Optima Quae Que Latent."
+],
+  "search_motto_english": null,
+  "search_motto_old_german": null,
+  "search_motto_new_german": null,
+  "search_motto_dutch": null,
+  "search_motto_italian": null,
+  "search_motto_french": null,
+  "search_motto_greek": null,
+  "search_motto_spanish": null,
+ "search_iconclass": [
+"86(OPTIMA QUAE QUE LATENT)",
+"46C24",
+"25H2322",
+"25F72(MUSSEL)",
+"25H133",
+"57A641",
+"57A644"
+],
+ "display_motto": "Optima Quae Que Latent.",
+  "display_pictura_link": "http://emblemimages.library.illinois.edu/63649778X/_access/pictura/E001948.jpg",
+  "display_emblem_link": "http://emblemimages.library.illinois.edu/63649778X/_access/emblem/E001948.jpg",
+  "display_book_title": "Monumentum Extremi Honoris, Perennis Virtutis Piis Manibus Serenissimi, Ac Potentissimi Principis Ferdinandi Mariae, Utriusque Bavariae, ac Superioris Palatinatus Ducis, Comitis Palatini Rheni, S.R.I. Archidapiferi Electoris, Landgravii Leuchtenbergensis: In Regio Electorali Templo RR. PP. Clericorum Regularium Erectum, ac Nuncupatum",
+  "display_book_has_emblems": true,
+  "display_collection": "Herzog August Bibliothek",
+  "emblem_more_info_link": null,
+  "scanned_pictura_link": "http://diglib.hab.de/drucke/xb-4f-364-1s/start.htm?image=00083",
+  "facet_collection_code": "HAB",
+  "facet_language_code": [
+"lat"
+],
+  "facet_publication_century": "17th century",
+  "facet_publication_place": "Monachii"
+}]

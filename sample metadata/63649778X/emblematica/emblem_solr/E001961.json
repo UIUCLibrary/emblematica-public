@@ -1,0 +1,45 @@
+[{
+  "id": "E001961",
+  "bookID": "63649778X",
+  "ark_id": null,
+  "spineXML": "http://emblemimages.library.illinois.edu/63649778X/emblematica/emblem001961.xml",
+  "page_no": 127,
+  "search_keywords": "Vincunt Omnia Nummi. 86(VINCUNT OMNIA NUMMI) Sprichwörter, Redewendungen, etc. Redewendung Sprichwort 41C345 Schüssel Schale 46B311 Münze Münze 41A711 Tisch Tisch 41A222 Empfangszimmer, Gesellschaftszimmer, Salon Empfangszimmer Salon Gesellschaftszimmer 55C21 Freigebigkeit, Großzügigkeit; Ripa: Generosità, Liberalità Freigebigkeit generosità liberalità",
+  "search_keywords_iconclass_term": "Vincunt Omnia Nummi. 86(VINCUNT OMNIA NUMMI) Sprichwörter, Redewendungen, etc. Redewendung Sprichwort 41C345 Schüssel Schale 46B311 Münze Münze 41A711 Tisch Tisch 41A222 Empfangszimmer, Gesellschaftszimmer, Salon Empfangszimmer Salon Gesellschaftszimmer 55C21 Freigebigkeit, Großzügigkeit; Ripa: Generosità, Liberalità Freigebigkeit generosità liberalitàSprichwörter, Redewendungen, etc. Redewendung Sprichwort Schüssel Schale Münze Münze Tisch Tisch Empfangszimmer, Gesellschaftszimmer, Salon Empfangszimmer Salon Gesellschaftszimmer Freigebigkeit, Großzügigkeit; Ripa: Generosità, Liberalità Freigebigkeit generosità liberalità",
+  "search_motto": [
+"Vincunt Omnia Nummi."
+],
+  "search_motto_latin": [
+"Vincunt Omnia Nummi."
+],
+  "search_motto_english": null,
+  "search_motto_old_german": null,
+  "search_motto_new_german": null,
+  "search_motto_dutch": null,
+  "search_motto_italian": null,
+  "search_motto_french": null,
+  "search_motto_greek": null,
+  "search_motto_spanish": null,
+ "search_iconclass": [
+"86(VINCUNT OMNIA NUMMI)",
+"41C345",
+"46B311",
+"41A711",
+"41A222",
+"55C21"
+],
+ "display_motto": "Vincunt Omnia Nummi.",
+  "display_pictura_link": "http://emblemimages.library.illinois.edu/63649778X/_access/pictura/E001961.jpg",
+  "display_emblem_link": "http://emblemimages.library.illinois.edu/63649778X/_access/emblem/E001961.jpg",
+  "display_book_title": "Monumentum Extremi Honoris, Perennis Virtutis Piis Manibus Serenissimi, Ac Potentissimi Principis Ferdinandi Mariae, Utriusque Bavariae, ac Superioris Palatinatus Ducis, Comitis Palatini Rheni, S.R.I. Archidapiferi Electoris, Landgravii Leuchtenbergensis: In Regio Electorali Templo RR. PP. Clericorum Regularium Erectum, ac Nuncupatum",
+  "display_book_has_emblems": true,
+  "display_collection": "Herzog August Bibliothek",
+  "emblem_more_info_link": null,
+  "scanned_pictura_link": "http://diglib.hab.de/drucke/xb-4f-364-1s/start.htm?image=00135",
+  "facet_collection_code": "HAB",
+  "facet_language_code": [
+"lat"
+],
+  "facet_publication_century": "17th century",
+  "facet_publication_place": "Monachii"
+}]

@@ -1,0 +1,46 @@
+[{
+  "id": "E001976",
+  "bookID": "63649778X",
+  "ark_id": null,
+  "spineXML": "http://emblemimages.library.illinois.edu/63649778X/emblematica/emblem001976.xml",
+  "page_no": 173,
+  "search_keywords": "Consilio& Armis. 86(CONSILIO& ARMIS) Sprichwörter, Redewendungen, etc. Redewendung Sprichwort 92C2 die Geschichte der Minerva (Pallas, Athene) Minerva 92C28(OWL) Eule (Attribute Minervas) Eule 92C281 Aegis: Schild mit dem Gorgonenhaupt (Attribute Minervas) Aegis Schild Kopf Gorgonenhaupt 52A51 Weisheit; Ripa: Sapienza, Sapienza humana, Sapienza vera Weisheit sapienza 45A2 Frieden Frieden 52A2 Vorbedacht, Vorherdenken, Voraussicht, (planende) Überlegung; Ripa: Previdenza, Providenza Voraussicht previdenza",
+  "search_keywords_iconclass_term": "Consilio& Armis. 86(CONSILIO& ARMIS) Sprichwörter, Redewendungen, etc. Redewendung Sprichwort 92C2 die Geschichte der Minerva (Pallas, Athene) Minerva 92C28(OWL) Eule (Attribute Minervas) Eule 92C281 Aegis: Schild mit dem Gorgonenhaupt (Attribute Minervas) Aegis Schild Kopf Gorgonenhaupt 52A51 Weisheit; Ripa: Sapienza, Sapienza humana, Sapienza vera Weisheit sapienza 45A2 Frieden Frieden 52A2 Vorbedacht, Vorherdenken, Voraussicht, (planende) Überlegung; Ripa: Previdenza, Providenza Voraussicht previdenzaSprichwörter, Redewendungen, etc. Redewendung Sprichwort die Geschichte der Minerva (Pallas, Athene) Minerva Eule (Attribute Minervas) Eule Aegis: Schild mit dem Gorgonenhaupt (Attribute Minervas) Aegis Schild Kopf Gorgonenhaupt Weisheit; Ripa: Sapienza, Sapienza humana, Sapienza vera Weisheit sapienza Frieden Frieden Vorbedacht, Vorherdenken, Voraussicht, (planende) Überlegung; Ripa: Previdenza, Providenza Voraussicht previdenza",
+  "search_motto": [
+"Consilio& Armis."
+],
+  "search_motto_latin": [
+"Consilio& Armis."
+],
+  "search_motto_english": null,
+  "search_motto_old_german": null,
+  "search_motto_new_german": null,
+  "search_motto_dutch": null,
+  "search_motto_italian": null,
+  "search_motto_french": null,
+  "search_motto_greek": null,
+  "search_motto_spanish": null,
+ "search_iconclass": [
+"86(CONSILIO& ARMIS)",
+"92C2",
+"92C28(OWL)",
+"92C281",
+"52A51",
+"45A2",
+"52A2"
+],
+ "display_motto": "Consilio& Armis.",
+  "display_pictura_link": "http://emblemimages.library.illinois.edu/63649778X/_access/pictura/E001976.jpg",
+  "display_emblem_link": "http://emblemimages.library.illinois.edu/63649778X/_access/emblem/E001976.jpg",
+  "display_book_title": "Monumentum Extremi Honoris, Perennis Virtutis Piis Manibus Serenissimi, Ac Potentissimi Principis Ferdinandi Mariae, Utriusque Bavariae, ac Superioris Palatinatus Ducis, Comitis Palatini Rheni, S.R.I. Archidapiferi Electoris, Landgravii Leuchtenbergensis: In Regio Electorali Templo RR. PP. Clericorum Regularium Erectum, ac Nuncupatum",
+  "display_book_has_emblems": true,
+  "display_collection": "Herzog August Bibliothek",
+  "emblem_more_info_link": null,
+  "scanned_pictura_link": "http://diglib.hab.de/drucke/xb-4f-364-1s/start.htm?image=00181",
+  "facet_collection_code": "HAB",
+  "facet_language_code": [
+"lat"
+],
+  "facet_publication_century": "17th century",
+  "facet_publication_place": "Monachii"
+}]

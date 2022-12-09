@@ -1,0 +1,44 @@
+[{
+  "id": "E001970",
+  "bookID": "63649778X",
+  "ark_id": null,
+  "spineXML": "http://emblemimages.library.illinois.edu/63649778X/emblematica/emblem001970.xml",
+  "page_no": 161,
+  "search_keywords": "Ex Funere Vita. 86(EX FUNERE VITA) Sprichwörter, Redewendungen, etc. Redewendung Sprichwort 25FF3(PHOENIX)(+421) Vögel als Fabeltiere: Phoenix Phoenix 58B3 Unsterblichkeit, Unzerstörbarkeit; Ripa: Immortalità Unsterblichkeit 41B4 Brand, brennen, in Flammen verbrennen brennen 44B10 Tugenden des Herrschers Tugend(haftigkeit)",
+  "search_keywords_iconclass_term": "Ex Funere Vita. 86(EX FUNERE VITA) Sprichwörter, Redewendungen, etc. Redewendung Sprichwort 25FF3(PHOENIX)(+421) Vögel als Fabeltiere: Phoenix Phoenix 58B3 Unsterblichkeit, Unzerstörbarkeit; Ripa: Immortalità Unsterblichkeit 41B4 Brand, brennen, in Flammen verbrennen brennen 44B10 Tugenden des Herrschers Tugend(haftigkeit)Sprichwörter, Redewendungen, etc. Redewendung Sprichwort Vögel als Fabeltiere: Phoenix Phoenix Unsterblichkeit, Unzerstörbarkeit; Ripa: Immortalità Unsterblichkeit Brand, brennen, in Flammen verbrennen brennen Tugenden des Herrschers Tugend(haftigkeit)",
+  "search_motto": [
+"Ex Funere Vita."
+],
+  "search_motto_latin": [
+"Ex Funere Vita."
+],
+  "search_motto_english": null,
+  "search_motto_old_german": null,
+  "search_motto_new_german": null,
+  "search_motto_dutch": null,
+  "search_motto_italian": null,
+  "search_motto_french": null,
+  "search_motto_greek": null,
+  "search_motto_spanish": null,
+ "search_iconclass": [
+"86(EX FUNERE VITA)",
+"25FF3(PHOENIX)(+421)",
+"58B3",
+"41B4",
+"44B10"
+],
+ "display_motto": "Ex Funere Vita.",
+  "display_pictura_link": "http://emblemimages.library.illinois.edu/63649778X/_access/pictura/E001970.jpg",
+  "display_emblem_link": "http://emblemimages.library.illinois.edu/63649778X/_access/emblem/E001970.jpg",
+  "display_book_title": "Monumentum Extremi Honoris, Perennis Virtutis Piis Manibus Serenissimi, Ac Potentissimi Principis Ferdinandi Mariae, Utriusque Bavariae, ac Superioris Palatinatus Ducis, Comitis Palatini Rheni, S.R.I. Archidapiferi Electoris, Landgravii Leuchtenbergensis: In Regio Electorali Templo RR. PP. Clericorum Regularium Erectum, ac Nuncupatum",
+  "display_book_has_emblems": true,
+  "display_collection": "Herzog August Bibliothek",
+  "emblem_more_info_link": null,
+  "scanned_pictura_link": "http://diglib.hab.de/drucke/xb-4f-364-1s/start.htm?image=00169",
+  "facet_collection_code": "HAB",
+  "facet_language_code": [
+"lat"
+],
+  "facet_publication_century": "17th century",
+  "facet_publication_place": "Monachii"
+}]

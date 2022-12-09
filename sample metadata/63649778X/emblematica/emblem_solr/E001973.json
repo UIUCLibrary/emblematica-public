@@ -1,0 +1,45 @@
+[{
+  "id": "E001973",
+  "bookID": "63649778X",
+  "ark_id": null,
+  "spineXML": "http://emblemimages.library.illinois.edu/63649778X/emblematica/emblem001973.xml",
+  "page_no": 167,
+  "search_keywords": "Secta Virescet. 86(SECTA VIRESCET) Sprichwörter, Redewendungen, etc. Redewendung Sprichwort 47I422 Weinrebe Weinrebe Pflanze 47I15(SICKLE) landwirtschaftliche Arbeitsgeräte: Sichel Sichel 58B3 Unsterblichkeit, Unzerstörbarkeit; Ripa: Immortalità Unsterblichkeit 47C31(+8921) schneiden (industrielle Verfahrensweisen) schneiden 47I422(+83) Weinrebe Weinrebe Pflanze",
+  "search_keywords_iconclass_term": "Secta Virescet. 86(SECTA VIRESCET) Sprichwörter, Redewendungen, etc. Redewendung Sprichwort 47I422 Weinrebe Weinrebe Pflanze 47I15(SICKLE) landwirtschaftliche Arbeitsgeräte: Sichel Sichel 58B3 Unsterblichkeit, Unzerstörbarkeit; Ripa: Immortalità Unsterblichkeit 47C31(+8921) schneiden (industrielle Verfahrensweisen) schneiden 47I422(+83) Weinrebe Weinrebe PflanzeSprichwörter, Redewendungen, etc. Redewendung Sprichwort Weinrebe Weinrebe Pflanze landwirtschaftliche Arbeitsgeräte: Sichel Sichel Unsterblichkeit, Unzerstörbarkeit; Ripa: Immortalità Unsterblichkeit schneiden (industrielle Verfahrensweisen) schneiden Weinrebe Weinrebe Pflanze",
+  "search_motto": [
+"Secta Virescet."
+],
+  "search_motto_latin": [
+"Secta Virescet."
+],
+  "search_motto_english": null,
+  "search_motto_old_german": null,
+  "search_motto_new_german": null,
+  "search_motto_dutch": null,
+  "search_motto_italian": null,
+  "search_motto_french": null,
+  "search_motto_greek": null,
+  "search_motto_spanish": null,
+ "search_iconclass": [
+"86(SECTA VIRESCET)",
+"47I422",
+"47I15(SICKLE)",
+"58B3",
+"47C31(+8921)",
+"47I422(+83)"
+],
+ "display_motto": "Secta Virescet.",
+  "display_pictura_link": "http://emblemimages.library.illinois.edu/63649778X/_access/pictura/E001973.jpg",
+  "display_emblem_link": "http://emblemimages.library.illinois.edu/63649778X/_access/emblem/E001973.jpg",
+  "display_book_title": "Monumentum Extremi Honoris, Perennis Virtutis Piis Manibus Serenissimi, Ac Potentissimi Principis Ferdinandi Mariae, Utriusque Bavariae, ac Superioris Palatinatus Ducis, Comitis Palatini Rheni, S.R.I. Archidapiferi Electoris, Landgravii Leuchtenbergensis: In Regio Electorali Templo RR. PP. Clericorum Regularium Erectum, ac Nuncupatum",
+  "display_book_has_emblems": true,
+  "display_collection": "Herzog August Bibliothek",
+  "emblem_more_info_link": null,
+  "scanned_pictura_link": "http://diglib.hab.de/drucke/xb-4f-364-1s/start.htm?image=00175",
+  "facet_collection_code": "HAB",
+  "facet_language_code": [
+"lat"
+],
+  "facet_publication_century": "17th century",
+  "facet_publication_place": "Monachii"
+}]

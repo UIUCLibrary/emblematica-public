@@ -1,0 +1,45 @@
+[{
+  "id": "E001953",
+  "bookID": "63649778X",
+  "ark_id": null,
+  "spineXML": "http://emblemimages.library.illinois.edu/63649778X/emblematica/emblem001953.xml",
+  "page_no": 95,
+  "search_keywords": "Undique Inermis. 86(UNDIQUE INERMIS) Sprichwörter, Redewendungen, etc. Redewendung Sprichwort 47I2133 Lamm Lamm Schaffell 25H17 Wiese, Weideland Wiese Gras 56EE2 Sanftmut; Ripa: Mansuetudine Sanftmut mansuetudine 45A2 Frieden Frieden 57A77 Freundlichkeit, Güte; Ripa: Affabilità, piacevolezza, amabilità, Animo piacevole, trattabile & amorevole, Benignità freundlich Freundlichkeit Güte affabilità, piacevolezza, amabilità Animo piacevole benignità",
+  "search_keywords_iconclass_term": "Undique Inermis. 86(UNDIQUE INERMIS) Sprichwörter, Redewendungen, etc. Redewendung Sprichwort 47I2133 Lamm Lamm Schaffell 25H17 Wiese, Weideland Wiese Gras 56EE2 Sanftmut; Ripa: Mansuetudine Sanftmut mansuetudine 45A2 Frieden Frieden 57A77 Freundlichkeit, Güte; Ripa: Affabilità, piacevolezza, amabilità, Animo piacevole, trattabile & amorevole, Benignità freundlich Freundlichkeit Güte affabilità, piacevolezza, amabilità Animo piacevole benignitàSprichwörter, Redewendungen, etc. Redewendung Sprichwort Lamm Lamm Schaffell Wiese, Weideland Wiese Gras Sanftmut; Ripa: Mansuetudine Sanftmut mansuetudine Frieden Frieden Freundlichkeit, Güte; Ripa: Affabilità, piacevolezza, amabilità, Animo piacevole, trattabile & amorevole, Benignità freundlich Freundlichkeit Güte affabilità, piacevolezza, amabilità Animo piacevole benignità",
+  "search_motto": [
+"Undique Inermis."
+],
+  "search_motto_latin": [
+"Undique Inermis."
+],
+  "search_motto_english": null,
+  "search_motto_old_german": null,
+  "search_motto_new_german": null,
+  "search_motto_dutch": null,
+  "search_motto_italian": null,
+  "search_motto_french": null,
+  "search_motto_greek": null,
+  "search_motto_spanish": null,
+ "search_iconclass": [
+"86(UNDIQUE INERMIS)",
+"47I2133",
+"25H17",
+"56EE2",
+"45A2",
+"57A77"
+],
+ "display_motto": "Undique Inermis.",
+  "display_pictura_link": "http://emblemimages.library.illinois.edu/63649778X/_access/pictura/E001953.jpg",
+  "display_emblem_link": "http://emblemimages.library.illinois.edu/63649778X/_access/emblem/E001953.jpg",
+  "display_book_title": "Monumentum Extremi Honoris, Perennis Virtutis Piis Manibus Serenissimi, Ac Potentissimi Principis Ferdinandi Mariae, Utriusque Bavariae, ac Superioris Palatinatus Ducis, Comitis Palatini Rheni, S.R.I. Archidapiferi Electoris, Landgravii Leuchtenbergensis: In Regio Electorali Templo RR. PP. Clericorum Regularium Erectum, ac Nuncupatum",
+  "display_book_has_emblems": true,
+  "display_collection": "Herzog August Bibliothek",
+  "emblem_more_info_link": null,
+  "scanned_pictura_link": "http://diglib.hab.de/drucke/xb-4f-364-1s/start.htm?image=00103",
+  "facet_collection_code": "HAB",
+  "facet_language_code": [
+"lat"
+],
+  "facet_publication_century": "17th century",
+  "facet_publication_place": "Monachii"
+}]

@@ -1,0 +1,46 @@
+[{
+  "id": "E001956",
+  "bookID": "63649778X",
+  "ark_id": null,
+  "spineXML": "http://emblemimages.library.illinois.edu/63649778X/emblematica/emblem001956.xml",
+  "page_no": 107,
+  "search_keywords": "Gaudium Meum Spes Mea. 86(GAUDIUM MEUM SPES MEA) Sprichwörter, Redewendungen, etc. Redewendung Sprichwort 25G3 Bäume Baum 25H15 Wald Wald 26D1 Schnee Schnee 25H114 Hügellandschaft Hügel sanfte Hügel 11M312 Gottesfurcht, pietas, timor Dei, als Teil der drei theologischen Tugenden pietas timor Dei 56D1 Hoffnung; Ripa: Speranza, Speranza delle fatiche Hoffnung speranza spes",
+  "search_keywords_iconclass_term": "Gaudium Meum Spes Mea. 86(GAUDIUM MEUM SPES MEA) Sprichwörter, Redewendungen, etc. Redewendung Sprichwort 25G3 Bäume Baum 25H15 Wald Wald 26D1 Schnee Schnee 25H114 Hügellandschaft Hügel sanfte Hügel 11M312 Gottesfurcht, pietas, timor Dei, als Teil der drei theologischen Tugenden pietas timor Dei 56D1 Hoffnung; Ripa: Speranza, Speranza delle fatiche Hoffnung speranza spesSprichwörter, Redewendungen, etc. Redewendung Sprichwort Bäume Baum Wald Wald Schnee Schnee Hügellandschaft Hügel sanfte Hügel Gottesfurcht, pietas, timor Dei, als Teil der drei theologischen Tugenden pietas timor Dei Hoffnung; Ripa: Speranza, Speranza delle fatiche Hoffnung speranza spes",
+  "search_motto": [
+"Gaudium Meum Spes Mea."
+],
+  "search_motto_latin": [
+"Gaudium Meum Spes Mea."
+],
+  "search_motto_english": null,
+  "search_motto_old_german": null,
+  "search_motto_new_german": null,
+  "search_motto_dutch": null,
+  "search_motto_italian": null,
+  "search_motto_french": null,
+  "search_motto_greek": null,
+  "search_motto_spanish": null,
+ "search_iconclass": [
+"86(GAUDIUM MEUM SPES MEA)",
+"25G3",
+"25H15",
+"26D1",
+"25H114",
+"11M312",
+"56D1"
+],
+ "display_motto": "Gaudium Meum Spes Mea.",
+  "display_pictura_link": "http://emblemimages.library.illinois.edu/63649778X/_access/pictura/E001956.jpg",
+  "display_emblem_link": "http://emblemimages.library.illinois.edu/63649778X/_access/emblem/E001956.jpg",
+  "display_book_title": "Monumentum Extremi Honoris, Perennis Virtutis Piis Manibus Serenissimi, Ac Potentissimi Principis Ferdinandi Mariae, Utriusque Bavariae, ac Superioris Palatinatus Ducis, Comitis Palatini Rheni, S.R.I. Archidapiferi Electoris, Landgravii Leuchtenbergensis: In Regio Electorali Templo RR. PP. Clericorum Regularium Erectum, ac Nuncupatum",
+  "display_book_has_emblems": true,
+  "display_collection": "Herzog August Bibliothek",
+  "emblem_more_info_link": null,
+  "scanned_pictura_link": "http://diglib.hab.de/drucke/xb-4f-364-1s/start.htm?image=00115",
+  "facet_collection_code": "HAB",
+  "facet_language_code": [
+"lat"
+],
+  "facet_publication_century": "17th century",
+  "facet_publication_place": "Monachii"
+}]

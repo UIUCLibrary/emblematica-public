@@ -1,0 +1,44 @@
+[{
+  "id": "E001968",
+  "bookID": "63649778X",
+  "ark_id": null,
+  "spineXML": "http://emblemimages.library.illinois.edu/63649778X/emblematica/emblem001968.xml",
+  "page_no": 157,
+  "search_keywords": "Aucto Lumine Surget. 86(AUCTO LUMINE SURGET) Sprichwörter, Redewendungen, etc. Redewendung Sprichwort 25H2322 Meer Meer See 24A2 Sonnenuntergang Sonnenuntergang 51F7 Regelmäßigkeit der Wiederkehr Regelmäßigkeit Wiederkehr 54F131 Erneuerung Erneuerung",
+  "search_keywords_iconclass_term": "Aucto Lumine Surget. 86(AUCTO LUMINE SURGET) Sprichwörter, Redewendungen, etc. Redewendung Sprichwort 25H2322 Meer Meer See 24A2 Sonnenuntergang Sonnenuntergang 51F7 Regelmäßigkeit der Wiederkehr Regelmäßigkeit Wiederkehr 54F131 Erneuerung ErneuerungSprichwörter, Redewendungen, etc. Redewendung Sprichwort Meer Meer See Sonnenuntergang Sonnenuntergang Regelmäßigkeit der Wiederkehr Regelmäßigkeit Wiederkehr Erneuerung Erneuerung",
+  "search_motto": [
+"Aucto Lumine Surget."
+],
+  "search_motto_latin": [
+"Aucto Lumine Surget."
+],
+  "search_motto_english": null,
+  "search_motto_old_german": null,
+  "search_motto_new_german": null,
+  "search_motto_dutch": null,
+  "search_motto_italian": null,
+  "search_motto_french": null,
+  "search_motto_greek": null,
+  "search_motto_spanish": null,
+ "search_iconclass": [
+"86(AUCTO LUMINE SURGET)",
+"25H2322",
+"24A2",
+"51F7",
+"54F131"
+],
+ "display_motto": "Aucto Lumine Surget.",
+  "display_pictura_link": "http://emblemimages.library.illinois.edu/63649778X/_access/pictura/E001968.jpg",
+  "display_emblem_link": "http://emblemimages.library.illinois.edu/63649778X/_access/emblem/E001968.jpg",
+  "display_book_title": "Monumentum Extremi Honoris, Perennis Virtutis Piis Manibus Serenissimi, Ac Potentissimi Principis Ferdinandi Mariae, Utriusque Bavariae, ac Superioris Palatinatus Ducis, Comitis Palatini Rheni, S.R.I. Archidapiferi Electoris, Landgravii Leuchtenbergensis: In Regio Electorali Templo RR. PP. Clericorum Regularium Erectum, ac Nuncupatum",
+  "display_book_has_emblems": true,
+  "display_collection": "Herzog August Bibliothek",
+  "emblem_more_info_link": null,
+  "scanned_pictura_link": "http://diglib.hab.de/drucke/xb-4f-364-1s/start.htm?image=00165",
+  "facet_collection_code": "HAB",
+  "facet_language_code": [
+"lat"
+],
+  "facet_publication_century": "17th century",
+  "facet_publication_place": "Monachii"
+}]

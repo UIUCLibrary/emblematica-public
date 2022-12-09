@@ -1,0 +1,47 @@
+[{
+  "id": "E001964",
+  "bookID": "63649778X",
+  "ark_id": null,
+  "spineXML": "http://emblemimages.library.illinois.edu/63649778X/emblematica/emblem001964.xml",
+  "page_no": 139,
+  "search_keywords": "Fortuna Tonat Infra Verticem Sapientis. 86(FORTUNA TONAT INFRA VERTICEM SAPIENTIS) Sprichwörter, Redewendungen, etc. Redewendung Sprichwort 26A3 tiefe Wolken Wolke niedrig 25H11 Berge, Gebirge Berg 93B der Olymp Olymp (Berg) Berg 26E2 Blitz, Blitzstrahl, Donnerschlag Blitz(strahl) Donner(-schlag, -keil) 24A8 Sonnenlicht Sonnenlicht Licht 54FF12 Schicksal Schicksal 56B11 Fröhlichkeit, Heiterkeit Fröhlichkeit Heiterkeit lachen",
+  "search_keywords_iconclass_term": "Fortuna Tonat Infra Verticem Sapientis. 86(FORTUNA TONAT INFRA VERTICEM SAPIENTIS) Sprichwörter, Redewendungen, etc. Redewendung Sprichwort 26A3 tiefe Wolken Wolke niedrig 25H11 Berge, Gebirge Berg 93B der Olymp Olymp (Berg) Berg 26E2 Blitz, Blitzstrahl, Donnerschlag Blitz(strahl) Donner(-schlag, -keil) 24A8 Sonnenlicht Sonnenlicht Licht 54FF12 Schicksal Schicksal 56B11 Fröhlichkeit, Heiterkeit Fröhlichkeit Heiterkeit lachenSprichwörter, Redewendungen, etc. Redewendung Sprichwort tiefe Wolken Wolke niedrig Berge, Gebirge Berg der Olymp Olymp (Berg) Berg Blitz, Blitzstrahl, Donnerschlag Blitz(strahl) Donner(-schlag, -keil) Sonnenlicht Sonnenlicht Licht Schicksal Schicksal Fröhlichkeit, Heiterkeit Fröhlichkeit Heiterkeit lachen",
+  "search_motto": [
+"Fortuna Tonat Infra Verticem Sapientis."
+],
+  "search_motto_latin": [
+"Fortuna Tonat Infra Verticem Sapientis."
+],
+  "search_motto_english": null,
+  "search_motto_old_german": null,
+  "search_motto_new_german": null,
+  "search_motto_dutch": null,
+  "search_motto_italian": null,
+  "search_motto_french": null,
+  "search_motto_greek": null,
+  "search_motto_spanish": null,
+ "search_iconclass": [
+"86(FORTUNA TONAT INFRA VERTICEM SAPIENTIS)",
+"26A3",
+"25H11",
+"93B",
+"26E2",
+"24A8",
+"54FF12",
+"56B11"
+],
+ "display_motto": "Fortuna Tonat Infra Verticem Sapientis.",
+  "display_pictura_link": "http://emblemimages.library.illinois.edu/63649778X/_access/pictura/E001964.jpg",
+  "display_emblem_link": "http://emblemimages.library.illinois.edu/63649778X/_access/emblem/E001964.jpg",
+  "display_book_title": "Monumentum Extremi Honoris, Perennis Virtutis Piis Manibus Serenissimi, Ac Potentissimi Principis Ferdinandi Mariae, Utriusque Bavariae, ac Superioris Palatinatus Ducis, Comitis Palatini Rheni, S.R.I. Archidapiferi Electoris, Landgravii Leuchtenbergensis: In Regio Electorali Templo RR. PP. Clericorum Regularium Erectum, ac Nuncupatum",
+  "display_book_has_emblems": true,
+  "display_collection": "Herzog August Bibliothek",
+  "emblem_more_info_link": null,
+  "scanned_pictura_link": "http://diglib.hab.de/drucke/xb-4f-364-1s/start.htm?image=00147",
+  "facet_collection_code": "HAB",
+  "facet_language_code": [
+"lat"
+],
+  "facet_publication_century": "17th century",
+  "facet_publication_place": "Monachii"
+}]

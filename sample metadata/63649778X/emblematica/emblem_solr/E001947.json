@@ -1,0 +1,50 @@
+[{
+  "id": "E001947",
+  "bookID": "63649778X",
+  "ark_id": null,
+  "spineXML": "http://emblemimages.library.illinois.edu/63649778X/emblematica/emblem001947.xml",
+  "page_no": 71,
+  "search_keywords": "Huc Omnia Tendunt. 86(HUC OMNIA TENDUNT) Sprichwörter, Redewendungen, etc. Redewendung Sprichwort 24A6 die Sonne als Gesicht, Rad, etc. dargestellt Gesicht Rad 49E254 Konkavspiegel, Brennspiegel Spiegel Konkavspiegel Brennspiegel 31A2245 Hand Hand 48CC7341 Trommel (im Freien) Trommel (Musikinstrument) 45D1 (militärische) Fahnen und Standarten Fahne Standarte 45C16(CANNON) Schusswaffen: Kanone Kanone 45C1 Waffen Waffe 41B4 Brand, brennen, in Flammen verbrennen brennen 52A24 Vorkehrung Vorkehrung Sorgfalt 22C31 Strahlen, die von Personen oder Dingen ausgehen Lichtstrahl Licht Licht",
+  "search_keywords_iconclass_term": "Huc Omnia Tendunt. 86(HUC OMNIA TENDUNT) Sprichwörter, Redewendungen, etc. Redewendung Sprichwort 24A6 die Sonne als Gesicht, Rad, etc. dargestellt Gesicht Rad 49E254 Konkavspiegel, Brennspiegel Spiegel Konkavspiegel Brennspiegel 31A2245 Hand Hand 48CC7341 Trommel (im Freien) Trommel (Musikinstrument) 45D1 (militärische) Fahnen und Standarten Fahne Standarte 45C16(CANNON) Schusswaffen: Kanone Kanone 45C1 Waffen Waffe 41B4 Brand, brennen, in Flammen verbrennen brennen 52A24 Vorkehrung Vorkehrung Sorgfalt 22C31 Strahlen, die von Personen oder Dingen ausgehen Lichtstrahl Licht LichtSprichwörter, Redewendungen, etc. Redewendung Sprichwort die Sonne als Gesicht, Rad, etc. dargestellt Gesicht Rad Konkavspiegel, Brennspiegel Spiegel Konkavspiegel Brennspiegel Hand Hand Trommel (im Freien) Trommel (Musikinstrument) (militärische) Fahnen und Standarten Fahne Standarte Schusswaffen: Kanone Kanone Waffen Waffe Brand, brennen, in Flammen verbrennen brennen Vorkehrung Vorkehrung Sorgfalt Strahlen, die von Personen oder Dingen ausgehen Lichtstrahl Licht Licht",
+  "search_motto": [
+"Huc Omnia Tendunt."
+],
+  "search_motto_latin": [
+"Huc Omnia Tendunt."
+],
+  "search_motto_english": null,
+  "search_motto_old_german": null,
+  "search_motto_new_german": null,
+  "search_motto_dutch": null,
+  "search_motto_italian": null,
+  "search_motto_french": null,
+  "search_motto_greek": null,
+  "search_motto_spanish": null,
+ "search_iconclass": [
+"86(HUC OMNIA TENDUNT)",
+"24A6",
+"49E254",
+"31A2245",
+"48CC7341",
+"45D1",
+"45C16(CANNON)",
+"45C1",
+"41B4",
+"52A24",
+"22C31"
+],
+ "display_motto": "Huc Omnia Tendunt.",
+  "display_pictura_link": "http://emblemimages.library.illinois.edu/63649778X/_access/pictura/E001947.jpg",
+  "display_emblem_link": "http://emblemimages.library.illinois.edu/63649778X/_access/emblem/E001947.jpg",
+  "display_book_title": "Monumentum Extremi Honoris, Perennis Virtutis Piis Manibus Serenissimi, Ac Potentissimi Principis Ferdinandi Mariae, Utriusque Bavariae, ac Superioris Palatinatus Ducis, Comitis Palatini Rheni, S.R.I. Archidapiferi Electoris, Landgravii Leuchtenbergensis: In Regio Electorali Templo RR. PP. Clericorum Regularium Erectum, ac Nuncupatum",
+  "display_book_has_emblems": true,
+  "display_collection": "Herzog August Bibliothek",
+  "emblem_more_info_link": null,
+  "scanned_pictura_link": "http://diglib.hab.de/drucke/xb-4f-364-1s/start.htm?image=00079",
+  "facet_collection_code": "HAB",
+  "facet_language_code": [
+"lat"
+],
+  "facet_publication_century": "17th century",
+  "facet_publication_place": "Monachii"
+}]
