@@ -1,0 +1,18 @@
+<emblem xmlns="http://diglib.hab.de/rules/schema/emblem" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:emblem="http://diglib.hab.de/rules/schema/emblem" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="E051821" globalID="http://hdl.handle.net/10111/EmblemRegistry:E051821" citeNo="21" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12217">
+		<motto>
+			<transcription xml:lang="la">Pro Grege.</transcription>
+		</motto>
+		<pictura xml:id="E051821_P1" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12217" page="wing_ms_279_161">
+			<figDesc xml:lang="la" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12152">GRUS
+				VIGILANS, LAPILLUM TENENS PEDE.</figDesc>
+		</pictura>
+		<subscriptio>
+			<transcription xml:lang="la" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12152" page="wing_ms_279_096">PRO GREGE pennigerum VIGILAT monitore lapillo Agminis innumeri dux,
+				Palamedis avis: PRO GREGE terrigenum, quos fac defendere ferro, Lege monente, suas Rex agit
+				excubias. </transcription>
+			<transcription xml:lang="de" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12174" page="wing_ms_279_118">Damit d'andern ruhen die nacht/ Helt hie ein Kranich fleissge wacht.
+				Auff da&#223;/ so er der Feind w&#252;rdt gwahr/ Sich vnd die sein bewaar vor gfahr/ Ein F&#252;rst/ der
+				soll sorgfeltig sein Fr&#252; vnd spat f&#252;r sein liebe Gmein/ </transcription>
+		</subscriptio>
+	</emblem>
+	

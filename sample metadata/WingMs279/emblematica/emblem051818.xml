@@ -1,0 +1,17 @@
+<emblem xmlns="http://diglib.hab.de/rules/schema/emblem" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:emblem="http://diglib.hab.de/rules/schema/emblem" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="E051818" globalID="http://hdl.handle.net/10111/EmblemRegistry:E051818" citeNo="18" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12211">
+		<motto>
+			<transcription xml:lang="la">Ubi Onus Ibi sonus.</transcription>
+		</motto>
+		<pictura xml:id="E051818_P1" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12211" page="wing_ms_279_155">
+			<figDesc xml:lang="la" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12149">HOROLOGIUM PONDERIBUS APPENSIS.</figDesc>
+		</pictura>
+		<subscriptio>
+			<transcription xml:lang="la" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12149" page="wing_ms_279_093">Ad legem rotulas vagulas dum pondera motant, In parteis sonitu tempus
+				secat horologeion: Herculeo virtus animos operosa labore Exercet, facta et clangore
+				renunciat orbi. </transcription>
+			<transcription xml:lang="de" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12173" page="wing_ms_279_117">Das &#252;hrlein mit m&#252;h zugericht W&#252;rd k&#252;nstlich regiert durch das
+				gwicht: Also das darob menniglich/ Vnd nicht vnbillig verwundert sich Wer was denckw&#252;rdigs
+				thut begehn Dessn nam vnd lob bleibn ewig stehn. </transcription>
+		</subscriptio>
+	</emblem>
+	

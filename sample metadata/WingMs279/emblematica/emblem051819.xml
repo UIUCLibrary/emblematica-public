@@ -1,0 +1,18 @@
+<emblem xmlns="http://diglib.hab.de/rules/schema/emblem" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:emblem="http://diglib.hab.de/rules/schema/emblem" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="E051819" globalID="http://hdl.handle.net/10111/EmblemRegistry:E051819" citeNo="19" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12213">
+		<motto>
+			<transcription xml:lang="la">His nititur Orbis.</transcription>
+		</motto>
+		<pictura xml:id="E051819_P1" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12213" page="wing_ms_279_157">
+			<figDesc xml:lang="la" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12150">GLOBO
+				TERRENO INCUMBIT LIBER ET GLADIUS.</figDesc>
+		</pictura>
+		<subscriptio>
+			<transcription xml:lang="la" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12150" page="wing_ms_279_094">H&#230;c universi quanta quanta machina est, Quot nationes, sceptra, &amp;
+				urbes condit&#230;, His eruditis est opus chartis, opus Gladiis. Bases sint h&#230;c duo plusquam
+				aure&#230;. </transcription>
+			<transcription xml:lang="de" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12173" page="wing_ms_279_117">Gute Gsetz vnd ordnung sind: gebn/ Das jedermann darnach soll lebn.
+				Die Obrigkeit das Schwerdt drumb f&#252;hrt/ Das d'b&#246;sen straff wie sich geb&#252;rt. Mit verstandt
+				das Gesetz vnd Schwerdt In zaum halten die gantze Erd. </transcription>
+		</subscriptio>
+	</emblem>
+	

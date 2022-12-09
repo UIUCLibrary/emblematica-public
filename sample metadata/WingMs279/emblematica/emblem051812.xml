@@ -1,0 +1,17 @@
+<emblem xmlns="http://diglib.hab.de/rules/schema/emblem" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:emblem="http://diglib.hab.de/rules/schema/emblem" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="E051812" globalID="http://hdl.handle.net/10111/EmblemRegistry:E051812" citeNo="12" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12199">
+		<motto>
+			<transcription xml:lang="la">Minor esca majoris.</transcription>
+		</motto>
+		<pictura xml:id="E051812_P1" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12199" page="wing_ms_279_143">
+			<figDesc xml:lang="la" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12143">CETE
+				IN MARI DEVORAT PISCICULOS.</figDesc>
+		</pictura>
+		<subscriptio>
+			<transcription xml:lang="la" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12143" page="wing_ms_279_087">Ecquid pisciculum poterit superesse minutum, Dic, toto si sic vivitur
+				Oceano? Si sic in regno, tota &amp; grassentur in urbe Harpyi&#230;, civis pauper ubi meneat? </transcription>
+			<transcription xml:lang="de" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12171" page="wing_ms_279_115">Sihe/ wie der grosse Visch die kleinn Geitzig ziht in sein rachn
+				hinnein: Keins verschont/ dessn er mechtig ist/ Sondern ohn vnterscheid all frist. Der Reich
+				den Armen vnterdruckt/ Sein armuthey raubt vnd verschluckt. </transcription>
+		</subscriptio>
+	</emblem>
+	

@@ -1,0 +1,39 @@
+[{
+  "id": "E051813",
+  "bookID": "WingMs279",
+  "ark_id": null,
+  "spineXML": "http://emblemimages.library.illinois.edu/WingMs279/emblematica/emblem051813.xml",
+  "page_no": "wing_ms_279_145",
+  "search_keywords": "Virtutis invidia comes. SERPENTES SUB PALMA ARBORE. Palma virens alti, en, stat recta cacumine montis Cujus radices admordet frigidus anguis. Tam celso stat nullo loco unquam florida virtus, Dente Theonino quam livida non petat ATE. Den Edlen Palmen so stets grönt/ Sein Herrligkeit die Schlang mißgönt/ Ihn zu verderben sich bemüht. Doch vergebens. Es glingt ihr nicht. Tugent hat viel Neider allzeit/ Jedoch können's ihr thun kein leid.",
+  "search_keywords_iconclass_term": "Virtutis invidia comes. SERPENTES SUB PALMA ARBORE. Palma virens alti, en, stat recta cacumine montis Cujus radices admordet frigidus anguis. Tam celso stat nullo loco unquam florida virtus, Dente Theonino quam livida non petat ATE. Den Edlen Palmen so stets grönt/ Sein Herrligkeit die Schlang mißgönt/ Ihn zu verderben sich bemüht. Doch vergebens. Es glingt ihr nicht. Tugent hat viel Neider allzeit/ Jedoch können's ihr thun kein leid.",
+  "search_motto": [
+"Virtutis invidia comes."
+],
+  "search_motto_latin": [
+"Virtutis invidia comes."
+],
+  "search_motto_english": null,
+  "search_motto_old_german": null,
+  "search_motto_new_german": null,
+  "search_motto_dutch": null,
+  "search_motto_italian": null,
+  "search_motto_french": null,
+  "search_motto_greek": null,
+  "search_motto_spanish": null,
+ "search_iconclass": null,
+ "display_motto": "Virtutis invidia comes.",
+  "display_pictura_link": "http://emblemimages.library.illinois.edu/WingMs279/_access/pictura/wing_ms_279_145.jpg",
+  "display_emblem_link": "http://emblemimages.library.illinois.edu/WingMs279/_access/emblem/wing_ms_279_145.jpg",
+  "display_book_title": "Inscriptiones picturae et emblemata quae in aula magna curiae Norimbergensis publice extant: quibus ob argumenti similitudinem accesserunt, I. Chrongraphia arcuum aliquot triumphalium, II. Numi memorabiles, III. Alia[que] monumenta in varijs urbis partib[us] visu[m] jucunda, lectu[m][que] digna",
+  "display_book_has_emblems": true,
+  "display_collection": "The Newberry",
+  "emblem_more_info_link": "http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12201",
+  "scanned_pictura_link": "http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12201",
+  "facet_collection_code": "Newberry",
+  "facet_language_code": [
+"lat",
+"ger"
+],
+  "facet_publication_century": "17th century",
+  "facet_publication_place": "Nürnberg"
+}]

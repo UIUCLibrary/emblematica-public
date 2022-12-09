@@ -1,0 +1,17 @@
+<emblem xmlns="http://diglib.hab.de/rules/schema/emblem" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:emblem="http://diglib.hab.de/rules/schema/emblem" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="E051828" globalID="http://hdl.handle.net/10111/EmblemRegistry:E051828" citeNo="28" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12231">
+		<motto>
+			<transcription xml:lang="la">Manet altera Reo.</transcription>
+		</motto>
+		<pictura xml:id="E051828_P1" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12231" page="wing_ms_279_175">
+			<figDesc xml:lang="la" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12159">ALEXANDER M. IN AUDIENDO ACTORE, ALTERAM AUREM SERVABAT REO.</figDesc>
+		</pictura>
+		<subscriptio>
+			<transcription xml:lang="la" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12159" page="wing_ms_279_103">Actori una datur merito, datur altera juste Auricula fugienti reo.
+				Adcusasse etenim si sufficit: ipsa perit, eheu! Nocens vel INNOCENTIA. </transcription>
+			<transcription xml:lang="de" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12175" page="wing_ms_279_119">K&#246;ng Alexander im brauch hett/ Wann einer bey ihm klagen thet/ Das er
+				zuhielt das eine Ohr/ Vnd behielt's dem beklagten vor Mit urtheil f&#228;llen niemand eil/ Bi&#223;
+				abgeh&#246;rt findt beede theil. Oder: Eines Manns red ist ein halb red/ Mann soll die part
+				verh&#246;ren beed. </transcription>
+		</subscriptio>
+	</emblem>
+	

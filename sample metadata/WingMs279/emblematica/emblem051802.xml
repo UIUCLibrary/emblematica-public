@@ -1,0 +1,17 @@
+<emblem xmlns="http://diglib.hab.de/rules/schema/emblem" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:emblem="http://diglib.hab.de/rules/schema/emblem" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="E051802" globalID="http://hdl.handle.net/10111/EmblemRegistry:E051802" citeNo="2" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12179">
+		<motto>
+			<transcription xml:lang="la">In pace quae belli sunt.</transcription>
+		</motto>
+		<pictura xml:id="E051802_P1" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12179" page="wing_ms_279_123">
+			<figDesc xml:lang="la" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12133">VULPES ET APER SUB ARBORE.</figDesc>
+		</pictura>
+		<subscriptio>
+			<transcription xml:lang="la" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12133" page="wing_ms_279_077">Adparat ad bellum se, pugnaturus in hostem Turb&#230; Act&#230;oni&#230; dente
+				tremendus aper. Sylvis dum tutus latet, Induperator in alta. Pace, ut de bello cogitet,
+				admoneo. </transcription>
+			<transcription xml:lang="de" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12169" page="wing_ms_279_113">Ein Fuchs auff list gedenckt im Wald/ Wie er k&#246;nfftig den Sieg
+				erhalt: Der wild Eber sich r&#252;st zum streit/ Eh d' Hund ihm kommen an die seit. Zur
+				Frieds-zeit man bedencken soll Wie man sich im Krieg halten woll. </transcription>
+		</subscriptio>
+	</emblem>
+	

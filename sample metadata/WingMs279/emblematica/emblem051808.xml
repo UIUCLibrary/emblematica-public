@@ -1,0 +1,18 @@
+<emblem xmlns="http://diglib.hab.de/rules/schema/emblem" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:emblem="http://diglib.hab.de/rules/schema/emblem" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="E051808" globalID="http://hdl.handle.net/10111/EmblemRegistry:E051808" citeNo="8" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12191">
+		<motto>
+			<transcription xml:lang="la">Festina lente.</transcription>
+		</motto>
+		<pictura xml:id="E051808_P1" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12191" page="wing_ms_279_135">
+			<figDesc xml:lang="la" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12139">TESTUDO FERENS VELUM EXPANSUM.</figDesc>
+		</pictura>
+		<subscriptio>
+			<transcription xml:lang="la" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12139" page="wing_ms_279_083">Hem! nimirum propere properas, Marcelle: Sed audi: Ad portam ut
+				venias vespere, mane abeas, Lente festinus pergas feliciter. Omen Hoc esto: factum sat cito,
+				si bene sat. </transcription>
+			<transcription xml:lang="de" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12170" page="wing_ms_279_114">Ein Schiltkrot/ obs schon langsam kreucht/ Jedoch so sie sich nicht
+				auffzeucht Auffm weg sondern embsig fort schreit/ Kompts auch zum ziel zur rechten zeit.
+				Wann was nur wol vnd gl&#252;cklich gschicht/ Hat man's zeitlich gnug au&#223;gericht.
+			</transcription>
+		</subscriptio>
+	</emblem>
+	

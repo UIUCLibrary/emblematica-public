@@ -1,0 +1,17 @@
+<emblem xmlns="http://diglib.hab.de/rules/schema/emblem" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:emblem="http://diglib.hab.de/rules/schema/emblem" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="E051801" globalID="http://hdl.handle.net/10111/EmblemRegistry:E051801" citeNo="1" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12177">
+		<motto>
+			<transcription xml:lang="la">Fortuna Volubilis errat.</transcription>
+		</motto>
+		<pictura xml:id="E051801_P1" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12177" page="wing_ms_279_121">
+			<figDesc xml:lang="la" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12132">SESOSTRIS SEDENS IN CURRU, QUEM QUATUOR REGES TRAHUNT.</figDesc>
+		</pictura>
+		<subscriptio>
+			<transcription xml:lang="la" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12132" page="wing_ms_279_076">Qui minor e armis, Victori serviet, at Tu Rex victor, jungis nos
+				Reges instar equorum Essedo: Age, human&#230; memor esto condicionis, OMNIA sors rotat: ima
+				effert, premit usque superba. </transcription>
+			<transcription xml:lang="de" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12169" page="wing_ms_279_113">Von gfangnen K&#246;ngen Sesostris/ Au&#223; hochmut/ sich rein f&#252;hren lie&#223;.
+				Bald aber/ als sich's gl&#252;lck nur wand/ Wurd er blind: fiel auch durch sein hand. Das gl&#252;ck
+				eim Rad gleich sich verkert/ Vnd ist nichts bstandthaffts auff der Erd. </transcription>
+		</subscriptio>
+	</emblem>
+	

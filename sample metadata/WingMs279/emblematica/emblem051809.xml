@@ -1,0 +1,18 @@
+<emblem xmlns="http://diglib.hab.de/rules/schema/emblem" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:emblem="http://diglib.hab.de/rules/schema/emblem" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="E051809" globalID="http://hdl.handle.net/10111/EmblemRegistry:E051809" citeNo="9" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12193">
+		<motto>
+			<transcription xml:lang="la">Duce Virtute, comita fortuna.</transcription>
+		</motto>
+		<pictura xml:id="E051809_P1" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12193" page="wing_ms_279_137">
+			<figDesc xml:lang="la" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12140">NAVIS
+				IN MARI VELIS EXPANSIS.</figDesc>
+		</pictura>
+		<subscriptio>
+			<transcription xml:lang="la" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12140" page="wing_ms_279_084">Macte animi virtute, Heros o inclute Jason, Educas Argo propitiis
+				animis: Ibis in adversam classem, tumidasque procellas. VIRTUTI c&#230;lum, Pontus et Aura
+				favent. </transcription>
+			<transcription xml:lang="de" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12171" page="wing_ms_279_115">Jason zum G&#252;lden Fl&#252;&#223; sich wagt Auffm Meer zu fahren vnverzagt. Die
+				lieb zur Tugnt bant ihm die Stra&#223;/ Das Gl&#252;ck drauff folgte gleicher ma&#223;. Wo Ehr vnd tugent
+				bey eim sein/ Da ziecht das gl&#252;ck f&#252;r sich selbs ein. </transcription>
+		</subscriptio>
+	</emblem>
+	

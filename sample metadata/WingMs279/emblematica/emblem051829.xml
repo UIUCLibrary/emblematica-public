@@ -1,0 +1,18 @@
+<emblem xmlns="http://diglib.hab.de/rules/schema/emblem" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:emblem="http://diglib.hab.de/rules/schema/emblem" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="E051829" globalID="http://hdl.handle.net/10111/EmblemRegistry:E051829" citeNo="29" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12233">
+		<motto>
+			<transcription xml:lang="la">Pro meritis.</transcription>
+		</motto>
+		<pictura xml:id="E051829_P1" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12233" page="wing_ms_279_177">
+			<figDesc xml:lang="la" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12160">JUDEX
+				PR&#198;MIO BONUM, POENA IMPROBUM AFFICIT.</figDesc>
+		</pictura>
+		<subscriptio>
+			<transcription xml:lang="la" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12160" page="wing_ms_279_104">Pulcris, largitur Judex tibi castus Honores, O bone, pro meritis,
+				munere, donat opes: Improbe, decernit scuticam tibi, fragra, securim, Te addicit scalis,
+				denique Gemoniis. </transcription>
+			<transcription xml:lang="de" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12176" page="wing_ms_279_120">Eim jeden hie gegeben w&#252;rdt Was ihm von rechts wegen geb&#252;rt/ Dem der
+				sich wol ghaltn/ man gschenck bringt/ Der/ so b&#246;&#223; gstifft/ sein straff empfengt. Ein solches
+				Regiment floriert/ Wo Tugent blohnt: verbrechn strafft w&#252;rdt. </transcription>
+		</subscriptio>
+	</emblem>
+	

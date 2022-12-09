@@ -1,0 +1,16 @@
+<emblem xmlns="http://diglib.hab.de/rules/schema/emblem" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:emblem="http://diglib.hab.de/rules/schema/emblem" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="E051815" globalID="http://hdl.handle.net/10111/EmblemRegistry:E051815" citeNo="15" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12205">
+		<motto>
+			<transcription xml:lang="la">Alit et protegit.</transcription>
+		</motto>
+		<pictura xml:id="E051815_P1" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12205" page="wing_ms_279_149">
+			<figDesc xml:lang="la" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12146">GALLINA FOVET SUOS PULLOS.</figDesc>
+		</pictura>
+		<subscriptio>
+			<transcription xml:lang="la" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12146" page="wing_ms_279_090">Pullos alitque, protegitque gallina: Nutrit, tuetur, auget, ornat,
+				&amp; mactat Civeis, bonus Princeps beatitate omni. </transcription>
+			<transcription xml:lang="de" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12172" page="wing_ms_279_116">Die Gluckhenn ihr K&#252;chlein klein Versammlet/ vnd bedecket fein Mit
+				ihren Fittigen/ damit Sie eingen schaden nemen nit. Ein Christlichr F&#252;rst vnd Obrigkeit Sein
+				Vnterthanen sch&#252;tzt allzeit. </transcription>
+		</subscriptio>
+	</emblem>
+	

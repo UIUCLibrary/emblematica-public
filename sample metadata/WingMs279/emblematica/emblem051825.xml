@@ -1,0 +1,17 @@
+<emblem xmlns="http://diglib.hab.de/rules/schema/emblem" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:emblem="http://diglib.hab.de/rules/schema/emblem" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="E051825" globalID="http://hdl.handle.net/10111/EmblemRegistry:E051825" citeNo="25" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12225">
+		<motto>
+			<transcription xml:lang="la">Anima Consilii silentium.</transcription>
+		</motto>
+		<pictura xml:id="E051825_P1" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12225" page="wing_ms_279_169">
+			<figDesc xml:lang="la" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12156">ALEXANDER M. HEPHESTIONIS LABIIS SIGILLUM APPRIMIT.</figDesc>
+		</pictura>
+		<subscriptio>
+			<transcription xml:lang="la" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12156" page="wing_ms_279_100">Consilium lateat, Digito compesce labellum: Obsignes quin os, moneo,
+				linguamque Sigillo: Consilium eventus tacitum comittatur amicus. Tutum adeo &amp; pulcrum
+				pr&#230;stare silentia rebus. </transcription>
+			<transcription xml:lang="de" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12175" page="wing_ms_279_119">Ein heimlichn Brieff Alexandr la&#223;/ Vnd weil Hephenstion z'gegen was/
+				Truckt er ihm auff den Mund ein ring/ Andeutent er solt gschweign der ding. Heimlicher sachn
+				verschwiegenheit Vil nutz hat gschaffet jeder zeit. </transcription>
+		</subscriptio>
+	</emblem>
+	

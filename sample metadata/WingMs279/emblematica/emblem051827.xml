@@ -1,0 +1,17 @@
+<emblem xmlns="http://diglib.hab.de/rules/schema/emblem" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:emblem="http://diglib.hab.de/rules/schema/emblem" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="E051827" globalID="http://hdl.handle.net/10111/EmblemRegistry:E051827" citeNo="27" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12229">
+		<motto>
+			<transcription xml:lang="la">Affectus Comprime.</transcription>
+		</motto>
+		<pictura xml:id="E051827_P1" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12229" page="wing_ms_279_173">
+			<figDesc xml:lang="la" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12158">MANUS
+				FORCIPE COMPRIMIT COR.</figDesc>
+		</pictura>
+		<subscriptio>
+			<transcription xml:lang="la" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12158" page="wing_ms_279_102">REGINA RATIO recta Regibus imperat, Et dictat adfectus cohercere
+				improbos. Pareto rationi: Catenis, vinculis Cohibe &#960;&#940;&#952;&#951;, tibi ut secund&#230; res eant. </transcription>
+			<transcription xml:lang="de" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12175" page="wing_ms_279_119">Inn einer Zang ein hertz hier gmalt/ Zeiget vns an/ wie gleicher
+				gstalt/ Ein vern&#252;nfftiger Mensche soll Sein eigen begierdt dempffen wol. Der sich selbs
+				&#252;berwinden kan/ Ist der sterckst vnd gl&#252;ckseligst Mann. </transcription>
+		</subscriptio>
+	</emblem>
+	

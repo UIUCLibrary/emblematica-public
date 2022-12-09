@@ -1,0 +1,39 @@
+[{
+  "id": "E051803",
+  "bookID": "WingMs279",
+  "ark_id": null,
+  "spineXML": "http://emblemimages.library.illinois.edu/WingMs279/emblematica/emblem051803.xml",
+  "page_no": "wing_ms_279_125",
+  "search_keywords": "Nosce teipsum. PAVO EXPLICANS CAUDAM. Ales, Juno, tuus gemmantes explicat alas, Conspectis vero, dejicit has, pedibus. Dotibus ingenii fisus sic tollit in altum Cristas: at meditans, deprimit has homo humum. Der stoltz Pfaw an der Sonnen glantz Vbermütig auffwirfft sein schwantz: So bald 'r sein füß anschauen thut/ Lest er solchn fallen für vnmuth. Wann der Mensch sein schwachheit erkennt/ Nimmt bey ihm stoltz vnd pracht ein end.",
+  "search_keywords_iconclass_term": "Nosce teipsum. PAVO EXPLICANS CAUDAM. Ales, Juno, tuus gemmantes explicat alas, Conspectis vero, dejicit has, pedibus. Dotibus ingenii fisus sic tollit in altum Cristas: at meditans, deprimit has homo humum. Der stoltz Pfaw an der Sonnen glantz Vbermütig auffwirfft sein schwantz: So bald 'r sein füß anschauen thut/ Lest er solchn fallen für vnmuth. Wann der Mensch sein schwachheit erkennt/ Nimmt bey ihm stoltz vnd pracht ein end.",
+  "search_motto": [
+"Nosce teipsum."
+],
+  "search_motto_latin": [
+"Nosce teipsum."
+],
+  "search_motto_english": null,
+  "search_motto_old_german": null,
+  "search_motto_new_german": null,
+  "search_motto_dutch": null,
+  "search_motto_italian": null,
+  "search_motto_french": null,
+  "search_motto_greek": null,
+  "search_motto_spanish": null,
+ "search_iconclass": null,
+ "display_motto": "Nosce teipsum.",
+  "display_pictura_link": "http://emblemimages.library.illinois.edu/WingMs279/_access/pictura/wing_ms_279_125.jpg",
+  "display_emblem_link": "http://emblemimages.library.illinois.edu/WingMs279/_access/emblem/wing_ms_279_125.jpg",
+  "display_book_title": "Inscriptiones picturae et emblemata quae in aula magna curiae Norimbergensis publice extant: quibus ob argumenti similitudinem accesserunt, I. Chrongraphia arcuum aliquot triumphalium, II. Numi memorabiles, III. Alia[que] monumenta in varijs urbis partib[us] visu[m] jucunda, lectu[m][que] digna",
+  "display_book_has_emblems": true,
+  "display_collection": "The Newberry",
+  "emblem_more_info_link": "http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12181",
+  "scanned_pictura_link": "http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12181",
+  "facet_collection_code": "Newberry",
+  "facet_language_code": [
+"lat",
+"ger"
+],
+  "facet_publication_century": "17th century",
+  "facet_publication_place": "Nürnberg"
+}]

@@ -1,0 +1,18 @@
+<emblem xmlns="http://diglib.hab.de/rules/schema/emblem" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:emblem="http://diglib.hab.de/rules/schema/emblem" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="E051826" globalID="http://hdl.handle.net/10111/EmblemRegistry:E051826" citeNo="26" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12227">
+		<motto>
+			<transcription xml:lang="la">Ne Corrumpar.</transcription>
+		</motto>
+		<pictura xml:id="E051826_P1" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12227" page="wing_ms_279_171">
+			<figDesc xml:lang="la" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12157">IUDEX
+				CLAUSIS OCULIS AUDIT, NE CORRUMPATUR DONIS OBLATIS.</figDesc>
+		</pictura>
+		<subscriptio>
+			<transcription xml:lang="la" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12157" page="wing_ms_279_101">Auferte, tollite ocyus splendens tutum, Fabritius inquit: Haut opus
+				nummis bono est Viro, Cave, corrumpat aurum animum, cave. Virtute nil preciosius; VIRTUS
+				JUVAT. </transcription>
+			<transcription xml:lang="de" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12175" page="wing_ms_279_119">Fabritius w&#252;rdt hochgeacht/ Weil er all gschenck vnd gab veracht/ Vnd
+				jedermann gehaltten gleich Es sey gewest arm oder reich. Ein weiser Mann nach Gelt nicht
+				tracht Sondern allein der Tugent acht/ </transcription>
+		</subscriptio>
+	</emblem>
+	

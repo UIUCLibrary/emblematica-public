@@ -1,0 +1,17 @@
+<emblem xmlns="http://diglib.hab.de/rules/schema/emblem" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:emblem="http://diglib.hab.de/rules/schema/emblem" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="E051820" globalID="http://hdl.handle.net/10111/EmblemRegistry:E051820" citeNo="20" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12215">
+		<motto>
+			<transcription xml:lang="la">Lex regit arma tuentur.</transcription>
+		</motto>
+		<pictura xml:id="E051820_P1" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12215" page="wing_ms_279_159">
+			<figDesc xml:lang="la" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12151">TABUL&#198; MOSIS ET MANUS ARMADA GLADIO.</figDesc>
+		</pictura>
+		<subscriptio>
+			<transcription xml:lang="la" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12151" page="wing_ms_279_095">Pr&#230;scribit, en, Lex universis civibus Facienda: qu&#230; fugienda sint
+				stricte vetat: Ut illa fiant, ista caveantur probe: Legem tuetur ferrea Princeps manu. </transcription>
+			<transcription xml:lang="de" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12173" page="wing_ms_279_117">Damit gut Policey vnd Gsetz Erhalten werden vnverletzt/ Mu&#223; man dabey
+				bstandhafft verbleibn/ Was ihm z'wider/ mit gewalt abtreibn. S'Gsetz soll au&#223; Gotts bfehl
+				exequirn Ein Obrigkeit/ vnd defendirn. Oder: Das G&#246;ttlich Gsetz die Obrigkeit Manutenir
+				durch lieb vnd leid/ </transcription>
+		</subscriptio>
+	</emblem>
+	

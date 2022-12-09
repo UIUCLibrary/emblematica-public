@@ -1,0 +1,17 @@
+<emblem xmlns="http://diglib.hab.de/rules/schema/emblem" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:emblem="http://diglib.hab.de/rules/schema/emblem" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="E051807" globalID="http://hdl.handle.net/10111/EmblemRegistry:E051807" citeNo="7" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12189">
+		<motto>
+			<transcription xml:lang="la">Sic Orbis iter.</transcription>
+		</motto>
+		<pictura xml:id="E051807_P1" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12189" page="wing_ms_279_133">
+			<figDesc xml:lang="la" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12138">CANCER PORTAT GLOBUM TERRENUM.</figDesc>
+		</pictura>
+		<subscriptio>
+			<transcription xml:lang="la" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12138" page="wing_ms_279_082">Miraris Cancri dorso consistere mundum: Desine, Retrogrado mundana
+				negocia cursu. Progredi amant, neque habent bene, qu&#230; rectissima Semper sunt. Quodcunque
+				feret, FER, dia nobis voluntas. </transcription>
+			<transcription xml:lang="de" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12170" page="wing_ms_279_114">Die Welt auff einem Krebs hier steht. Warumb? weil's als hinter sich
+				geht. Was d' Welt auffs kl&#252;gste greiffet an/ Wie offt gehet's ein ander ban? Wol dem der
+				sich schickt zwar in d' Welt/ Vnd doch strebt nach dem was Gott gfelt. </transcription>
+		</subscriptio>
+	</emblem>
+	

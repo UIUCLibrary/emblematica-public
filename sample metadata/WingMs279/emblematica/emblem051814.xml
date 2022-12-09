@@ -1,0 +1,17 @@
+<emblem xmlns="http://diglib.hab.de/rules/schema/emblem" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:emblem="http://diglib.hab.de/rules/schema/emblem" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="E051814" globalID="http://hdl.handle.net/10111/EmblemRegistry:E051814" citeNo="14" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12203">
+		<motto>
+			<transcription xml:lang="la">Utroque clarescere pulchrum.</transcription>
+		</motto>
+		<pictura xml:id="E051814_P1" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12203" page="wing_ms_279_147">
+			<figDesc xml:lang="la" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12145">GALEA
+				INCUMBIT LIBRO.</figDesc>
+		</pictura>
+		<subscriptio>
+			<transcription xml:lang="la" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12145" page="wing_ms_279_089">Togatus et Sagatus in Republica Si quis celebri stet loco, n&#230; magnus
+				est. </transcription>
+			<transcription xml:lang="de" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12172" page="wing_ms_279_116">D'erfahrung zwar ein Kriegsman macht/ Doch soll er haben auch in acht
+				Was von den alten ist geschriebn/ Vnd ihm dasselb lassen beliebn. Eim Kriegs F&#252;rsten/ der
+				studiert hat/ Sein anschlag stets besser fortgaht. </transcription>
+		</subscriptio>
+	</emblem>
+	

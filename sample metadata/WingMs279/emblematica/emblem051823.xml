@@ -1,0 +1,16 @@
+<emblem xmlns="http://diglib.hab.de/rules/schema/emblem" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:emblem="http://diglib.hab.de/rules/schema/emblem" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="E051823" globalID="http://hdl.handle.net/10111/EmblemRegistry:E051823" citeNo="23" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12221">
+		<motto>
+			<transcription xml:lang="la">Pro aris focisque.</transcription>
+		</motto>
+		<pictura xml:id="E051823_P1" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12221" page="wing_ms_279_165">
+			<figDesc xml:lang="la" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12154">CICONIA DEFENDIT PULLOS CONTRA MILVOS.</figDesc>
+		</pictura>
+		<subscriptio>
+			<transcription xml:lang="la" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12154" page="wing_ms_279_098">Pro nido et pullis rostrata Ciconia pugnat: Pro civitate et Urbe
+				dimicat Rex bonus. </transcription>
+			<transcription xml:lang="de" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12174" page="wing_ms_279_118">Ein Storch f&#252;r sein Jungen im nest/ Streit/ vnd ihm keins entztehen
+				lest Von den Raubv&#246;glen spart kein m&#252;h Bi&#223; er von denn getrieben sie. Ein F&#252;rst ja alle
+				Obrigkeit/ Billich f&#252;r die sein kriegt vnd streit. </transcription>
+		</subscriptio>
+	</emblem>
+	

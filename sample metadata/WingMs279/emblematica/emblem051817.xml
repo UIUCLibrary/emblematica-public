@@ -1,0 +1,17 @@
+<emblem xmlns="http://diglib.hab.de/rules/schema/emblem" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:emblem="http://diglib.hab.de/rules/schema/emblem" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="E051817" globalID="http://hdl.handle.net/10111/EmblemRegistry:E051817" citeNo="17" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12209">
+		<motto>
+			<transcription xml:lang="la">Hoc f&#339;dere tuti.</transcription>
+		</motto>
+		<pictura xml:id="E051817_P1" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12209" page="wing_ms_279_153">
+			<figDesc xml:lang="la" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12148">IRIS
+				SUPRA NORIBERGAM.</figDesc>
+		</pictura>
+		<subscriptio>
+			<transcription xml:lang="la" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12148" page="wing_ms_279_092">Foederis &#230;terni designans rite, Potestas Dia dedit nobis IRIDA,
+				mnemosynon: HOC TUTI SIGNO, mundi confidite turbis Mentes turbat&#230;: NULLA PERICLA NOCENT. </transcription>
+			<transcription xml:lang="de" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12173" page="wing_ms_279_117">Ans Himmels thron/ nach der S&#252;ndflut Sein bund der Herr auffrichten
+				thut Mit Noa/ welchr soll ewig sein Ein gnadenzeichn der Christlichn gmein. O wol vnd &#252;ber
+				wol der stat/ Die auff Gott ihr vertrauen hat! </transcription>
+		</subscriptio>
+	</emblem>
+	

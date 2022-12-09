@@ -1,0 +1,17 @@
+<emblem xmlns="http://diglib.hab.de/rules/schema/emblem" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:emblem="http://diglib.hab.de/rules/schema/emblem" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="E051813" globalID="http://hdl.handle.net/10111/EmblemRegistry:E051813" citeNo="13" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12201">
+		<motto>
+			<transcription xml:lang="la">Virtutis invidia comes.</transcription>
+		</motto>
+		<pictura xml:id="E051813_P1" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12201" page="wing_ms_279_145">
+			<figDesc xml:lang="la" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12144">SERPENTES SUB PALMA ARBORE.</figDesc>
+		</pictura>
+		<subscriptio>
+			<transcription xml:lang="la" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12144" page="wing_ms_279_088">Palma virens alti, en, stat recta cacumine montis Cujus radices
+				admordet frigidus anguis. Tam celso stat nullo loco unquam florida virtus, Dente Theonino
+				quam livida non petat ATE. </transcription>
+			<transcription xml:lang="de" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12172" page="wing_ms_279_116">Den Edlen Palmen so stets gr&#246;nt/ Sein Herrligkeit die Schlang
+				mi&#223;g&#246;nt/ Ihn zu verderben sich bem&#252;ht. Doch vergebens. Es glingt ihr nicht. Tugent hat viel
+				Neider allzeit/ Jedoch k&#246;nnen's ihr thun kein leid. </transcription>
+		</subscriptio>
+	</emblem>
+	

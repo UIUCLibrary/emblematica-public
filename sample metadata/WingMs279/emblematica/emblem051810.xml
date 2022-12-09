@@ -1,0 +1,16 @@
+<emblem xmlns="http://diglib.hab.de/rules/schema/emblem" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:emblem="http://diglib.hab.de/rules/schema/emblem" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="E051810" globalID="http://hdl.handle.net/10111/EmblemRegistry:E051810" citeNo="10" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12195">
+		<motto>
+			<transcription xml:lang="la">Sine numine frustra.</transcription>
+		</motto>
+		<pictura xml:id="E051810_P1" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12195" page="wing_ms_279_139">
+			<figDesc xml:lang="la" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12141">PAULUS RIGAT, APOLLO PLANTAT ARBOREM.</figDesc>
+		</pictura>
+		<subscriptio>
+			<transcription xml:lang="la" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12141" page="wing_ms_279_085">Ne quicquam, pie PAULE rigas: plantas, bone Apollo: Vivificum Genitor
+				in mittat ab &#230;there rorem. </transcription>
+			<transcription xml:lang="de" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12171" page="wing_ms_279_115">Ob schon Paulus pflantzet mit flei&#223;. Apollo nach verm&#246;gn begeust: Der
+				Baum dannoch vnfruchtbar bleibt/ So nicht der Herr segnet vnd treibt. Ohn Gottes Segen ist
+				vmb sonst Allr Menschen m&#252;h arbeit/ vnd kunst. </transcription>
+		</subscriptio>
+	</emblem>
+	

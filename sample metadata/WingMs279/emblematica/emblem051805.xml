@@ -1,0 +1,17 @@
+<emblem xmlns="http://diglib.hab.de/rules/schema/emblem" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:emblem="http://diglib.hab.de/rules/schema/emblem" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="E051805" globalID="http://hdl.handle.net/10111/EmblemRegistry:E051805" citeNo="5" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12185">
+		<motto>
+			<transcription xml:lang="la">Humana Consilia Vana.</transcription>
+		</motto>
+		<pictura xml:id="E051805_P1" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12185" page="wing_ms_279_129">
+			<figDesc xml:lang="la" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12136">TURRIS BABYLONICA.</figDesc>
+		</pictura>
+		<subscriptio>
+			<transcription xml:lang="la" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12136" page="wing_ms_279_080">Turrim, qu&#230; celsum caput inter nubila condat, Exstruit effrenis
+				Babylonem natio: verum, Consilium contra DOMINI, qui temperat orbem, Nil humana valet
+				quidquam, nil machina pollet. </transcription>
+			<transcription xml:lang="de" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12170" page="wing_ms_279_114">Nimrod ein Thurn erbauen wolt/ Dessn Spitz an Himmel reichen solt.
+				Aber Gott strafft von obn herab/ Das er mit spott must lassen ab. Wer f&#252;r sich selbs ohn
+				Gottes rath Was anfeht/ dazu seltn gl&#252;ck hat. </transcription>
+		</subscriptio>
+	</emblem>
+	

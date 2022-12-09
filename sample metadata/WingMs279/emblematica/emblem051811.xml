@@ -1,0 +1,18 @@
+<emblem xmlns="http://diglib.hab.de/rules/schema/emblem" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:emblem="http://diglib.hab.de/rules/schema/emblem" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="E051811" globalID="http://hdl.handle.net/10111/EmblemRegistry:E051811" citeNo="11" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12197">
+		<motto>
+			<transcription xml:lang="la">Sic cedere juvat.</transcription>
+		</motto>
+		<pictura xml:id="E051811_P1" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12197" page="wing_ms_279_141">
+			<figDesc xml:lang="la" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12142">CAPRA
+				SE SUBMITTENS, PR&#198;BET CAPRO TRANSITUM IN PONTE ANGUSTO.</figDesc>
+		</pictura>
+		<subscriptio>
+			<transcription xml:lang="la" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12142" page="wing_ms_279_086">Dux gregis ut sospes pontem pertranseat, ecce, Submittit humeros
+				capra commodum suos; Sedulus ut Patri&#230; procures commoda cur&#230;, De jure concedas tuo, quantum
+				potes. </transcription>
+			<transcription xml:lang="de" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12171" page="wing_ms_279_115">Damit nicht beyds der Bock vnd Gai&#223; Ins wassr fallen wie klug vnd
+				wei&#223; Buckt die Gai&#223; sich das n&#252;ber kan Der Bock vnd kommen beyd davon? Einer den andern
+				gerne weich/ Damit's erhalten werden z'gleich. </transcription>
+		</subscriptio>
+	</emblem>
+	

@@ -1,0 +1,18 @@
+<emblem xmlns="http://diglib.hab.de/rules/schema/emblem" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:emblem="http://diglib.hab.de/rules/schema/emblem" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="E051806" globalID="http://hdl.handle.net/10111/EmblemRegistry:E051806" citeNo="6" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12187">
+		<motto>
+			<transcription xml:lang="la">Assiduitate et tollerantia.</transcription>
+		</motto>
+		<pictura xml:id="E051806_P1" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12187" page="wing_ms_279_131">
+			<figDesc xml:lang="la" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12137">MILO
+				HUMERIS FERT BOVEM.</figDesc>
+		</pictura>
+		<subscriptio>
+			<transcription xml:lang="la" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12137" page="wing_ms_279_081">E tripode edictum veneror: Labor omnia vincit Improbus: Hinc Taurum
+				fortis athleta tulit. Fortis athleta humeros vitulo subiecerat olim: Paruo adsuesce prius,
+				grande omne inde feres. </transcription>
+			<transcription xml:lang="de" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12170" page="wing_ms_279_114">Da Milo, noch von Jaren jung/ Ein kalb zutragn sich vnterfang/ Solchs
+				auch von tag zu tag fort thet/ Bi&#223; er ein Ochsen gtragen het. Wer vnvertrossen vnd embsich
+				ist Erlangt viel Ehr zu aller frist. </transcription>
+		</subscriptio>
+	</emblem>
+	

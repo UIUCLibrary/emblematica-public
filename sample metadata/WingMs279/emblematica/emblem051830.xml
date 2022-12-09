@@ -1,0 +1,17 @@
+<emblem xmlns="http://diglib.hab.de/rules/schema/emblem" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:emblem="http://diglib.hab.de/rules/schema/emblem" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="E051830" globalID="http://hdl.handle.net/10111/EmblemRegistry:E051830" citeNo="30" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12235">
+		<motto>
+			<transcription xml:lang="la">Sine respectu.</transcription>
+		</motto>
+		<pictura xml:id="E051830_P1" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12235" page="wing_ms_279_179">
+			<figDesc xml:lang="la" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12161">TRAIANUS IMP. GLADIUM STRICTUM OFFERT JUDICI.</figDesc>
+		</pictura>
+		<subscriptio>
+			<transcription xml:lang="la" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12161" page="wing_ms_279_105">Optume, vox, TRAIANE, tua h&#230;c fuit: accipe ferrum. In me quod
+				stringas, si male cautus agam. Pro me, si jubeam recta, et qu&#230; justa videntur; TRAIANOS
+				hodie quod dabit imperium? </transcription>
+			<transcription xml:lang="de" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12176" page="wing_ms_279_120">Trajanus seim Hoffmeister reicht/ Ein blo&#223; Schwerdt/ vnd darnebn
+				anzeicht: Er solte solches recht gebrauchn/ Wider ihn/ wann er th&#228;tte strauchn. Richter/ ohn
+				ansehn der person/ Richte das rechte Recht ohn lohn. </transcription>
+		</subscriptio>
+	</emblem>
+	

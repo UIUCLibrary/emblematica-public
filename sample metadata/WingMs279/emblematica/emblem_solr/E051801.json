@@ -1,0 +1,39 @@
+[{
+  "id": "E051801",
+  "bookID": "WingMs279",
+  "ark_id": null,
+  "spineXML": "http://emblemimages.library.illinois.edu/WingMs279/emblematica/emblem051801.xml",
+  "page_no": "wing_ms_279_121",
+  "search_keywords": "Fortuna Volubilis errat. SESOSTRIS SEDENS IN CURRU, QUEM QUATUOR REGES TRAHUNT. Qui minor e armis, Victori serviet, at Tu Rex victor, jungis nos Reges instar equorum Essedo: Age, humanæ memor esto condicionis, OMNIA sors rotat: ima effert, premit usque superba. Von gfangnen Köngen Sesostris/ Auß hochmut/ sich rein führen ließ. Bald aber/ als sich's glülck nur wand/ Wurd er blind: fiel auch durch sein hand. Das glück eim Rad gleich sich verkert/ Vnd ist nichts bstandthaffts auff der Erd.",
+  "search_keywords_iconclass_term": "Fortuna Volubilis errat. SESOSTRIS SEDENS IN CURRU, QUEM QUATUOR REGES TRAHUNT. Qui minor e armis, Victori serviet, at Tu Rex victor, jungis nos Reges instar equorum Essedo: Age, humanæ memor esto condicionis, OMNIA sors rotat: ima effert, premit usque superba. Von gfangnen Köngen Sesostris/ Auß hochmut/ sich rein führen ließ. Bald aber/ als sich's glülck nur wand/ Wurd er blind: fiel auch durch sein hand. Das glück eim Rad gleich sich verkert/ Vnd ist nichts bstandthaffts auff der Erd.",
+  "search_motto": [
+"Fortuna Volubilis errat."
+],
+  "search_motto_latin": [
+"Fortuna Volubilis errat."
+],
+  "search_motto_english": null,
+  "search_motto_old_german": null,
+  "search_motto_new_german": null,
+  "search_motto_dutch": null,
+  "search_motto_italian": null,
+  "search_motto_french": null,
+  "search_motto_greek": null,
+  "search_motto_spanish": null,
+ "search_iconclass": null,
+ "display_motto": "Fortuna Volubilis errat.",
+  "display_pictura_link": "http://emblemimages.library.illinois.edu/WingMs279/_access/pictura/wing_ms_279_121.jpg",
+  "display_emblem_link": "http://emblemimages.library.illinois.edu/WingMs279/_access/emblem/wing_ms_279_121.jpg",
+  "display_book_title": "Inscriptiones picturae et emblemata quae in aula magna curiae Norimbergensis publice extant: quibus ob argumenti similitudinem accesserunt, I. Chrongraphia arcuum aliquot triumphalium, II. Numi memorabiles, III. Alia[que] monumenta in varijs urbis partib[us] visu[m] jucunda, lectu[m][que] digna",
+  "display_book_has_emblems": true,
+  "display_collection": "The Newberry",
+  "emblem_more_info_link": "http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12177",
+  "scanned_pictura_link": "http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12177",
+  "facet_collection_code": "Newberry",
+  "facet_language_code": [
+"lat",
+"ger"
+],
+  "facet_publication_century": "17th century",
+  "facet_publication_place": "Nürnberg"
+}]

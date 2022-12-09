@@ -1,0 +1,16 @@
+<emblem xmlns="http://diglib.hab.de/rules/schema/emblem" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:emblem="http://diglib.hab.de/rules/schema/emblem" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="E051804" globalID="http://hdl.handle.net/10111/EmblemRegistry:E051804" citeNo="4" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12183">
+		<motto>
+			<transcription xml:lang="la">Stultus amor nostri.</transcription>
+		</motto>
+		<pictura xml:id="E051804_P1" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12183" page="wing_ms_279_127">
+			<figDesc xml:lang="la" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12135">FOEMINA CONTEMPLANS IN SPECULO.</figDesc>
+		</pictura>
+		<subscriptio>
+			<transcription xml:lang="la" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12135" page="wing_ms_279_079">Perdit pol multos insana Philautia menteis Exoculans hominum
+				sapientum: nempe Poet&#230; Narcissum produnt c&#230;co sui amore perisse. </transcription>
+			<transcription xml:lang="de" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12169" page="wing_ms_279_113">Narcissus/ wie schreibt der Poet/ All J&#252;ngling &#252;bertreffen thet Mit
+				sch&#246;n. Als er sich selbs lieb gwahn/ Im Bronn ein schn&#246;des end er nam. Wer sich selbs liebt
+				vnd achtet sehr/ W&#252;rd gst&#252;rtzt in jammer/ noth vnd gfehr. </transcription>
+		</subscriptio>
+	</emblem>
+	

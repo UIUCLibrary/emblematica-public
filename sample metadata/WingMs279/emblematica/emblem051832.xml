@@ -1,0 +1,16 @@
+<emblem xmlns="http://diglib.hab.de/rules/schema/emblem" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:emblem="http://diglib.hab.de/rules/schema/emblem" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="E051832" globalID="http://hdl.handle.net/10111/EmblemRegistry:E051832" citeNo="32" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12239">
+		<motto>
+			<transcription xml:lang="la">Rigorem clementia temperet.</transcription>
+		</motto>
+		<pictura xml:id="E051832_P1" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12239" page="wing_ms_279_183">
+			<figDesc xml:lang="la" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12163">MANUS
+				TENET GLADIUM RAMIS OLE&#198; IMPLICATUM.</figDesc>
+		</pictura>
+		<subscriptio>
+			<transcription xml:lang="la" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12163" page="wing_ms_279_107">Bilem Catonis, C&#230;saris benignior Ubi in Senatu attemperat sententia,
+				Justum salubri &#230;quumque sit moderamine: Hoc ferrum, oliv&#230; et ramus affabre notant. </transcription>
+			<transcription xml:lang="de" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12176" page="wing_ms_279_120">Die Oelzweig sich winden vmbs Schwerdt. Was bedeuts? das man nicht zu
+				hert Vnd zu scharff procediren soll/ Sondern der gnad auch gdencken wol. Den glindten Weg so
+				viel sein kan/ Allzeit ein Richter solle gan/ </transcription>
+		</subscriptio>
+	</emblem>

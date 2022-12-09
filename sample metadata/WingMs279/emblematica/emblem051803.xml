@@ -1,0 +1,18 @@
+<emblem xmlns="http://diglib.hab.de/rules/schema/emblem" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:emblem="http://diglib.hab.de/rules/schema/emblem" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="E051803" globalID="http://hdl.handle.net/10111/EmblemRegistry:E051803" citeNo="3" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12181">
+		<motto>
+			<transcription xml:lang="la">Nosce teipsum.</transcription>
+		</motto>
+		<pictura xml:id="E051803_P1" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12181" page="wing_ms_279_125">
+			<figDesc xml:lang="la" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12134">PAVO
+				EXPLICANS CAUDAM.</figDesc>
+		</pictura>
+		<subscriptio>
+			<transcription xml:lang="la" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12134" page="wing_ms_279_078">Ales, Juno, tuus gemmantes explicat alas, Conspectis vero, dejicit
+				has, pedibus. Dotibus ingenii fisus sic tollit in altum Cristas: at meditans, deprimit has
+				homo humum. </transcription>
+			<transcription xml:lang="de" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12169" page="wing_ms_279_113">Der stoltz Pfaw an der Sonnen glantz Vberm&#252;tig auffwirfft sein
+				schwantz: So bald 'r sein f&#252;&#223; anschauen thut/ Lest er solchn fallen f&#252;r vnmuth. Wann der
+				Mensch sein schwachheit erkennt/ Nimmt bey ihm stoltz vnd pracht ein end. </transcription>
+		</subscriptio>
+	</emblem>
+	
