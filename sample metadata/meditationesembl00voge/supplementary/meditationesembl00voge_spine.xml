@@ -1,0 +1,775 @@
+<?xml-stylesheet type="text/xsl"
+			href="/spineToHTML.xsl"?><biblioDesc xmlns="http://diglib.hab.de/rules/schema/emblem" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd http://diglib.hab.de/rules/schema/emblem http://diglib.hab.de/rules/schema/emblem/emblem-1-2.xsd">
+  <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd">
+    <titleInfo>
+      <title>Meditationes emblematicae de restaurata pace Germaniae =</title>
+      <subTitle>Sinnebilder von dem widergebrachten Teutschen Frieden</subTitle>
+    </titleInfo>
+    <titleInfo type="alternative">
+      <title>Sinnebilder von dem widergebrachten Teutschen Frieden</title>
+    </titleInfo>
+    <titleInfo type="alternative">
+      <title>Meditationes de restaurata pace</title>
+    </titleInfo>
+    <titleInfo type="alternative">
+      <title>Sinnbilder von dem wiedergebrachten Frieden in Teutschlandt</title>
+    </titleInfo>
+    <name type="personal" usage="primary" authorityURI="http://viaf.org" valueURI="http://viaf.org/viaf/54384883/">
+      <namePart>Vogel, Johann</namePart>
+      <namePart type="date">1589-1663</namePart>
+    </name>
+    <name type="personal" authorityURI="http://viaf.org" valueURI="http://viaf.org/viaf/74233426">
+      <namePart>Zunner, Johann David</namePart>
+      <namePart type="date">active approximately 1653-1705</namePart>
+      <role>
+        <roleTerm type="text" authorityURI="http://id.loc.gov/" valueURI="http://id.loc.gov/vocabulary/relators/prt">printer.</roleTerm>
+      </role>
+    <displayForm>Zunner, Johann David, active approximately 1653-1705</displayForm></name>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="rbgenr">Emblem books-Germany-17th century.</genre>
+    <originInfo>
+      <place>
+        <placeTerm type="code" authority="marccountry" authorityURI="http://id.loc.gov/" valueURI="http://id.loc.gov/vocabulary/countries/gw">gw</placeTerm>
+      </place>
+      <place>
+        <placeTerm type="text">Francofurti</placeTerm>
+      </place>
+      <publisher>Apud Joh. Dav. Zunnerum</publisher>
+      <dateIssued>[1649]</dateIssued>
+      <dateIssued encoding="marc">1649</dateIssued>
+      <issuance>monographic</issuance>
+    </originInfo>
+    <language>
+      <languageTerm authority="iso639-2b" type="code" authorityURI="http://id.loc.gov/" valueURI="http://id.loc.gov/vocabulary/iso639-2/lat">lat</languageTerm>
+    </language>
+    <language>
+      <languageTerm authority="iso639-2b" type="code" authorityURI="http://id.loc.gov/" valueURI="http://id.loc.gov/vocabulary/iso639-2/ger">ger</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">print</form>
+      <extent>[5], XXIV, XXIV, [3] p. : ill. (engravings) ; 22 cm (4to)</extent>
+    </physicalDescription>
+    <note>Publication date appears as chronogram on title-page.</note>
+    <note>Place of publication and printer from additional engraved title-page: "Meditationes de
+         restaurata pace = Sinnbilder von dem wiedergebrachten Frieden in Teutschlandt / Johannis
+         Vogelij", with imprint: "Francofurti : Apud Joh. Dav. Zunnerum."</note>
+    <note>Signatures: A-G.</note>
+    <note>"1649" inscribed in ink on title-page.</note>
+    <subject authority="lcsh" authorityURI="http://id.loc.gov/" valueURI="http://id.loc.gov/authorities/subjects/sh2008102967">
+      <topic authorityURI="http://id.loc.gov/" valueURI="http://id.loc.gov/authorities/subjects/sh85042693">Emblems</topic>
+      <genre>Early works to 1800</genre>
+    </subject>
+    <subject authority="lcsh">
+      <topic authorityURI="http://id.loc.gov/" valueURI="http://id.loc.gov/authorities/subjects/sh2004006698">Emblem books, Latin</topic>
+      <geographic authorityURI="http://id.loc.gov/" valueURI="http://id.loc.gov/vocabulary/geographicAreas/e-gx">Germany</geographic>
+      <temporal>17th century</temporal>
+    </subject>
+    <subject authority="lcsh">
+      <topic authorityURI="http://id.loc.gov/" valueURI="http://id.loc.gov/authorities/subjects/sh85042689">Emblem books, German</topic>
+      <geographic authorityURI="http://id.loc.gov/" valueURI="http://id.loc.gov/vocabulary/geographicAreas/e-gx">Germany</geographic>
+      <temporal>17th century</temporal>
+    </subject>
+    <location>
+      <url displayLabel="HathiTrust Digital Library">https://hdl.handle.net/2027/uiuo.ark:/13960/t4bp0kr75</url>
+    </location> 
+  </mods>
+  <?query @attr 1=12 "5676683" ?>
+  <?count 1 ?>
+  <copyDesc xmlns:spine="http://diglib.hab.de/rules/schema/emblem">
+    <copyID>uiu5676683</copyID>
+    <owner countryCode="US">University of Illinois</owner>
+    <digDesc comp="complete" scope="all" xml:id="meditationesembl00voge" globalID="http://hdl.handle.net/10111/UIUCOCA:meditationesembl00voge" pageImages="http://emblemimages.grainger.illinois.edu/meditationesembl00voge/meditationesembl00voge_jp2.zip">Digital RGB (8 bit x 3) color facsimile scanned at between 300 and 500 dpi by the Open
+         Content Alliance on an OCA Scribe workstation (Canon 5D) at the University of Illinois at
+         Urbana-Champaign. <copyID>10111/UIUCOCA:meditationesembl00voge</copyID><owner countryCode="US">University of Illinois</owner></digDesc>
+    <digDesc comp="complete" scope="all" globalID="http://www.archive.org/details/meditationesembl00voge">View in Internet Archive
+            <copyID>meditationesembl00voge</copyID><owner countryCode="US">Internet Archive</owner></digDesc>
+    <digDesc comp="complete" scope="all" globalID="http://www.arkyves.org/uid/uiuc_5676683">View
+         in Arkyves <copyID>uiuc_5676683</copyID><owner countryCode="NE">Arkyves</owner></digDesc>
+  </copyDesc>
+  <emblem xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:spine="http://diglib.hab.de/rules/schema/emblem" citeNo="I." xlink:href="http://emblemimages.library.illinois.edu/meditationesembl00voge/preservation/meditationesembl00voge_0010-0011.jp2" xml:id="E000001" globalID="http://hdl.handle.net/10111/EmblemRegistry:E000001">
+    <motto>
+      <transcription xml:lang="de">Hie sol nun seyn de&#223; Krieges Ziel.<normalisation xml:lang="de">Hier soll nun des Krieges Ziel sein.</normalisation></transcription>
+      <transcription xml:lang="la">Hic belli terminus esto.</transcription>
+    </motto>
+    <pictura xlink:href="http://emblemimages.library.illinois.edu:8080/cantaloupe-4.1.4/iiif/2/meditationesembl00voge%2Fpreservation%2Fmeditationesembl00voge_0010-0011.jp2/2864,800,1144,1392/full/0/default.jpg" xml:id="E000001_P1">
+      <iconclass rdf:about="http://www.iconclass.org/rkd/22C11">
+        <skos:notation>22C11</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/25H1124">
+        <skos:notation>25H1124</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/43A(+12):25G3(OLIVE-TREE)(+27)">
+        <skos:notation>43A(+12):25G3(OLIVE-TREE)(+27)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/86(HIC BELLI TERMINUS ESTO)">
+        <skos:notation>86(HIC BELLI TERMINUS ESTO)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/86(HIER SOLL NUN DES KRIEGES ZIEL SEIN)">
+        <skos:notation>86(HIER SOLL NUN DES KRIEGES ZIEL SEIN)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/96A16">
+        <skos:notation>96A16</skos:notation>
+      </iconclass>
+    </pictura>
+  </emblem>
+  <emblem xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:spine="http://diglib.hab.de/rules/schema/emblem" citeNo="II." xlink:href="http://emblemimages.library.illinois.edu/meditationesembl00voge/preservation/meditationesembl00voge_0012-0013.jp2" xml:id="E000002" globalID="http://hdl.handle.net/10111/EmblemRegistry:E000002">
+    <motto>
+      <transcription xml:lang="de">Wie lieblich ist der Friedensbott!<normalisation xml:lang="de">Wie lieblich ist die Friedensbotschaft!</normalisation></transcription>
+      <transcription xml:lang="la">Speciosa en nuncia Pacis!</transcription>
+    </motto>
+    <pictura xlink:href="http://emblemimages.library.illinois.edu:8080/cantaloupe-4.1.4/iiif/2/meditationesembl00voge%2Fpreservation%2Fmeditationesembl00voge_0012-0013.jp2/2760,760,1184,1432/full/0/default.jpg" xml:id="E000002_P1">
+      <iconclass rdf:about="http://www.iconclass.org/rkd/24A81">
+        <skos:notation>24A81</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/31A25112(+934)">
+        <skos:notation>31A25112(+934)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/71B33221">
+        <skos:notation>71B33221</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/86(SPECIOSA EN NUNCIA PACIS!)">
+        <skos:notation>86(SPECIOSA EN NUNCIA PACIS!)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/86(WIE LIEBLICH IST DIE FRIEDENSBOTSCHAFT!)">
+        <skos:notation>86(WIE LIEBLICH IST DIE FRIEDENSBOTSCHAFT!)</skos:notation>
+      </iconclass>
+    </pictura>
+  </emblem>
+  <emblem xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:spine="http://diglib.hab.de/rules/schema/emblem" citeNo="III." xlink:href="http://emblemimages.library.illinois.edu/meditationesembl00voge/preservation/meditationesembl00voge_0014-0015.jp2" xml:id="E000003" globalID="http://hdl.handle.net/10111/EmblemRegistry:E000003">
+    <motto>
+      <transcription xml:lang="de">Man pre&#223;t das Oel im End herau&#223;.<normalisation xml:lang="de">Man presst das &#214;l am Ende heraus.</normalisation></transcription>
+      <transcription xml:lang="la">Tandem exurgetur olivum.</transcription>
+    </motto>
+    <pictura xlink:href="http://emblemimages.library.illinois.edu:8080/cantaloupe-4.1.4/iiif/2/meditationesembl00voge%2Fpreservation%2Fmeditationesembl00voge_0014-0015.jp2/2776,728,1224,1456/full/0/default.jpg" xml:id="E000003_P1">
+      <!-- another example of two notations... -->
+      <iconclass rdf:about="http://www.iconclass.org/rkd/41C671">
+        <skos:notation>41C671</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/47D7(MILL-STONE)">
+        <skos:notation>47D7(MILL-STONE)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/47D8(PRESS)(+461):25G21(OLIVE)">
+        <skos:notation>47D8(PRESS)(+461):25G21(OLIVE)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/54A11(+4)">
+        <skos:notation>54A11(+4)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/86(MAN PRESST DAS &#214;L AM ENDE)">
+        <skos:notation>86(MAN PRESST DAS &#214;L AM ENDE)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/86(TANDEM EXURGETUR OLIVUM)">
+        <skos:notation>86(TANDEM EXURGETUR OLIVUM)</skos:notation>
+      </iconclass>
+    </pictura>
+  </emblem>
+  <emblem xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:spine="http://diglib.hab.de/rules/schema/emblem" citeNo="IV." xlink:href="http://emblemimages.library.illinois.edu/meditationesembl00voge/preservation/meditationesembl00voge_0016-0017.jp2" xml:id="E000004" globalID="http://hdl.handle.net/10111/EmblemRegistry:E000004">
+    <motto>
+      <transcription xml:lang="de">Was du nicht glaubtest/ das geschiht.<normalisation xml:lang="de">Was du nicht glaubtest, das geschieht.</normalisation></transcription>
+      <transcription xml:lang="la">Fiunt, quae posse negabas.</transcription>
+    </motto>
+    <pictura xlink:href="http://emblemimages.library.illinois.edu:8080/cantaloupe-4.1.4/iiif/2/meditationesembl00voge%2Fpreservation%2Fmeditationesembl00voge_0016-0017.jp2/2836,680,1208,1416/full/0/default.jpg" xml:id="E000004_P1">
+      <iconclass rdf:about="http://www.iconclass.org/rkd/24A81">
+        <skos:notation>24A81</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/25F24(DROMEDARY)">
+        <skos:notation>25F24(DROMEDARY)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/25G3(PALM-TREE)">
+        <skos:notation>25G3(PALM-TREE)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/25K16">
+        <skos:notation>25K16</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/41D4411">
+        <skos:notation>41D4411</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/52BB31(+4)">
+        <skos:notation>52BB31(+4)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/73C72422">
+        <skos:notation>73C72422</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/86(FACILIUS ELEPHAS PER FORAMEN ACUS)">
+        <skos:notation>86(FACILIUS ELEPHAS PER FORAMEN ACUS)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/86(FIUNT, QUAE POSSE NEGABAS)">
+        <skos:notation>86(FIUNT, QUAE POSSE NEGABAS)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/86(WAS DU NICHT GLAUBTEST, DAS GESCHIEHT)">
+        <skos:notation>86(WAS DU NICHT GLAUBTEST, DAS GESCHIEHT)</skos:notation>
+      </iconclass>
+    </pictura>
+  </emblem>
+  <emblem xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:spine="http://diglib.hab.de/rules/schema/emblem" citeNo="V." xlink:href="http://emblemimages.library.illinois.edu/meditationesembl00voge/preservation/meditationesembl00voge_0018-0019.jp2" xml:id="E000005" globalID="http://hdl.handle.net/10111/EmblemRegistry:E000005">
+    <motto>
+      <transcription xml:lang="de">Es bl&#252;ht offt/ was verdorret schien.<normalisation xml:lang="de">Es bl&#252;ht oft, was verdorrt schien.</normalisation></transcription>
+      <transcription xml:lang="la">Patriae spes arida floret.</transcription>
+    </motto>
+    <pictura xlink:href="http://emblemimages.library.illinois.edu:8080/cantaloupe-4.1.4/iiif/2/meditationesembl00voge%2Fpreservation%2Fmeditationesembl00voge_0018-0019.jp2/2872,704,1216,1424/full/0/default.jpg" xml:id="E000005_P1">
+      <iconclass rdf:about="http://www.iconclass.org/rkd/23D42">
+        <skos:notation>23D42</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/25G31(ROSE-BUSH)(+223)">
+        <skos:notation>25G31(ROSE-BUSH)(+223)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/25G31(ROSE-BUSH)(+371)">
+        <skos:notation>25G31(ROSE-BUSH)(+371)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/25G41(ROSE)(+32)">
+        <skos:notation>25G41(ROSE)(+32)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/26B">
+        <skos:notation>26B</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/56D1">
+        <skos:notation>56D1</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/54F131(+4)">
+        <skos:notation>54F131(+4)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/71E318(+0)">
+        <skos:notation>71E318(+0)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/86(ES BL&#220;HT OFT, WAS VERDORRT SCHIEN)">
+        <skos:notation>86(ES BL&#220;HT OFT, WAS VERDORRT SCHIEN)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/86(PATRIAE SPES ARIDA FLORET)">
+        <skos:notation>86(PATRIAE SPES ARIDA FLORET)</skos:notation>
+      </iconclass>
+    </pictura>
+  </emblem>
+  <emblem xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:spine="http://diglib.hab.de/rules/schema/emblem" citeNo="VI." xlink:href="http://emblemimages.library.illinois.edu/meditationesembl00voge/preservation/meditationesembl00voge_0020-0021.jp2" xml:id="E000006" globalID="http://hdl.handle.net/10111/EmblemRegistry:E000006">
+    <motto>
+      <transcription xml:lang="de">Der Baum f&#228;llt nicht von einem Streich.<normalisation xml:lang="de">Der Baum f&#228;llt nicht von einem Streich.</normalisation></transcription>
+      <transcription xml:lang="la">Haud ictu concidit uno.</transcription>
+    </motto>
+    <pictura xlink:href="http://emblemimages.library.illinois.edu:8080/cantaloupe-4.1.4/iiif/2/meditationesembl00voge%2Fpreservation%2Fmeditationesembl00voge_0020-0021.jp2/2776,712,1248,1456/full/0/default.jpg" xml:id="E000006_P1">
+      <iconclass rdf:about="http://www.iconclass.org/rkd/25G21(ACORN)">
+        <skos:notation>25G21(ACORN)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/25G3(OAK)(+21)">
+        <skos:notation>25G3(OAK)(+21)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/47D8(AXE)">
+        <skos:notation>47D8(AXE)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/47I84">
+        <skos:notation>47I84</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/53A2(+4)">
+        <skos:notation>53A2(+4)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/86(DER BAUM F&#196;LLT NICHT VON EINEM STREICH)">
+        <skos:notation>86(DER BAUM F&#196;LLT NICHT VON EINEM STREICH)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/86(HAUD ICTU CONCIDIT UNO)">
+        <skos:notation>86(HAUD ICTU CONCIDIT UNO)</skos:notation>
+      </iconclass>
+    </pictura>
+  </emblem>
+  <emblem xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:spine="http://diglib.hab.de/rules/schema/emblem" citeNo="VII." xlink:href="http://emblemimages.library.illinois.edu/meditationesembl00voge/preservation/meditationesembl00voge_0022-0023.jp2" xml:id="E000007" globalID="http://hdl.handle.net/10111/EmblemRegistry:E000007">
+    <motto>
+      <transcription xml:lang="de">Man gehet auch gem&#228;chlich weit.<normalisation xml:lang="de">Man geht auch gem&#228;chlich weit.</normalisation></transcription>
+      <transcription xml:lang="la">Iuvat &amp; procedere lente.</transcription>
+    </motto>
+    <pictura xlink:href="http://emblemimages.library.illinois.edu:8080/cantaloupe-4.1.4/iiif/2/meditationesembl00voge%2Fpreservation%2Fmeditationesembl00voge_0022-0023.jp2/2752,752,1216,1448/full/0/default.jpg" xml:id="E000007_P1">
+      <iconclass rdf:about="http://www.iconclass.org/rkd/22C11">
+        <skos:notation>22C11</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/25F72(SNAIL)(+521)">
+        <skos:notation>25F72(SNAIL)(+521)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/51MM1(+4)">
+        <skos:notation>51MM1(+4)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/53A2(+4)">
+        <skos:notation>53A2(+4)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/86(IUVAT &amp; PROCEDERE LENTE)">
+        <skos:notation>86(IUVAT &amp; PROCEDERE LENTE)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/86(MAN GEHT AUCH GEM&#196;CHLICH WEIT)">
+        <skos:notation>86(MAN GEHT AUCH GEM&#196;CHLICH WEIT)</skos:notation>
+      </iconclass>
+    </pictura>
+  </emblem>
+  <emblem xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:spine="http://diglib.hab.de/rules/schema/emblem" citeNo="VIII." xlink:href="http://emblemimages.library.illinois.edu/meditationesembl00voge/preservation/meditationesembl00voge_0024-0025.jp2" xml:id="E000008" globalID="http://hdl.handle.net/10111/EmblemRegistry:E000008">
+    <motto>
+      <transcription xml:lang="de">Die Krafft de&#223; Himmels kan es thun.<normalisation xml:lang="de">Die Kraft des Himmels kann es tun.</normalisation></transcription>
+      <transcription xml:lang="la">Maxima vis coeli est.</transcription>
+    </motto>
+    <pictura xlink:href="http://emblemimages.library.illinois.edu:8080/cantaloupe-4.1.4/iiif/2/meditationesembl00voge%2Fpreservation%2Fmeditationesembl00voge_0024-0025.jp2/2832,696,1216,1456/full/0/default.jpg" xml:id="E000008_P1">
+      <iconclass rdf:about="http://www.iconclass.org/rkd/11A23">
+        <skos:notation>11A23</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/11C12">
+        <skos:notation>11C12</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/25I3(+1)">
+        <skos:notation>25I3(+1)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/26A">
+        <skos:notation>26A</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/31A2245(+933)">
+        <skos:notation>31A2245(+933)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/47D8(ANVIL)">
+        <skos:notation>47D8(ANVIL)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/47D8(HAMMER)">
+        <skos:notation>47D8(HAMMER)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/86(DIE KRAFT DES HIMMELS KANN ES TUN)">
+        <skos:notation>86(DIE KRAFT DES HIMMELS KANN ES TUN)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/86(MAXIMA VIS COELI EST)">
+        <skos:notation>86(MAXIMA VIS COELI EST)</skos:notation>
+      </iconclass>
+    </pictura>
+  </emblem>
+  <emblem xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:spine="http://diglib.hab.de/rules/schema/emblem" citeNo="IX." xlink:href="http://emblemimages.library.illinois.edu/meditationesembl00voge/preservation/meditationesembl00voge_0026-0027.jp2" xml:id="E000009" globalID="http://hdl.handle.net/10111/EmblemRegistry:E000009">
+    <motto>
+      <transcription xml:lang="de">Der Himmel wendt die Hertzen so.<normalisation xml:lang="de">Der Himmel wendet die Herzen so.</normalisation></transcription>
+      <transcription xml:lang="la">Sic cordaque flectit Olympus.</transcription>
+    </motto>
+    <pictura xlink:href="http://emblemimages.library.illinois.edu:8080/cantaloupe-4.1.4/iiif/2/meditationesembl00voge%2Fpreservation%2Fmeditationesembl00voge_0026-0027.jp2/2760,744,1232,1432/full/0/default.jpg" xml:id="E000009_P1">
+      <!-- looks strange... -->
+      <iconclass rdf:about="http://www.iconclass.org/rkd/11A23">
+        <skos:notation>11A23</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/25G3(+39)(KNOTTED)">
+        <skos:notation>25G3(+39)(KNOTTED)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/31A2221">
+        <skos:notation>31A2221</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/49D452:47G52">
+        <skos:notation>49D452:47G52</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/71X1(Ps. 16:19)4(+0)">
+        <skos:notation>71X1(Ps. 16:19)4(+0)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/86(DER HIMMEL WENDET DIE HERZEN SO)">
+        <skos:notation>86(DER HIMMEL WENDET DIE HERZEN SO)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/86(SIC CORDAQUE FLECTIT OLYMPUS)">
+        <skos:notation>86(SIC CORDAQUE FLECTIT OLYMPUS)</skos:notation>
+      </iconclass>
+    </pictura>
+  </emblem>
+  <emblem xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:spine="http://diglib.hab.de/rules/schema/emblem" citeNo="X." xlink:href="http://emblemimages.library.illinois.edu/meditationesembl00voge/preservation/meditationesembl00voge_0028-0029.jp2" xml:id="E000010" globalID="http://hdl.handle.net/10111/EmblemRegistry:E000010">
+    <motto>
+      <transcription xml:lang="de">Schild/ Schwerd und Spie&#223; zerschl&#228;gt der Herr.<normalisation xml:lang="de">Schild, Schwert und Spie&#223; zerschl&#228;gt der Herr. </normalisation></transcription>
+      <transcription xml:lang="la">Clypeum confringit &amp; Hastam.</transcription>
+    </motto>
+    <pictura xlink:href="http://emblemimages.library.illinois.edu:8080/cantaloupe-4.1.4/iiif/2/meditationesembl00voge%2Fpreservation%2Fmeditationesembl00voge_0028-0029.jp2/2736,752,1224,1456/full/0/default.jpg" xml:id="E000010_P1">
+      <iconclass rdf:about="http://www.iconclass.org/rkd/45C1(+69)">
+        <skos:notation>45C1(+69)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/45C16(CANNON)(+69)">
+        <skos:notation>45C16(CANNON)(+69)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/45C19(SHIELD)(+69)">
+        <skos:notation>45C19(SHIELD)(+69)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/45C22(+69)">
+        <skos:notation>45C22(+69)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/86(CLYPEUM CONFRINGIT &amp; HASTAM)">
+        <skos:notation>86(CLYPEUM CONFRINGIT &amp; HASTAM)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/86(SCHILD, SCHWERT UND SPIESS ZERSCHL&#196;GT DER  HERR)">
+        <skos:notation>86(SCHILD, SCHWERT UND SPIESS ZERSCHL&#196;GT DER HERR)</skos:notation>
+      </iconclass>
+    </pictura>
+  </emblem>
+  <emblem xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:spine="http://diglib.hab.de/rules/schema/emblem" citeNo="XI." xlink:href="http://emblemimages.library.illinois.edu/meditationesembl00voge/preservation/meditationesembl00voge_0030-0031.jp2" xml:id="E000011" globalID="http://hdl.handle.net/10111/EmblemRegistry:E000011">
+    <motto>
+      <transcription xml:lang="de">Ach wie gef&#228;hrlich ist die Sach!<normalisation xml:lang="de">Ach wie gef&#228;hrlich ist die Sache!</normalisation></transcription>
+      <transcription xml:lang="la">Quanti res ista pericli est!</transcription>
+    </motto>
+    <pictura xlink:href="http://emblemimages.library.illinois.edu:8080/cantaloupe-4.1.4/iiif/2/meditationesembl00voge%2Fpreservation%2Fmeditationesembl00voge_0030-0031.jp2/2760,752,1216,1448/full/0/default.jpg" xml:id="E000011_P1">
+      <!-- two notations? -->
+      <iconclass rdf:about="http://www.iconclass.org/rkd/25H1123">
+        <skos:notation>25H1123</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/51MM12(+4):44B421">
+        <skos:notation>51MM12(+4):44B421</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/93E82">
+        <skos:notation>93E82</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/86(ACH WIE GEF&#196;HRLICH IST DIE SACHE!)">
+        <skos:notation>86(ACH WIE GEF&#196;HRLICH IST DIE SACHE!)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/86(QUANTI RES ISTA PERICLI EST!)">
+        <skos:notation>86(QUANTI RES ISTA PERICLI EST!)</skos:notation>
+      </iconclass>
+    </pictura>
+  </emblem>
+  <emblem xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:spine="http://diglib.hab.de/rules/schema/emblem" citeNo="XII." xlink:href="http://emblemimages.library.illinois.edu/meditationesembl00voge/preservation/meditationesembl00voge_0032-0033.jp2" xml:id="E000012" globalID="http://hdl.handle.net/10111/EmblemRegistry:E000012">
+    <motto>
+      <transcription xml:lang="de">F&#252;r solche grosse Gaabe danck.<normalisation xml:lang="de">F&#252;r
+               solch gro&#223;e Gabe Dank.</normalisation></transcription>
+      <transcription xml:lang="la">Tanto pro munere grates.</transcription>
+    </motto>
+    <pictura xlink:href="http://emblemimages.library.illinois.edu:8080/cantaloupe-4.1.4/iiif/2/meditationesembl00voge%2Fpreservation%2Fmeditationesembl00voge_0032-0033.jp2/2768,728,1216,1480/full/0/default.jpg" xml:id="E000012_P1">
+      <iconclass rdf:about="http://www.iconclass.org/rkd/11Q7131(APSE)">
+        <skos:notation>11Q7131(APSE)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/11Q7141">
+        <skos:notation>11Q7141</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/11Q71421">
+        <skos:notation>11Q71421</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/31A22210:41B121">
+        <skos:notation>31A22210:41B121</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/31A25111">
+        <skos:notation>31A25111</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/57A8(+4)">
+        <skos:notation>57A8(+4)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/86(F&#220;R SOLCH GROSSE GABE DANK)">
+        <skos:notation>86(F&#220;R SOLCH GROSSE GABE DANK)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/86(TANTO PRO MUNERE GRATES)">
+        <skos:notation>86(TANTO PRO MUNERE GRATES)</skos:notation>
+      </iconclass>
+    </pictura>
+  </emblem>
+  <emblem xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:spine="http://diglib.hab.de/rules/schema/emblem" citeNo="XIII." xlink:href="http://emblemimages.library.illinois.edu/meditationesembl00voge/preservation/meditationesembl00voge_0034-0035.jp2" xml:id="E000013" globalID="http://hdl.handle.net/10111/EmblemRegistry:E000013">
+    <motto>
+      <transcription xml:lang="de">Es geht nichts recht an vor der Zeit.<normalisation xml:lang="de">Es geht nichts recht an vor der Zeit.</normalisation></transcription>
+      <transcription xml:lang="la">Nil fit sine tempore justo.</transcription>
+    </motto>
+    <pictura xlink:href="http://emblemimages.library.illinois.edu:8080/cantaloupe-4.1.4/iiif/2/meditationesembl00voge%2Fpreservation%2Fmeditationesembl00voge_0034-0035.jp2/2768,736,1208,1440/full/0/default.jpg" xml:id="E000013_P1">
+      <iconclass rdf:about="http://www.iconclass.org/rkd/11H(THOMAS AQUINAS)4(+0)">
+        <skos:notation>11H(THOMAS AQUINAS)4(+0)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/31A5351">
+        <skos:notation>31A5351</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/47C31(+412)">
+        <skos:notation>47C31(+412)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/47D8(ANVIL)(+69)">
+        <skos:notation>47D8(ANVIL)(+69)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/47D8(GRINDSTONE)">
+        <skos:notation>47D8(GRINDSTONE)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/47D8(KNIFE)">
+        <skos:notation>47D8(KNIFE)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/86(ES GEHT NICHTS RECHT AN VOR DER ZEIT)">
+        <skos:notation>86(ES GEHT NICHTS RECHT AN VOR DER ZEIT)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/86(NIL FIT SINE TEMPORE JUSTO)">
+        <skos:notation>86(NIL FIT SINE TEMPORE JUSTO)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/98B(NAVIUS)51">
+        <skos:notation>98B(NAVIUS)51</skos:notation>
+      </iconclass>
+    </pictura>
+  </emblem>
+  <emblem xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:spine="http://diglib.hab.de/rules/schema/emblem" citeNo="XIV." xlink:href="http://emblemimages.library.illinois.edu/meditationesembl00voge/preservation/meditationesembl00voge_0036-0037.jp2" xml:id="E000014" globalID="http://hdl.handle.net/10111/EmblemRegistry:E000014">
+    <motto>
+      <transcription xml:lang="de">Der Friedens Same f&#228;llt herab.<normalisation xml:lang="de">Der
+               Friedenssamen f&#228;llt herab.</normalisation></transcription>
+      <transcription xml:lang="la">Descendunt semina pacis.</transcription>
+    </motto>
+    <pictura xlink:href="http://emblemimages.library.illinois.edu:8080/cantaloupe-4.1.4/iiif/2/meditationesembl00voge%2Fpreservation%2Fmeditationesembl00voge_0036-0037.jp2/2752,824,1184,1408/full/0/default.jpg" xml:id="E000014_P1">
+      <iconclass rdf:about="http://www.iconclass.org/rkd/71E1254">
+        <skos:notation>71E1254</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/86(DER FRIEDENSSAMEN F&#196;LLT HERAB)">
+        <skos:notation>86(DER FRIEDENSSAMEN F&#196;LLT HERAB)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/86(DESCENDUNT SEMINA PACIS)">
+        <skos:notation>86(DESCENDUNT SEMINA PACIS)</skos:notation>
+      </iconclass>
+    </pictura>
+  </emblem>
+  <emblem xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:spine="http://diglib.hab.de/rules/schema/emblem" citeNo="XV." xlink:href="http://emblemimages.library.illinois.edu/meditationesembl00voge/preservation/meditationesembl00voge_0038-0039.jp2" xml:id="E000015" globalID="http://hdl.handle.net/10111/EmblemRegistry:E000015">
+    <motto>
+      <transcription xml:lang="de">So richte ich meine Federn recht.<normalisation xml:lang="de">So richte ich meine Federn recht.</normalisation></transcription>
+      <transcription xml:lang="la">Ad Solem corrigo pennas.</transcription>
+    </motto>
+    <pictura xlink:href="http://emblemimages.library.illinois.edu:8080/cantaloupe-4.1.4/iiif/2/meditationesembl00voge%2Fpreservation%2Fmeditationesembl00voge_0038-0039.jp2/2768,752,1168,1464/full/0/default.jpg" xml:id="E000015_P1">
+      <iconclass rdf:about="http://www.iconclass.org/rkd/24A6">
+        <skos:notation>24A6</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/25F33(SPARROW-HAWK)(+352)">
+        <skos:notation>25F33(SPARROW-HAWK)(+352)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/25F33(SPARROW-HAWK)(+483)">
+        <skos:notation>25F33(SPARROW-HAWK)(+483)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/31D60">
+        <skos:notation>31D60</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/54F131(+4)">
+        <skos:notation>54F131(+4)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/86(SO RICHTE ICH MEINE FEDERN RECHT)">
+        <skos:notation>86(SO RICHTE ICH MEINE FEDERN RECHT)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/86(AD SOLEM CORRIGO PENNAS)">
+        <skos:notation>86(AD SOLEM CORRIGO PENNAS)</skos:notation>
+      </iconclass>
+    </pictura>
+  </emblem>
+  <emblem xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:spine="http://diglib.hab.de/rules/schema/emblem" citeNo="XVI." xlink:href="http://emblemimages.library.illinois.edu/meditationesembl00voge/preservation/meditationesembl00voge_0040-0041.jp2" xml:id="E000016" globalID="http://hdl.handle.net/10111/EmblemRegistry:E000016">
+    <motto>
+      <transcription xml:lang="de">Wer mich nit dringt/ den treff ich nicht.<normalisation xml:lang="de">Wer mich nicht dr&#228;ngt, den treffe ich nicht.</normalisation></transcription>
+      <transcription xml:lang="la">Non laesa nec armor in hostem.</transcription>
+    </motto>
+    <pictura xlink:href="http://emblemimages.library.illinois.edu:8080/cantaloupe-4.1.4/iiif/2/meditationesembl00voge%2Fpreservation%2Fmeditationesembl00voge_0040-0041.jp2/2776,712,1216,1448/full/0/default.jpg" xml:id="E000016_P1">
+      <iconclass rdf:about="http://www.iconclass.org/rkd/25F29(PORCUPINE)(+483)">
+        <skos:notation>25F29(PORCUPINE)(+483)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/25H1123">
+        <skos:notation>25H1123</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/45I">
+        <skos:notation>45I</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/86(WER MICH NICHT DR&#196;NGT, DEN TREFFE ICH  NICHT)">
+        <skos:notation>86(WER MICH NICHT DR&#196;NGT, DEN TREFFE ICH NICHT)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/86(NON LAESA NEC ARMOR IN HOSTEM)">
+        <skos:notation>86(NON LAESA NEC ARMOR IN HOSTEM)</skos:notation>
+      </iconclass>
+    </pictura>
+  </emblem>
+  <emblem xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:spine="http://diglib.hab.de/rules/schema/emblem" citeNo="XVII." xlink:href="http://emblemimages.library.illinois.edu/meditationesembl00voge/preservation/meditationesembl00voge_0042-0043.jp2" xml:id="E000017" globalID="http://hdl.handle.net/10111/EmblemRegistry:E000017">
+    <motto>
+      <transcription xml:lang="de">Gott gibt den Au&#223;gang an die Hand.<normalisation xml:lang="de">Gott gibt den Ausgang in die Hand.</normalisation></transcription>
+      <transcription xml:lang="la">Filum Deus ecce! ministrat.</transcription>
+    </motto>
+    <pictura xlink:href="http://emblemimages.library.illinois.edu:8080/cantaloupe-4.1.4/iiif/2/meditationesembl00voge%2Fpreservation%2Fmeditationesembl00voge_0042-0043.jp2/2848,792,1168,1456/full/0/default.jpg" xml:id="E000017_P1">
+      <!-- location of Parentheses??? -->
+      <iconclass rdf:about="http://www.iconclass.org/rkd/26A">
+        <skos:notation>26A</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/31A2511(+933)">
+        <skos:notation>31A2511(+933)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/31D14">
+        <skos:notation>31D14</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/41A634">
+        <skos:notation>41A634</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/47H352">
+        <skos:notation>47H352</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/54A6(+4)">
+        <skos:notation>54A6(+4)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/86(GOTT GIBT DEN AUSGANG IN DIE HAND)">
+        <skos:notation>86(GOTT GIBT DEN AUSGANG IN DIE HAND)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/86(FILUM DEUS ECCE! MINISTRAT)">
+        <skos:notation>86(FILUM DEUS ECCE! MINISTRAT)</skos:notation>
+      </iconclass>
+    </pictura>
+  </emblem>
+  <emblem xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:spine="http://diglib.hab.de/rules/schema/emblem" citeNo="XVIII." xlink:href="http://emblemimages.library.illinois.edu/meditationesembl00voge/preservation/meditationesembl00voge_0044-0045.jp2" xml:id="E000018" globalID="http://hdl.handle.net/10111/EmblemRegistry:E000018">
+    <motto>
+      <transcription xml:lang="de">Sie lautet nicht/ dann gantz gestim[m]t.<normalisation xml:lang="de">Sie lautet nicht, es sei denn ganz gestimmt.</normalisation></transcription>
+      <transcription xml:lang="la">Nervus nec dissonet unus.</transcription>
+    </motto>
+    <pictura xlink:href="http://emblemimages.library.illinois.edu:8080/cantaloupe-4.1.4/iiif/2/meditationesembl00voge%2Fpreservation%2Fmeditationesembl00voge_0044-0045.jp2/2784,760,1208,1424/full/0/default.jpg" xml:id="E000018_P1">
+      <iconclass rdf:about="http://www.iconclass.org/rkd/25I2">
+        <skos:notation>25I2</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/48C7322">
+        <skos:notation>48C7322</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/51D2(+4)">
+        <skos:notation>51D2(+4)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/86(SIE LAUTET NICHT, ES SEI DENN GANZ GESTIMMT)">
+        <skos:notation>86(SIE LAUTET NICHT, ES SEI DENN GANZ GESTIMMT)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/86(NERVUS NEC DISSONET UNUS)">
+        <skos:notation>86(NERVUS NEC DISSONET UNUS)</skos:notation>
+      </iconclass>
+    </pictura>
+  </emblem>
+  <emblem xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:spine="http://diglib.hab.de/rules/schema/emblem" citeNo="XIX." xlink:href="http://emblemimages.library.illinois.edu/meditationesembl00voge/preservation/meditationesembl00voge_0046-0047.jp2" xml:id="E000019" globalID="http://hdl.handle.net/10111/EmblemRegistry:E000019">
+    <motto>
+      <transcription xml:lang="de">Gemachsam wachsen ist auch sch&#246;n.<normalisation xml:lang="de">Gem&#228;chlich wachsen ist auch sch&#246;n.</normalisation></transcription>
+      <transcription xml:lang="la">Sensim succrescere pulcrum est.</transcription>
+    </motto>
+    <pictura xlink:href="http://emblemimages.library.illinois.edu:8080/cantaloupe-4.1.4/iiif/2/meditationesembl00voge%2Fpreservation%2Fmeditationesembl00voge_0046-0047.jp2/2824,768,1216,1464/full/0/default.jpg" xml:id="E000019_P1">
+      <!-- two notations -->
+      <iconclass rdf:about="http://www.iconclass.org/rkd/25G41">
+        <skos:notation>25G41</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/41A6811">
+        <skos:notation>41A6811</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/41A773">
+        <skos:notation>41A773</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/41C122">
+        <skos:notation>41C122</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/51MM11(+4):51H5(+4)">
+        <skos:notation>51MM11(+4):51H5(+4)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/86(GEM&#196;CHLICH WACHSEN IST AUCH SCH&#214;N)">
+        <skos:notation>86(GEM&#196;CHLICH WACHSEN IST AUCH SCH&#214;N)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/86(SENSIM SUCCRESCERE PULCRUM EST)">
+        <skos:notation>86(SENSIM SUCCRESCERE PULCRUM EST)</skos:notation>
+      </iconclass>
+    </pictura>
+  </emblem>
+  <emblem xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:spine="http://diglib.hab.de/rules/schema/emblem" citeNo="XXI." xlink:href="http://emblemimages.library.illinois.edu/meditationesembl00voge/preservation/meditationesembl00voge_0048-0049.jp2" xml:id="E000020" globalID="http://hdl.handle.net/10111/EmblemRegistry:E000020">
+    <motto>
+      <transcription xml:lang="de">Die Sch&#228;rpffe r&#252;hrt die Funcken auff.<normalisation xml:lang="de">Die Sch&#228;rfe r&#252;hrt die Funken auf.</normalisation></transcription>
+      <transcription xml:lang="la">Scintillas prolicit ignis.</transcription>
+    </motto>
+    <pictura xlink:href="http://emblemimages.library.illinois.edu:8080/cantaloupe-4.1.4/iiif/2/meditationesembl00voge%2Fpreservation%2Fmeditationesembl00voge_0048-0049.jp2/2824,800,1184,1424/full/0/default.jpg" xml:id="E000020_P1">
+      <iconclass rdf:about="http://www.iconclass.org/rkd/41B133">
+        <skos:notation>41B133</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/41B122">
+        <skos:notation>41B122</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/41D221(HAT)">
+        <skos:notation>41D221(HAT)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/45B">
+        <skos:notation>45B</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/54AA46(+4)">
+        <skos:notation>54AA46(+4)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/86(DIE SCH&#196;RFE R&#220;HRT DIE FUNKEN AUF)">
+        <skos:notation>86(DIE SCH&#196;RFE R&#220;HRT DIE FUNKEN AUF)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/86(SCINTILLAS PROLICIT IGNIS)">
+        <skos:notation>86(SCINTILLAS PROLICIT IGNIS)</skos:notation>
+      </iconclass>
+    </pictura>
+  </emblem>
+  <emblem xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:spine="http://diglib.hab.de/rules/schema/emblem" citeNo="XXI." xlink:href="http://emblemimages.library.illinois.edu/meditationesembl00voge/preservation/meditationesembl00voge_0050-0051.jp2" xml:id="E000021" globalID="http://hdl.handle.net/10111/EmblemRegistry:E000021">
+    <motto>
+      <transcription xml:lang="de">Von Himmel ab entsteht der Glantz.<normalisation xml:lang="de">Vom Himmel ab entsteht der Glanz.</normalisation></transcription>
+      <transcription xml:lang="la">Accensum coelitus ardet.</transcription>
+    </motto>
+    <pictura xlink:href="http://emblemimages.library.illinois.edu:8080/cantaloupe-4.1.4/iiif/2/meditationesembl00voge%2Fpreservation%2Fmeditationesembl00voge_0050-0051.jp2/2776,720,1192,1448/full/0/default.jpg" xml:id="E000021_P1">
+      <!-- another example the term not incouded in the url... -->
+      <iconclass rdf:about="http://www.iconclass.org/rkd/11P321">
+        <skos:notation>11P321</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/11Q712">
+        <skos:notation>11Q712</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/22C3">
+        <skos:notation>22C3</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/41B31(+1)">
+        <skos:notation>41B31(+1)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/73D78">
+        <skos:notation>73D78</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/86(VOM HIMMEL AB ENTSTEHT DER GLANZ)">
+        <skos:notation>86(VOM HIMMEL AB ENTSTEHT DER GLANZ)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/86(ACCENSUM COELITUS ARDET)">
+        <skos:notation>86(ACCENSUM COELITUS ARDET)</skos:notation>
+      </iconclass>
+    </pictura>
+  </emblem>
+  <emblem xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:spine="http://diglib.hab.de/rules/schema/emblem" citeNo="XXII." xlink:href="http://emblemimages.library.illinois.edu/meditationesembl00voge/preservation/meditationesembl00voge_0052-0053.jp2" xml:id="E000022" globalID="http://hdl.handle.net/10111/EmblemRegistry:E000022">
+    <motto>
+      <transcription xml:lang="de">Der Friedens Schall ist m&#228;chtig s&#252;&#223;.<normalisation xml:lang="de">Der Friedensschall ist m&#228;chtig s&#252;&#223;.</normalisation></transcription>
+      <transcription xml:lang="la">Quam dulcis buccina pacis.</transcription>
+    </motto>
+    <pictura xlink:href="http://emblemimages.library.illinois.edu:8080/cantaloupe-4.1.4/iiif/2/meditationesembl00voge%2Fpreservation%2Fmeditationesembl00voge_0052-0053.jp2/2728,776,1208,1400/full/0/default.jpg" xml:id="E000022_P1">
+      <iconclass rdf:about="http://www.iconclass.org/rkd/25H113">
+        <skos:notation>25H113</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/44G211">
+        <skos:notation>44G211</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/48C7352">
+        <skos:notation>48C7352</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/86(DER FRIEDENSSCHALL IST M&#196;CHTIG S&#220;SS)">
+        <skos:notation>86(DER FRIEDENSSCHALL IST M&#196;CHTIG S&#220;SS)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/86(QUAM DULCIS BUCCINA PACIS)">
+        <skos:notation>86(QUAM DULCIS BUCCINA PACIS)</skos:notation>
+      </iconclass>
+    </pictura>
+  </emblem>
+  <emblem xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:spine="http://diglib.hab.de/rules/schema/emblem" citeNo="XXIII." xlink:href="http://emblemimages.library.illinois.edu/meditationesembl00voge/preservation/meditationesembl00voge_0054-0055.jp2" xml:id="E000023" globalID="http://hdl.handle.net/10111/EmblemRegistry:E000023">
+    <motto>
+      <transcription xml:lang="de">Die Fluthen stillen ist das best.<normalisation xml:lang="de">Die Fluten zu stillen ist das Beste.</normalisation></transcription>
+      <transcription xml:lang="la">Praestat componere motus.</transcription>
+    </motto>
+    <pictura xlink:href="http://emblemimages.library.illinois.edu:8080/cantaloupe-4.1.4/iiif/2/meditationesembl00voge%2Fpreservation%2Fmeditationesembl00voge_0054-0055.jp2/2832,704,1152,1432/full/0/default.jpg" xml:id="E000023_P1">
+      <iconclass rdf:about="http://www.iconclass.org/rkd/25H13">
+        <skos:notation>25H13</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/26C32">
+        <skos:notation>26C32</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/54A46">
+        <skos:notation>54A46</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/92H18(TRIDENT)">
+        <skos:notation>92H18(TRIDENT)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/92H1411">
+        <skos:notation>92H1411</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/86(DIE FLUTEN ZU STILLEN IST DAS BESTE)">
+        <skos:notation>86(DIE FLUTEN ZU STILLEN IST DAS BESTE)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/86(PRAESTAT COMPONERE MOTUS)">
+        <skos:notation>86(PRAESTAT COMPONERE MOTUS)</skos:notation>
+      </iconclass>
+    </pictura>
+  </emblem>
+  <emblem xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:spine="http://diglib.hab.de/rules/schema/emblem" citeNo="XXIV." xlink:href="http://emblemimages.library.illinois.edu/meditationesembl00voge/preservation/meditationesembl00voge_0056-0057.jp2" xml:id="E000024" globalID="http://hdl.handle.net/10111/EmblemRegistry:E000024">
+    <motto>
+      <transcription xml:lang="de">Den Armen schafft man billich Rath.<normalisation xml:lang="de">Den Armen schafft man billig Rat.</normalisation></transcription>
+      <transcription xml:lang="la">Miseris succurrere fas est.</transcription>
+    </motto>
+    <pictura xlink:href="http://emblemimages.library.illinois.edu:8080/cantaloupe-4.1.4/iiif/2/meditationesembl00voge%2Fpreservation%2Fmeditationesembl00voge_0056-0057.jp2/3032,680,1136,1464/full/0/default.jpg" xml:id="E000024_P1">
+      <iconclass rdf:about="http://www.iconclass.org/rkd/24A6">
+        <skos:notation>24A6</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/25G3(OLIVE-TREE)(+22)">
+        <skos:notation>25G3(OLIVE-TREE)(+22)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/25F33(EAGLE)(+5245)">
+        <skos:notation>25F33(EAGLE)(+5245)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/25F33(EAGLE)(+531)">
+        <skos:notation>25F33(EAGLE)(+531)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/25H131">
+        <skos:notation>25H131</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/86(DEN ARMEN SCHAFFT MAN BILLIG RAT)">
+        <skos:notation>86(DEN ARMEN SCHAFFT MAN BILLIG RAT)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/86(MISERIS SUCCURRERE FAS EST)">
+        <skos:notation>86(MISERIS SUCCURRERE FAS EST)</skos:notation>
+      </iconclass>
+    </pictura>
+  </emblem>
+</biblioDesc>

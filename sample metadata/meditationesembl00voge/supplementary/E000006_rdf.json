@@ -1,0 +1,42 @@
+
+      {
+   "@context": ["http://schema.org",
+    {"associatedMedia": {
+      "@id": "http://schema.org/associatedMedia",
+      "@container": "@list"
+    }    }
+  ],
+   "@id": "http://emblematica.library.illinois.edu/detail/emblem/E000006",
+   "sameAs": ["http://hdl.handle.net/10111/EmblemRegistry:E000006"],
+   "@type": "CreativeWork",
+   "name": [
+{"@language" : "http://id.loc.gov/vocabulary/iso639-1/de",
+"@value" : "Der Baum fällt nicht von einem Streich."},
+{"@language" : "http://id.loc.gov/vocabulary/iso639-1/de",
+"@value" : "Der Baum fällt nicht von einem Streich."},
+{"@language" : "http://id.loc.gov/vocabulary/iso639-1/la",
+"@value" : "Haud ictu concidit uno."}
+],
+    "thumbnailUrl": "http://emblemimages.library.illinois.edu/meditationesembl00voge/_access/emblem/E000006.jpg",
+    "isPartOf": "http://emblematica.library.illinois.edu/detail/book/meditationesembl00voge",
+   "dateCreated": "1649",
+   "genre": "http://vocab.getty.edu/page/aat/300123040",
+   "about": [
+"http://iconclass.org/25G21(ACORN)"
+              ,"http://iconclass.org/25G3(OAK)(+21)"
+              ,"http://iconclass.org/47D8(AXE)"
+              ,"http://iconclass.org/47I84"
+              ,"http://iconclass.org/53A2(+4)"
+              ,"http://iconclass.org/86(DER BAUM FÄLLT NICHT VON EINEM STREICH)"
+              ,"http://iconclass.org/86(HAUD ICTU CONCIDIT UNO)"
+              ],
+          "associatedMedia": [
+    "http://emblemimages.library.illinois.edu/meditationesembl00voge/preservation/meditationesembl00voge_0020-0021.jp2"
+    , "http://emblemimages.library.illinois.edu/meditationesembl00voge/preservation/meditationesembl00voge_0020.jp2"
+      , "http://emblemimages.library.illinois.edu/meditationesembl00voge/preservation/meditationesembl00voge_0021.jp2"
+       ], "hasPart": {
+                  "@type": "VisualArtwork",
+                  "artform": "emblem pictura",
+                  "thumbnailUrl": "http://emblemimages.library.illinois.edu/meditationesembl00voge/_access/pictura/E000006.jpg",
+                  "associatedMedia": [ "http://emblemimages.library.illinois.edu:8080/cantaloupe-4.1.4/iiif/2/meditationesembl00voge%2Fpreservation%2Fmeditationesembl00voge_0020-0021.jp2/2776,712,1248,1456/full/0/default.jpg"]             
+      } } 

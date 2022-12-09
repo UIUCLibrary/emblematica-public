@@ -1,0 +1,41 @@
+
+      {
+   "@context": ["http://schema.org",
+    {"associatedMedia": {
+      "@id": "http://schema.org/associatedMedia",
+      "@container": "@list"
+    }    }
+  ],
+   "@id": "http://emblematica.library.illinois.edu/detail/emblem/E000001",
+   "sameAs": ["http://hdl.handle.net/10111/EmblemRegistry:E000001"],
+   "@type": "CreativeWork",
+   "name": [
+{"@language" : "http://id.loc.gov/vocabulary/iso639-1/de",
+"@value" : "Hie sol nun seyn deß Krieges Ziel."},
+{"@language" : "http://id.loc.gov/vocabulary/iso639-1/de",
+"@value" : "Hier soll nun des Krieges Ziel sein."},
+{"@language" : "http://id.loc.gov/vocabulary/iso639-1/la",
+"@value" : "Hic belli terminus esto."}
+],
+    "thumbnailUrl": "http://emblemimages.library.illinois.edu/meditationesembl00voge/_access/emblem/E000001.jpg",
+    "isPartOf": "http://emblematica.library.illinois.edu/detail/book/meditationesembl00voge",
+   "dateCreated": "1649",
+   "genre": "http://vocab.getty.edu/page/aat/300123040",
+   "about": [
+"http://iconclass.org/22C11"
+              ,"http://iconclass.org/25H1124"
+              ,"http://iconclass.org/43A(+12):25G3(OLIVE-TREE)(+27)"
+              ,"http://iconclass.org/86(HIC BELLI TERMINUS ESTO)"
+              ,"http://iconclass.org/86(HIER SOLL NUN DES KRIEGES ZIEL SEIN)"
+              ,"http://iconclass.org/96A16"
+              ],
+          "associatedMedia": [
+    "http://emblemimages.library.illinois.edu/meditationesembl00voge/preservation/meditationesembl00voge_0010-0011.jp2"
+    , "http://emblemimages.library.illinois.edu/meditationesembl00voge/preservation/meditationesembl00voge_0010.jp2"
+      , "http://emblemimages.library.illinois.edu/meditationesembl00voge/preservation/meditationesembl00voge_0011.jp2"
+       ], "hasPart": {
+                  "@type": "VisualArtwork",
+                  "artform": "emblem pictura",
+                  "thumbnailUrl": "http://emblemimages.library.illinois.edu/meditationesembl00voge/_access/pictura/E000001.jpg",
+                  "associatedMedia": [ "http://emblemimages.library.illinois.edu:8080/cantaloupe-4.1.4/iiif/2/meditationesembl00voge%2Fpreservation%2Fmeditationesembl00voge_0010-0011.jp2/2864,800,1144,1392/full/0/default.jpg"]             
+      } } 

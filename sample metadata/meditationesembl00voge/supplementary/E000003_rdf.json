@@ -1,0 +1,41 @@
+
+      {
+   "@context": ["http://schema.org",
+    {"associatedMedia": {
+      "@id": "http://schema.org/associatedMedia",
+      "@container": "@list"
+    }    }
+  ],
+   "@id": "http://emblematica.library.illinois.edu/detail/emblem/E000003",
+   "sameAs": ["http://hdl.handle.net/10111/EmblemRegistry:E000003"],
+   "@type": "CreativeWork",
+   "name": [
+{"@language" : "http://id.loc.gov/vocabulary/iso639-1/de",
+"@value" : "Man preßt das Oel im End herauß."},
+{"@language" : "http://id.loc.gov/vocabulary/iso639-1/de",
+"@value" : "Man presst das Öl am Ende heraus."},
+{"@language" : "http://id.loc.gov/vocabulary/iso639-1/la",
+"@value" : "Tandem exurgetur olivum."}
+],
+    "thumbnailUrl": "http://emblemimages.library.illinois.edu/meditationesembl00voge/_access/emblem/E000003.jpg",
+    "isPartOf": "http://emblematica.library.illinois.edu/detail/book/meditationesembl00voge",
+   "dateCreated": "1649",
+   "genre": "http://vocab.getty.edu/page/aat/300123040",
+   "about": [
+"http://iconclass.org/41C671"
+              ,"http://iconclass.org/47D7(MILL-STONE)"
+              ,"http://iconclass.org/47D8(PRESS)(+461):25G21(OLIVE)"
+              ,"http://iconclass.org/54A11(+4)"
+              ,"http://iconclass.org/86(MAN PRESST DAS ÖL AM ENDE)"
+              ,"http://iconclass.org/86(TANDEM EXURGETUR OLIVUM)"
+              ],
+          "associatedMedia": [
+    "http://emblemimages.library.illinois.edu/meditationesembl00voge/preservation/meditationesembl00voge_0014-0015.jp2"
+    , "http://emblemimages.library.illinois.edu/meditationesembl00voge/preservation/meditationesembl00voge_0014.jp2"
+      , "http://emblemimages.library.illinois.edu/meditationesembl00voge/preservation/meditationesembl00voge_0015.jp2"
+       ], "hasPart": {
+                  "@type": "VisualArtwork",
+                  "artform": "emblem pictura",
+                  "thumbnailUrl": "http://emblemimages.library.illinois.edu/meditationesembl00voge/_access/pictura/E000003.jpg",
+                  "associatedMedia": [ "http://emblemimages.library.illinois.edu:8080/cantaloupe-4.1.4/iiif/2/meditationesembl00voge%2Fpreservation%2Fmeditationesembl00voge_0014-0015.jp2/2776,728,1224,1456/full/0/default.jpg"]             
+      } } 

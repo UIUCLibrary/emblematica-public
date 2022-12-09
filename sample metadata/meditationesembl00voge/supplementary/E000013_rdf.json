@@ -1,0 +1,44 @@
+
+      {
+   "@context": ["http://schema.org",
+    {"associatedMedia": {
+      "@id": "http://schema.org/associatedMedia",
+      "@container": "@list"
+    }    }
+  ],
+   "@id": "http://emblematica.library.illinois.edu/detail/emblem/E000013",
+   "sameAs": ["http://hdl.handle.net/10111/EmblemRegistry:E000013"],
+   "@type": "CreativeWork",
+   "name": [
+{"@language" : "http://id.loc.gov/vocabulary/iso639-1/de",
+"@value" : "Es geht nichts recht an vor der Zeit."},
+{"@language" : "http://id.loc.gov/vocabulary/iso639-1/de",
+"@value" : "Es geht nichts recht an vor der Zeit."},
+{"@language" : "http://id.loc.gov/vocabulary/iso639-1/la",
+"@value" : "Nil fit sine tempore justo."}
+],
+    "thumbnailUrl": "http://emblemimages.library.illinois.edu/meditationesembl00voge/_access/emblem/E000013.jpg",
+    "isPartOf": "http://emblematica.library.illinois.edu/detail/book/meditationesembl00voge",
+   "dateCreated": "1649",
+   "genre": "http://vocab.getty.edu/page/aat/300123040",
+   "about": [
+"http://iconclass.org/11H(THOMAS AQUINAS)4(+0)"
+              ,"http://iconclass.org/31A5351"
+              ,"http://iconclass.org/47C31(+412)"
+              ,"http://iconclass.org/47D8(ANVIL)(+69)"
+              ,"http://iconclass.org/47D8(GRINDSTONE)"
+              ,"http://iconclass.org/47D8(KNIFE)"
+              ,"http://iconclass.org/86(ES GEHT NICHTS RECHT AN VOR DER ZEIT)"
+              ,"http://iconclass.org/86(NIL FIT SINE TEMPORE JUSTO)"
+              ,"http://iconclass.org/98B(NAVIUS)51"
+              ],
+          "associatedMedia": [
+    "http://emblemimages.library.illinois.edu/meditationesembl00voge/preservation/meditationesembl00voge_0034-0035.jp2"
+    , "http://emblemimages.library.illinois.edu/meditationesembl00voge/preservation/meditationesembl00voge_0034.jp2"
+      , "http://emblemimages.library.illinois.edu/meditationesembl00voge/preservation/meditationesembl00voge_0035.jp2"
+       ], "hasPart": {
+                  "@type": "VisualArtwork",
+                  "artform": "emblem pictura",
+                  "thumbnailUrl": "http://emblemimages.library.illinois.edu/meditationesembl00voge/_access/pictura/E000013.jpg",
+                  "associatedMedia": [ "http://emblemimages.library.illinois.edu:8080/cantaloupe-4.1.4/iiif/2/meditationesembl00voge%2Fpreservation%2Fmeditationesembl00voge_0034-0035.jp2/2768,736,1208,1440/full/0/default.jpg"]             
+      } } 

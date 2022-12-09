@@ -1,0 +1,42 @@
+
+      {
+   "@context": ["http://schema.org",
+    {"associatedMedia": {
+      "@id": "http://schema.org/associatedMedia",
+      "@container": "@list"
+    }    }
+  ],
+   "@id": "http://emblematica.library.illinois.edu/detail/emblem/E000015",
+   "sameAs": ["http://hdl.handle.net/10111/EmblemRegistry:E000015"],
+   "@type": "CreativeWork",
+   "name": [
+{"@language" : "http://id.loc.gov/vocabulary/iso639-1/de",
+"@value" : "So richte ich meine Federn recht."},
+{"@language" : "http://id.loc.gov/vocabulary/iso639-1/de",
+"@value" : "So richte ich meine Federn recht."},
+{"@language" : "http://id.loc.gov/vocabulary/iso639-1/la",
+"@value" : "Ad Solem corrigo pennas."}
+],
+    "thumbnailUrl": "http://emblemimages.library.illinois.edu/meditationesembl00voge/_access/emblem/E000015.jpg",
+    "isPartOf": "http://emblematica.library.illinois.edu/detail/book/meditationesembl00voge",
+   "dateCreated": "1649",
+   "genre": "http://vocab.getty.edu/page/aat/300123040",
+   "about": [
+"http://iconclass.org/24A6"
+              ,"http://iconclass.org/25F33(SPARROW-HAWK)(+352)"
+              ,"http://iconclass.org/25F33(SPARROW-HAWK)(+483)"
+              ,"http://iconclass.org/31D60"
+              ,"http://iconclass.org/54F131(+4)"
+              ,"http://iconclass.org/86(SO RICHTE ICH MEINE FEDERN RECHT)"
+              ,"http://iconclass.org/86(AD SOLEM CORRIGO PENNAS)"
+              ],
+          "associatedMedia": [
+    "http://emblemimages.library.illinois.edu/meditationesembl00voge/preservation/meditationesembl00voge_0038-0039.jp2"
+    , "http://emblemimages.library.illinois.edu/meditationesembl00voge/preservation/meditationesembl00voge_0038.jp2"
+      , "http://emblemimages.library.illinois.edu/meditationesembl00voge/preservation/meditationesembl00voge_0039.jp2"
+       ], "hasPart": {
+                  "@type": "VisualArtwork",
+                  "artform": "emblem pictura",
+                  "thumbnailUrl": "http://emblemimages.library.illinois.edu/meditationesembl00voge/_access/pictura/E000015.jpg",
+                  "associatedMedia": [ "http://emblemimages.library.illinois.edu:8080/cantaloupe-4.1.4/iiif/2/meditationesembl00voge%2Fpreservation%2Fmeditationesembl00voge_0038-0039.jp2/2768,752,1168,1464/full/0/default.jpg"]             
+      } } 

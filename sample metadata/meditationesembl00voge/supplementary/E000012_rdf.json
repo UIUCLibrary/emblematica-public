@@ -1,0 +1,43 @@
+
+      {
+   "@context": ["http://schema.org",
+    {"associatedMedia": {
+      "@id": "http://schema.org/associatedMedia",
+      "@container": "@list"
+    }    }
+  ],
+   "@id": "http://emblematica.library.illinois.edu/detail/emblem/E000012",
+   "sameAs": ["http://hdl.handle.net/10111/EmblemRegistry:E000012"],
+   "@type": "CreativeWork",
+   "name": [
+{"@language" : "http://id.loc.gov/vocabulary/iso639-1/de",
+"@value" : "Für solche grosse Gaabe danck."},
+{"@language" : "http://id.loc.gov/vocabulary/iso639-1/de",
+"@value" : "Für solch große Gabe Dank."},
+{"@language" : "http://id.loc.gov/vocabulary/iso639-1/la",
+"@value" : "Tanto pro munere grates."}
+],
+    "thumbnailUrl": "http://emblemimages.library.illinois.edu/meditationesembl00voge/_access/emblem/E000012.jpg",
+    "isPartOf": "http://emblematica.library.illinois.edu/detail/book/meditationesembl00voge",
+   "dateCreated": "1649",
+   "genre": "http://vocab.getty.edu/page/aat/300123040",
+   "about": [
+"http://iconclass.org/11Q7131(APSE)"
+              ,"http://iconclass.org/11Q7141"
+              ,"http://iconclass.org/11Q71421"
+              ,"http://iconclass.org/31A22210:41B121"
+              ,"http://iconclass.org/31A25111"
+              ,"http://iconclass.org/57A8(+4)"
+              ,"http://iconclass.org/86(FÜR SOLCH GROSSE GABE DANK)"
+              ,"http://iconclass.org/86(TANTO PRO MUNERE GRATES)"
+              ],
+          "associatedMedia": [
+    "http://emblemimages.library.illinois.edu/meditationesembl00voge/preservation/meditationesembl00voge_0032-0033.jp2"
+    , "http://emblemimages.library.illinois.edu/meditationesembl00voge/preservation/meditationesembl00voge_0032.jp2"
+      , "http://emblemimages.library.illinois.edu/meditationesembl00voge/preservation/meditationesembl00voge_0033.jp2"
+       ], "hasPart": {
+                  "@type": "VisualArtwork",
+                  "artform": "emblem pictura",
+                  "thumbnailUrl": "http://emblemimages.library.illinois.edu/meditationesembl00voge/_access/pictura/E000012.jpg",
+                  "associatedMedia": [ "http://emblemimages.library.illinois.edu:8080/cantaloupe-4.1.4/iiif/2/meditationesembl00voge%2Fpreservation%2Fmeditationesembl00voge_0032-0033.jp2/2768,728,1216,1480/full/0/default.jpg"]             
+      } } 

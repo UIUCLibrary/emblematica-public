@@ -1,0 +1,40 @@
+
+      {
+   "@context": ["http://schema.org",
+    {"associatedMedia": {
+      "@id": "http://schema.org/associatedMedia",
+      "@container": "@list"
+    }    }
+  ],
+   "@id": "http://emblematica.library.illinois.edu/detail/emblem/E000016",
+   "sameAs": ["http://hdl.handle.net/10111/EmblemRegistry:E000016"],
+   "@type": "CreativeWork",
+   "name": [
+{"@language" : "http://id.loc.gov/vocabulary/iso639-1/de",
+"@value" : "Wer mich nit dringt/ den treff ich nicht."},
+{"@language" : "http://id.loc.gov/vocabulary/iso639-1/de",
+"@value" : "Wer mich nicht drängt, den treffe ich nicht."},
+{"@language" : "http://id.loc.gov/vocabulary/iso639-1/la",
+"@value" : "Non laesa nec armor in hostem."}
+],
+    "thumbnailUrl": "http://emblemimages.library.illinois.edu/meditationesembl00voge/_access/emblem/E000016.jpg",
+    "isPartOf": "http://emblematica.library.illinois.edu/detail/book/meditationesembl00voge",
+   "dateCreated": "1649",
+   "genre": "http://vocab.getty.edu/page/aat/300123040",
+   "about": [
+"http://iconclass.org/25F29(PORCUPINE)(+483)"
+              ,"http://iconclass.org/25H1123"
+              ,"http://iconclass.org/45I"
+              ,"http://iconclass.org/86(WER MICH NICHT DRÄNGT, DEN TREFFE ICH NICHT)"
+              ,"http://iconclass.org/86(NON LAESA NEC ARMOR IN HOSTEM)"
+              ],
+          "associatedMedia": [
+    "http://emblemimages.library.illinois.edu/meditationesembl00voge/preservation/meditationesembl00voge_0040-0041.jp2"
+    , "http://emblemimages.library.illinois.edu/meditationesembl00voge/preservation/meditationesembl00voge_0040.jp2"
+      , "http://emblemimages.library.illinois.edu/meditationesembl00voge/preservation/meditationesembl00voge_0041.jp2"
+       ], "hasPart": {
+                  "@type": "VisualArtwork",
+                  "artform": "emblem pictura",
+                  "thumbnailUrl": "http://emblemimages.library.illinois.edu/meditationesembl00voge/_access/pictura/E000016.jpg",
+                  "associatedMedia": [ "http://emblemimages.library.illinois.edu:8080/cantaloupe-4.1.4/iiif/2/meditationesembl00voge%2Fpreservation%2Fmeditationesembl00voge_0040-0041.jp2/2776,712,1216,1448/full/0/default.jpg"]             
+      } } 

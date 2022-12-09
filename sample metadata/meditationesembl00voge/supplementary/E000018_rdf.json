@@ -1,0 +1,40 @@
+
+      {
+   "@context": ["http://schema.org",
+    {"associatedMedia": {
+      "@id": "http://schema.org/associatedMedia",
+      "@container": "@list"
+    }    }
+  ],
+   "@id": "http://emblematica.library.illinois.edu/detail/emblem/E000018",
+   "sameAs": ["http://hdl.handle.net/10111/EmblemRegistry:E000018"],
+   "@type": "CreativeWork",
+   "name": [
+{"@language" : "http://id.loc.gov/vocabulary/iso639-1/de",
+"@value" : "Sie lautet nicht/ dann gantz gestim[m]t."},
+{"@language" : "http://id.loc.gov/vocabulary/iso639-1/de",
+"@value" : "Sie lautet nicht, es sei denn ganz gestimmt."},
+{"@language" : "http://id.loc.gov/vocabulary/iso639-1/la",
+"@value" : "Nervus nec dissonet unus."}
+],
+    "thumbnailUrl": "http://emblemimages.library.illinois.edu/meditationesembl00voge/_access/emblem/E000018.jpg",
+    "isPartOf": "http://emblematica.library.illinois.edu/detail/book/meditationesembl00voge",
+   "dateCreated": "1649",
+   "genre": "http://vocab.getty.edu/page/aat/300123040",
+   "about": [
+"http://iconclass.org/25I2"
+              ,"http://iconclass.org/48C7322"
+              ,"http://iconclass.org/51D2(+4)"
+              ,"http://iconclass.org/86(SIE LAUTET NICHT, ES SEI DENN GANZ GESTIMMT)"
+              ,"http://iconclass.org/86(NERVUS NEC DISSONET UNUS)"
+              ],
+          "associatedMedia": [
+    "http://emblemimages.library.illinois.edu/meditationesembl00voge/preservation/meditationesembl00voge_0044-0045.jp2"
+    , "http://emblemimages.library.illinois.edu/meditationesembl00voge/preservation/meditationesembl00voge_0044.jp2"
+      , "http://emblemimages.library.illinois.edu/meditationesembl00voge/preservation/meditationesembl00voge_0045.jp2"
+       ], "hasPart": {
+                  "@type": "VisualArtwork",
+                  "artform": "emblem pictura",
+                  "thumbnailUrl": "http://emblemimages.library.illinois.edu/meditationesembl00voge/_access/pictura/E000018.jpg",
+                  "associatedMedia": [ "http://emblemimages.library.illinois.edu:8080/cantaloupe-4.1.4/iiif/2/meditationesembl00voge%2Fpreservation%2Fmeditationesembl00voge_0044-0045.jp2/2784,760,1208,1424/full/0/default.jpg"]             
+      } } 

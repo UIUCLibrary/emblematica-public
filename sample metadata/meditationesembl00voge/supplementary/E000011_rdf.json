@@ -1,0 +1,40 @@
+
+      {
+   "@context": ["http://schema.org",
+    {"associatedMedia": {
+      "@id": "http://schema.org/associatedMedia",
+      "@container": "@list"
+    }    }
+  ],
+   "@id": "http://emblematica.library.illinois.edu/detail/emblem/E000011",
+   "sameAs": ["http://hdl.handle.net/10111/EmblemRegistry:E000011"],
+   "@type": "CreativeWork",
+   "name": [
+{"@language" : "http://id.loc.gov/vocabulary/iso639-1/de",
+"@value" : "Ach wie gefährlich ist die Sach!"},
+{"@language" : "http://id.loc.gov/vocabulary/iso639-1/de",
+"@value" : "Ach wie gefährlich ist die Sache!"},
+{"@language" : "http://id.loc.gov/vocabulary/iso639-1/la",
+"@value" : "Quanti res ista pericli est!"}
+],
+    "thumbnailUrl": "http://emblemimages.library.illinois.edu/meditationesembl00voge/_access/emblem/E000011.jpg",
+    "isPartOf": "http://emblematica.library.illinois.edu/detail/book/meditationesembl00voge",
+   "dateCreated": "1649",
+   "genre": "http://vocab.getty.edu/page/aat/300123040",
+   "about": [
+"http://iconclass.org/25H1123"
+              ,"http://iconclass.org/51MM12(+4):44B421"
+              ,"http://iconclass.org/93E82"
+              ,"http://iconclass.org/86(ACH WIE GEFÄHRLICH IST DIE SACHE!)"
+              ,"http://iconclass.org/86(QUANTI RES ISTA PERICLI EST!)"
+              ],
+          "associatedMedia": [
+    "http://emblemimages.library.illinois.edu/meditationesembl00voge/preservation/meditationesembl00voge_0030-0031.jp2"
+    , "http://emblemimages.library.illinois.edu/meditationesembl00voge/preservation/meditationesembl00voge_0030.jp2"
+      , "http://emblemimages.library.illinois.edu/meditationesembl00voge/preservation/meditationesembl00voge_0031.jp2"
+       ], "hasPart": {
+                  "@type": "VisualArtwork",
+                  "artform": "emblem pictura",
+                  "thumbnailUrl": "http://emblemimages.library.illinois.edu/meditationesembl00voge/_access/pictura/E000011.jpg",
+                  "associatedMedia": [ "http://emblemimages.library.illinois.edu:8080/cantaloupe-4.1.4/iiif/2/meditationesembl00voge%2Fpreservation%2Fmeditationesembl00voge_0030-0031.jp2/2760,752,1216,1448/full/0/default.jpg"]             
+      } } 

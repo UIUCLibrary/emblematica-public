@@ -1,0 +1,38 @@
+
+      {
+   "@context": ["http://schema.org",
+    {"associatedMedia": {
+      "@id": "http://schema.org/associatedMedia",
+      "@container": "@list"
+    }    }
+  ],
+   "@id": "http://emblematica.library.illinois.edu/detail/emblem/E000014",
+   "sameAs": ["http://hdl.handle.net/10111/EmblemRegistry:E000014"],
+   "@type": "CreativeWork",
+   "name": [
+{"@language" : "http://id.loc.gov/vocabulary/iso639-1/de",
+"@value" : "Der Friedens Same fällt herab."},
+{"@language" : "http://id.loc.gov/vocabulary/iso639-1/de",
+"@value" : "Der Friedenssamen fällt herab."},
+{"@language" : "http://id.loc.gov/vocabulary/iso639-1/la",
+"@value" : "Descendunt semina pacis."}
+],
+    "thumbnailUrl": "http://emblemimages.library.illinois.edu/meditationesembl00voge/_access/emblem/E000014.jpg",
+    "isPartOf": "http://emblematica.library.illinois.edu/detail/book/meditationesembl00voge",
+   "dateCreated": "1649",
+   "genre": "http://vocab.getty.edu/page/aat/300123040",
+   "about": [
+"http://iconclass.org/71E1254"
+              ,"http://iconclass.org/86(DER FRIEDENSSAMEN FÄLLT HERAB)"
+              ,"http://iconclass.org/86(DESCENDUNT SEMINA PACIS)"
+              ],
+          "associatedMedia": [
+    "http://emblemimages.library.illinois.edu/meditationesembl00voge/preservation/meditationesembl00voge_0036-0037.jp2"
+    , "http://emblemimages.library.illinois.edu/meditationesembl00voge/preservation/meditationesembl00voge_0036.jp2"
+      , "http://emblemimages.library.illinois.edu/meditationesembl00voge/preservation/meditationesembl00voge_0037.jp2"
+       ], "hasPart": {
+                  "@type": "VisualArtwork",
+                  "artform": "emblem pictura",
+                  "thumbnailUrl": "http://emblemimages.library.illinois.edu/meditationesembl00voge/_access/pictura/E000014.jpg",
+                  "associatedMedia": [ "http://emblemimages.library.illinois.edu:8080/cantaloupe-4.1.4/iiif/2/meditationesembl00voge%2Fpreservation%2Fmeditationesembl00voge_0036-0037.jp2/2752,824,1184,1408/full/0/default.jpg"]             
+      } } 

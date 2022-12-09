@@ -1,0 +1,42 @@
+
+      {
+   "@context": ["http://schema.org",
+    {"associatedMedia": {
+      "@id": "http://schema.org/associatedMedia",
+      "@container": "@list"
+    }    }
+  ],
+   "@id": "http://emblematica.library.illinois.edu/detail/emblem/E000019",
+   "sameAs": ["http://hdl.handle.net/10111/EmblemRegistry:E000019"],
+   "@type": "CreativeWork",
+   "name": [
+{"@language" : "http://id.loc.gov/vocabulary/iso639-1/de",
+"@value" : "Gemachsam wachsen ist auch schön."},
+{"@language" : "http://id.loc.gov/vocabulary/iso639-1/de",
+"@value" : "Gemächlich wachsen ist auch schön."},
+{"@language" : "http://id.loc.gov/vocabulary/iso639-1/la",
+"@value" : "Sensim succrescere pulcrum est."}
+],
+    "thumbnailUrl": "http://emblemimages.library.illinois.edu/meditationesembl00voge/_access/emblem/E000019.jpg",
+    "isPartOf": "http://emblematica.library.illinois.edu/detail/book/meditationesembl00voge",
+   "dateCreated": "1649",
+   "genre": "http://vocab.getty.edu/page/aat/300123040",
+   "about": [
+"http://iconclass.org/25G41"
+              ,"http://iconclass.org/41A6811"
+              ,"http://iconclass.org/41A773"
+              ,"http://iconclass.org/41C122"
+              ,"http://iconclass.org/51MM11(+4):51H5(+4)"
+              ,"http://iconclass.org/86(GEMÄCHLICH WACHSEN IST AUCH SCHÖN)"
+              ,"http://iconclass.org/86(SENSIM SUCCRESCERE PULCRUM EST)"
+              ],
+          "associatedMedia": [
+    "http://emblemimages.library.illinois.edu/meditationesembl00voge/preservation/meditationesembl00voge_0046-0047.jp2"
+    , "http://emblemimages.library.illinois.edu/meditationesembl00voge/preservation/meditationesembl00voge_0046.jp2"
+      , "http://emblemimages.library.illinois.edu/meditationesembl00voge/preservation/meditationesembl00voge_0047.jp2"
+       ], "hasPart": {
+                  "@type": "VisualArtwork",
+                  "artform": "emblem pictura",
+                  "thumbnailUrl": "http://emblemimages.library.illinois.edu/meditationesembl00voge/_access/pictura/E000019.jpg",
+                  "associatedMedia": [ "http://emblemimages.library.illinois.edu:8080/cantaloupe-4.1.4/iiif/2/meditationesembl00voge%2Fpreservation%2Fmeditationesembl00voge_0046-0047.jp2/2824,768,1216,1464/full/0/default.jpg"]             
+      } } 

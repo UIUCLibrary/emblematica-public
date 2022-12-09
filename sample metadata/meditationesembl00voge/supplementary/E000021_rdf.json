@@ -1,0 +1,42 @@
+
+      {
+   "@context": ["http://schema.org",
+    {"associatedMedia": {
+      "@id": "http://schema.org/associatedMedia",
+      "@container": "@list"
+    }    }
+  ],
+   "@id": "http://emblematica.library.illinois.edu/detail/emblem/E000021",
+   "sameAs": ["http://hdl.handle.net/10111/EmblemRegistry:E000021"],
+   "@type": "CreativeWork",
+   "name": [
+{"@language" : "http://id.loc.gov/vocabulary/iso639-1/de",
+"@value" : "Von Himmel ab entsteht der Glantz."},
+{"@language" : "http://id.loc.gov/vocabulary/iso639-1/de",
+"@value" : "Vom Himmel ab entsteht der Glanz."},
+{"@language" : "http://id.loc.gov/vocabulary/iso639-1/la",
+"@value" : "Accensum coelitus ardet."}
+],
+    "thumbnailUrl": "http://emblemimages.library.illinois.edu/meditationesembl00voge/_access/emblem/E000021.jpg",
+    "isPartOf": "http://emblematica.library.illinois.edu/detail/book/meditationesembl00voge",
+   "dateCreated": "1649",
+   "genre": "http://vocab.getty.edu/page/aat/300123040",
+   "about": [
+"http://iconclass.org/11P321"
+              ,"http://iconclass.org/11Q712"
+              ,"http://iconclass.org/22C3"
+              ,"http://iconclass.org/41B31(+1)"
+              ,"http://iconclass.org/73D78"
+              ,"http://iconclass.org/86(VOM HIMMEL AB ENTSTEHT DER GLANZ)"
+              ,"http://iconclass.org/86(ACCENSUM COELITUS ARDET)"
+              ],
+          "associatedMedia": [
+    "http://emblemimages.library.illinois.edu/meditationesembl00voge/preservation/meditationesembl00voge_0050-0051.jp2"
+    , "http://emblemimages.library.illinois.edu/meditationesembl00voge/preservation/meditationesembl00voge_0050.jp2"
+      , "http://emblemimages.library.illinois.edu/meditationesembl00voge/preservation/meditationesembl00voge_0051.jp2"
+       ], "hasPart": {
+                  "@type": "VisualArtwork",
+                  "artform": "emblem pictura",
+                  "thumbnailUrl": "http://emblemimages.library.illinois.edu/meditationesembl00voge/_access/pictura/E000021.jpg",
+                  "associatedMedia": [ "http://emblemimages.library.illinois.edu:8080/cantaloupe-4.1.4/iiif/2/meditationesembl00voge%2Fpreservation%2Fmeditationesembl00voge_0050-0051.jp2/2776,720,1192,1448/full/0/default.jpg"]             
+      } } 

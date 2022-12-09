@@ -1,0 +1,78 @@
+
+   {
+    "@context": "http://schema.org",
+    "@type": "Book",
+    "@id": "http://emblematica.library.illinois.edu/detail/book/meditationesembl00voge",
+"sameAs": [
+"https://hdl.handle.net/2027/uiuo.ark:/13960/t4bp0kr75"
+],
+"name": "Meditationes emblematicae de restaurata pace Germaniae =: Sinnebilder von dem widergebrachten Teutschen Frieden",
+"alternateName": [
+"Sinnebilder von dem widergebrachten Teutschen Frieden",
+"Meditationes de restaurata pace",
+"Sinnbilder von dem wiedergebrachten Frieden in Teutschlandt"
+],
+"author": [
+{"@id": "http://viaf.org/viaf/54384883/", 
+"@type": "Person", 
+"name": "Vogel, Johann, 1589-1663"
+}
+],
+"about": [{ "name": "Emblems--Early works to 1800", "url": ["http://id.loc.gov/authorities/subjects/sh2008102967", "http://id.loc.gov/authorities/subjects/sh85042693"]}, { "name": "Emblem books, Latin--Germany--17th century", "url": ["http://id.loc.gov/authorities/subjects/sh2004006698", "http://id.loc.gov/vocabulary/geographicAreas/e-gx"]}, { "name": "Emblem books, German--Germany--17th century", "url": ["http://id.loc.gov/authorities/subjects/sh85042689", "http://id.loc.gov/vocabulary/geographicAreas/e-gx"]}],
+"contributor": [
+{
+
+              "@type": "Role",
+              "additionalType": "http://id.loc.gov/vocabulary/relators",
+              "roleName": "http://id.loc.gov/vocabulary/relators/prt", 
+              "name": "printer.",
+              "contributor": {
+"@id": "http://viaf.org/viaf/74233426", 
+"@type": "Person", 
+"name": "Zunner, Johann David, active approximately 1653-1705"
+}
+}
+],
+"locationCreated": [
+"http://id.loc.gov/vocabulary/countries/gw",
+{ "name": "Francofurti"}
+],
+"dateCreated": "1649",
+"publisher": [
+"Apud Joh. Dav. Zunnerum"
+],
+"inLanguage": ["http://id.loc.gov/vocabulary/iso639-2/lat",
+"http://id.loc.gov/vocabulary/iso639-2/ger"
+],
+"hasPart": ["http://hdl.handle.net/10111/EmblemRegistry:E000001"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E000002"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E000003"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E000004"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E000005"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E000006"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E000007"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E000008"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E000009"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E000010"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E000011"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E000012"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E000013"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E000014"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E000015"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E000016"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E000017"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E000018"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E000019"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E000020"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E000021"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E000022"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E000023"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E000024"
+        ],
+"description": ["[5], XXIV, XXIV, [3] p. : ill. (engravings) ; 22 cm (4to)"
+        ,"Publication date appears as chronogram on title-page."
+        ,"Place of publication and printer from additional engraved title-page: 'Meditationes de restaurata pace = Sinnbilder von dem wiedergebrachten Frieden in Teutschlandt / Johannis Vogelij', with imprint: 'Francofurti : Apud Joh. Dav. Zunnerum.'"
+        ,"Signatures: A-G."
+        ,"'1649' inscribed in ink on title-page."
+        ]
+}

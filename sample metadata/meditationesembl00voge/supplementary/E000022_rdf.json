@@ -1,0 +1,40 @@
+
+      {
+   "@context": ["http://schema.org",
+    {"associatedMedia": {
+      "@id": "http://schema.org/associatedMedia",
+      "@container": "@list"
+    }    }
+  ],
+   "@id": "http://emblematica.library.illinois.edu/detail/emblem/E000022",
+   "sameAs": ["http://hdl.handle.net/10111/EmblemRegistry:E000022"],
+   "@type": "CreativeWork",
+   "name": [
+{"@language" : "http://id.loc.gov/vocabulary/iso639-1/de",
+"@value" : "Der Friedens Schall ist mächtig süß."},
+{"@language" : "http://id.loc.gov/vocabulary/iso639-1/de",
+"@value" : "Der Friedensschall ist mächtig süß."},
+{"@language" : "http://id.loc.gov/vocabulary/iso639-1/la",
+"@value" : "Quam dulcis buccina pacis."}
+],
+    "thumbnailUrl": "http://emblemimages.library.illinois.edu/meditationesembl00voge/_access/emblem/E000022.jpg",
+    "isPartOf": "http://emblematica.library.illinois.edu/detail/book/meditationesembl00voge",
+   "dateCreated": "1649",
+   "genre": "http://vocab.getty.edu/page/aat/300123040",
+   "about": [
+"http://iconclass.org/25H113"
+              ,"http://iconclass.org/44G211"
+              ,"http://iconclass.org/48C7352"
+              ,"http://iconclass.org/86(DER FRIEDENSSCHALL IST MÄCHTIG SÜSS)"
+              ,"http://iconclass.org/86(QUAM DULCIS BUCCINA PACIS)"
+              ],
+          "associatedMedia": [
+    "http://emblemimages.library.illinois.edu/meditationesembl00voge/preservation/meditationesembl00voge_0052-0053.jp2"
+    , "http://emblemimages.library.illinois.edu/meditationesembl00voge/preservation/meditationesembl00voge_0052.jp2"
+      , "http://emblemimages.library.illinois.edu/meditationesembl00voge/preservation/meditationesembl00voge_0053.jp2"
+       ], "hasPart": {
+                  "@type": "VisualArtwork",
+                  "artform": "emblem pictura",
+                  "thumbnailUrl": "http://emblemimages.library.illinois.edu/meditationesembl00voge/_access/pictura/E000022.jpg",
+                  "associatedMedia": [ "http://emblemimages.library.illinois.edu:8080/cantaloupe-4.1.4/iiif/2/meditationesembl00voge%2Fpreservation%2Fmeditationesembl00voge_0052-0053.jp2/2728,776,1208,1400/full/0/default.jpg"]             
+      } } 

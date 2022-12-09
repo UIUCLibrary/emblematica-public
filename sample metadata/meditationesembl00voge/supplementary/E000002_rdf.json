@@ -1,0 +1,40 @@
+
+      {
+   "@context": ["http://schema.org",
+    {"associatedMedia": {
+      "@id": "http://schema.org/associatedMedia",
+      "@container": "@list"
+    }    }
+  ],
+   "@id": "http://emblematica.library.illinois.edu/detail/emblem/E000002",
+   "sameAs": ["http://hdl.handle.net/10111/EmblemRegistry:E000002"],
+   "@type": "CreativeWork",
+   "name": [
+{"@language" : "http://id.loc.gov/vocabulary/iso639-1/de",
+"@value" : "Wie lieblich ist der Friedensbott!"},
+{"@language" : "http://id.loc.gov/vocabulary/iso639-1/de",
+"@value" : "Wie lieblich ist die Friedensbotschaft!"},
+{"@language" : "http://id.loc.gov/vocabulary/iso639-1/la",
+"@value" : "Speciosa en nuncia Pacis!"}
+],
+    "thumbnailUrl": "http://emblemimages.library.illinois.edu/meditationesembl00voge/_access/emblem/E000002.jpg",
+    "isPartOf": "http://emblematica.library.illinois.edu/detail/book/meditationesembl00voge",
+   "dateCreated": "1649",
+   "genre": "http://vocab.getty.edu/page/aat/300123040",
+   "about": [
+"http://iconclass.org/24A81"
+              ,"http://iconclass.org/31A25112(+934)"
+              ,"http://iconclass.org/71B33221"
+              ,"http://iconclass.org/86(SPECIOSA EN NUNCIA PACIS!)"
+              ,"http://iconclass.org/86(WIE LIEBLICH IST DIE FRIEDENSBOTSCHAFT!)"
+              ],
+          "associatedMedia": [
+    "http://emblemimages.library.illinois.edu/meditationesembl00voge/preservation/meditationesembl00voge_0012-0013.jp2"
+    , "http://emblemimages.library.illinois.edu/meditationesembl00voge/preservation/meditationesembl00voge_0012.jp2"
+      , "http://emblemimages.library.illinois.edu/meditationesembl00voge/preservation/meditationesembl00voge_0013.jp2"
+       ], "hasPart": {
+                  "@type": "VisualArtwork",
+                  "artform": "emblem pictura",
+                  "thumbnailUrl": "http://emblemimages.library.illinois.edu/meditationesembl00voge/_access/pictura/E000002.jpg",
+                  "associatedMedia": [ "http://emblemimages.library.illinois.edu:8080/cantaloupe-4.1.4/iiif/2/meditationesembl00voge%2Fpreservation%2Fmeditationesembl00voge_0012-0013.jp2/2760,760,1184,1432/full/0/default.jpg"]             
+      } } 

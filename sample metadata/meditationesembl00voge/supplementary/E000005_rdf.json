@@ -1,0 +1,45 @@
+
+      {
+   "@context": ["http://schema.org",
+    {"associatedMedia": {
+      "@id": "http://schema.org/associatedMedia",
+      "@container": "@list"
+    }    }
+  ],
+   "@id": "http://emblematica.library.illinois.edu/detail/emblem/E000005",
+   "sameAs": ["http://hdl.handle.net/10111/EmblemRegistry:E000005"],
+   "@type": "CreativeWork",
+   "name": [
+{"@language" : "http://id.loc.gov/vocabulary/iso639-1/de",
+"@value" : "Es blüht offt/ was verdorret schien."},
+{"@language" : "http://id.loc.gov/vocabulary/iso639-1/de",
+"@value" : "Es blüht oft, was verdorrt schien."},
+{"@language" : "http://id.loc.gov/vocabulary/iso639-1/la",
+"@value" : "Patriae spes arida floret."}
+],
+    "thumbnailUrl": "http://emblemimages.library.illinois.edu/meditationesembl00voge/_access/emblem/E000005.jpg",
+    "isPartOf": "http://emblematica.library.illinois.edu/detail/book/meditationesembl00voge",
+   "dateCreated": "1649",
+   "genre": "http://vocab.getty.edu/page/aat/300123040",
+   "about": [
+"http://iconclass.org/23D42"
+              ,"http://iconclass.org/25G31(ROSE-BUSH)(+223)"
+              ,"http://iconclass.org/25G31(ROSE-BUSH)(+371)"
+              ,"http://iconclass.org/25G41(ROSE)(+32)"
+              ,"http://iconclass.org/26B"
+              ,"http://iconclass.org/56D1"
+              ,"http://iconclass.org/54F131(+4)"
+              ,"http://iconclass.org/71E318(+0)"
+              ,"http://iconclass.org/86(ES BLÜHT OFT, WAS VERDORRT SCHIEN)"
+              ,"http://iconclass.org/86(PATRIAE SPES ARIDA FLORET)"
+              ],
+          "associatedMedia": [
+    "http://emblemimages.library.illinois.edu/meditationesembl00voge/preservation/meditationesembl00voge_0018-0019.jp2"
+    , "http://emblemimages.library.illinois.edu/meditationesembl00voge/preservation/meditationesembl00voge_0018.jp2"
+      , "http://emblemimages.library.illinois.edu/meditationesembl00voge/preservation/meditationesembl00voge_0019.jp2"
+       ], "hasPart": {
+                  "@type": "VisualArtwork",
+                  "artform": "emblem pictura",
+                  "thumbnailUrl": "http://emblemimages.library.illinois.edu/meditationesembl00voge/_access/pictura/E000005.jpg",
+                  "associatedMedia": [ "http://emblemimages.library.illinois.edu:8080/cantaloupe-4.1.4/iiif/2/meditationesembl00voge%2Fpreservation%2Fmeditationesembl00voge_0018-0019.jp2/2872,704,1216,1424/full/0/default.jpg"]             
+      } } 

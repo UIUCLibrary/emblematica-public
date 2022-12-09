@@ -1,0 +1,45 @@
+
+      {
+   "@context": ["http://schema.org",
+    {"associatedMedia": {
+      "@id": "http://schema.org/associatedMedia",
+      "@container": "@list"
+    }    }
+  ],
+   "@id": "http://emblematica.library.illinois.edu/detail/emblem/E000004",
+   "sameAs": ["http://hdl.handle.net/10111/EmblemRegistry:E000004"],
+   "@type": "CreativeWork",
+   "name": [
+{"@language" : "http://id.loc.gov/vocabulary/iso639-1/de",
+"@value" : "Was du nicht glaubtest/ das geschiht."},
+{"@language" : "http://id.loc.gov/vocabulary/iso639-1/de",
+"@value" : "Was du nicht glaubtest, das geschieht."},
+{"@language" : "http://id.loc.gov/vocabulary/iso639-1/la",
+"@value" : "Fiunt, quae posse negabas."}
+],
+    "thumbnailUrl": "http://emblemimages.library.illinois.edu/meditationesembl00voge/_access/emblem/E000004.jpg",
+    "isPartOf": "http://emblematica.library.illinois.edu/detail/book/meditationesembl00voge",
+   "dateCreated": "1649",
+   "genre": "http://vocab.getty.edu/page/aat/300123040",
+   "about": [
+"http://iconclass.org/24A81"
+              ,"http://iconclass.org/25F24(DROMEDARY)"
+              ,"http://iconclass.org/25G3(PALM-TREE)"
+              ,"http://iconclass.org/25K16"
+              ,"http://iconclass.org/41D4411"
+              ,"http://iconclass.org/52BB31(+4)"
+              ,"http://iconclass.org/73C72422"
+              ,"http://iconclass.org/86(FACILIUS ELEPHAS PER FORAMEN ACUS)"
+              ,"http://iconclass.org/86(FIUNT, QUAE POSSE NEGABAS)"
+              ,"http://iconclass.org/86(WAS DU NICHT GLAUBTEST, DAS GESCHIEHT)"
+              ],
+          "associatedMedia": [
+    "http://emblemimages.library.illinois.edu/meditationesembl00voge/preservation/meditationesembl00voge_0016-0017.jp2"
+    , "http://emblemimages.library.illinois.edu/meditationesembl00voge/preservation/meditationesembl00voge_0016.jp2"
+      , "http://emblemimages.library.illinois.edu/meditationesembl00voge/preservation/meditationesembl00voge_0017.jp2"
+       ], "hasPart": {
+                  "@type": "VisualArtwork",
+                  "artform": "emblem pictura",
+                  "thumbnailUrl": "http://emblemimages.library.illinois.edu/meditationesembl00voge/_access/pictura/E000004.jpg",
+                  "associatedMedia": [ "http://emblemimages.library.illinois.edu:8080/cantaloupe-4.1.4/iiif/2/meditationesembl00voge%2Fpreservation%2Fmeditationesembl00voge_0016-0017.jp2/2836,680,1208,1416/full/0/default.jpg"]             
+      } } 

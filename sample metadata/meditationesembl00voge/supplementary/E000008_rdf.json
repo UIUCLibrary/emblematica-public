@@ -1,0 +1,44 @@
+
+      {
+   "@context": ["http://schema.org",
+    {"associatedMedia": {
+      "@id": "http://schema.org/associatedMedia",
+      "@container": "@list"
+    }    }
+  ],
+   "@id": "http://emblematica.library.illinois.edu/detail/emblem/E000008",
+   "sameAs": ["http://hdl.handle.net/10111/EmblemRegistry:E000008"],
+   "@type": "CreativeWork",
+   "name": [
+{"@language" : "http://id.loc.gov/vocabulary/iso639-1/de",
+"@value" : "Die Krafft deß Himmels kan es thun."},
+{"@language" : "http://id.loc.gov/vocabulary/iso639-1/de",
+"@value" : "Die Kraft des Himmels kann es tun."},
+{"@language" : "http://id.loc.gov/vocabulary/iso639-1/la",
+"@value" : "Maxima vis coeli est."}
+],
+    "thumbnailUrl": "http://emblemimages.library.illinois.edu/meditationesembl00voge/_access/emblem/E000008.jpg",
+    "isPartOf": "http://emblematica.library.illinois.edu/detail/book/meditationesembl00voge",
+   "dateCreated": "1649",
+   "genre": "http://vocab.getty.edu/page/aat/300123040",
+   "about": [
+"http://iconclass.org/11A23"
+              ,"http://iconclass.org/11C12"
+              ,"http://iconclass.org/25I3(+1)"
+              ,"http://iconclass.org/26A"
+              ,"http://iconclass.org/31A2245(+933)"
+              ,"http://iconclass.org/47D8(ANVIL)"
+              ,"http://iconclass.org/47D8(HAMMER)"
+              ,"http://iconclass.org/86(DIE KRAFT DES HIMMELS KANN ES TUN)"
+              ,"http://iconclass.org/86(MAXIMA VIS COELI EST)"
+              ],
+          "associatedMedia": [
+    "http://emblemimages.library.illinois.edu/meditationesembl00voge/preservation/meditationesembl00voge_0024-0025.jp2"
+    , "http://emblemimages.library.illinois.edu/meditationesembl00voge/preservation/meditationesembl00voge_0024.jp2"
+      , "http://emblemimages.library.illinois.edu/meditationesembl00voge/preservation/meditationesembl00voge_0025.jp2"
+       ], "hasPart": {
+                  "@type": "VisualArtwork",
+                  "artform": "emblem pictura",
+                  "thumbnailUrl": "http://emblemimages.library.illinois.edu/meditationesembl00voge/_access/pictura/E000008.jpg",
+                  "associatedMedia": [ "http://emblemimages.library.illinois.edu:8080/cantaloupe-4.1.4/iiif/2/meditationesembl00voge%2Fpreservation%2Fmeditationesembl00voge_0024-0025.jp2/2832,696,1216,1456/full/0/default.jpg"]             
+      } } 
