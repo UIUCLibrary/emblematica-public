@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>01242cam a22003135a 4500</leader>
+  <controlfield tag="001">596027</controlfield>
+  <controlfield tag="005">20080521181453.0</controlfield>
+  <controlfield tag="008">021125s1660    it a          000 0 ita d</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">2596-027</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">CMalG</subfield>
+    <subfield code="c">CMalG</subfield>
+    <subfield code="e">dcrb</subfield>
+  </datafield>
+  <datafield tag="043" ind1=" " ind2=" ">
+    <subfield code="a">e-fr---</subfield>
+    <subfield code="a">e-sp---</subfield>
+    <subfield code="a">e-it---</subfield>
+  </datafield>
+  <datafield tag="079" ind1=" " ind2=" ">
+    <subfield code="a">80737514</subfield>
+  </datafield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">DC127.3</subfield>
+    <subfield code="b">.M65 1660</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Molus, Antonius Maria.</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">De pace inter hispaniarum et galliarum reges habita :</subfield>
+    <subfield code="b">panegyrica dictio /</subfield>
+    <subfield code="c">P. Antonius Maria Molus.</subfield>
+  </datafield>
+  <datafield tag="246" ind1="3" ind2=" ">
+    <subfield code="a">De pace inter hispaniarvm et galliarvm reges habita</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Mediolani :</subfield>
+    <subfield code="b">Ex typographia Antonij Malatestae ...,</subfield>
+    <subfield code="c">1660.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">24 p., [1] folded leaf :</subfield>
+    <subfield code="b">ill. ;</subfield>
+    <subfield code="c">23 cm. (4to)</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Signatures: A¹².</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Illustrations include three copperplate engravings signed "Bianc." The folded leaf is a figural poem, spelling out the word "pax" in a circle.</subfield>
+  </datafield>
+  <datafield tag="610" ind1="1" ind2="0">
+    <subfield code="a">France.</subfield>
+    <subfield code="t">Treaties, etc.</subfield>
+    <subfield code="g">Spain,</subfield>
+    <subfield code="d">1659 Nov. 7.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Emblems.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Engravings</subfield>
+    <subfield code="z">Italy</subfield>
+    <subfield code="y">17th century.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Occasional poems</subfield>
+    <subfield code="z">Italy</subfield>
+    <subfield code="y">17th century.</subfield>
+    <subfield code="2">rbgenr</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Emblem books</subfield>
+    <subfield code="z">Italy</subfield>
+    <subfield code="z">17th century.</subfield>
+    <subfield code="2">aat</subfield>
+  </datafield>
+  <datafield tag="799" ind1="0" ind2=" ">
+    <subfield code="a">Emblem collection (Getty Research Institute)</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="d">sc</subfield>
+    <subfield code="e">20021126</subfield>
+  </datafield>
+  <datafield tag="935" ind1=" " ind2=" ">
+    <subfield code="a">c</subfield>
+  </datafield>
+  <datafield tag="936" ind1=" " ind2=" ">
+    <subfield code="a">@KDC</subfield>
+    <subfield code="c">!jes</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="1">
+    <subfield code="3">Full text - OCA</subfield>
+    <subfield code="u">https://archive.org/details/depaceinterhispa00molu</subfield>
+  </datafield>
+</record>

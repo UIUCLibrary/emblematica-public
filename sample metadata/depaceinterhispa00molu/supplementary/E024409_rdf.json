@@ -1,0 +1,29 @@
+
+      {
+   "@context": ["http://schema.org",
+    {"associatedMedia": {
+      "@id": "http://schema.org/associatedMedia",
+      "@container": "@list"
+    }    }
+  ],
+   "@id": "http://emblematica.library.illinois.edu/detail/emblem/E024409",
+   "sameAs": ["http://hdl.handle.net/10111/EmblemRegistry:E024409"],
+   "@type": "CreativeWork",
+   "name": [
+{"@language" : "http://id.loc.gov/vocabulary/iso639-1/la",
+"@value" : "Ex uno omnia"}
+],
+    "thumbnailUrl": "http://emblemimages.library.illinois.edu/depaceinterhispa00molu/_access/emblem/E024409.jpg",
+    "isPartOf": "http://emblematica.library.illinois.edu/detail/book/depaceinterhispa00molu",
+   "dateCreated": "1660",
+   "genre": "http://vocab.getty.edu/page/aat/300123040",
+   "associatedMedia": [
+    "http://emblemimages.library.illinois.edu/depaceinterhispa00molu/preservation/depaceinterhispa00molu_0019-0020.jp2"
+    , "http://emblemimages.library.illinois.edu/depaceinterhispa00molu/preservation/depaceinterhispa00molu_0019.jp2"
+      , "http://emblemimages.library.illinois.edu/depaceinterhispa00molu/preservation/depaceinterhispa00molu_0020.jp2"
+       ], "hasPart": {
+                  "@type": "VisualArtwork",
+                  "artform": "emblem pictura",
+                  "thumbnailUrl": "http://emblemimages.library.illinois.edu/depaceinterhispa00molu/_access/pictura/E024409.jpg",
+                  "associatedMedia": [ "http://emblemimages.library.illinois.edu:8080/cantaloupe-4.1.4/iiif/2/depaceinterhispa00molu%2Fpreservation%2Fdepaceinterhispa00molu_0019-0020.jp2/248,568,1652,1404/full/0/default.jpg"]             
+      } } 
