@@ -1,0 +1,53 @@
+[{
+  "id": "E000002",
+  "bookID": "meditationesembl00voge",
+  "ark_id": "ark:/13960/t4bp0kr75",
+  "spineXML": "http://emblemimages.library.illinois.edu/meditationesembl00voge/emblematica/emblem000002.xml",
+  "page_no": 12,
+  "search_keywords": "Wie lieblich ist der Friedensbott! Wie lieblich ist die Friedensbotschaft! Speciosa en nuncia Pacis! 24A81 31A25112(+934) 71B33221 86(SPECIOSA EN NUNCIA PACIS!) 86(WIE LIEBLICH IST DIE FRIEDENSBOTSCHAFT!)",
+  "search_keywords_iconclass_term": "Wie lieblich ist der Friedensbott! Wie lieblich ist die Friedensbotschaft! Speciosa en nuncia Pacis! 24A81 31A25112(+934) 71B33221 86(SPECIOSA EN NUNCIA PACIS!) 86(WIE LIEBLICH IST DIE FRIEDENSBOTSCHAFT!)",
+  "search_motto": [
+"Wie lieblich ist der Friedensbott!",
+"Wie lieblich ist die Friedensbotschaft!",
+"Speciosa en nuncia Pacis!"
+],
+  "search_motto_latin": [
+"Speciosa en nuncia Pacis!"
+],
+  "search_motto_english": null,
+  "search_motto_old_german": [
+"Wie lieblich ist der Friedensbott!",
+"Wie lieblich ist die Friedensbotschaft!"
+],
+  "search_motto_new_german": [
+"Wie lieblich ist der Friedensbott!",
+"Wie lieblich ist die Friedensbotschaft!"
+],
+  "search_motto_dutch": null,
+  "search_motto_italian": null,
+  "search_motto_french": null,
+  "search_motto_greek": null,
+  "search_motto_spanish": null,
+ "search_iconclass": [
+"24A81",
+"31A25112(+934)",
+"71B33221",
+"86(SPECIOSA EN NUNCIA PACIS!)",
+"86(WIE LIEBLICH IST DIE FRIEDENSBOTSCHAFT!)"
+],
+ "display_motto": "Wie lieblich ist der Friedensbott!",
+  "display_pictura_link": "http://emblemimages.library.illinois.edu/meditationesembl00voge/_access/pictura/E000002.jpg",
+  "display_emblem_link": "http://emblemimages.library.illinois.edu/meditationesembl00voge/_access/emblem/E000002.jpg",
+  "display_book_title": "Meditationes emblematicae de restaurata pace Germaniae =: Sinnebilder von dem widergebrachten Teutschen Frieden",
+  "display_book_has_emblems": true,
+  "display_collection": "University of Illinois at UC",
+  "emblem_more_info_link": "http://emblemimages.library.illinois.edu:8080/cantaloupe-4.1.4/iiif/2/meditationesembl00voge%2Fpreservation%2Fmeditationesembl00voge_0012-0013.jp2/full/full/0/default.jpg",
+  "scanned_pictura_link": "http://emblemimages.library.illinois.edu:8080/cantaloupe-4.1.4/iiif/2/meditationesembl00voge%2Fpreservation%2Fmeditationesembl00voge_0012-0013.jp2/2760,760,1184,1432/full/0/default.jpg",
+  "facet_collection_code": "Illinois",
+  "facet_language_code": [
+"lat",
+"ger"
+],
+  "facet_publication_century": "17th century",
+  "facet_publication_place": "Francofurti"
+}]

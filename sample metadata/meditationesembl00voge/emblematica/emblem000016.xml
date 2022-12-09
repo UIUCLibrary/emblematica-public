@@ -1,0 +1,24 @@
+<emblem xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:spine="http://diglib.hab.de/rules/schema/emblem" xmlns="http://diglib.hab.de/rules/schema/emblem" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" citeNo="XVI." xlink:href="http://emblemimages.library.illinois.edu/meditationesembl00voge/preservation/meditationesembl00voge_0040-0041.jp2" xml:id="E000016" globalID="http://hdl.handle.net/10111/EmblemRegistry:E000016">
+    <motto>
+      <transcription xml:lang="de">Wer mich nit dringt/ den treff ich nicht.<normalisation xml:lang="de">Wer mich nicht dr&#228;ngt, den treffe ich nicht.</normalisation></transcription>
+      <transcription xml:lang="la">Non laesa nec armor in hostem.</transcription>
+    </motto>
+    <pictura xlink:href="http://emblemimages.library.illinois.edu:8080/cantaloupe-4.1.4/iiif/2/meditationesembl00voge%2Fpreservation%2Fmeditationesembl00voge_0040-0041.jp2/2776,712,1216,1448/full/0/default.jpg" xml:id="E000016_P1">
+      <iconclass rdf:about="http://www.iconclass.org/rkd/25F29(PORCUPINE)(+483)">
+        <skos:notation>25F29(PORCUPINE)(+483)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/25H1123">
+        <skos:notation>25H1123</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/45I">
+        <skos:notation>45I</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/86(WER MICH NICHT DR&#196;NGT, DEN TREFFE ICH  NICHT)">
+        <skos:notation>86(WER MICH NICHT DR&#196;NGT, DEN TREFFE ICH NICHT)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/86(NON LAESA NEC ARMOR IN HOSTEM)">
+        <skos:notation>86(NON LAESA NEC ARMOR IN HOSTEM)</skos:notation>
+      </iconclass>
+    </pictura>
+  </emblem>
+  

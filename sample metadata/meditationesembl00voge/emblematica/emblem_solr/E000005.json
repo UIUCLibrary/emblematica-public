@@ -1,0 +1,58 @@
+[{
+  "id": "E000005",
+  "bookID": "meditationesembl00voge",
+  "ark_id": "ark:/13960/t4bp0kr75",
+  "spineXML": "http://emblemimages.library.illinois.edu/meditationesembl00voge/emblematica/emblem000005.xml",
+  "page_no": 18,
+  "search_keywords": "Es blüht offt/ was verdorret schien. Es blüht oft, was verdorrt schien. Patriae spes arida floret. 23D42 25G31(ROSE-BUSH)(+223) 25G31(ROSE-BUSH)(+371) 25G41(ROSE)(+32) 26B 56D1 54F131(+4) 71E318(+0) 86(ES BLÜHT OFT, WAS VERDORRT SCHIEN) 86(PATRIAE SPES ARIDA FLORET)",
+  "search_keywords_iconclass_term": "Es blüht offt/ was verdorret schien. Es blüht oft, was verdorrt schien. Patriae spes arida floret. 23D42 25G31(ROSE-BUSH)(+223) 25G31(ROSE-BUSH)(+371) 25G41(ROSE)(+32) 26B 56D1 54F131(+4) 71E318(+0) 86(ES BLÜHT OFT, WAS VERDORRT SCHIEN) 86(PATRIAE SPES ARIDA FLORET)",
+  "search_motto": [
+"Es blüht offt/ was verdorret schien.",
+"Es blüht oft, was verdorrt schien.",
+"Patriae spes arida floret."
+],
+  "search_motto_latin": [
+"Patriae spes arida floret."
+],
+  "search_motto_english": null,
+  "search_motto_old_german": [
+"Es blüht offt/ was verdorret schien.",
+"Es blüht oft, was verdorrt schien."
+],
+  "search_motto_new_german": [
+"Es blüht offt/ was verdorret schien.",
+"Es blüht oft, was verdorrt schien."
+],
+  "search_motto_dutch": null,
+  "search_motto_italian": null,
+  "search_motto_french": null,
+  "search_motto_greek": null,
+  "search_motto_spanish": null,
+ "search_iconclass": [
+"23D42",
+"25G31(ROSE-BUSH)(+223)",
+"25G31(ROSE-BUSH)(+371)",
+"25G41(ROSE)(+32)",
+"26B",
+"56D1",
+"54F131(+4)",
+"71E318(+0)",
+"86(ES BLÜHT OFT, WAS VERDORRT SCHIEN)",
+"86(PATRIAE SPES ARIDA FLORET)"
+],
+ "display_motto": "Es blüht offt/ was verdorret schien.",
+  "display_pictura_link": "http://emblemimages.library.illinois.edu/meditationesembl00voge/_access/pictura/E000005.jpg",
+  "display_emblem_link": "http://emblemimages.library.illinois.edu/meditationesembl00voge/_access/emblem/E000005.jpg",
+  "display_book_title": "Meditationes emblematicae de restaurata pace Germaniae =: Sinnebilder von dem widergebrachten Teutschen Frieden",
+  "display_book_has_emblems": true,
+  "display_collection": "University of Illinois at UC",
+  "emblem_more_info_link": "http://emblemimages.library.illinois.edu:8080/cantaloupe-4.1.4/iiif/2/meditationesembl00voge%2Fpreservation%2Fmeditationesembl00voge_0018-0019.jp2/full/full/0/default.jpg",
+  "scanned_pictura_link": "http://emblemimages.library.illinois.edu:8080/cantaloupe-4.1.4/iiif/2/meditationesembl00voge%2Fpreservation%2Fmeditationesembl00voge_0018-0019.jp2/2872,704,1216,1424/full/0/default.jpg",
+  "facet_collection_code": "Illinois",
+  "facet_language_code": [
+"lat",
+"ger"
+],
+  "facet_publication_century": "17th century",
+  "facet_publication_place": "Francofurti"
+}]

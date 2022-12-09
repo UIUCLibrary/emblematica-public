@@ -1,0 +1,31 @@
+<emblem xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:spine="http://diglib.hab.de/rules/schema/emblem" xmlns="http://diglib.hab.de/rules/schema/emblem" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" citeNo="XXI." xlink:href="http://emblemimages.library.illinois.edu/meditationesembl00voge/preservation/meditationesembl00voge_0050-0051.jp2" xml:id="E000021" globalID="http://hdl.handle.net/10111/EmblemRegistry:E000021">
+    <motto>
+      <transcription xml:lang="de">Von Himmel ab entsteht der Glantz.<normalisation xml:lang="de">Vom Himmel ab entsteht der Glanz.</normalisation></transcription>
+      <transcription xml:lang="la">Accensum coelitus ardet.</transcription>
+    </motto>
+    <pictura xlink:href="http://emblemimages.library.illinois.edu:8080/cantaloupe-4.1.4/iiif/2/meditationesembl00voge%2Fpreservation%2Fmeditationesembl00voge_0050-0051.jp2/2776,720,1192,1448/full/0/default.jpg" xml:id="E000021_P1">
+      <!-- another example the term not incouded in the url... -->
+      <iconclass rdf:about="http://www.iconclass.org/rkd/11P321">
+        <skos:notation>11P321</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/11Q712">
+        <skos:notation>11Q712</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/22C3">
+        <skos:notation>22C3</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/41B31(+1)">
+        <skos:notation>41B31(+1)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/73D78">
+        <skos:notation>73D78</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/86(VOM HIMMEL AB ENTSTEHT DER GLANZ)">
+        <skos:notation>86(VOM HIMMEL AB ENTSTEHT DER GLANZ)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/86(ACCENSUM COELITUS ARDET)">
+        <skos:notation>86(ACCENSUM COELITUS ARDET)</skos:notation>
+      </iconclass>
+    </pictura>
+  </emblem>
+  

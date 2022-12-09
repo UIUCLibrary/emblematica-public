@@ -1,0 +1,55 @@
+[{
+  "id": "E000015",
+  "bookID": "meditationesembl00voge",
+  "ark_id": "ark:/13960/t4bp0kr75",
+  "spineXML": "http://emblemimages.library.illinois.edu/meditationesembl00voge/emblematica/emblem000015.xml",
+  "page_no": 38,
+  "search_keywords": "So richte ich meine Federn recht. So richte ich meine Federn recht. Ad Solem corrigo pennas. 24A6 25F33(SPARROW-HAWK)(+352) 25F33(SPARROW-HAWK)(+483) 31D60 54F131(+4) 86(SO RICHTE ICH MEINE FEDERN RECHT) 86(AD SOLEM CORRIGO PENNAS)",
+  "search_keywords_iconclass_term": "So richte ich meine Federn recht. So richte ich meine Federn recht. Ad Solem corrigo pennas. 24A6 25F33(SPARROW-HAWK)(+352) 25F33(SPARROW-HAWK)(+483) 31D60 54F131(+4) 86(SO RICHTE ICH MEINE FEDERN RECHT) 86(AD SOLEM CORRIGO PENNAS)",
+  "search_motto": [
+"So richte ich meine Federn recht.",
+"So richte ich meine Federn recht.",
+"Ad Solem corrigo pennas."
+],
+  "search_motto_latin": [
+"Ad Solem corrigo pennas."
+],
+  "search_motto_english": null,
+  "search_motto_old_german": [
+"So richte ich meine Federn recht.",
+"So richte ich meine Federn recht."
+],
+  "search_motto_new_german": [
+"So richte ich meine Federn recht.",
+"So richte ich meine Federn recht."
+],
+  "search_motto_dutch": null,
+  "search_motto_italian": null,
+  "search_motto_french": null,
+  "search_motto_greek": null,
+  "search_motto_spanish": null,
+ "search_iconclass": [
+"24A6",
+"25F33(SPARROW-HAWK)(+352)",
+"25F33(SPARROW-HAWK)(+483)",
+"31D60",
+"54F131(+4)",
+"86(SO RICHTE ICH MEINE FEDERN RECHT)",
+"86(AD SOLEM CORRIGO PENNAS)"
+],
+ "display_motto": "So richte ich meine Federn recht.",
+  "display_pictura_link": "http://emblemimages.library.illinois.edu/meditationesembl00voge/_access/pictura/E000015.jpg",
+  "display_emblem_link": "http://emblemimages.library.illinois.edu/meditationesembl00voge/_access/emblem/E000015.jpg",
+  "display_book_title": "Meditationes emblematicae de restaurata pace Germaniae =: Sinnebilder von dem widergebrachten Teutschen Frieden",
+  "display_book_has_emblems": true,
+  "display_collection": "University of Illinois at UC",
+  "emblem_more_info_link": "http://emblemimages.library.illinois.edu:8080/cantaloupe-4.1.4/iiif/2/meditationesembl00voge%2Fpreservation%2Fmeditationesembl00voge_0038-0039.jp2/full/full/0/default.jpg",
+  "scanned_pictura_link": "http://emblemimages.library.illinois.edu:8080/cantaloupe-4.1.4/iiif/2/meditationesembl00voge%2Fpreservation%2Fmeditationesembl00voge_0038-0039.jp2/2768,752,1168,1464/full/0/default.jpg",
+  "facet_collection_code": "Illinois",
+  "facet_language_code": [
+"lat",
+"ger"
+],
+  "facet_publication_century": "17th century",
+  "facet_publication_place": "Francofurti"
+}]

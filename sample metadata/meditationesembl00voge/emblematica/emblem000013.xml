@@ -1,0 +1,36 @@
+<emblem xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:spine="http://diglib.hab.de/rules/schema/emblem" xmlns="http://diglib.hab.de/rules/schema/emblem" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" citeNo="XIII." xlink:href="http://emblemimages.library.illinois.edu/meditationesembl00voge/preservation/meditationesembl00voge_0034-0035.jp2" xml:id="E000013" globalID="http://hdl.handle.net/10111/EmblemRegistry:E000013">
+    <motto>
+      <transcription xml:lang="de">Es geht nichts recht an vor der Zeit.<normalisation xml:lang="de">Es geht nichts recht an vor der Zeit.</normalisation></transcription>
+      <transcription xml:lang="la">Nil fit sine tempore justo.</transcription>
+    </motto>
+    <pictura xlink:href="http://emblemimages.library.illinois.edu:8080/cantaloupe-4.1.4/iiif/2/meditationesembl00voge%2Fpreservation%2Fmeditationesembl00voge_0034-0035.jp2/2768,736,1208,1440/full/0/default.jpg" xml:id="E000013_P1">
+      <iconclass rdf:about="http://www.iconclass.org/rkd/11H(THOMAS AQUINAS)4(+0)">
+        <skos:notation>11H(THOMAS AQUINAS)4(+0)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/31A5351">
+        <skos:notation>31A5351</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/47C31(+412)">
+        <skos:notation>47C31(+412)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/47D8(ANVIL)(+69)">
+        <skos:notation>47D8(ANVIL)(+69)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/47D8(GRINDSTONE)">
+        <skos:notation>47D8(GRINDSTONE)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/47D8(KNIFE)">
+        <skos:notation>47D8(KNIFE)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/86(ES GEHT NICHTS RECHT AN VOR DER ZEIT)">
+        <skos:notation>86(ES GEHT NICHTS RECHT AN VOR DER ZEIT)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/86(NIL FIT SINE TEMPORE JUSTO)">
+        <skos:notation>86(NIL FIT SINE TEMPORE JUSTO)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/98B(NAVIUS)51">
+        <skos:notation>98B(NAVIUS)51</skos:notation>
+      </iconclass>
+    </pictura>
+  </emblem>
+  

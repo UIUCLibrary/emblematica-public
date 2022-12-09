@@ -1,0 +1,31 @@
+<emblem xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:spine="http://diglib.hab.de/rules/schema/emblem" xmlns="http://diglib.hab.de/rules/schema/emblem" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" citeNo="XIX." xlink:href="http://emblemimages.library.illinois.edu/meditationesembl00voge/preservation/meditationesembl00voge_0046-0047.jp2" xml:id="E000019" globalID="http://hdl.handle.net/10111/EmblemRegistry:E000019">
+    <motto>
+      <transcription xml:lang="de">Gemachsam wachsen ist auch sch&#246;n.<normalisation xml:lang="de">Gem&#228;chlich wachsen ist auch sch&#246;n.</normalisation></transcription>
+      <transcription xml:lang="la">Sensim succrescere pulcrum est.</transcription>
+    </motto>
+    <pictura xlink:href="http://emblemimages.library.illinois.edu:8080/cantaloupe-4.1.4/iiif/2/meditationesembl00voge%2Fpreservation%2Fmeditationesembl00voge_0046-0047.jp2/2824,768,1216,1464/full/0/default.jpg" xml:id="E000019_P1">
+      <!-- two notations -->
+      <iconclass rdf:about="http://www.iconclass.org/rkd/25G41">
+        <skos:notation>25G41</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/41A6811">
+        <skos:notation>41A6811</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/41A773">
+        <skos:notation>41A773</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/41C122">
+        <skos:notation>41C122</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/51MM11(+4):51H5(+4)">
+        <skos:notation>51MM11(+4):51H5(+4)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/86(GEM&#196;CHLICH WACHSEN IST AUCH SCH&#214;N)">
+        <skos:notation>86(GEM&#196;CHLICH WACHSEN IST AUCH SCH&#214;N)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/86(SENSIM SUCCRESCERE PULCRUM EST)">
+        <skos:notation>86(SENSIM SUCCRESCERE PULCRUM EST)</skos:notation>
+      </iconclass>
+    </pictura>
+  </emblem>
+  

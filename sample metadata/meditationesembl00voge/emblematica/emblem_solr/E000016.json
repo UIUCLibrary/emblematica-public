@@ -1,0 +1,53 @@
+[{
+  "id": "E000016",
+  "bookID": "meditationesembl00voge",
+  "ark_id": "ark:/13960/t4bp0kr75",
+  "spineXML": "http://emblemimages.library.illinois.edu/meditationesembl00voge/emblematica/emblem000016.xml",
+  "page_no": 40,
+  "search_keywords": "Wer mich nit dringt/ den treff ich nicht. Wer mich nicht drängt, den treffe ich nicht. Non laesa nec armor in hostem. 25F29(PORCUPINE)(+483) 25H1123 45I 86(WER MICH NICHT DRÄNGT, DEN TREFFE ICH NICHT) 86(NON LAESA NEC ARMOR IN HOSTEM)",
+  "search_keywords_iconclass_term": "Wer mich nit dringt/ den treff ich nicht. Wer mich nicht drängt, den treffe ich nicht. Non laesa nec armor in hostem. 25F29(PORCUPINE)(+483) 25H1123 45I 86(WER MICH NICHT DRÄNGT, DEN TREFFE ICH NICHT) 86(NON LAESA NEC ARMOR IN HOSTEM)",
+  "search_motto": [
+"Wer mich nit dringt/ den treff ich nicht.",
+"Wer mich nicht drängt, den treffe ich nicht.",
+"Non laesa nec armor in hostem."
+],
+  "search_motto_latin": [
+"Non laesa nec armor in hostem."
+],
+  "search_motto_english": null,
+  "search_motto_old_german": [
+"Wer mich nit dringt/ den treff ich nicht.",
+"Wer mich nicht drängt, den treffe ich nicht."
+],
+  "search_motto_new_german": [
+"Wer mich nit dringt/ den treff ich nicht.",
+"Wer mich nicht drängt, den treffe ich nicht."
+],
+  "search_motto_dutch": null,
+  "search_motto_italian": null,
+  "search_motto_french": null,
+  "search_motto_greek": null,
+  "search_motto_spanish": null,
+ "search_iconclass": [
+"25F29(PORCUPINE)(+483)",
+"25H1123",
+"45I",
+"86(WER MICH NICHT DRÄNGT, DEN TREFFE ICH NICHT)",
+"86(NON LAESA NEC ARMOR IN HOSTEM)"
+],
+ "display_motto": "Wer mich nit dringt/ den treff ich nicht.",
+  "display_pictura_link": "http://emblemimages.library.illinois.edu/meditationesembl00voge/_access/pictura/E000016.jpg",
+  "display_emblem_link": "http://emblemimages.library.illinois.edu/meditationesembl00voge/_access/emblem/E000016.jpg",
+  "display_book_title": "Meditationes emblematicae de restaurata pace Germaniae =: Sinnebilder von dem widergebrachten Teutschen Frieden",
+  "display_book_has_emblems": true,
+  "display_collection": "University of Illinois at UC",
+  "emblem_more_info_link": "http://emblemimages.library.illinois.edu:8080/cantaloupe-4.1.4/iiif/2/meditationesembl00voge%2Fpreservation%2Fmeditationesembl00voge_0040-0041.jp2/full/full/0/default.jpg",
+  "scanned_pictura_link": "http://emblemimages.library.illinois.edu:8080/cantaloupe-4.1.4/iiif/2/meditationesembl00voge%2Fpreservation%2Fmeditationesembl00voge_0040-0041.jp2/2776,712,1216,1448/full/0/default.jpg",
+  "facet_collection_code": "Illinois",
+  "facet_language_code": [
+"lat",
+"ger"
+],
+  "facet_publication_century": "17th century",
+  "facet_publication_place": "Francofurti"
+}]

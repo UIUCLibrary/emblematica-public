@@ -1,0 +1,36 @@
+<emblem xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:spine="http://diglib.hab.de/rules/schema/emblem" xmlns="http://diglib.hab.de/rules/schema/emblem" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" citeNo="VIII." xlink:href="http://emblemimages.library.illinois.edu/meditationesembl00voge/preservation/meditationesembl00voge_0024-0025.jp2" xml:id="E000008" globalID="http://hdl.handle.net/10111/EmblemRegistry:E000008">
+    <motto>
+      <transcription xml:lang="de">Die Krafft de&#223; Himmels kan es thun.<normalisation xml:lang="de">Die Kraft des Himmels kann es tun.</normalisation></transcription>
+      <transcription xml:lang="la">Maxima vis coeli est.</transcription>
+    </motto>
+    <pictura xlink:href="http://emblemimages.library.illinois.edu:8080/cantaloupe-4.1.4/iiif/2/meditationesembl00voge%2Fpreservation%2Fmeditationesembl00voge_0024-0025.jp2/2832,696,1216,1456/full/0/default.jpg" xml:id="E000008_P1">
+      <iconclass rdf:about="http://www.iconclass.org/rkd/11A23">
+        <skos:notation>11A23</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/11C12">
+        <skos:notation>11C12</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/25I3(+1)">
+        <skos:notation>25I3(+1)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/26A">
+        <skos:notation>26A</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/31A2245(+933)">
+        <skos:notation>31A2245(+933)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/47D8(ANVIL)">
+        <skos:notation>47D8(ANVIL)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/47D8(HAMMER)">
+        <skos:notation>47D8(HAMMER)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/86(DIE KRAFT DES HIMMELS KANN ES TUN)">
+        <skos:notation>86(DIE KRAFT DES HIMMELS KANN ES TUN)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/86(MAXIMA VIS COELI EST)">
+        <skos:notation>86(MAXIMA VIS COELI EST)</skos:notation>
+      </iconclass>
+    </pictura>
+  </emblem>
+  

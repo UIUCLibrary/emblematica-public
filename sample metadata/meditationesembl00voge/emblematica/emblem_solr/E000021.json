@@ -1,0 +1,55 @@
+[{
+  "id": "E000021",
+  "bookID": "meditationesembl00voge",
+  "ark_id": "ark:/13960/t4bp0kr75",
+  "spineXML": "http://emblemimages.library.illinois.edu/meditationesembl00voge/emblematica/emblem000021.xml",
+  "page_no": 50,
+  "search_keywords": "Von Himmel ab entsteht der Glantz. Vom Himmel ab entsteht der Glanz. Accensum coelitus ardet. 11P321 11Q712 22C3 41B31(+1) 73D78 86(VOM HIMMEL AB ENTSTEHT DER GLANZ) 86(ACCENSUM COELITUS ARDET)",
+  "search_keywords_iconclass_term": "Von Himmel ab entsteht der Glantz. Vom Himmel ab entsteht der Glanz. Accensum coelitus ardet. 11P321 11Q712 22C3 41B31(+1) 73D78 86(VOM HIMMEL AB ENTSTEHT DER GLANZ) 86(ACCENSUM COELITUS ARDET)",
+  "search_motto": [
+"Von Himmel ab entsteht der Glantz.",
+"Vom Himmel ab entsteht der Glanz.",
+"Accensum coelitus ardet."
+],
+  "search_motto_latin": [
+"Accensum coelitus ardet."
+],
+  "search_motto_english": null,
+  "search_motto_old_german": [
+"Von Himmel ab entsteht der Glantz.",
+"Vom Himmel ab entsteht der Glanz."
+],
+  "search_motto_new_german": [
+"Von Himmel ab entsteht der Glantz.",
+"Vom Himmel ab entsteht der Glanz."
+],
+  "search_motto_dutch": null,
+  "search_motto_italian": null,
+  "search_motto_french": null,
+  "search_motto_greek": null,
+  "search_motto_spanish": null,
+ "search_iconclass": [
+"11P321",
+"11Q712",
+"22C3",
+"41B31(+1)",
+"73D78",
+"86(VOM HIMMEL AB ENTSTEHT DER GLANZ)",
+"86(ACCENSUM COELITUS ARDET)"
+],
+ "display_motto": "Von Himmel ab entsteht der Glantz.",
+  "display_pictura_link": "http://emblemimages.library.illinois.edu/meditationesembl00voge/_access/pictura/E000021.jpg",
+  "display_emblem_link": "http://emblemimages.library.illinois.edu/meditationesembl00voge/_access/emblem/E000021.jpg",
+  "display_book_title": "Meditationes emblematicae de restaurata pace Germaniae =: Sinnebilder von dem widergebrachten Teutschen Frieden",
+  "display_book_has_emblems": true,
+  "display_collection": "University of Illinois at UC",
+  "emblem_more_info_link": "http://emblemimages.library.illinois.edu:8080/cantaloupe-4.1.4/iiif/2/meditationesembl00voge%2Fpreservation%2Fmeditationesembl00voge_0050-0051.jp2/full/full/0/default.jpg",
+  "scanned_pictura_link": "http://emblemimages.library.illinois.edu:8080/cantaloupe-4.1.4/iiif/2/meditationesembl00voge%2Fpreservation%2Fmeditationesembl00voge_0050-0051.jp2/2776,720,1192,1448/full/0/default.jpg",
+  "facet_collection_code": "Illinois",
+  "facet_language_code": [
+"lat",
+"ger"
+],
+  "facet_publication_century": "17th century",
+  "facet_publication_place": "Francofurti"
+}]

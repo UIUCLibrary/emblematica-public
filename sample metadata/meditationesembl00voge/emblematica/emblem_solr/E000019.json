@@ -1,0 +1,55 @@
+[{
+  "id": "E000019",
+  "bookID": "meditationesembl00voge",
+  "ark_id": "ark:/13960/t4bp0kr75",
+  "spineXML": "http://emblemimages.library.illinois.edu/meditationesembl00voge/emblematica/emblem000019.xml",
+  "page_no": 46,
+  "search_keywords": "Gemachsam wachsen ist auch schön. Gemächlich wachsen ist auch schön. Sensim succrescere pulcrum est. 25G41 41A6811 41A773 41C122 51MM11(+4):51H5(+4) 86(GEMÄCHLICH WACHSEN IST AUCH SCHÖN) 86(SENSIM SUCCRESCERE PULCRUM EST)",
+  "search_keywords_iconclass_term": "Gemachsam wachsen ist auch schön. Gemächlich wachsen ist auch schön. Sensim succrescere pulcrum est. 25G41 41A6811 41A773 41C122 51MM11(+4):51H5(+4) 86(GEMÄCHLICH WACHSEN IST AUCH SCHÖN) 86(SENSIM SUCCRESCERE PULCRUM EST)",
+  "search_motto": [
+"Gemachsam wachsen ist auch schön.",
+"Gemächlich wachsen ist auch schön.",
+"Sensim succrescere pulcrum est."
+],
+  "search_motto_latin": [
+"Sensim succrescere pulcrum est."
+],
+  "search_motto_english": null,
+  "search_motto_old_german": [
+"Gemachsam wachsen ist auch schön.",
+"Gemächlich wachsen ist auch schön."
+],
+  "search_motto_new_german": [
+"Gemachsam wachsen ist auch schön.",
+"Gemächlich wachsen ist auch schön."
+],
+  "search_motto_dutch": null,
+  "search_motto_italian": null,
+  "search_motto_french": null,
+  "search_motto_greek": null,
+  "search_motto_spanish": null,
+ "search_iconclass": [
+"25G41",
+"41A6811",
+"41A773",
+"41C122",
+"51MM11(+4):51H5(+4)",
+"86(GEMÄCHLICH WACHSEN IST AUCH SCHÖN)",
+"86(SENSIM SUCCRESCERE PULCRUM EST)"
+],
+ "display_motto": "Gemachsam wachsen ist auch schön.",
+  "display_pictura_link": "http://emblemimages.library.illinois.edu/meditationesembl00voge/_access/pictura/E000019.jpg",
+  "display_emblem_link": "http://emblemimages.library.illinois.edu/meditationesembl00voge/_access/emblem/E000019.jpg",
+  "display_book_title": "Meditationes emblematicae de restaurata pace Germaniae =: Sinnebilder von dem widergebrachten Teutschen Frieden",
+  "display_book_has_emblems": true,
+  "display_collection": "University of Illinois at UC",
+  "emblem_more_info_link": "http://emblemimages.library.illinois.edu:8080/cantaloupe-4.1.4/iiif/2/meditationesembl00voge%2Fpreservation%2Fmeditationesembl00voge_0046-0047.jp2/full/full/0/default.jpg",
+  "scanned_pictura_link": "http://emblemimages.library.illinois.edu:8080/cantaloupe-4.1.4/iiif/2/meditationesembl00voge%2Fpreservation%2Fmeditationesembl00voge_0046-0047.jp2/2824,768,1216,1464/full/0/default.jpg",
+  "facet_collection_code": "Illinois",
+  "facet_language_code": [
+"lat",
+"ger"
+],
+  "facet_publication_century": "17th century",
+  "facet_publication_place": "Francofurti"
+}]

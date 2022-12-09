@@ -1,0 +1,56 @@
+[{
+  "id": "E000012",
+  "bookID": "meditationesembl00voge",
+  "ark_id": "ark:/13960/t4bp0kr75",
+  "spineXML": "http://emblemimages.library.illinois.edu/meditationesembl00voge/emblematica/emblem000012.xml",
+  "page_no": 32,
+  "search_keywords": "Für solche grosse Gaabe danck. Für solch große Gabe Dank. Tanto pro munere grates. 11Q7131(APSE) 11Q7141 11Q71421 31A22210:41B121 31A25111 57A8(+4) 86(FÜR SOLCH GROSSE GABE DANK) 86(TANTO PRO MUNERE GRATES)",
+  "search_keywords_iconclass_term": "Für solche grosse Gaabe danck. Für solch große Gabe Dank. Tanto pro munere grates. 11Q7131(APSE) 11Q7141 11Q71421 31A22210:41B121 31A25111 57A8(+4) 86(FÜR SOLCH GROSSE GABE DANK) 86(TANTO PRO MUNERE GRATES)",
+  "search_motto": [
+"Für solche grosse Gaabe danck.",
+"Für solch große Gabe Dank.",
+"Tanto pro munere grates."
+],
+  "search_motto_latin": [
+"Tanto pro munere grates."
+],
+  "search_motto_english": null,
+  "search_motto_old_german": [
+"Für solche grosse Gaabe danck.",
+"Für solch große Gabe Dank."
+],
+  "search_motto_new_german": [
+"Für solche grosse Gaabe danck.",
+"Für solch große Gabe Dank."
+],
+  "search_motto_dutch": null,
+  "search_motto_italian": null,
+  "search_motto_french": null,
+  "search_motto_greek": null,
+  "search_motto_spanish": null,
+ "search_iconclass": [
+"11Q7131(APSE)",
+"11Q7141",
+"11Q71421",
+"31A22210:41B121",
+"31A25111",
+"57A8(+4)",
+"86(FÜR SOLCH GROSSE GABE DANK)",
+"86(TANTO PRO MUNERE GRATES)"
+],
+ "display_motto": "Für solche grosse Gaabe danck.",
+  "display_pictura_link": "http://emblemimages.library.illinois.edu/meditationesembl00voge/_access/pictura/E000012.jpg",
+  "display_emblem_link": "http://emblemimages.library.illinois.edu/meditationesembl00voge/_access/emblem/E000012.jpg",
+  "display_book_title": "Meditationes emblematicae de restaurata pace Germaniae =: Sinnebilder von dem widergebrachten Teutschen Frieden",
+  "display_book_has_emblems": true,
+  "display_collection": "University of Illinois at UC",
+  "emblem_more_info_link": "http://emblemimages.library.illinois.edu:8080/cantaloupe-4.1.4/iiif/2/meditationesembl00voge%2Fpreservation%2Fmeditationesembl00voge_0032-0033.jp2/full/full/0/default.jpg",
+  "scanned_pictura_link": "http://emblemimages.library.illinois.edu:8080/cantaloupe-4.1.4/iiif/2/meditationesembl00voge%2Fpreservation%2Fmeditationesembl00voge_0032-0033.jp2/2768,728,1216,1480/full/0/default.jpg",
+  "facet_collection_code": "Illinois",
+  "facet_language_code": [
+"lat",
+"ger"
+],
+  "facet_publication_century": "17th century",
+  "facet_publication_place": "Francofurti"
+}]

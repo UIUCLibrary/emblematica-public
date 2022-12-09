@@ -1,0 +1,30 @@
+<emblem xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:spine="http://diglib.hab.de/rules/schema/emblem" xmlns="http://diglib.hab.de/rules/schema/emblem" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" citeNo="XXI." xlink:href="http://emblemimages.library.illinois.edu/meditationesembl00voge/preservation/meditationesembl00voge_0048-0049.jp2" xml:id="E000020" globalID="http://hdl.handle.net/10111/EmblemRegistry:E000020">
+    <motto>
+      <transcription xml:lang="de">Die Sch&#228;rpffe r&#252;hrt die Funcken auff.<normalisation xml:lang="de">Die Sch&#228;rfe r&#252;hrt die Funken auf.</normalisation></transcription>
+      <transcription xml:lang="la">Scintillas prolicit ignis.</transcription>
+    </motto>
+    <pictura xlink:href="http://emblemimages.library.illinois.edu:8080/cantaloupe-4.1.4/iiif/2/meditationesembl00voge%2Fpreservation%2Fmeditationesembl00voge_0048-0049.jp2/2824,800,1184,1424/full/0/default.jpg" xml:id="E000020_P1">
+      <iconclass rdf:about="http://www.iconclass.org/rkd/41B133">
+        <skos:notation>41B133</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/41B122">
+        <skos:notation>41B122</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/41D221(HAT)">
+        <skos:notation>41D221(HAT)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/45B">
+        <skos:notation>45B</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/54AA46(+4)">
+        <skos:notation>54AA46(+4)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/86(DIE SCH&#196;RFE R&#220;HRT DIE FUNKEN AUF)">
+        <skos:notation>86(DIE SCH&#196;RFE R&#220;HRT DIE FUNKEN AUF)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/86(SCINTILLAS PROLICIT IGNIS)">
+        <skos:notation>86(SCINTILLAS PROLICIT IGNIS)</skos:notation>
+      </iconclass>
+    </pictura>
+  </emblem>
+  

@@ -1,0 +1,54 @@
+[{
+  "id": "E000007",
+  "bookID": "meditationesembl00voge",
+  "ark_id": "ark:/13960/t4bp0kr75",
+  "spineXML": "http://emblemimages.library.illinois.edu/meditationesembl00voge/emblematica/emblem000007.xml",
+  "page_no": 22,
+  "search_keywords": "Man gehet auch gemächlich weit. Man geht auch gemächlich weit. Iuvat & procedere lente. 22C11 25F72(SNAIL)(+521) 51MM1(+4) 53A2(+4) 86(IUVAT & PROCEDERE LENTE) 86(MAN GEHT AUCH GEMÄCHLICH WEIT)",
+  "search_keywords_iconclass_term": "Man gehet auch gemächlich weit. Man geht auch gemächlich weit. Iuvat & procedere lente. 22C11 25F72(SNAIL)(+521) 51MM1(+4) 53A2(+4) 86(IUVAT & PROCEDERE LENTE) 86(MAN GEHT AUCH GEMÄCHLICH WEIT)",
+  "search_motto": [
+"Man gehet auch gemächlich weit.",
+"Man geht auch gemächlich weit.",
+"Iuvat & procedere lente."
+],
+  "search_motto_latin": [
+"Iuvat & procedere lente."
+],
+  "search_motto_english": null,
+  "search_motto_old_german": [
+"Man gehet auch gemächlich weit.",
+"Man geht auch gemächlich weit."
+],
+  "search_motto_new_german": [
+"Man gehet auch gemächlich weit.",
+"Man geht auch gemächlich weit."
+],
+  "search_motto_dutch": null,
+  "search_motto_italian": null,
+  "search_motto_french": null,
+  "search_motto_greek": null,
+  "search_motto_spanish": null,
+ "search_iconclass": [
+"22C11",
+"25F72(SNAIL)(+521)",
+"51MM1(+4)",
+"53A2(+4)",
+"86(IUVAT & PROCEDERE LENTE)",
+"86(MAN GEHT AUCH GEMÄCHLICH WEIT)"
+],
+ "display_motto": "Man gehet auch gemächlich weit.",
+  "display_pictura_link": "http://emblemimages.library.illinois.edu/meditationesembl00voge/_access/pictura/E000007.jpg",
+  "display_emblem_link": "http://emblemimages.library.illinois.edu/meditationesembl00voge/_access/emblem/E000007.jpg",
+  "display_book_title": "Meditationes emblematicae de restaurata pace Germaniae =: Sinnebilder von dem widergebrachten Teutschen Frieden",
+  "display_book_has_emblems": true,
+  "display_collection": "University of Illinois at UC",
+  "emblem_more_info_link": "http://emblemimages.library.illinois.edu:8080/cantaloupe-4.1.4/iiif/2/meditationesembl00voge%2Fpreservation%2Fmeditationesembl00voge_0022-0023.jp2/full/full/0/default.jpg",
+  "scanned_pictura_link": "http://emblemimages.library.illinois.edu:8080/cantaloupe-4.1.4/iiif/2/meditationesembl00voge%2Fpreservation%2Fmeditationesembl00voge_0022-0023.jp2/2752,752,1216,1448/full/0/default.jpg",
+  "facet_collection_code": "Illinois",
+  "facet_language_code": [
+"lat",
+"ger"
+],
+  "facet_publication_century": "17th century",
+  "facet_publication_place": "Francofurti"
+}]

@@ -1,0 +1,19 @@
+<emblem xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:spine="http://diglib.hab.de/rules/schema/emblem" xmlns="http://diglib.hab.de/rules/schema/emblem" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" citeNo="XIV." xlink:href="http://emblemimages.library.illinois.edu/meditationesembl00voge/preservation/meditationesembl00voge_0036-0037.jp2" xml:id="E000014" globalID="http://hdl.handle.net/10111/EmblemRegistry:E000014">
+    <motto>
+      <transcription xml:lang="de">Der Friedens Same f&#228;llt herab.<normalisation xml:lang="de">Der
+               Friedenssamen f&#228;llt herab.</normalisation></transcription>
+      <transcription xml:lang="la">Descendunt semina pacis.</transcription>
+    </motto>
+    <pictura xlink:href="http://emblemimages.library.illinois.edu:8080/cantaloupe-4.1.4/iiif/2/meditationesembl00voge%2Fpreservation%2Fmeditationesembl00voge_0036-0037.jp2/2752,824,1184,1408/full/0/default.jpg" xml:id="E000014_P1">
+      <iconclass rdf:about="http://www.iconclass.org/rkd/71E1254">
+        <skos:notation>71E1254</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/86(DER FRIEDENSSAMEN F&#196;LLT HERAB)">
+        <skos:notation>86(DER FRIEDENSSAMEN F&#196;LLT HERAB)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/86(DESCENDUNT SEMINA PACIS)">
+        <skos:notation>86(DESCENDUNT SEMINA PACIS)</skos:notation>
+      </iconclass>
+    </pictura>
+  </emblem>
+  

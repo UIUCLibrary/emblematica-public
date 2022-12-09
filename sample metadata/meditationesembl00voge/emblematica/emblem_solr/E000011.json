@@ -1,0 +1,53 @@
+[{
+  "id": "E000011",
+  "bookID": "meditationesembl00voge",
+  "ark_id": "ark:/13960/t4bp0kr75",
+  "spineXML": "http://emblemimages.library.illinois.edu/meditationesembl00voge/emblematica/emblem000011.xml",
+  "page_no": 30,
+  "search_keywords": "Ach wie gefährlich ist die Sach! Ach wie gefährlich ist die Sache! Quanti res ista pericli est! 25H1123 51MM12(+4):44B421 93E82 86(ACH WIE GEFÄHRLICH IST DIE SACHE!) 86(QUANTI RES ISTA PERICLI EST!)",
+  "search_keywords_iconclass_term": "Ach wie gefährlich ist die Sach! Ach wie gefährlich ist die Sache! Quanti res ista pericli est! 25H1123 51MM12(+4):44B421 93E82 86(ACH WIE GEFÄHRLICH IST DIE SACHE!) 86(QUANTI RES ISTA PERICLI EST!)",
+  "search_motto": [
+"Ach wie gefährlich ist die Sach!",
+"Ach wie gefährlich ist die Sache!",
+"Quanti res ista pericli est!"
+],
+  "search_motto_latin": [
+"Quanti res ista pericli est!"
+],
+  "search_motto_english": null,
+  "search_motto_old_german": [
+"Ach wie gefährlich ist die Sach!",
+"Ach wie gefährlich ist die Sache!"
+],
+  "search_motto_new_german": [
+"Ach wie gefährlich ist die Sach!",
+"Ach wie gefährlich ist die Sache!"
+],
+  "search_motto_dutch": null,
+  "search_motto_italian": null,
+  "search_motto_french": null,
+  "search_motto_greek": null,
+  "search_motto_spanish": null,
+ "search_iconclass": [
+"25H1123",
+"51MM12(+4):44B421",
+"93E82",
+"86(ACH WIE GEFÄHRLICH IST DIE SACHE!)",
+"86(QUANTI RES ISTA PERICLI EST!)"
+],
+ "display_motto": "Ach wie gefährlich ist die Sach!",
+  "display_pictura_link": "http://emblemimages.library.illinois.edu/meditationesembl00voge/_access/pictura/E000011.jpg",
+  "display_emblem_link": "http://emblemimages.library.illinois.edu/meditationesembl00voge/_access/emblem/E000011.jpg",
+  "display_book_title": "Meditationes emblematicae de restaurata pace Germaniae =: Sinnebilder von dem widergebrachten Teutschen Frieden",
+  "display_book_has_emblems": true,
+  "display_collection": "University of Illinois at UC",
+  "emblem_more_info_link": "http://emblemimages.library.illinois.edu:8080/cantaloupe-4.1.4/iiif/2/meditationesembl00voge%2Fpreservation%2Fmeditationesembl00voge_0030-0031.jp2/full/full/0/default.jpg",
+  "scanned_pictura_link": "http://emblemimages.library.illinois.edu:8080/cantaloupe-4.1.4/iiif/2/meditationesembl00voge%2Fpreservation%2Fmeditationesembl00voge_0030-0031.jp2/2760,752,1216,1448/full/0/default.jpg",
+  "facet_collection_code": "Illinois",
+  "facet_language_code": [
+"lat",
+"ger"
+],
+  "facet_publication_century": "17th century",
+  "facet_publication_place": "Francofurti"
+}]

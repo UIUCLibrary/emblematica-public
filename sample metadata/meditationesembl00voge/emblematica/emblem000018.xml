@@ -1,0 +1,24 @@
+<emblem xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:spine="http://diglib.hab.de/rules/schema/emblem" xmlns="http://diglib.hab.de/rules/schema/emblem" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" citeNo="XVIII." xlink:href="http://emblemimages.library.illinois.edu/meditationesembl00voge/preservation/meditationesembl00voge_0044-0045.jp2" xml:id="E000018" globalID="http://hdl.handle.net/10111/EmblemRegistry:E000018">
+    <motto>
+      <transcription xml:lang="de">Sie lautet nicht/ dann gantz gestim[m]t.<normalisation xml:lang="de">Sie lautet nicht, es sei denn ganz gestimmt.</normalisation></transcription>
+      <transcription xml:lang="la">Nervus nec dissonet unus.</transcription>
+    </motto>
+    <pictura xlink:href="http://emblemimages.library.illinois.edu:8080/cantaloupe-4.1.4/iiif/2/meditationesembl00voge%2Fpreservation%2Fmeditationesembl00voge_0044-0045.jp2/2784,760,1208,1424/full/0/default.jpg" xml:id="E000018_P1">
+      <iconclass rdf:about="http://www.iconclass.org/rkd/25I2">
+        <skos:notation>25I2</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/48C7322">
+        <skos:notation>48C7322</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/51D2(+4)">
+        <skos:notation>51D2(+4)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/86(SIE LAUTET NICHT, ES SEI DENN GANZ GESTIMMT)">
+        <skos:notation>86(SIE LAUTET NICHT, ES SEI DENN GANZ GESTIMMT)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/86(NERVUS NEC DISSONET UNUS)">
+        <skos:notation>86(NERVUS NEC DISSONET UNUS)</skos:notation>
+      </iconclass>
+    </pictura>
+  </emblem>
+  

@@ -1,0 +1,29 @@
+<emblem xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:spine="http://diglib.hab.de/rules/schema/emblem" xmlns="http://diglib.hab.de/rules/schema/emblem" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" citeNo="XXIV." xlink:href="http://emblemimages.library.illinois.edu/meditationesembl00voge/preservation/meditationesembl00voge_0056-0057.jp2" xml:id="E000024" globalID="http://hdl.handle.net/10111/EmblemRegistry:E000024">
+    <motto>
+      <transcription xml:lang="de">Den Armen schafft man billich Rath.<normalisation xml:lang="de">Den Armen schafft man billig Rat.</normalisation></transcription>
+      <transcription xml:lang="la">Miseris succurrere fas est.</transcription>
+    </motto>
+    <pictura xlink:href="http://emblemimages.library.illinois.edu:8080/cantaloupe-4.1.4/iiif/2/meditationesembl00voge%2Fpreservation%2Fmeditationesembl00voge_0056-0057.jp2/3032,680,1136,1464/full/0/default.jpg" xml:id="E000024_P1">
+      <iconclass rdf:about="http://www.iconclass.org/rkd/24A6">
+        <skos:notation>24A6</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/25G3(OLIVE-TREE)(+22)">
+        <skos:notation>25G3(OLIVE-TREE)(+22)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/25F33(EAGLE)(+5245)">
+        <skos:notation>25F33(EAGLE)(+5245)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/25F33(EAGLE)(+531)">
+        <skos:notation>25F33(EAGLE)(+531)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/25H131">
+        <skos:notation>25H131</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/86(DEN ARMEN SCHAFFT MAN BILLIG RAT)">
+        <skos:notation>86(DEN ARMEN SCHAFFT MAN BILLIG RAT)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/86(MISERIS SUCCURRERE FAS EST)">
+        <skos:notation>86(MISERIS SUCCURRERE FAS EST)</skos:notation>
+      </iconclass>
+    </pictura>
+  </emblem>

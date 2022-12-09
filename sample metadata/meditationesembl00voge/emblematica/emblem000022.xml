@@ -1,0 +1,24 @@
+<emblem xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:spine="http://diglib.hab.de/rules/schema/emblem" xmlns="http://diglib.hab.de/rules/schema/emblem" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" citeNo="XXII." xlink:href="http://emblemimages.library.illinois.edu/meditationesembl00voge/preservation/meditationesembl00voge_0052-0053.jp2" xml:id="E000022" globalID="http://hdl.handle.net/10111/EmblemRegistry:E000022">
+    <motto>
+      <transcription xml:lang="de">Der Friedens Schall ist m&#228;chtig s&#252;&#223;.<normalisation xml:lang="de">Der Friedensschall ist m&#228;chtig s&#252;&#223;.</normalisation></transcription>
+      <transcription xml:lang="la">Quam dulcis buccina pacis.</transcription>
+    </motto>
+    <pictura xlink:href="http://emblemimages.library.illinois.edu:8080/cantaloupe-4.1.4/iiif/2/meditationesembl00voge%2Fpreservation%2Fmeditationesembl00voge_0052-0053.jp2/2728,776,1208,1400/full/0/default.jpg" xml:id="E000022_P1">
+      <iconclass rdf:about="http://www.iconclass.org/rkd/25H113">
+        <skos:notation>25H113</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/44G211">
+        <skos:notation>44G211</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/48C7352">
+        <skos:notation>48C7352</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/86(DER FRIEDENSSCHALL IST M&#196;CHTIG S&#220;SS)">
+        <skos:notation>86(DER FRIEDENSSCHALL IST M&#196;CHTIG S&#220;SS)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/86(QUAM DULCIS BUCCINA PACIS)">
+        <skos:notation>86(QUAM DULCIS BUCCINA PACIS)</skos:notation>
+      </iconclass>
+    </pictura>
+  </emblem>
+  

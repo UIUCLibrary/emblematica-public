@@ -1,0 +1,27 @@
+<emblem xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:spine="http://diglib.hab.de/rules/schema/emblem" xmlns="http://diglib.hab.de/rules/schema/emblem" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" citeNo="X." xlink:href="http://emblemimages.library.illinois.edu/meditationesembl00voge/preservation/meditationesembl00voge_0028-0029.jp2" xml:id="E000010" globalID="http://hdl.handle.net/10111/EmblemRegistry:E000010">
+    <motto>
+      <transcription xml:lang="de">Schild/ Schwerd und Spie&#223; zerschl&#228;gt der Herr.<normalisation xml:lang="de">Schild, Schwert und Spie&#223; zerschl&#228;gt der Herr. </normalisation></transcription>
+      <transcription xml:lang="la">Clypeum confringit &amp; Hastam.</transcription>
+    </motto>
+    <pictura xlink:href="http://emblemimages.library.illinois.edu:8080/cantaloupe-4.1.4/iiif/2/meditationesembl00voge%2Fpreservation%2Fmeditationesembl00voge_0028-0029.jp2/2736,752,1224,1456/full/0/default.jpg" xml:id="E000010_P1">
+      <iconclass rdf:about="http://www.iconclass.org/rkd/45C1(+69)">
+        <skos:notation>45C1(+69)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/45C16(CANNON)(+69)">
+        <skos:notation>45C16(CANNON)(+69)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/45C19(SHIELD)(+69)">
+        <skos:notation>45C19(SHIELD)(+69)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/45C22(+69)">
+        <skos:notation>45C22(+69)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/86(CLYPEUM CONFRINGIT &amp; HASTAM)">
+        <skos:notation>86(CLYPEUM CONFRINGIT &amp; HASTAM)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/86(SCHILD, SCHWERT UND SPIESS ZERSCHL&#196;GT DER  HERR)">
+        <skos:notation>86(SCHILD, SCHWERT UND SPIESS ZERSCHL&#196;GT DER HERR)</skos:notation>
+      </iconclass>
+    </pictura>
+  </emblem>
+  

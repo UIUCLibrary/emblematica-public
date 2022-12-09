@@ -1,0 +1,39 @@
+<emblem xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:spine="http://diglib.hab.de/rules/schema/emblem" xmlns="http://diglib.hab.de/rules/schema/emblem" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" citeNo="IV." xlink:href="http://emblemimages.library.illinois.edu/meditationesembl00voge/preservation/meditationesembl00voge_0016-0017.jp2" xml:id="E000004" globalID="http://hdl.handle.net/10111/EmblemRegistry:E000004">
+    <motto>
+      <transcription xml:lang="de">Was du nicht glaubtest/ das geschiht.<normalisation xml:lang="de">Was du nicht glaubtest, das geschieht.</normalisation></transcription>
+      <transcription xml:lang="la">Fiunt, quae posse negabas.</transcription>
+    </motto>
+    <pictura xlink:href="http://emblemimages.library.illinois.edu:8080/cantaloupe-4.1.4/iiif/2/meditationesembl00voge%2Fpreservation%2Fmeditationesembl00voge_0016-0017.jp2/2836,680,1208,1416/full/0/default.jpg" xml:id="E000004_P1">
+      <iconclass rdf:about="http://www.iconclass.org/rkd/24A81">
+        <skos:notation>24A81</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/25F24(DROMEDARY)">
+        <skos:notation>25F24(DROMEDARY)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/25G3(PALM-TREE)">
+        <skos:notation>25G3(PALM-TREE)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/25K16">
+        <skos:notation>25K16</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/41D4411">
+        <skos:notation>41D4411</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/52BB31(+4)">
+        <skos:notation>52BB31(+4)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/73C72422">
+        <skos:notation>73C72422</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/86(FACILIUS ELEPHAS PER FORAMEN ACUS)">
+        <skos:notation>86(FACILIUS ELEPHAS PER FORAMEN ACUS)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/86(FIUNT, QUAE POSSE NEGABAS)">
+        <skos:notation>86(FIUNT, QUAE POSSE NEGABAS)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/86(WAS DU NICHT GLAUBTEST, DAS GESCHIEHT)">
+        <skos:notation>86(WAS DU NICHT GLAUBTEST, DAS GESCHIEHT)</skos:notation>
+      </iconclass>
+    </pictura>
+  </emblem>
+  

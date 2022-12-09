@@ -1,0 +1,53 @@
+[{
+  "id": "E000022",
+  "bookID": "meditationesembl00voge",
+  "ark_id": "ark:/13960/t4bp0kr75",
+  "spineXML": "http://emblemimages.library.illinois.edu/meditationesembl00voge/emblematica/emblem000022.xml",
+  "page_no": 52,
+  "search_keywords": "Der Friedens Schall ist mächtig süß. Der Friedensschall ist mächtig süß. Quam dulcis buccina pacis. 25H113 44G211 48C7352 86(DER FRIEDENSSCHALL IST MÄCHTIG SÜSS) 86(QUAM DULCIS BUCCINA PACIS)",
+  "search_keywords_iconclass_term": "Der Friedens Schall ist mächtig süß. Der Friedensschall ist mächtig süß. Quam dulcis buccina pacis. 25H113 44G211 48C7352 86(DER FRIEDENSSCHALL IST MÄCHTIG SÜSS) 86(QUAM DULCIS BUCCINA PACIS)",
+  "search_motto": [
+"Der Friedens Schall ist mächtig süß.",
+"Der Friedensschall ist mächtig süß.",
+"Quam dulcis buccina pacis."
+],
+  "search_motto_latin": [
+"Quam dulcis buccina pacis."
+],
+  "search_motto_english": null,
+  "search_motto_old_german": [
+"Der Friedens Schall ist mächtig süß.",
+"Der Friedensschall ist mächtig süß."
+],
+  "search_motto_new_german": [
+"Der Friedens Schall ist mächtig süß.",
+"Der Friedensschall ist mächtig süß."
+],
+  "search_motto_dutch": null,
+  "search_motto_italian": null,
+  "search_motto_french": null,
+  "search_motto_greek": null,
+  "search_motto_spanish": null,
+ "search_iconclass": [
+"25H113",
+"44G211",
+"48C7352",
+"86(DER FRIEDENSSCHALL IST MÄCHTIG SÜSS)",
+"86(QUAM DULCIS BUCCINA PACIS)"
+],
+ "display_motto": "Der Friedens Schall ist mächtig süß.",
+  "display_pictura_link": "http://emblemimages.library.illinois.edu/meditationesembl00voge/_access/pictura/E000022.jpg",
+  "display_emblem_link": "http://emblemimages.library.illinois.edu/meditationesembl00voge/_access/emblem/E000022.jpg",
+  "display_book_title": "Meditationes emblematicae de restaurata pace Germaniae =: Sinnebilder von dem widergebrachten Teutschen Frieden",
+  "display_book_has_emblems": true,
+  "display_collection": "University of Illinois at UC",
+  "emblem_more_info_link": "http://emblemimages.library.illinois.edu:8080/cantaloupe-4.1.4/iiif/2/meditationesembl00voge%2Fpreservation%2Fmeditationesembl00voge_0052-0053.jp2/full/full/0/default.jpg",
+  "scanned_pictura_link": "http://emblemimages.library.illinois.edu:8080/cantaloupe-4.1.4/iiif/2/meditationesembl00voge%2Fpreservation%2Fmeditationesembl00voge_0052-0053.jp2/2728,776,1208,1400/full/0/default.jpg",
+  "facet_collection_code": "Illinois",
+  "facet_language_code": [
+"lat",
+"ger"
+],
+  "facet_publication_century": "17th century",
+  "facet_publication_place": "Francofurti"
+}]

@@ -1,0 +1,39 @@
+<emblem xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:spine="http://diglib.hab.de/rules/schema/emblem" xmlns="http://diglib.hab.de/rules/schema/emblem" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" citeNo="V." xlink:href="http://emblemimages.library.illinois.edu/meditationesembl00voge/preservation/meditationesembl00voge_0018-0019.jp2" xml:id="E000005" globalID="http://hdl.handle.net/10111/EmblemRegistry:E000005">
+    <motto>
+      <transcription xml:lang="de">Es bl&#252;ht offt/ was verdorret schien.<normalisation xml:lang="de">Es bl&#252;ht oft, was verdorrt schien.</normalisation></transcription>
+      <transcription xml:lang="la">Patriae spes arida floret.</transcription>
+    </motto>
+    <pictura xlink:href="http://emblemimages.library.illinois.edu:8080/cantaloupe-4.1.4/iiif/2/meditationesembl00voge%2Fpreservation%2Fmeditationesembl00voge_0018-0019.jp2/2872,704,1216,1424/full/0/default.jpg" xml:id="E000005_P1">
+      <iconclass rdf:about="http://www.iconclass.org/rkd/23D42">
+        <skos:notation>23D42</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/25G31(ROSE-BUSH)(+223)">
+        <skos:notation>25G31(ROSE-BUSH)(+223)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/25G31(ROSE-BUSH)(+371)">
+        <skos:notation>25G31(ROSE-BUSH)(+371)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/25G41(ROSE)(+32)">
+        <skos:notation>25G41(ROSE)(+32)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/26B">
+        <skos:notation>26B</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/56D1">
+        <skos:notation>56D1</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/54F131(+4)">
+        <skos:notation>54F131(+4)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/71E318(+0)">
+        <skos:notation>71E318(+0)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/86(ES BL&#220;HT OFT, WAS VERDORRT SCHIEN)">
+        <skos:notation>86(ES BL&#220;HT OFT, WAS VERDORRT SCHIEN)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/86(PATRIAE SPES ARIDA FLORET)">
+        <skos:notation>86(PATRIAE SPES ARIDA FLORET)</skos:notation>
+      </iconclass>
+    </pictura>
+  </emblem>
+  

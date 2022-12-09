@@ -1,0 +1,25 @@
+<emblem xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:spine="http://diglib.hab.de/rules/schema/emblem" xmlns="http://diglib.hab.de/rules/schema/emblem" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" citeNo="XI." xlink:href="http://emblemimages.library.illinois.edu/meditationesembl00voge/preservation/meditationesembl00voge_0030-0031.jp2" xml:id="E000011" globalID="http://hdl.handle.net/10111/EmblemRegistry:E000011">
+    <motto>
+      <transcription xml:lang="de">Ach wie gef&#228;hrlich ist die Sach!<normalisation xml:lang="de">Ach wie gef&#228;hrlich ist die Sache!</normalisation></transcription>
+      <transcription xml:lang="la">Quanti res ista pericli est!</transcription>
+    </motto>
+    <pictura xlink:href="http://emblemimages.library.illinois.edu:8080/cantaloupe-4.1.4/iiif/2/meditationesembl00voge%2Fpreservation%2Fmeditationesembl00voge_0030-0031.jp2/2760,752,1216,1448/full/0/default.jpg" xml:id="E000011_P1">
+      <!-- two notations? -->
+      <iconclass rdf:about="http://www.iconclass.org/rkd/25H1123">
+        <skos:notation>25H1123</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/51MM12(+4):44B421">
+        <skos:notation>51MM12(+4):44B421</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/93E82">
+        <skos:notation>93E82</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/86(ACH WIE GEF&#196;HRLICH IST DIE SACHE!)">
+        <skos:notation>86(ACH WIE GEF&#196;HRLICH IST DIE SACHE!)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/86(QUANTI RES ISTA PERICLI EST!)">
+        <skos:notation>86(QUANTI RES ISTA PERICLI EST!)</skos:notation>
+      </iconclass>
+    </pictura>
+  </emblem>
+  

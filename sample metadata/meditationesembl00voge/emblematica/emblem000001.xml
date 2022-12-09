@@ -1,0 +1,27 @@
+<emblem xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:spine="http://diglib.hab.de/rules/schema/emblem" xmlns="http://diglib.hab.de/rules/schema/emblem" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" citeNo="I." xlink:href="http://emblemimages.library.illinois.edu/meditationesembl00voge/preservation/meditationesembl00voge_0010-0011.jp2" xml:id="E000001" globalID="http://hdl.handle.net/10111/EmblemRegistry:E000001">
+    <motto>
+      <transcription xml:lang="de">Hie sol nun seyn de&#223; Krieges Ziel.<normalisation xml:lang="de">Hier soll nun des Krieges Ziel sein.</normalisation></transcription>
+      <transcription xml:lang="la">Hic belli terminus esto.</transcription>
+    </motto>
+    <pictura xlink:href="http://emblemimages.library.illinois.edu:8080/cantaloupe-4.1.4/iiif/2/meditationesembl00voge%2Fpreservation%2Fmeditationesembl00voge_0010-0011.jp2/2864,800,1144,1392/full/0/default.jpg" xml:id="E000001_P1">
+      <iconclass rdf:about="http://www.iconclass.org/rkd/22C11">
+        <skos:notation>22C11</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/25H1124">
+        <skos:notation>25H1124</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/43A(+12):25G3(OLIVE-TREE)(+27)">
+        <skos:notation>43A(+12):25G3(OLIVE-TREE)(+27)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/86(HIC BELLI TERMINUS ESTO)">
+        <skos:notation>86(HIC BELLI TERMINUS ESTO)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/86(HIER SOLL NUN DES KRIEGES ZIEL SEIN)">
+        <skos:notation>86(HIER SOLL NUN DES KRIEGES ZIEL SEIN)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/96A16">
+        <skos:notation>96A16</skos:notation>
+      </iconclass>
+    </pictura>
+  </emblem>
+  

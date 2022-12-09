@@ -1,0 +1,24 @@
+<emblem xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:spine="http://diglib.hab.de/rules/schema/emblem" xmlns="http://diglib.hab.de/rules/schema/emblem" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" citeNo="II." xlink:href="http://emblemimages.library.illinois.edu/meditationesembl00voge/preservation/meditationesembl00voge_0012-0013.jp2" xml:id="E000002" globalID="http://hdl.handle.net/10111/EmblemRegistry:E000002">
+    <motto>
+      <transcription xml:lang="de">Wie lieblich ist der Friedensbott!<normalisation xml:lang="de">Wie lieblich ist die Friedensbotschaft!</normalisation></transcription>
+      <transcription xml:lang="la">Speciosa en nuncia Pacis!</transcription>
+    </motto>
+    <pictura xlink:href="http://emblemimages.library.illinois.edu:8080/cantaloupe-4.1.4/iiif/2/meditationesembl00voge%2Fpreservation%2Fmeditationesembl00voge_0012-0013.jp2/2760,760,1184,1432/full/0/default.jpg" xml:id="E000002_P1">
+      <iconclass rdf:about="http://www.iconclass.org/rkd/24A81">
+        <skos:notation>24A81</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/31A25112(+934)">
+        <skos:notation>31A25112(+934)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/71B33221">
+        <skos:notation>71B33221</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/86(SPECIOSA EN NUNCIA PACIS!)">
+        <skos:notation>86(SPECIOSA EN NUNCIA PACIS!)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/86(WIE LIEBLICH IST DIE FRIEDENSBOTSCHAFT!)">
+        <skos:notation>86(WIE LIEBLICH IST DIE FRIEDENSBOTSCHAFT!)</skos:notation>
+      </iconclass>
+    </pictura>
+  </emblem>
+  

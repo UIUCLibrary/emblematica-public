@@ -1,0 +1,54 @@
+[{
+  "id": "E000001",
+  "bookID": "meditationesembl00voge",
+  "ark_id": "ark:/13960/t4bp0kr75",
+  "spineXML": "http://emblemimages.library.illinois.edu/meditationesembl00voge/emblematica/emblem000001.xml",
+  "page_no": 10,
+  "search_keywords": "Hie sol nun seyn deß Krieges Ziel. Hier soll nun des Krieges Ziel sein. Hic belli terminus esto. 22C11 25H1124 43A(+12):25G3(OLIVE-TREE)(+27) 86(HIC BELLI TERMINUS ESTO) 86(HIER SOLL NUN DES KRIEGES ZIEL SEIN) 96A16",
+  "search_keywords_iconclass_term": "Hie sol nun seyn deß Krieges Ziel. Hier soll nun des Krieges Ziel sein. Hic belli terminus esto. 22C11 25H1124 43A(+12):25G3(OLIVE-TREE)(+27) 86(HIC BELLI TERMINUS ESTO) 86(HIER SOLL NUN DES KRIEGES ZIEL SEIN) 96A16",
+  "search_motto": [
+"Hie sol nun seyn deß Krieges Ziel.",
+"Hier soll nun des Krieges Ziel sein.",
+"Hic belli terminus esto."
+],
+  "search_motto_latin": [
+"Hic belli terminus esto."
+],
+  "search_motto_english": null,
+  "search_motto_old_german": [
+"Hie sol nun seyn deß Krieges Ziel.",
+"Hier soll nun des Krieges Ziel sein."
+],
+  "search_motto_new_german": [
+"Hie sol nun seyn deß Krieges Ziel.",
+"Hier soll nun des Krieges Ziel sein."
+],
+  "search_motto_dutch": null,
+  "search_motto_italian": null,
+  "search_motto_french": null,
+  "search_motto_greek": null,
+  "search_motto_spanish": null,
+ "search_iconclass": [
+"22C11",
+"25H1124",
+"43A(+12):25G3(OLIVE-TREE)(+27)",
+"86(HIC BELLI TERMINUS ESTO)",
+"86(HIER SOLL NUN DES KRIEGES ZIEL SEIN)",
+"96A16"
+],
+ "display_motto": "Hie sol nun seyn deß Krieges Ziel.",
+  "display_pictura_link": "http://emblemimages.library.illinois.edu/meditationesembl00voge/_access/pictura/E000001.jpg",
+  "display_emblem_link": "http://emblemimages.library.illinois.edu/meditationesembl00voge/_access/emblem/E000001.jpg",
+  "display_book_title": "Meditationes emblematicae de restaurata pace Germaniae =: Sinnebilder von dem widergebrachten Teutschen Frieden",
+  "display_book_has_emblems": true,
+  "display_collection": "University of Illinois at UC",
+  "emblem_more_info_link": "http://emblemimages.library.illinois.edu:8080/cantaloupe-4.1.4/iiif/2/meditationesembl00voge%2Fpreservation%2Fmeditationesembl00voge_0010-0011.jp2/full/full/0/default.jpg",
+  "scanned_pictura_link": "http://emblemimages.library.illinois.edu:8080/cantaloupe-4.1.4/iiif/2/meditationesembl00voge%2Fpreservation%2Fmeditationesembl00voge_0010-0011.jp2/2864,800,1144,1392/full/0/default.jpg",
+  "facet_collection_code": "Illinois",
+  "facet_language_code": [
+"lat",
+"ger"
+],
+  "facet_publication_century": "17th century",
+  "facet_publication_place": "Francofurti"
+}]

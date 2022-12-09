@@ -1,0 +1,34 @@
+<emblem xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:spine="http://diglib.hab.de/rules/schema/emblem" xmlns="http://diglib.hab.de/rules/schema/emblem" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" citeNo="XVII." xlink:href="http://emblemimages.library.illinois.edu/meditationesembl00voge/preservation/meditationesembl00voge_0042-0043.jp2" xml:id="E000017" globalID="http://hdl.handle.net/10111/EmblemRegistry:E000017">
+    <motto>
+      <transcription xml:lang="de">Gott gibt den Au&#223;gang an die Hand.<normalisation xml:lang="de">Gott gibt den Ausgang in die Hand.</normalisation></transcription>
+      <transcription xml:lang="la">Filum Deus ecce! ministrat.</transcription>
+    </motto>
+    <pictura xlink:href="http://emblemimages.library.illinois.edu:8080/cantaloupe-4.1.4/iiif/2/meditationesembl00voge%2Fpreservation%2Fmeditationesembl00voge_0042-0043.jp2/2848,792,1168,1456/full/0/default.jpg" xml:id="E000017_P1">
+      <!-- location of Parentheses??? -->
+      <iconclass rdf:about="http://www.iconclass.org/rkd/26A">
+        <skos:notation>26A</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/31A2511(+933)">
+        <skos:notation>31A2511(+933)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/31D14">
+        <skos:notation>31D14</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/41A634">
+        <skos:notation>41A634</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/47H352">
+        <skos:notation>47H352</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/54A6(+4)">
+        <skos:notation>54A6(+4)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/86(GOTT GIBT DEN AUSGANG IN DIE HAND)">
+        <skos:notation>86(GOTT GIBT DEN AUSGANG IN DIE HAND)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/86(FILUM DEUS ECCE! MINISTRAT)">
+        <skos:notation>86(FILUM DEUS ECCE! MINISTRAT)</skos:notation>
+      </iconclass>
+    </pictura>
+  </emblem>
+  

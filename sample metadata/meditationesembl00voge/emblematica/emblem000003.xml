@@ -1,0 +1,28 @@
+<emblem xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:spine="http://diglib.hab.de/rules/schema/emblem" xmlns="http://diglib.hab.de/rules/schema/emblem" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" citeNo="III." xlink:href="http://emblemimages.library.illinois.edu/meditationesembl00voge/preservation/meditationesembl00voge_0014-0015.jp2" xml:id="E000003" globalID="http://hdl.handle.net/10111/EmblemRegistry:E000003">
+    <motto>
+      <transcription xml:lang="de">Man pre&#223;t das Oel im End herau&#223;.<normalisation xml:lang="de">Man presst das &#214;l am Ende heraus.</normalisation></transcription>
+      <transcription xml:lang="la">Tandem exurgetur olivum.</transcription>
+    </motto>
+    <pictura xlink:href="http://emblemimages.library.illinois.edu:8080/cantaloupe-4.1.4/iiif/2/meditationesembl00voge%2Fpreservation%2Fmeditationesembl00voge_0014-0015.jp2/2776,728,1224,1456/full/0/default.jpg" xml:id="E000003_P1">
+      <!-- another example of two notations... -->
+      <iconclass rdf:about="http://www.iconclass.org/rkd/41C671">
+        <skos:notation>41C671</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/47D7(MILL-STONE)">
+        <skos:notation>47D7(MILL-STONE)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/47D8(PRESS)(+461):25G21(OLIVE)">
+        <skos:notation>47D8(PRESS)(+461):25G21(OLIVE)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/54A11(+4)">
+        <skos:notation>54A11(+4)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/86(MAN PRESST DAS &#214;L AM ENDE)">
+        <skos:notation>86(MAN PRESST DAS &#214;L AM ENDE)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/86(TANDEM EXURGETUR OLIVUM)">
+        <skos:notation>86(TANDEM EXURGETUR OLIVUM)</skos:notation>
+      </iconclass>
+    </pictura>
+  </emblem>
+  

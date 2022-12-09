@@ -1,0 +1,55 @@
+[{
+  "id": "E000020",
+  "bookID": "meditationesembl00voge",
+  "ark_id": "ark:/13960/t4bp0kr75",
+  "spineXML": "http://emblemimages.library.illinois.edu/meditationesembl00voge/emblematica/emblem000020.xml",
+  "page_no": 48,
+  "search_keywords": "Die Schärpffe rührt die Funcken auff. Die Schärfe rührt die Funken auf. Scintillas prolicit ignis. 41B133 41B122 41D221(HAT) 45B 54AA46(+4) 86(DIE SCHÄRFE RÜHRT DIE FUNKEN AUF) 86(SCINTILLAS PROLICIT IGNIS)",
+  "search_keywords_iconclass_term": "Die Schärpffe rührt die Funcken auff. Die Schärfe rührt die Funken auf. Scintillas prolicit ignis. 41B133 41B122 41D221(HAT) 45B 54AA46(+4) 86(DIE SCHÄRFE RÜHRT DIE FUNKEN AUF) 86(SCINTILLAS PROLICIT IGNIS)",
+  "search_motto": [
+"Die Schärpffe rührt die Funcken auff.",
+"Die Schärfe rührt die Funken auf.",
+"Scintillas prolicit ignis."
+],
+  "search_motto_latin": [
+"Scintillas prolicit ignis."
+],
+  "search_motto_english": null,
+  "search_motto_old_german": [
+"Die Schärpffe rührt die Funcken auff.",
+"Die Schärfe rührt die Funken auf."
+],
+  "search_motto_new_german": [
+"Die Schärpffe rührt die Funcken auff.",
+"Die Schärfe rührt die Funken auf."
+],
+  "search_motto_dutch": null,
+  "search_motto_italian": null,
+  "search_motto_french": null,
+  "search_motto_greek": null,
+  "search_motto_spanish": null,
+ "search_iconclass": [
+"41B133",
+"41B122",
+"41D221(HAT)",
+"45B",
+"54AA46(+4)",
+"86(DIE SCHÄRFE RÜHRT DIE FUNKEN AUF)",
+"86(SCINTILLAS PROLICIT IGNIS)"
+],
+ "display_motto": "Die Schärpffe rührt die Funcken auff.",
+  "display_pictura_link": "http://emblemimages.library.illinois.edu/meditationesembl00voge/_access/pictura/E000020.jpg",
+  "display_emblem_link": "http://emblemimages.library.illinois.edu/meditationesembl00voge/_access/emblem/E000020.jpg",
+  "display_book_title": "Meditationes emblematicae de restaurata pace Germaniae =: Sinnebilder von dem widergebrachten Teutschen Frieden",
+  "display_book_has_emblems": true,
+  "display_collection": "University of Illinois at UC",
+  "emblem_more_info_link": "http://emblemimages.library.illinois.edu:8080/cantaloupe-4.1.4/iiif/2/meditationesembl00voge%2Fpreservation%2Fmeditationesembl00voge_0048-0049.jp2/full/full/0/default.jpg",
+  "scanned_pictura_link": "http://emblemimages.library.illinois.edu:8080/cantaloupe-4.1.4/iiif/2/meditationesembl00voge%2Fpreservation%2Fmeditationesembl00voge_0048-0049.jp2/2824,800,1184,1424/full/0/default.jpg",
+  "facet_collection_code": "Illinois",
+  "facet_language_code": [
+"lat",
+"ger"
+],
+  "facet_publication_century": "17th century",
+  "facet_publication_place": "Francofurti"
+}]

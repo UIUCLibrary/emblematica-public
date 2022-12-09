@@ -1,0 +1,54 @@
+[{
+  "id": "E000003",
+  "bookID": "meditationesembl00voge",
+  "ark_id": "ark:/13960/t4bp0kr75",
+  "spineXML": "http://emblemimages.library.illinois.edu/meditationesembl00voge/emblematica/emblem000003.xml",
+  "page_no": 14,
+  "search_keywords": "Man preßt das Oel im End herauß. Man presst das Öl am Ende heraus. Tandem exurgetur olivum. 41C671 47D7(MILL-STONE) 47D8(PRESS)(+461):25G21(OLIVE) 54A11(+4) 86(MAN PRESST DAS ÖL AM ENDE) 86(TANDEM EXURGETUR OLIVUM)",
+  "search_keywords_iconclass_term": "Man preßt das Oel im End herauß. Man presst das Öl am Ende heraus. Tandem exurgetur olivum. 41C671 47D7(MILL-STONE) 47D8(PRESS)(+461):25G21(OLIVE) 54A11(+4) 86(MAN PRESST DAS ÖL AM ENDE) 86(TANDEM EXURGETUR OLIVUM)",
+  "search_motto": [
+"Man preßt das Oel im End herauß.",
+"Man presst das Öl am Ende heraus.",
+"Tandem exurgetur olivum."
+],
+  "search_motto_latin": [
+"Tandem exurgetur olivum."
+],
+  "search_motto_english": null,
+  "search_motto_old_german": [
+"Man preßt das Oel im End herauß.",
+"Man presst das Öl am Ende heraus."
+],
+  "search_motto_new_german": [
+"Man preßt das Oel im End herauß.",
+"Man presst das Öl am Ende heraus."
+],
+  "search_motto_dutch": null,
+  "search_motto_italian": null,
+  "search_motto_french": null,
+  "search_motto_greek": null,
+  "search_motto_spanish": null,
+ "search_iconclass": [
+"41C671",
+"47D7(MILL-STONE)",
+"47D8(PRESS)(+461):25G21(OLIVE)",
+"54A11(+4)",
+"86(MAN PRESST DAS ÖL AM ENDE)",
+"86(TANDEM EXURGETUR OLIVUM)"
+],
+ "display_motto": "Man preßt das Oel im End herauß.",
+  "display_pictura_link": "http://emblemimages.library.illinois.edu/meditationesembl00voge/_access/pictura/E000003.jpg",
+  "display_emblem_link": "http://emblemimages.library.illinois.edu/meditationesembl00voge/_access/emblem/E000003.jpg",
+  "display_book_title": "Meditationes emblematicae de restaurata pace Germaniae =: Sinnebilder von dem widergebrachten Teutschen Frieden",
+  "display_book_has_emblems": true,
+  "display_collection": "University of Illinois at UC",
+  "emblem_more_info_link": "http://emblemimages.library.illinois.edu:8080/cantaloupe-4.1.4/iiif/2/meditationesembl00voge%2Fpreservation%2Fmeditationesembl00voge_0014-0015.jp2/full/full/0/default.jpg",
+  "scanned_pictura_link": "http://emblemimages.library.illinois.edu:8080/cantaloupe-4.1.4/iiif/2/meditationesembl00voge%2Fpreservation%2Fmeditationesembl00voge_0014-0015.jp2/2776,728,1224,1456/full/0/default.jpg",
+  "facet_collection_code": "Illinois",
+  "facet_language_code": [
+"lat",
+"ger"
+],
+  "facet_publication_century": "17th century",
+  "facet_publication_place": "Francofurti"
+}]

@@ -1,0 +1,57 @@
+[{
+  "id": "E000008",
+  "bookID": "meditationesembl00voge",
+  "ark_id": "ark:/13960/t4bp0kr75",
+  "spineXML": "http://emblemimages.library.illinois.edu/meditationesembl00voge/emblematica/emblem000008.xml",
+  "page_no": 24,
+  "search_keywords": "Die Krafft deß Himmels kan es thun. Die Kraft des Himmels kann es tun. Maxima vis coeli est. 11A23 11C12 25I3(+1) 26A 31A2245(+933) 47D8(ANVIL) 47D8(HAMMER) 86(DIE KRAFT DES HIMMELS KANN ES TUN) 86(MAXIMA VIS COELI EST)",
+  "search_keywords_iconclass_term": "Die Krafft deß Himmels kan es thun. Die Kraft des Himmels kann es tun. Maxima vis coeli est. 11A23 11C12 25I3(+1) 26A 31A2245(+933) 47D8(ANVIL) 47D8(HAMMER) 86(DIE KRAFT DES HIMMELS KANN ES TUN) 86(MAXIMA VIS COELI EST)",
+  "search_motto": [
+"Die Krafft deß Himmels kan es thun.",
+"Die Kraft des Himmels kann es tun.",
+"Maxima vis coeli est."
+],
+  "search_motto_latin": [
+"Maxima vis coeli est."
+],
+  "search_motto_english": null,
+  "search_motto_old_german": [
+"Die Krafft deß Himmels kan es thun.",
+"Die Kraft des Himmels kann es tun."
+],
+  "search_motto_new_german": [
+"Die Krafft deß Himmels kan es thun.",
+"Die Kraft des Himmels kann es tun."
+],
+  "search_motto_dutch": null,
+  "search_motto_italian": null,
+  "search_motto_french": null,
+  "search_motto_greek": null,
+  "search_motto_spanish": null,
+ "search_iconclass": [
+"11A23",
+"11C12",
+"25I3(+1)",
+"26A",
+"31A2245(+933)",
+"47D8(ANVIL)",
+"47D8(HAMMER)",
+"86(DIE KRAFT DES HIMMELS KANN ES TUN)",
+"86(MAXIMA VIS COELI EST)"
+],
+ "display_motto": "Die Krafft deß Himmels kan es thun.",
+  "display_pictura_link": "http://emblemimages.library.illinois.edu/meditationesembl00voge/_access/pictura/E000008.jpg",
+  "display_emblem_link": "http://emblemimages.library.illinois.edu/meditationesembl00voge/_access/emblem/E000008.jpg",
+  "display_book_title": "Meditationes emblematicae de restaurata pace Germaniae =: Sinnebilder von dem widergebrachten Teutschen Frieden",
+  "display_book_has_emblems": true,
+  "display_collection": "University of Illinois at UC",
+  "emblem_more_info_link": "http://emblemimages.library.illinois.edu:8080/cantaloupe-4.1.4/iiif/2/meditationesembl00voge%2Fpreservation%2Fmeditationesembl00voge_0024-0025.jp2/full/full/0/default.jpg",
+  "scanned_pictura_link": "http://emblemimages.library.illinois.edu:8080/cantaloupe-4.1.4/iiif/2/meditationesembl00voge%2Fpreservation%2Fmeditationesembl00voge_0024-0025.jp2/2832,696,1216,1456/full/0/default.jpg",
+  "facet_collection_code": "Illinois",
+  "facet_language_code": [
+"lat",
+"ger"
+],
+  "facet_publication_century": "17th century",
+  "facet_publication_place": "Francofurti"
+}]

@@ -1,0 +1,34 @@
+<emblem xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:spine="http://diglib.hab.de/rules/schema/emblem" xmlns="http://diglib.hab.de/rules/schema/emblem" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" citeNo="XII." xlink:href="http://emblemimages.library.illinois.edu/meditationesembl00voge/preservation/meditationesembl00voge_0032-0033.jp2" xml:id="E000012" globalID="http://hdl.handle.net/10111/EmblemRegistry:E000012">
+    <motto>
+      <transcription xml:lang="de">F&#252;r solche grosse Gaabe danck.<normalisation xml:lang="de">F&#252;r
+               solch gro&#223;e Gabe Dank.</normalisation></transcription>
+      <transcription xml:lang="la">Tanto pro munere grates.</transcription>
+    </motto>
+    <pictura xlink:href="http://emblemimages.library.illinois.edu:8080/cantaloupe-4.1.4/iiif/2/meditationesembl00voge%2Fpreservation%2Fmeditationesembl00voge_0032-0033.jp2/2768,728,1216,1480/full/0/default.jpg" xml:id="E000012_P1">
+      <iconclass rdf:about="http://www.iconclass.org/rkd/11Q7131(APSE)">
+        <skos:notation>11Q7131(APSE)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/11Q7141">
+        <skos:notation>11Q7141</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/11Q71421">
+        <skos:notation>11Q71421</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/31A22210:41B121">
+        <skos:notation>31A22210:41B121</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/31A25111">
+        <skos:notation>31A25111</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/57A8(+4)">
+        <skos:notation>57A8(+4)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/86(F&#220;R SOLCH GROSSE GABE DANK)">
+        <skos:notation>86(F&#220;R SOLCH GROSSE GABE DANK)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/86(TANTO PRO MUNERE GRATES)">
+        <skos:notation>86(TANTO PRO MUNERE GRATES)</skos:notation>
+      </iconclass>
+    </pictura>
+  </emblem>
+  

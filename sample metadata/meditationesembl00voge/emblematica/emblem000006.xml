@@ -1,0 +1,30 @@
+<emblem xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:spine="http://diglib.hab.de/rules/schema/emblem" xmlns="http://diglib.hab.de/rules/schema/emblem" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" citeNo="VI." xlink:href="http://emblemimages.library.illinois.edu/meditationesembl00voge/preservation/meditationesembl00voge_0020-0021.jp2" xml:id="E000006" globalID="http://hdl.handle.net/10111/EmblemRegistry:E000006">
+    <motto>
+      <transcription xml:lang="de">Der Baum f&#228;llt nicht von einem Streich.<normalisation xml:lang="de">Der Baum f&#228;llt nicht von einem Streich.</normalisation></transcription>
+      <transcription xml:lang="la">Haud ictu concidit uno.</transcription>
+    </motto>
+    <pictura xlink:href="http://emblemimages.library.illinois.edu:8080/cantaloupe-4.1.4/iiif/2/meditationesembl00voge%2Fpreservation%2Fmeditationesembl00voge_0020-0021.jp2/2776,712,1248,1456/full/0/default.jpg" xml:id="E000006_P1">
+      <iconclass rdf:about="http://www.iconclass.org/rkd/25G21(ACORN)">
+        <skos:notation>25G21(ACORN)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/25G3(OAK)(+21)">
+        <skos:notation>25G3(OAK)(+21)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/47D8(AXE)">
+        <skos:notation>47D8(AXE)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/47I84">
+        <skos:notation>47I84</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/53A2(+4)">
+        <skos:notation>53A2(+4)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/86(DER BAUM F&#196;LLT NICHT VON EINEM STREICH)">
+        <skos:notation>86(DER BAUM F&#196;LLT NICHT VON EINEM STREICH)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/86(HAUD ICTU CONCIDIT UNO)">
+        <skos:notation>86(HAUD ICTU CONCIDIT UNO)</skos:notation>
+      </iconclass>
+    </pictura>
+  </emblem>
+  

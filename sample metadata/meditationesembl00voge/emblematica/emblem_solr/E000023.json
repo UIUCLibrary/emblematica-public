@@ -1,0 +1,55 @@
+[{
+  "id": "E000023",
+  "bookID": "meditationesembl00voge",
+  "ark_id": "ark:/13960/t4bp0kr75",
+  "spineXML": "http://emblemimages.library.illinois.edu/meditationesembl00voge/emblematica/emblem000023.xml",
+  "page_no": 54,
+  "search_keywords": "Die Fluthen stillen ist das best. Die Fluten zu stillen ist das Beste. Praestat componere motus. 25H13 26C32 54A46 92H18(TRIDENT) 92H1411 86(DIE FLUTEN ZU STILLEN IST DAS BESTE) 86(PRAESTAT COMPONERE MOTUS)",
+  "search_keywords_iconclass_term": "Die Fluthen stillen ist das best. Die Fluten zu stillen ist das Beste. Praestat componere motus. 25H13 26C32 54A46 92H18(TRIDENT) 92H1411 86(DIE FLUTEN ZU STILLEN IST DAS BESTE) 86(PRAESTAT COMPONERE MOTUS)",
+  "search_motto": [
+"Die Fluthen stillen ist das best.",
+"Die Fluten zu stillen ist das Beste.",
+"Praestat componere motus."
+],
+  "search_motto_latin": [
+"Praestat componere motus."
+],
+  "search_motto_english": null,
+  "search_motto_old_german": [
+"Die Fluthen stillen ist das best.",
+"Die Fluten zu stillen ist das Beste."
+],
+  "search_motto_new_german": [
+"Die Fluthen stillen ist das best.",
+"Die Fluten zu stillen ist das Beste."
+],
+  "search_motto_dutch": null,
+  "search_motto_italian": null,
+  "search_motto_french": null,
+  "search_motto_greek": null,
+  "search_motto_spanish": null,
+ "search_iconclass": [
+"25H13",
+"26C32",
+"54A46",
+"92H18(TRIDENT)",
+"92H1411",
+"86(DIE FLUTEN ZU STILLEN IST DAS BESTE)",
+"86(PRAESTAT COMPONERE MOTUS)"
+],
+ "display_motto": "Die Fluthen stillen ist das best.",
+  "display_pictura_link": "http://emblemimages.library.illinois.edu/meditationesembl00voge/_access/pictura/E000023.jpg",
+  "display_emblem_link": "http://emblemimages.library.illinois.edu/meditationesembl00voge/_access/emblem/E000023.jpg",
+  "display_book_title": "Meditationes emblematicae de restaurata pace Germaniae =: Sinnebilder von dem widergebrachten Teutschen Frieden",
+  "display_book_has_emblems": true,
+  "display_collection": "University of Illinois at UC",
+  "emblem_more_info_link": "http://emblemimages.library.illinois.edu:8080/cantaloupe-4.1.4/iiif/2/meditationesembl00voge%2Fpreservation%2Fmeditationesembl00voge_0054-0055.jp2/full/full/0/default.jpg",
+  "scanned_pictura_link": "http://emblemimages.library.illinois.edu:8080/cantaloupe-4.1.4/iiif/2/meditationesembl00voge%2Fpreservation%2Fmeditationesembl00voge_0054-0055.jp2/2832,704,1152,1432/full/0/default.jpg",
+  "facet_collection_code": "Illinois",
+  "facet_language_code": [
+"lat",
+"ger"
+],
+  "facet_publication_century": "17th century",
+  "facet_publication_place": "Francofurti"
+}]

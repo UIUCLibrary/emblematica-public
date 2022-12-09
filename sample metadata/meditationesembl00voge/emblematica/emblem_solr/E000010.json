@@ -1,0 +1,54 @@
+[{
+  "id": "E000010",
+  "bookID": "meditationesembl00voge",
+  "ark_id": "ark:/13960/t4bp0kr75",
+  "spineXML": "http://emblemimages.library.illinois.edu/meditationesembl00voge/emblematica/emblem000010.xml",
+  "page_no": 28,
+  "search_keywords": "Schild/ Schwerd und Spieß zerschlägt der Herr. Schild, Schwert und Spieß zerschlägt der Herr. Clypeum confringit & Hastam. 45C1(+69) 45C16(CANNON)(+69) 45C19(SHIELD)(+69) 45C22(+69) 86(CLYPEUM CONFRINGIT & HASTAM) 86(SCHILD, SCHWERT UND SPIESS ZERSCHLÄGT DER HERR)",
+  "search_keywords_iconclass_term": "Schild/ Schwerd und Spieß zerschlägt der Herr. Schild, Schwert und Spieß zerschlägt der Herr. Clypeum confringit & Hastam. 45C1(+69) 45C16(CANNON)(+69) 45C19(SHIELD)(+69) 45C22(+69) 86(CLYPEUM CONFRINGIT & HASTAM) 86(SCHILD, SCHWERT UND SPIESS ZERSCHLÄGT DER HERR)",
+  "search_motto": [
+"Schild/ Schwerd und Spieß zerschlägt der Herr.",
+"Schild, Schwert und Spieß zerschlägt der Herr.",
+"Clypeum confringit & Hastam."
+],
+  "search_motto_latin": [
+"Clypeum confringit & Hastam."
+],
+  "search_motto_english": null,
+  "search_motto_old_german": [
+"Schild/ Schwerd und Spieß zerschlägt der Herr.",
+"Schild, Schwert und Spieß zerschlägt der Herr."
+],
+  "search_motto_new_german": [
+"Schild/ Schwerd und Spieß zerschlägt der Herr.",
+"Schild, Schwert und Spieß zerschlägt der Herr."
+],
+  "search_motto_dutch": null,
+  "search_motto_italian": null,
+  "search_motto_french": null,
+  "search_motto_greek": null,
+  "search_motto_spanish": null,
+ "search_iconclass": [
+"45C1(+69)",
+"45C16(CANNON)(+69)",
+"45C19(SHIELD)(+69)",
+"45C22(+69)",
+"86(CLYPEUM CONFRINGIT & HASTAM)",
+"86(SCHILD, SCHWERT UND SPIESS ZERSCHLÄGT DER HERR)"
+],
+ "display_motto": "Schild/ Schwerd und Spieß zerschlägt der Herr.",
+  "display_pictura_link": "http://emblemimages.library.illinois.edu/meditationesembl00voge/_access/pictura/E000010.jpg",
+  "display_emblem_link": "http://emblemimages.library.illinois.edu/meditationesembl00voge/_access/emblem/E000010.jpg",
+  "display_book_title": "Meditationes emblematicae de restaurata pace Germaniae =: Sinnebilder von dem widergebrachten Teutschen Frieden",
+  "display_book_has_emblems": true,
+  "display_collection": "University of Illinois at UC",
+  "emblem_more_info_link": "http://emblemimages.library.illinois.edu:8080/cantaloupe-4.1.4/iiif/2/meditationesembl00voge%2Fpreservation%2Fmeditationesembl00voge_0028-0029.jp2/full/full/0/default.jpg",
+  "scanned_pictura_link": "http://emblemimages.library.illinois.edu:8080/cantaloupe-4.1.4/iiif/2/meditationesembl00voge%2Fpreservation%2Fmeditationesembl00voge_0028-0029.jp2/2736,752,1224,1456/full/0/default.jpg",
+  "facet_collection_code": "Illinois",
+  "facet_language_code": [
+"lat",
+"ger"
+],
+  "facet_publication_century": "17th century",
+  "facet_publication_place": "Francofurti"
+}]

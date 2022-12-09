@@ -1,0 +1,27 @@
+<emblem xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:spine="http://diglib.hab.de/rules/schema/emblem" xmlns="http://diglib.hab.de/rules/schema/emblem" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" citeNo="VII." xlink:href="http://emblemimages.library.illinois.edu/meditationesembl00voge/preservation/meditationesembl00voge_0022-0023.jp2" xml:id="E000007" globalID="http://hdl.handle.net/10111/EmblemRegistry:E000007">
+    <motto>
+      <transcription xml:lang="de">Man gehet auch gem&#228;chlich weit.<normalisation xml:lang="de">Man geht auch gem&#228;chlich weit.</normalisation></transcription>
+      <transcription xml:lang="la">Iuvat &amp; procedere lente.</transcription>
+    </motto>
+    <pictura xlink:href="http://emblemimages.library.illinois.edu:8080/cantaloupe-4.1.4/iiif/2/meditationesembl00voge%2Fpreservation%2Fmeditationesembl00voge_0022-0023.jp2/2752,752,1216,1448/full/0/default.jpg" xml:id="E000007_P1">
+      <iconclass rdf:about="http://www.iconclass.org/rkd/22C11">
+        <skos:notation>22C11</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/25F72(SNAIL)(+521)">
+        <skos:notation>25F72(SNAIL)(+521)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/51MM1(+4)">
+        <skos:notation>51MM1(+4)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/53A2(+4)">
+        <skos:notation>53A2(+4)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/86(IUVAT &amp; PROCEDERE LENTE)">
+        <skos:notation>86(IUVAT &amp; PROCEDERE LENTE)</skos:notation>
+      </iconclass>
+      <iconclass rdf:about="http://www.iconclass.org/rkd/86(MAN GEHT AUCH GEM&#196;CHLICH WEIT)">
+        <skos:notation>86(MAN GEHT AUCH GEM&#196;CHLICH WEIT)</skos:notation>
+      </iconclass>
+    </pictura>
+  </emblem>
+  
