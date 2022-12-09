@@ -1,0 +1,148 @@
+
+     {
+        "class": "Item",
+        "id": "",
+        "public_uri": null,
+        "variant": null,
+        "elements": [
+    
+         {
+           "name": "type",
+           "value": "Text", 
+           "uri": null
+          },
+         {
+           "name": "isPartof",
+           "value": "Emblematica Online", 
+           "uri": "http://emblematica.library.illinois.edu/"
+          },
+          {
+           "name": "title",
+           "value": "Monumentum Extremi Honoris, Perennis Virtutis Piis Manibus Serenissimi, Ac Potentissimi Principis Ferdinandi Mariae, Utriusque Bavariae, ac Superioris Palatinatus Ducis, Comitis Palatini Rheni, S.R.I. Archidapiferi Electoris, Landgravii Leuchtenbergensis: In Regio Electorali Templo RR. PP. Clericorum Regularium Erectum, ac Nuncupatum", 
+           "uri": null
+          },
+          {
+           "name": "aut",
+           "value": "Verani, Gaetano Felice", 
+           "uri": "http://d-nb.info/gnd/12873664X"
+          },
+          {
+           "name": "oth",
+           "value": "Ferdinand Maria <Bayern, Kurfürst>", 
+           "uri": "http://d-nb.info/gnd/119105691"
+          },
+          {
+           "name": "dte",
+           "value": "Maximilianus Emmanuel, Utriusque Bavariae ac Superioris Palatinatus Dux Comes Palatinus Rheni Sacri Romani Imperii Archidapifer & Elector", 
+           "uri": ""
+          },
+          {
+           "name": "clb",
+           "value": "C. A.", 
+           "uri": ""
+          },
+          {
+           "name": "clb",
+           "value": "Wening, Michael", 
+           "uri": ""
+          },
+          {
+           "name": "prt",
+           "value": "Jäcklin, Johann", 
+           "uri": "http://d-nb.info/gnd/1037502531"
+          },
+          {
+           "name": "genre",
+           "value": "Leichenpredigt", 
+           "uri": ""
+          },
+          {
+           "name": "genre",
+           "value": "Ordensliteratur:Theatiner", 
+           "uri": ""
+          },
+          {
+           "name": "genre",
+           "value": "Emblembuch", 
+           "uri": ""
+          },
+          {
+           "name": "publicationPlace",
+           "value": "Monachii", 
+           "uri": ""
+          },
+          {
+           "name": "publisher",
+           "value": "Jaecklinus", 
+           "uri": ""
+          },
+          {
+           "name": "date",
+           "value": "1679", 
+           "uri": null
+          },
+          {
+           "name": "edition",
+           "value": "", 
+           "uri": null
+          },
+          {
+           "name": "issurance",
+           "value": "", 
+           "uri": null
+          },
+          {
+           "name": "extent",
+           "value": "", 
+           "uri": null
+          },
+          {
+           "name": "dimensions",
+           "value": "", 
+           "uri": null
+          },
+          {
+           "name": "language",
+           "value": "lat", 
+           "uri": "http://id.loc.gov/vocabulary/iso639-2/lat"
+          }
+       ],
+      "children": ["http://hdl.handle.net/10111/EmblemRegistry:E001943"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E001944"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E001945"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E001946"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E001947"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E001948"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E001949"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E001950"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E001951"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E001952"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E001953"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E001954"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E001955"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E001956"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E001957"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E001958"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E001959"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E001960"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E001961"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E001962"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E001963"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E001964"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E001965"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E001966"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E001967"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E001968"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E001969"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E001970"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E001971"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E001972"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E001973"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E001974"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E001975"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E001976"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E001977"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E001978"
+         
+      ]
+         }
