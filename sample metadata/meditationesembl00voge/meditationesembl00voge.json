@@ -1,0 +1,166 @@
+
+     {
+        "class": "Item",
+        "id": "",
+        "public_uri": null,
+        "variant": null,
+        "elements": [
+    
+         {
+           "name": "type",
+           "value": "Text", 
+           "uri": null
+          },
+         {
+           "name": "isPartof",
+           "value": "Emblematica Online", 
+           "uri": "http://emblematica.library.illinois.edu/"
+          },
+          {
+           "name": "title",
+           "value": "Meditationes emblematicae de restaurata pace Germaniae =: Sinnebilder von dem widergebrachten Teutschen Frieden", 
+           "uri": null
+          },
+          {
+           "name": "title",
+           "value": "Sinnebilder von dem widergebrachten Teutschen Frieden", 
+           "uri": null
+          },
+          {
+           "name": "title",
+           "value": "Meditationes de restaurata pace", 
+           "uri": null
+          },
+          {
+           "name": "title",
+           "value": "Sinnbilder von dem wiedergebrachten Frieden in Teutschlandt", 
+           "uri": null
+          },
+          {
+           "name": "author",
+           "value": "Vogel, Johann", 
+           "uri": "http://viaf.org/viaf/54384883/"
+          },
+          {
+           "name": "printer.",
+           "value": "Zunner, Johann David, active approximately 1653-1705", 
+           "uri": "http://viaf.org/viaf/74233426"
+          },
+          {
+           "name": "genre",
+           "value": "Emblem books-Germany-17th century", 
+           "uri": ""
+          },
+          {
+           "name": "publicationPlace",
+           "value": "gw", 
+           "uri": "http://id.loc.gov/vocabulary/countries/gw"
+          },
+          {
+           "name": "publicationPlace",
+           "value": "Francofurti", 
+           "uri": ""
+          },
+          {
+           "name": "publisher",
+           "value": "Apud Joh. Dav. Zunnerum", 
+           "uri": ""
+          },
+          {
+           "name": "date",
+           "value": "1649", 
+           "uri": null
+          },
+          {
+           "name": "edition",
+           "value": "", 
+           "uri": null
+          },
+          {
+           "name": "issurance",
+           "value": "", 
+           "uri": null
+          },
+          {
+           "name": "extent",
+           "value": "[5], XXIV, XXIV, [3] p. : ill. (engravings)", 
+           "uri": null
+          },
+          {
+           "name": "dimensions",
+           "value": "22 cm (4to)", 
+           "uri": null
+          },
+          {
+           "name": "language",
+           "value": "lat", 
+           "uri": "http://id.loc.gov/vocabulary/iso639-2/lat"
+          },
+          {
+           "name": "language",
+           "value": "ger", 
+           "uri": "http://id.loc.gov/vocabulary/iso639-2/ger"
+          },
+          {
+           "name": "subject",
+           "value": "Emblems--Early works to 1800", 
+           "uri":  ["http://id.loc.gov/authorities/subjects/sh2008102967", "http://id.loc.gov/authorities/subjects/sh85042693"]
+          },
+          {
+           "name": "subject",
+           "value": "Emblem books, Latin--Germany--17th century", 
+           "uri":  ["http://id.loc.gov/authorities/subjects/sh2004006698", "http://id.loc.gov/vocabulary/geographicAreas/e-gx"]
+          },
+          {
+           "name": "subject",
+           "value": "Emblem books, German--Germany--17th century", 
+           "uri":  ["http://id.loc.gov/authorities/subjects/sh85042689", "http://id.loc.gov/vocabulary/geographicAreas/e-gx"]
+          },
+          {
+           "name": "description",
+           "value": "Publication date appears as chronogram on title-page.", 
+           "uri": null
+          },
+          {
+           "name": "description",
+           "value": "Place of publication and printer from additional engraved title-page: 'Meditationes de restaurata pace = Sinnbilder von dem wiedergebrachten Frieden in Teutschlandt / Johannis Vogelij', with imprint: 'Francofurti : Apud Joh. Dav. Zunnerum.'", 
+           "uri": null
+          },
+          {
+           "name": "description",
+           "value": "Signatures: A-G.", 
+           "uri": null
+          },
+          {
+           "name": "description",
+           "value": "'1649' inscribed in ink on title-page.", 
+           "uri": null
+          }
+       ],
+      "children": ["http://hdl.handle.net/10111/EmblemRegistry:E000001"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E000002"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E000003"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E000004"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E000005"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E000006"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E000007"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E000008"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E000009"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E000010"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E000011"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E000012"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E000013"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E000014"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E000015"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E000016"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E000017"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E000018"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E000019"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E000020"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E000021"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E000022"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E000023"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E000024"
+         
+      ]
+         }
