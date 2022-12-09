@@ -1,0 +1,132 @@
+
+     {
+        "class": "Item",
+        "id": "",
+        "public_uri": null,
+        "variant": null,
+        "elements": [
+    
+         {
+           "name": "type",
+           "value": "Text", 
+           "uri": null
+          },
+         {
+           "name": "isPartof",
+           "value": "Emblematica Online", 
+           "uri": "http://emblematica.library.illinois.edu/"
+          },
+          {
+           "name": "title",
+           "value": "Goddelycke wenschen verlicht met sinne-beelden, ghedichten en vierighe uyt-spraecken der ovd-vaeders: naer-gheuolgt de Latynsche vanden Eerw. P. Hermannvs Hvgo ... door Ivstvs de Hardvyn", 
+           "uri": null
+          },
+          {
+           "name": "author",
+           "value": "Harduwijn, Justus de", 
+           "uri": "http://viaf.org/viaf/194164136"
+          },
+          {
+           "name": "author",
+           "value": "Hugo, Hermann", 
+           "uri": "http://viaf.org/viaf/22229719"
+          },
+          {
+           "name": "author",
+           "value": "Bolswert, Boëtius a", 
+           "uri": "http://viaf.org/viaf/44597256"
+          },
+          {
+           "name": "publicationPlace",
+           "value": "Antwerpen", 
+           "uri": ""
+          },
+          {
+           "name": "publisher",
+           "value": "Aertssens, Hendrik", 
+           "uri": ""
+          },
+          {
+           "name": "date",
+           "value": "1629", 
+           "uri": null
+          },
+          {
+           "name": "edition",
+           "value": "", 
+           "uri": null
+          },
+          {
+           "name": "issurance",
+           "value": "", 
+           "uri": null
+          },
+          {
+           "name": "extent",
+           "value": "[16], 604 [i.e.602], [8] p.: ill.", 
+           "uri": null
+          },
+          {
+           "name": "dimensions",
+           "value": "in-8", 
+           "uri": null
+          },
+          {
+           "name": "language",
+           "value": "dut", 
+           "uri": ""
+          },
+          {
+           "name": "language",
+           "value": "lat", 
+           "uri": ""
+          }
+       ],
+      "children": ["http://hdl.handle.net/10111/EmblemRegistry:E026074"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E026075"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E026076"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E026077"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E026078"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E026079"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E026080"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E026081"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E026082"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E026083"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E026084"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E026085"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E026086"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E026087"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E026088"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E026089"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E026090"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E026091"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E026092"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E026093"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E026094"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E026095"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E026096"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E026097"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E026098"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E026099"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E026100"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E026101"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E026102"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E026103"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E026104"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E026105"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E026106"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E026107"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E026108"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E026109"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E026110"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E026111"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E026112"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E026113"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E026114"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E026115"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E026116"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E026117"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E026118"
+         
+      ]
+         }
