@@ -1,0 +1,36 @@
+
+      {
+   "@context": ["http://schema.org",
+    {"associatedMedia": {
+      "@id": "http://schema.org/associatedMedia",
+      "@container": "@list"
+    }    }
+  ],
+   "@id": "http://emblematica.library.illinois.edu/detail/emblem/E001976",
+   "sameAs": ["http://hdl.handle.net/10111/EmblemRegistry:E001976"],
+   "@type": "CreativeWork",
+   "name": [
+{"@language" : "http://id.loc.gov/vocabulary/iso639-1/la",
+"@value" : "Consilio& Armis."}
+],
+    "thumbnailUrl": "http://emblemimages.library.illinois.edu/63649778X/_access/emblem/E001976.jpg",
+    "isPartOf": "http://emblematica.library.illinois.edu/detail/book/63649778X",
+   "dateCreated": "1679",
+   "genre": "http://vocab.getty.edu/page/aat/300123040",
+   "about": [
+"http://iconclass.org/86(CONSILIO& ARMIS)"
+              ,"http://iconclass.org/92C2"
+              ,"http://iconclass.org/92C28(OWL)"
+              ,"http://iconclass.org/92C281"
+              ,"http://iconclass.org/52A51"
+              ,"http://iconclass.org/45A2"
+              ,"http://iconclass.org/52A2"
+              ],
+          "associatedMedia": [
+    "http://diglib.hab.de/drucke/xb-4f-364-1s/start.htm?image=00181"
+     ], "hasPart": {
+                  "@type": "VisualArtwork",
+                  "artform": "emblem pictura",
+                  "thumbnailUrl": "http://emblemimages.library.illinois.edu/63649778X/_access/pictura/E001976.jpg",
+                  "associatedMedia": [ "http://diglib.hab.de/drucke/xb-4f-364-1s/start.htm?image=00181"]             
+      } } 

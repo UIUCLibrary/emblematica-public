@@ -1,0 +1,34 @@
+
+      {
+   "@context": ["http://schema.org",
+    {"associatedMedia": {
+      "@id": "http://schema.org/associatedMedia",
+      "@container": "@list"
+    }    }
+  ],
+   "@id": "http://emblematica.library.illinois.edu/detail/emblem/E001949",
+   "sameAs": ["http://hdl.handle.net/10111/EmblemRegistry:E001949"],
+   "@type": "CreativeWork",
+   "name": [
+{"@language" : "http://id.loc.gov/vocabulary/iso639-1/la",
+"@value" : "Nec Laesus Concitat Iras."}
+],
+    "thumbnailUrl": "http://emblemimages.library.illinois.edu/63649778X/_access/emblem/E001949.jpg",
+    "isPartOf": "http://emblematica.library.illinois.edu/detail/book/63649778X",
+   "dateCreated": "1679",
+   "genre": "http://vocab.getty.edu/page/aat/300123040",
+   "about": [
+"http://iconclass.org/86(NEC LAESUS CONCITAT IRAS)"
+              ,"http://iconclass.org/25F25(ELEPHANT)"
+              ,"http://iconclass.org/45C15(ARROW)"
+              ,"http://iconclass.org/57A73"
+              ,"http://iconclass.org/45H52"
+              ],
+          "associatedMedia": [
+    "http://diglib.hab.de/drucke/xb-4f-364-1s/start.htm?image=00087"
+     ], "hasPart": {
+                  "@type": "VisualArtwork",
+                  "artform": "emblem pictura",
+                  "thumbnailUrl": "http://emblemimages.library.illinois.edu/63649778X/_access/pictura/E001949.jpg",
+                  "associatedMedia": [ "http://diglib.hab.de/drucke/xb-4f-364-1s/start.htm?image=00087"]             
+      } } 

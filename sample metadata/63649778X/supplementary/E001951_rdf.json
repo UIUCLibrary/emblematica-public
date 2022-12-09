@@ -1,0 +1,39 @@
+
+      {
+   "@context": ["http://schema.org",
+    {"associatedMedia": {
+      "@id": "http://schema.org/associatedMedia",
+      "@container": "@list"
+    }    }
+  ],
+   "@id": "http://emblematica.library.illinois.edu/detail/emblem/E001951",
+   "sameAs": ["http://hdl.handle.net/10111/EmblemRegistry:E001951"],
+   "@type": "CreativeWork",
+   "name": [
+{"@language" : "http://id.loc.gov/vocabulary/iso639-1/la",
+"@value" : "Ducunt Examina Reges."}
+],
+    "thumbnailUrl": "http://emblemimages.library.illinois.edu/63649778X/_access/emblem/E001951.jpg",
+    "isPartOf": "http://emblematica.library.illinois.edu/detail/book/63649778X",
+   "dateCreated": "1679",
+   "genre": "http://vocab.getty.edu/page/aat/300123040",
+   "about": [
+"http://iconclass.org/86(DUCUNT EXAMINA REGES)"
+              ,"http://iconclass.org/47I243"
+              ,"http://iconclass.org/47I2441"
+              ,"http://iconclass.org/47I2442"
+              ,"http://iconclass.org/25H"
+              ,"http://iconclass.org/53C11"
+              ,"http://iconclass.org/56F2"
+              ,"http://iconclass.org/44B113"
+              ,"http://iconclass.org/44B127"
+              ,"http://iconclass.org/53B5"
+              ],
+          "associatedMedia": [
+    "http://diglib.hab.de/drucke/xb-4f-364-1s/start.htm?image=00095"
+     ], "hasPart": {
+                  "@type": "VisualArtwork",
+                  "artform": "emblem pictura",
+                  "thumbnailUrl": "http://emblemimages.library.illinois.edu/63649778X/_access/pictura/E001951.jpg",
+                  "associatedMedia": [ "http://diglib.hab.de/drucke/xb-4f-364-1s/start.htm?image=00095"]             
+      } } 

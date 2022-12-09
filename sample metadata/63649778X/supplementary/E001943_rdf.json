@@ -1,0 +1,39 @@
+
+      {
+   "@context": ["http://schema.org",
+    {"associatedMedia": {
+      "@id": "http://schema.org/associatedMedia",
+      "@container": "@list"
+    }    }
+  ],
+   "@id": "http://emblematica.library.illinois.edu/detail/emblem/E001943",
+   "sameAs": ["http://hdl.handle.net/10111/EmblemRegistry:E001943"],
+   "@type": "CreativeWork",
+   "name": [
+{"@language" : "http://id.loc.gov/vocabulary/iso639-1/la",
+"@value" : "Post Tempora Multa."}
+],
+    "thumbnailUrl": "http://emblemimages.library.illinois.edu/63649778X/_access/emblem/E001943.jpg",
+    "isPartOf": "http://emblematica.library.illinois.edu/detail/book/63649778X",
+   "dateCreated": "1679",
+   "genre": "http://vocab.getty.edu/page/aat/300123040",
+   "about": [
+"http://iconclass.org/86(POST TEMPORA MULTA)"
+              ,"http://iconclass.org/26A"
+              ,"http://iconclass.org/31A2245"
+              ,"http://iconclass.org/41A711"
+              ,"http://iconclass.org/25D11(DIAMOND)"
+              ,"http://iconclass.org/48C34"
+              ,"http://iconclass.org/41D2664"
+              ,"http://iconclass.org/57A6"
+              ,"http://iconclass.org/51D4"
+              ,"http://iconclass.org/23A4"
+              ],
+          "associatedMedia": [
+    "http://diglib.hab.de/drucke/xb-4f-364-1s/start.htm?image=00063"
+     ], "hasPart": {
+                  "@type": "VisualArtwork",
+                  "artform": "emblem pictura",
+                  "thumbnailUrl": "http://emblemimages.library.illinois.edu/63649778X/_access/pictura/E001943.jpg",
+                  "associatedMedia": [ "http://diglib.hab.de/drucke/xb-4f-364-1s/start.htm?image=00063"]             
+      } } 

@@ -1,0 +1,37 @@
+
+      {
+   "@context": ["http://schema.org",
+    {"associatedMedia": {
+      "@id": "http://schema.org/associatedMedia",
+      "@container": "@list"
+    }    }
+  ],
+   "@id": "http://emblematica.library.illinois.edu/detail/emblem/E001965",
+   "sameAs": ["http://hdl.handle.net/10111/EmblemRegistry:E001965"],
+   "@type": "CreativeWork",
+   "name": [
+{"@language" : "http://id.loc.gov/vocabulary/iso639-1/la",
+"@value" : "Foedera Nectit."}
+],
+    "thumbnailUrl": "http://emblemimages.library.illinois.edu/63649778X/_access/emblem/E001965.jpg",
+    "isPartOf": "http://emblematica.library.illinois.edu/detail/book/63649778X",
+   "dateCreated": "1679",
+   "genre": "http://vocab.getty.edu/page/aat/300123040",
+   "about": [
+"http://iconclass.org/86(FOEDERA NECTIT)"
+              ,"http://iconclass.org/25H2"
+              ,"http://iconclass.org/46C112"
+              ,"http://iconclass.org/45A2"
+              ,"http://iconclass.org/25F39(DOVE)"
+              ,"http://iconclass.org/71B33221"
+              ,"http://iconclass.org/44B450"
+              ,"http://iconclass.org/54E1"
+              ],
+          "associatedMedia": [
+    "http://diglib.hab.de/drucke/xb-4f-364-1s/start.htm?image=00151"
+     ], "hasPart": {
+                  "@type": "VisualArtwork",
+                  "artform": "emblem pictura",
+                  "thumbnailUrl": "http://emblemimages.library.illinois.edu/63649778X/_access/pictura/E001965.jpg",
+                  "associatedMedia": [ "http://diglib.hab.de/drucke/xb-4f-364-1s/start.htm?image=00151"]             
+      } } 

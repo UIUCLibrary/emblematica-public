@@ -1,0 +1,40 @@
+
+      {
+   "@context": ["http://schema.org",
+    {"associatedMedia": {
+      "@id": "http://schema.org/associatedMedia",
+      "@container": "@list"
+    }    }
+  ],
+   "@id": "http://emblematica.library.illinois.edu/detail/emblem/E001946",
+   "sameAs": ["http://hdl.handle.net/10111/EmblemRegistry:E001946"],
+   "@type": "CreativeWork",
+   "name": [
+{"@language" : "http://id.loc.gov/vocabulary/iso639-1/la",
+"@value" : "Libant Non Carpunt."}
+],
+    "thumbnailUrl": "http://emblemimages.library.illinois.edu/63649778X/_access/emblem/E001946.jpg",
+    "isPartOf": "http://emblematica.library.illinois.edu/detail/book/63649778X",
+   "dateCreated": "1679",
+   "genre": "http://vocab.getty.edu/page/aat/300123040",
+   "about": [
+"http://iconclass.org/86(LIBANT NON CARPUNT)"
+              ,"http://iconclass.org/47I242"
+              ,"http://iconclass.org/25F711(BEE)"
+              ,"http://iconclass.org/41A632"
+              ,"http://iconclass.org/11M44"
+              ,"http://iconclass.org/41A635"
+              ,"http://iconclass.org/47I141"
+              ,"http://iconclass.org/25G41(TULIP)"
+              ,"http://iconclass.org/43B42"
+              ,"http://iconclass.org/52A23"
+              ,"http://iconclass.org/53B3"
+              ],
+          "associatedMedia": [
+    "http://diglib.hab.de/drucke/xb-4f-364-1s/start.htm?image=00075"
+     ], "hasPart": {
+                  "@type": "VisualArtwork",
+                  "artform": "emblem pictura",
+                  "thumbnailUrl": "http://emblemimages.library.illinois.edu/63649778X/_access/pictura/E001946.jpg",
+                  "associatedMedia": [ "http://diglib.hab.de/drucke/xb-4f-364-1s/start.htm?image=00075"]             
+      } } 

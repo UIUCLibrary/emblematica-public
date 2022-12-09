@@ -1,0 +1,40 @@
+
+      {
+   "@context": ["http://schema.org",
+    {"associatedMedia": {
+      "@id": "http://schema.org/associatedMedia",
+      "@container": "@list"
+    }    }
+  ],
+   "@id": "http://emblematica.library.illinois.edu/detail/emblem/E001959",
+   "sameAs": ["http://hdl.handle.net/10111/EmblemRegistry:E001959"],
+   "@type": "CreativeWork",
+   "name": [
+{"@language" : "http://id.loc.gov/vocabulary/iso639-1/la",
+"@value" : "Non Frangitur Ictu."}
+],
+    "thumbnailUrl": "http://emblemimages.library.illinois.edu/63649778X/_access/emblem/E001959.jpg",
+    "isPartOf": "http://emblematica.library.illinois.edu/detail/book/63649778X",
+   "dateCreated": "1679",
+   "genre": "http://vocab.getty.edu/page/aat/300123040",
+   "about": [
+"http://iconclass.org/86(NON FRANGITUR ICTU)"
+              ,"http://iconclass.org/47D8(ANVIL)"
+              ,"http://iconclass.org/47D8(HAMMER)"
+              ,"http://iconclass.org/31A2245"
+              ,"http://iconclass.org/26A"
+              ,"http://iconclass.org/49D442"
+              ,"http://iconclass.org/47G51"
+              ,"http://iconclass.org/51G4"
+              ,"http://iconclass.org/11M43"
+              ,"http://iconclass.org/54D31"
+              ,"http://iconclass.org/53A21"
+              ],
+          "associatedMedia": [
+    "http://diglib.hab.de/drucke/xb-4f-364-1s/start.htm?image=00127"
+     ], "hasPart": {
+                  "@type": "VisualArtwork",
+                  "artform": "emblem pictura",
+                  "thumbnailUrl": "http://emblemimages.library.illinois.edu/63649778X/_access/pictura/E001959.jpg",
+                  "associatedMedia": [ "http://diglib.hab.de/drucke/xb-4f-364-1s/start.htm?image=00127"]             
+      } } 

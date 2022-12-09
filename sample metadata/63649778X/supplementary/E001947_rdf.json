@@ -1,0 +1,40 @@
+
+      {
+   "@context": ["http://schema.org",
+    {"associatedMedia": {
+      "@id": "http://schema.org/associatedMedia",
+      "@container": "@list"
+    }    }
+  ],
+   "@id": "http://emblematica.library.illinois.edu/detail/emblem/E001947",
+   "sameAs": ["http://hdl.handle.net/10111/EmblemRegistry:E001947"],
+   "@type": "CreativeWork",
+   "name": [
+{"@language" : "http://id.loc.gov/vocabulary/iso639-1/la",
+"@value" : "Huc Omnia Tendunt."}
+],
+    "thumbnailUrl": "http://emblemimages.library.illinois.edu/63649778X/_access/emblem/E001947.jpg",
+    "isPartOf": "http://emblematica.library.illinois.edu/detail/book/63649778X",
+   "dateCreated": "1679",
+   "genre": "http://vocab.getty.edu/page/aat/300123040",
+   "about": [
+"http://iconclass.org/86(HUC OMNIA TENDUNT)"
+              ,"http://iconclass.org/24A6"
+              ,"http://iconclass.org/49E254"
+              ,"http://iconclass.org/31A2245"
+              ,"http://iconclass.org/48CC7341"
+              ,"http://iconclass.org/45D1"
+              ,"http://iconclass.org/45C16(CANNON)"
+              ,"http://iconclass.org/45C1"
+              ,"http://iconclass.org/41B4"
+              ,"http://iconclass.org/52A24"
+              ,"http://iconclass.org/22C31"
+              ],
+          "associatedMedia": [
+    "http://diglib.hab.de/drucke/xb-4f-364-1s/start.htm?image=00079"
+     ], "hasPart": {
+                  "@type": "VisualArtwork",
+                  "artform": "emblem pictura",
+                  "thumbnailUrl": "http://emblemimages.library.illinois.edu/63649778X/_access/pictura/E001947.jpg",
+                  "associatedMedia": [ "http://diglib.hab.de/drucke/xb-4f-364-1s/start.htm?image=00079"]             
+      } } 
