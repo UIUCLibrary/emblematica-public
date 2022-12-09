@@ -1,0 +1,802 @@
+<biblioDesc xmlns="http://diglib.hab.de/rules/schema/emblem" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:emblem="http://diglib.hab.de/rules/schema/emblem" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd http://diglib.hab.de/rules/schema/emblem http://diglib.hab.de/rules/schema/emblem/emblem-1-2.xsd" globalBookID="http://emblems.let.uu.nl/ha1629.html">
+  <mods:mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd" version="3.7">
+    <mods:titleInfo>
+      <mods:title>Goddelycke wenschen verlicht met sinne-beelden, ghedichten en vierighe uyt-spraecken der ovd-vaeders</mods:title>
+      <mods:subTitle>naer-gheuolgt de Latynsche vanden Eerw. P. Hermannvs Hvgo ... door Ivstvs de Hardvyn</mods:subTitle>
+    </mods:titleInfo>
+    <mods:name type="personal" authority="viaf" valueURI="http://viaf.org/viaf/194164136">
+      <mods:namePart>Harduwijn, Justus de</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text" authorityURI="http://id.loc.gov/" valueURI="http://id.loc.gov/vocabulary/relators/aut">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:name type="personal" authority="viaf" valueURI="http://viaf.org/viaf/22229719">
+      <mods:namePart>Hugo, Hermann</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text" authorityURI="http://id.loc.gov/" valueURI="http://id.loc.gov/vocabulary/relators/aut">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:name type="personal" authority="viaf" valueURI="http://viaf.org/viaf/44597256">
+      <mods:namePart>Bolswert, Bo&#235;tius a</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text" authorityURI="http://id.loc.gov/" valueURI="http://id.loc.gov/vocabulary/relators/aut">author</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:typeOfResource>text</mods:typeOfResource>
+    <mods:originInfo>
+      <mods:place>
+        <mods:placeTerm>Antwerpen</mods:placeTerm>
+      </mods:place>
+      <mods:publisher>Aertssens, Hendrik</mods:publisher>
+      <mods:dateIssued>1629</mods:dateIssued>
+      <mods:issuance>monographic</mods:issuance>
+    </mods:originInfo>
+    <mods:language>
+      <mods:languageTerm authority="iso639-2b">dut</mods:languageTerm>
+    </mods:language>
+    <mods:language>
+      <mods:languageTerm authority="iso639-2b">lat</mods:languageTerm>
+    </mods:language>
+    <mods:physicalDescription>
+      <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
+      <mods:form authority="marcform">print</mods:form>
+      <mods:extent>[16], 604 [i.e.602], [8] p.: ill.; in-8</mods:extent>
+    </mods:physicalDescription>
+    <mods:location>
+      <mods:url displayLabel="Full Text - University of Utrecht">http://emblems.let.uu.nl/ha1629.html</mods:url>
+    </mods:location>
+    <mods:identifier displayLabel="Landwehr, Emblem and fable books printed in the Low Countries">357.</mods:identifier>
+  </mods:mods>
+  <copyDesc>
+    <copyID>A 563</copyID>
+    <owner countryCode="NL" institutionCode="tr-leeuw"/>
+    <digDesc comp="complete" scope="all"/>
+  </copyDesc>
+  <liminaryText xlink:href="http://emblems.let.uu.nl/static/images/ha1629/pages/0150v003.jpg" page="*4r" xml:id="ha1629front004_body1_div1">
+    <transcription xlink:href="http://emblems.let.uu.nl/static/images/ha1629/pages/0150v003.jpg" page="*4r">
+      <tei:head>
+							Seer Eer-vveerde Heere
+							
+							Ende
+							
+							Vaeder in Gode
+							
+							HEER
+							
+							BERNAERD
+							
+							CAMPMAN
+							
+							ABT
+							
+							Van het over-oudt ende vermaert
+							
+							Clooster
+							
+							Ten Dunen.
+							
+							Nu onlanghst verplaetst binnen de vvijt-beruchte
+							
+							stadt Brugghe.
+						<tei:lb/></tei:head>
+      <tei:p>
+							Seer Eer-vveerde Heere!
+						</tei:p>
+      <tei:p>
+							Svidas een veel-vvetich<tei:lb/>Schrijver maeckt ons kon
+							<tei:lb/>
+							dich, dat het steenen Beelt
+							<tei:lb/>
+							van
+							Memnon, opgherust in<tei:lb/>
+							
+							die vvonderbaere stadt
+							Thebe van &#198;gy
+							
+							<tei:lb/>pten, van selfs vvas ghevende seker soet
+							<tei:lb/>klinckende gheluyt, soo vvanneer d'op
+							<tei:lb/>staende sonne dat gheraeckte te besprie
+							<tei:lb/>telen. Ick laete my duncken, dat dit te
+							<tei:lb/>
+							ghenvvoordich, 't vvelck ick met alder
+							<tei:lb/>
+							oodtmoedt, uvve Eervveerdicheydt hier
+							<tei:lb/>voor-stelle, niet anders en is, als oock ee
+							<tei:lb/>
+							ne stomme af-beeldinghe, ende soude
+							<tei:lb/>
+							soo blijven, ten vvaere dat den glans
+							<tei:lb/>
+							uvver ingheboren beleeftheydt, daer aen
+							<tei:lb/>
+							hoe luttel streelende, de selve beliefde te
+							<tei:lb/>
+							doen spreken.
+							<tei:lb/>
+							Het zijn
+							Goddelijcke VVenschen, on
+							<tei:lb/>langhst in den Latijne seer gheestich en
+							<tei:lb/>
+							de gheleerdelijck uytghestelt door een
+							<tei:lb/>
+							van de voornaemste der ghener die den
+							<tei:lb/>
+							Hemel met overvloedt van vvijsheydt
+							<tei:lb/>
+							ende vvetenschap in dese eeuvve heeft
+							<tei:lb/>vvillen beghiften, de vvelcke nu veran
+							<tei:lb/>
+							dert van taele, ende van cierssel, ende
+							<tei:lb/>
+							daer en boven berooft van hunne eerste
+							<tei:lb/>
+							
+							Laurieren, nemen evenvvel de stoutic
+							<tei:lb/>
+							hede van te komen kussen de handen
+							<tei:lb/>
+							van uvve Eervvt. met vast betrouvven
+							<tei:lb/>
+							dat de selve die sal toeknicken, ende met
+							<tei:lb/>
+							sulck een ooghe beschijnen, dat sy sullen
+							<tei:lb/>
+							moet krijghen van hun te vertoonen,
+							<tei:lb/>is 't niet aen de meeste deser vvereldt, im
+							<tei:lb/>mer sal 't vvesen aen de geest-rijcke lief
+							<tei:lb/>
+							hebbers van ons Vaeder-landt.
+							<tei:lb/>'T begrijp is aenghenaem, ende nut
+							<tei:lb/>
+							tich, behelsende de innighe leetsuchten,
+							<tei:lb/>
+							de goede begheerten, ende de saelighe
+							<tei:lb/>
+							vvenschen die de Godt-minnende siele
+							<tei:lb/>tot Christum haeren Bruydegom is uyt
+							<tei:lb/>
+							stortende; soo vele vverckende, dat door
+							<tei:lb/>
+							de selve vvordt bekent de eevvighe
+							<tei:lb/>
+							VVaerheydt, de vvaere liefde, ende de
+							<tei:lb/>
+							lieve Eeuvvicheydt van de ghene die
+							<tei:lb/>daer saeten in duysternisse, om te spoe
+							<tei:lb/>
+							den naer den vvech van den eeuvvighen
+							<tei:lb/>
+							vrede.
+							<tei:lb/>
+							Aenveerdt dan de selve onder de
+							<tei:lb/>
+							
+							grootdaedicheydt van uvven naeme, en
+							<tei:lb/>
+							de mits sy door mijne handen niet en
+							<tei:lb/>konnen vvorden opghetoghen: ghe
+							<tei:lb/>
+							vveerdight, bidde ick u, daerop te laeten
+							<tei:lb/>
+							vvemelen een glinsterken uvver deught,
+							<tei:lb/>vviens lof van stonden aen sy sullen ver
+							<tei:lb/>konden, hoe vvel boven alle lof verhe
+							<tei:lb/>
+							ven. Ende indien dit teghenvvoordich
+							<tei:lb/>
+							door uvve gonst eenigen smaeck gheeft,
+							<tei:lb/>sal den Vertaelder hoogheren moet ne
+							<tei:lb/>men, om hem tot voorder te verstou
+							<tei:lb/>ten, blijvende daer-en-tusschen voor al
+							<tei:lb/>
+							tijdt soo hy is
+						</tei:p>
+    </transcription>
+  </liminaryText>
+  <liminaryText xlink:href="http://emblems.let.uu.nl/static/images/ha1629/pages/0150v007.jpg" page="*6r" xml:id="ha1629front005_body1_div1">
+    <transcription xlink:href="http://emblems.let.uu.nl/static/images/ha1629/pages/0150v007.jpg" page="*6r">
+      <tei:head>Tot den goedthertighen Leser.<tei:lb/></tei:head>
+      <tei:p>
+							GOedthertich Leser.
+							
+								Dese Christine dry-eenighe
+								siele heeft goedt ghevonden de stoffe / oft de woor
+								
+								den daer sy haere wenschen ende ghesuchten op is
+								grondende / by dese dry Boecken u te stellen voor oo
+								ghen / ende daer benevens van elck sijne aenwijsin
+								
+								ghe/ op dat ghy daer uyt meught verkiesen het ghene
+								
+								u sal aenstaen / oft om te lesen / oft om in plaet-snede te
+								
+								besichtighen.
+							
+						</tei:p>
+      <tei:p>
+							Het eerste Boeck.<tei:lb/></tei:p>
+      <tei:p>
+							Gheeft te kennen hare
+							Leetbetuyghende Versuchtinghen.
+							<tei:lb/>
+							I. Sy vvenscht dat haer Godt in den nacht van
+							<tei:lb/>
+							dit leven soude vvillen komen verlichten.
+							<tei:lb/>
+							II. Sy vertoont hem haere onvvijsheydt, ende
+							<tei:lb/>
+							haere misdaeden, op dat hy die soude gaede slaen.
+							<tei:lb/>
+							III. Kranck zijnde bidt om ghesondtheydt.
+							<tei:lb/>
+							IV. Sy vertoont hem haeren oodtmoedt, haere
+							<tei:lb/>
+							slaevernije, e&#241; bidt om quijt-scheldt haerder sonde.
+							<tei:lb/>
+							V. Doet hem ghedencken dat hy haer van slijck
+							<tei:lb/>
+							ghemaeckt heeft, ende dat sy tot stof vvederom sal
+							<tei:lb/>
+							moeten ghedijen.
+							<tei:lb/>
+							VI. Het is haer leet ghesondight te hebben, ende
+							<tei:lb/>vvilde vvel vveten vvaerom hy haer soo is teghen
+							<tei:lb/>
+							ghestelt?
+							<tei:lb/>
+							VII. Wilde vvel vveten vvaerom hy voor haer
+							<tei:lb/>
+							is verberghende sijn aenschijn?
+							<tei:lb/>VIII. Vraeght vvie tot haer hooft sal vvaeter ge
+							<tei:lb/>
+							ven, ende tot haer ooghen een fonteyne der traenen
+							<tei:lb/>
+							om dach ende nacht te moghen schreyen!
+							<tei:lb/>IX. Beklaeght dat de pijnen der helle haer heb
+							
+							
+							ben omvanghen, ende dat haer hebben verrascht de
+							<tei:lb/>
+							stricken vande doodt.
+							<tei:lb/>X. Sy bidt dat hy met haer niet en kome in oor
+							<tei:lb/>deel, wel wetende dat voor sijn aenschijn alle le
+							<tei:lb/>
+							vende niet en sal worden gherechtveerdight.
+							<tei:lb/>
+							XI. Sy bidt dat het tempeest van waeter haer niet
+							<tei:lb/>en verdrincke, noch dat de diepte haer niet en ver
+							<tei:lb/>
+							slinde.
+							<tei:lb/>
+							XII. Bidt bescherremt te vvesen voor die helle,
+							<tei:lb/>ende te zijn verborghen tot dat sijnen raesenden to
+							<tei:lb/>
+							ren soude vergaen zijn.
+							<tei:lb/>XIII. Vertoont hem de luttelheydt haerder dae
+							<tei:lb/>
+							ghen, ende bidt een weynich te moghen beschreyen<tei:lb/>
+							haeren druck.<tei:lb/>
+							XIV. Sy vvoude vvel dat wy alle soo wijs waer<tei:lb/>
+							ren, ende voorsaeghen ons alder-uyterste.<tei:lb/>
+							XV. Sy beklaeght haer leven vergaen te zijn in<tei:lb/>
+							weedom, ende haer jaeren in versuchtinghe.<tei:lb/></tei:p>
+      <tei:p>
+							Het tweede Boeck.
+						</tei:p>
+      <tei:p>
+							
+								Is vol van Godtvruchtigher wenschen / ende doet
+								
+								ons hooren:
+							
+							<tei:lb/>
+							XVI. Hoe sy begheerte heeft om te vvenschen
+							<tei:lb/>
+							de rechtveerdichmaeckinghen Godts.
+							<tei:lb/>XVII. Wenscht dat haere weghen mochten be
+							<tei:lb/>
+							schickt worden om sijne rechtveerdichmakinghen
+							<tei:lb/>
+							te onderhouden.
+							<tei:lb/>XVIII. Bidt Godt dat hy soude vvillen volma
+							<tei:lb/>
+							ken haere ganghen in sijne paeden, op dat haere
+							<tei:lb/>
+							voetstappen niet en souden beroert worden.
+							<tei:lb/>
+							XIX. Bidt dat hy haer vleesch soude doorsteken
+							<tei:lb/>
+							met sijner vreese, om soo verschrickt te wesen voor
+							<tei:lb/>
+							sijn Oordeel.
+							<tei:lb/>
+							
+							XX. Sy bidt dat hy haere ooghen wille doen
+							<tei:lb/>
+							af-keeren om niet te sien de ydelheydt.
+							<tei:lb/>
+							XXI. Bidt dat haer herte onbevleckt ghedije om
+							<tei:lb/>
+							in sijne rechtveerdich-maeckinghe niet te worden
+							<tei:lb/>
+							verstroyt.
+							<tei:lb/>
+							XXII. Sy noodet hem om uyt te gaen naer het
+							<tei:lb/>
+							veldt, om te vvoonen in de landt-huysen.
+							<tei:lb/>XXIII. Sy wenscht naer hem getrocken te wor
+							<tei:lb/>
+							den, ende te loopen in d&#275; geur van sijne soeticheyt.
+							<tei:lb/>XXIV. Sy wenscht hem te vvesen haeren jongh
+							<tei:lb/>
+							sten broeder suygende de borsten v&#257; haere moeder.
+							<tei:lb/>
+							XXV. Sy seght hem ghesocht te hebben op haer
+							<tei:lb/>
+							beddeken, ende niet ghevonden.
+							<tei:lb/>
+							XXVI. Sy vvilt op-staen, ende hem allomme
+							<tei:lb/>
+							gaen soecken.
+							<tei:lb/>
+							XXVII. Sy ondervraeght de wakers van de stadt
+							<tei:lb/>
+							oft sy-lied&#275; niet en hebb&#275; gesi&#275; die haer siele
+							<tei:lb/>
+							bemint?
+							<tei:lb/>
+							XXVIII. Sy seght dat haer alderbest is Godt aen
+							<tei:lb/>
+							te kleven, e&#241; op hem alleen te stell&#275; haer betrauvv&#275;.
+							<tei:lb/>
+							XXIX. Sy verblijdt haer gheseten te hebben
+							<tei:lb/>
+							onder de schaduvve van dien sy gewenscht hadde.
+							<tei:lb/>
+							XXX. Het dunckt haer onmoghelijck in eene
+							<tei:lb/>
+							vremde landauvve te konnen singen den lof-sangh
+							<tei:lb/>
+							van den Heere.
+						</tei:p>
+      <tei:p>
+							Het derde Boeck.
+						</tei:p>
+      <tei:p>
+							Brenght ons voor den dach dese naervolgende
+							<tei:lb/>
+							ghesuchten.
+							<tei:lb/>
+							XXXI. Sy besweert de dochters van Jerusalem
+							<tei:lb/>haer te vvillen boodtschappen, oft sy nerghens hae
+							<tei:lb/>
+							ren beminden en hebben bekommen?
+							<tei:lb/>
+							XXXII. Sy vvilt onderset wesen met blommen
+							<tei:lb/>
+							
+							ende ghelaeft met appelen, op dat sy door liefde
+							<tei:lb/>
+							niet en verflauvve.
+							<tei:lb/>
+							XXXIII. Sy seght haeren beminden gevoedt te
+							<tei:lb/>vvorden tusschen de lelyen, tot dat den dach aen
+							<tei:lb/>
+							komt ende de schaduvven neder-daelen.
+							<tei:lb/>XXXIV. Sy seght haeren beminden toe te be
+							<tei:lb/>
+							hooren, ende dat tot haer is sijne toekeeringhe.
+							<tei:lb/>
+							XXXV. Sy seght haer siele ghesmolten te zijn
+							<tei:lb/>
+							soo den beminden haer vvas aen-sprekende.
+							<tei:lb/>
+							XXXVI. Sy seght boven hem niet te begheeren
+							<tei:lb/>
+							noch in den hemel, noch op der aerden,
+							<tei:lb/>
+							XXXVII. Sy bedroeft haer dat haer pelgrimagie
+							<tei:lb/>
+							verlenght is, ende dat sy langhen tijdt ghevvoont
+							<tei:lb/>
+							heeft met de bevvoonders van Cedar.
+							<tei:lb/>
+							XXXVIII. Sy noemt haer ongheluckich, ende
+							<tei:lb/>
+							vvilde vvel vveten vvie haer soude verlossen van
+							<tei:lb/>
+							het lichaem der doodt?
+							<tei:lb/>
+							XXXIX. Sy vvordt ghedvvonghen van tvvee,
+							<tei:lb/>
+							hebbende begheerte te zijn ontbonden, ende te
+							<tei:lb/>
+							vvesen met Christo.
+							<tei:lb/>
+							XL. Sy bidt verlost te vvord&#275; uyt de gevangenisse.
+							<tei:lb/>XLI. Ghelijck den hert vvenscht naer de fontey
+							<tei:lb/>
+							ne der vvateren, soo vvenscht sy naer Godt.
+							<tei:lb/>
+							XLII. Sy vraeght vvanneer dat sy sal komen ende
+							<tei:lb/>
+							verschijnen voor sijn aenschijn?
+							<tei:lb/>
+							XLIII. Sy vvenscht vleugel&#275; te hebb&#275; gelijck van
+							<tei:lb/>
+							eender duyve, om te vlieghen e&#241; te moghen rusten.
+							<tei:lb/>
+							XLIV. Sy verheught haer in de vvoon-plaetse
+							<tei:lb/>
+							van den Heere der Heyrkrachten.
+							<tei:lb/>
+							XLV. Ten lesten besvvijckende door de liefde
+							<tei:lb/>
+							seght dat haren beminden soude de vlucht nemen
+							<tei:lb/>ghelijck een Ree oft een Herte-jongh naer de ghe
+							<tei:lb/>
+							berchten der specerijen.
+						</tei:p>
+    </transcription>
+  </liminaryText>
+  <liminaryText xlink:href="http://emblems.let.uu.nl/static/images/ha1629/pages/0150v011.jpg" page="*8r" xml:id="ha1629front006_body1_div1">
+    <transcription xlink:href="http://emblems.let.uu.nl/static/images/ha1629/pages/0150v011.jpg" page="*8r">
+      <tei:p>DE vruchten naer ghewensch bekleven op het veldt<tei:lb/>Ten oorboir / en gherief van 's menschen onder-hauwen /<tei:lb/>Die wierden naer 't ghebruyck der steden / en landauwen /<tei:lb/>Danckbaerich alder-eerst de Goden voor-ghestelt.<tei:lb/></tei:p>
+      <tei:p>Den eenen die sijn graen ter aerden h&#225; ghevelt /<tei:lb/>Brocht Ceres eenen krans van aeren en van hauwen.<tei:lb/>Den anderen met most quam Bacchus hooft bedauwen /<tei:lb/>En cieren met een ranck voor alle sijn vergheldt.<tei:lb/></tei:p>
+      <tei:p>En ick naer 't voor bewijs van aldus-daene menschen<tei:lb/>
+								Hermanne brengh' u oock dees Goddelijcke VVenschen /
+							<tei:lb/>Als vrucht van uwe vrucht in Vlaenderen gheteelt.<tei:lb/></tei:p>
+      <tei:p>
+								Dus Phoebe deser eeuw' aenveerdt dees offerande /<tei:lb/>'T sal u een eere zijn hoe dat alhier te lande<tei:lb/>Daer van noch menich mensch sal worden m&#233; ghedeelt.<tei:lb/></tei:p>
+    </transcription>
+  </liminaryText>
+  <liminaryText xlink:href="http://emblems.let.uu.nl/static/images/ha1629/pages/0150pl00.jpg" page="*8v" xml:id="ha1629front007_body1_div1">
+    <transcription xlink:href="http://emblems.let.uu.nl/static/images/ha1629/pages/0150pl00.jpg" page="*8v">
+      <tei:p>
+      </tei:p>
+    </transcription>
+  </liminaryText>
+  <liminaryText xlink:href="http://emblems.let.uu.nl/static/images/ha1629/pages/01500001.jpg" page="1" xml:id="ha1629front008_body1_div2">
+    <transcription xlink:href="http://emblems.let.uu.nl/static/images/ha1629/pages/01500001.jpg" page="1"/>
+  </liminaryText>
+  <liminaryText xlink:href="http://emblems.let.uu.nl/static/images/ha1629/pages/01500001.jpg" page="1" xml:id="ha1629front008_body1_div3">
+    <transcription xlink:href="http://emblems.let.uu.nl/static/images/ha1629/pages/01500001.jpg" page="1"/>
+  </liminaryText>
+  <liminaryText xlink:href="http://emblems.let.uu.nl/static/images/ha1629/pages/01500001.jpg" page="1" xml:id="ha1629front007_body1_div4">
+    <transcription xlink:href="http://emblems.let.uu.nl/static/images/ha1629/pages/01500001.jpg" page="1">
+      <tei:p>NOyt en vvist iemant dat d&#275; brandt<tei:lb/>In my soo hadde d'over-handt;<tei:lb/>Noyt en vvist iemant mijne vvenschen,<tei:lb/>Noyt iemandt dan die 't al aensiet,<tei:lb/>En met een enckel oogh' bespiet<tei:lb/>Den herte-grondt van alle menschen.<tei:lb/></tei:p>
+      <tei:p>Hy kent alleen het heet ghesucht<tei:lb/>Dat my soo menichmael ontvlucht,<tei:lb/>Daer toe mijn tranen alle-gader;<tei:lb/>Sijn oogh' ist die alomme treckt,<tei:lb/>Die eenen vriendt sijn hert ontdeckt<tei:lb/>Is van sy selven een verrader.<tei:lb/></tei:p>
+      <tei:p>Want vvaert dat uyt dusdaene kunst<tei:lb/>My mocht gheschien hoe kleyne gunst,<tei:lb/>Sy sou voorseker my behaeghen:<tei:lb/>Maer d'oore slap van eenen vriendt,<tei:lb/>Tot mijn verlichtingh' niet en dient,<tei:lb/>Noch en versoet mijn bitter klaeghen.<tei:lb/></tei:p>
+      <tei:p>
+								Ha! siet doch eens hoe Rachel huylt;<tei:lb/>En vveent dat haer ghesicht uyt-puylt<tei:lb/>Siend' haere kinders al ontlijven:<tei:lb/>Maer soo sy daer-me niet en vvan,<tei:lb/>Wat raedt heeft sy ghevonden dan?<tei:lb/>Als dat sy 't al liet onder-blijven.<tei:lb/></tei:p>
+      <tei:p>De glinster die van 't vier opstaet.<tei:lb/>In 't selve vier vveer-om vergaet,<tei:lb/>De vvolck hersuyght oock haer&#275; reg&#275;;<tei:lb/>`K herdrinck oock dan mijn traen&#275; best,<tei:lb/>En stouvve die vveer naer den nest<tei:lb/>Daer dat sy hebben eens gheleghen.<tei:lb/></tei:p>
+      <tei:p>Schoon oft ick nu van mijne quael<tei:lb/>Met droever herten doe verhael,<tei:lb/>En gae met ooghen uyt-ghekreten;<tei:lb/>Oft ick belofte doe den Heer,<tei:lb/>Dit en vermagh noyt iemandt meer<tei:lb/>Als hy, en ick, te vvereldt vveten.<tei:lb/></tei:p>
+      <tei:p>Soo mijn ghesucht uyt 't herte breeckt,<tei:lb/>En mijn&#275; mondt sijn leedt uyt-spreeckt,<tei:lb/>Weet hy, en ick, en niemandt ander.<tei:lb/>Ay my! hoe menich-mael en vvel<tei:lb/>Speelt mijn ghemoet een guychel-spel,<tei:lb/>Hoed d'oogh en 't hert zijn v&#257; elck ander,<tei:lb/></tei:p>
+      <tei:p>VVant soo ick eens van binnen treur<tei:lb/>Van buyten ick door lacchen scheur,<tei:lb/>Neen, menschen oogen konnen lieg&#275;,<tei:lb/>Men leert de traenen doch in als<tei:lb/>Te zijn gheveyst, licht ende vals<tei:lb/>Om elcken-een soo te bedrieghen.<tei:lb/></tei:p>
+      <tei:p>Als ick een traentjen maer vergiet,<tei:lb/>Een ieder my voor droef aensiet:<tei:lb/>Lacch'ick, het schijnt my te ghereyen;<tei:lb/>Neen, hier af en is gheen ghevvach<tei:lb/>Ick ben bedroeft met dat ick lacch'<tei:lb/>Ick ben verheught, als ick gae schreyen.<tei:lb/></tei:p>
+      <tei:p>
+								Prot&#234;us en vvisselt sijnen schijn<tei:lb/>Soo dickmael niet ghelijcker zijn<tei:lb/>Die 't mom-ghesicht doen af en aene.<tei:lb/>Neen, niemant en kent mijnen vvee,<tei:lb/>Noch mijn ghesucht, dan vvy lie'n tvvee,<tei:lb/>En het dunckt best my soo te staene.<tei:lb/></tei:p>
+    </transcription>
+  </liminaryText>
+  <emblem xlink:href="http://emblems.let.uu.nl/ha1629001.html" page="" xml:id="ha1629001" globalID="http://hdl.handle.net/10111/EmblemRegistry:E026074">
+    <motto/>
+    <pictura xlink:href="http://emblems.let.uu.nl/static/images/ha1629/pictura/0150pl01.jpg"/>
+    <subscriptio>
+      <transcription xlink:href="http://emblems.let.uu.nl/static/images/ha1629/pages/01500007.jpg" page="7">WEe my! wat somber nacht, wat gruwsaem duysterhed&#275;!Sulcx was hy die te voor Aegypten had bestreden /Hel-doncker / tastelijck / verdrietigh / vuyl en koudt /Onweerdich dat hy plaets by alle d'ander houdt.In 't Noorden alsoo droef de nachten noyt en saghenDaer dat heur Kerre-wiel Calisto doet vertraghen /Noch in Cimmeria de duysternis soo hooptAl is 't dat 't sonnen glants dat nimmermeer beloopt /Noch donckerder en zijn die schrickelijcxste kuylenDaer Pluto met de nacht / en die Verdoemde schuylen:En oft schoon Sonn' oft Maen besprietelt hun ghesichtDaerom en zijn sy niet berooft van alle licht:Want 't midden van den nacht sy hunnen nacht aenschouwen /Die van Cimmeria standt-vastelijck betrouwen /Al is 't dat hun de Sonn' wilt eeuwelijck ontvlien /Dat elck / al is het nacht / de duysterheydt kan sien.Soo nu de Noordsche Maen' ses mael heeft komen blincken /Dan gaet sy voor een maendt haer Broer een poose schincken /Maer lacen! mijn misdaedt heeft my soo verr' ghebrachtDat ick hier altoos sitt' in 't midden van den nacht /Iae 't selfs het ghene dient tot troost van alle blinde /Ick mijnen eyghen nacht / hoe 'ck soecke / niet en vinde.Het duyster ick bemin / de klaericheydt ick haet /In schaduwe des nachts mijn jonghe jeughdt vergaet:Want soo mijn Hoovaerdy heur op beghint te treckenKomt sy met eenen douck mijn ooghen overdecken /De slaefsch' Eer-giericheydt my mijnen dach belet /Het vier van mijnen gheest de quade lust besmet.</transcription>
+    </subscriptio>
+  </emblem>
+  <emblem xlink:href="http://emblems.let.uu.nl/ha1629002.html" page="" xml:id="ha1629002" globalID="http://hdl.handle.net/10111/EmblemRegistry:E026075">
+    <motto/>
+    <pictura xlink:href="http://emblems.let.uu.nl/static/images/ha1629/pictura/0150pl02.jpg"/>
+    <subscriptio>
+      <transcription xlink:href="http://emblems.let.uu.nl/static/images/ha1629/pages/01500015.jpg" page="15">SLaet ghy dan, Godt, soo nauwe gaede(Die 't al bestiert met vvijsen raedt)Ons malligheydt, en sotte daedt?VVie sal vervverven u ghenaede;VVant niemandt op der aerd' en leeft,Oft sotterny hem aen en kleeft.Selfs sy verdvvaelt de kloeckste sinnen,Door ydelheydt is elck bevvaeyt,En die niet van joncks kindt en draeytSal oudt, en koudt, eerst gaen beghinnen,En selden is hier iet ghebeurt,Oft het en vviert daer nae betreurt.Het eerste paer van ons gheslachteEen langh leet-vvesen achterliet,Als eenen Appel, eenen niet,Hun, en ons al, de doodt aenbrachte.Och! vvas oyt onder d'hemel-kap,VVel een lichtveerder koopmanschap?</transcription>
+    </subscriptio>
+  </emblem>
+  <emblem xlink:href="http://emblems.let.uu.nl/ha1629003.html" page="" xml:id="ha1629003" globalID="http://hdl.handle.net/10111/EmblemRegistry:E026076">
+    <motto/>
+    <pictura xlink:href="http://emblems.let.uu.nl/static/images/ha1629/pictura/0150pl03.jpg"/>
+    <subscriptio>
+      <transcription xlink:href="http://emblems.let.uu.nl/static/images/ha1629/pages/01500029.jpg" page="29">SWijgh ick dan stil, of sal ick spreken?Neen, ick en kan my niet verbreken,Waer blijft ghy traeghen Medecijn?Och! my en quam noyt eens te voren,Al hadd'et iemant my ghesworenDat ick uyt u ghedacht sou zijn.O liefste Godt ghy beydt soo spaede!Slaet ghy mijn quael niet nauwer gaede!Och! wilt toch komen het is noot.Waer toe mijn Godt wilt ghy vertoevenEn meer en meer my soo bedroevenIn het verrasschen van mijn doot?D'hervaeren al die by de GrieckenOyt haelden lof aen alle sieckenHadd'ick ghesaemder handt by my.P&#230;on gheluckigh in 't ghenesen</transcription>
+    </subscriptio>
+  </emblem>
+  <emblem xlink:href="http://emblems.let.uu.nl/ha1629004.html" page="" xml:id="ha1629004" globalID="http://hdl.handle.net/10111/EmblemRegistry:E026077">
+    <motto/>
+    <pictura xlink:href="http://emblems.let.uu.nl/static/images/ha1629/pictura/0150pl04.jpg"/>
+    <subscriptio>
+      <transcription xlink:href="http://emblems.let.uu.nl/static/images/ha1629/pages/01500045.jpg" page="45">MYn Godt ghy siet soo wreet! gae ick u dan niet aene?Mijn Godt ghy siet soo wreet! en ghy my noch bemint?Neen aen 't ghemeyne volck gheeft dit soo te verstaene,In noot den eenen vrient den anderen noch vint.Ghy siet, en ghy verdraeght d'ellende dien ick lijeDaer dat getrouvve liefd' me-doogigh is in als;Ghy siet my nu begaen dees peerdsche slaevernijeMet alle dit ghetuygh rondomme mijnen hals.Maer of dit ambacht vvaer een eerbaer hert bequaemeNoch alsoo seer veracht, en soo vervvorpen niet;Het soude my misschien bath vvesen aenghenaemeBepeysende den val aen hooghere gheschiet.</transcription>
+    </subscriptio>
+  </emblem>
+  <emblem xlink:href="http://emblems.let.uu.nl/ha1629005.html" page="" xml:id="ha1629005" globalID="http://hdl.handle.net/10111/EmblemRegistry:E026078">
+    <motto/>
+    <pictura xlink:href="http://emblems.let.uu.nl/static/images/ha1629/pictura/0150pl05.jpg"/>
+    <subscriptio>
+      <transcription xlink:href="http://emblems.let.uu.nl/static/images/ha1629/pages/01500057.jpg" page="57">'KEn hadde noyt ghelooft dat de verghetenthedenOock hielden hunne plaets in d'opperst' hemel-steden:Maer wel / dat altemets Godt om de sijne peyst.Neen / neen / het is al raes / men moet'et soo niet achten /Dat hy soo seer op ons sou setten sijn ghedachten /Of indien hy dat doet / hy doed'et wel gheveyst.Ha Godt! my dunckt wel half (wilt ghy 't oock immers weten)Dat ghy van overlangh hebt teenegaer verghetenHet werck daer ghy dijn handt eens meesterlijck aenstaeckt.Ist u uyt u ghedacht: Ick sal 'r in korter stondenHoe dat 't selv' is ghebeurt nu andermael verkonden /En segghen dattet eerst uyt d'aerde wiert ghemaeckt.Wilt ghy nv weten waer? 't was in den hof van Eden /Daer 't schepsel van den mensch ontfingh sijn volle ledenAls ghy daer over gaeft den soet-besielden blas.Te midden desen hof ontwierp haer een fonteyneVan water altijdt versch / schoon / silver-klaer en reyneBesproeyende 't gheboomt / en allegaer 't ghewas.En weet ghy nu den tijdt? 't was als ghy met de duynenDe wouste-wilde zee had sterckelijck doen tuynenDie noch daerom end' om staen muere-wijs ghestelt.En dit alsoo ghedaen / u wijsheydt daer vergaerde /Een hoopken ongheschickt van roo-gheschilderd' aerde /Als ons de waere Schrift waer-blijckelijck vermelt.</transcription>
+    </subscriptio>
+  </emblem>
+  <emblem xlink:href="http://emblems.let.uu.nl/ha1629006.html" page="" xml:id="ha1629006" globalID="http://hdl.handle.net/10111/EmblemRegistry:E026079">
+    <motto/>
+    <pictura xlink:href="http://emblems.let.uu.nl/static/images/ha1629/pictura/0150pl06.jpg"/>
+    <subscriptio>
+      <transcription xlink:href="http://emblems.let.uu.nl/static/images/ha1629/pages/01500069.jpg" page="69">NEen, neen, ick heb verdient al dat ick lij,O Heer, ick moet 't bekennen vryHoe dat 't ghetal van mijn mis-daet'T hayr van mijn hooft te boven gaet.Ick hebbe my misgaen. Och! het is vvaerMijn sonden-vlecken allegaerEn kan ick gheven ander schijnDan soo sy teghenvvoordich zijn.Ick hebbe my misgaen door sonde grootOch! als ick 't denck' ick vvorde root.Hierom voorvvaer ist dat ick dienGhestraft te zijn voor alle lien.Maer, siet, &#244; liefste Godt, hoe dat ick schrey,En naer u stier dees handen beySiet hoe ick bidde met gheduldtVerghiffenis van mijne schuldt.Wat vvil ick u dan doen? sou gheldt of goetVVel vvat versoeten u ghemoet,Of soudt ghy my zijn goeder hand,Dat ick u deed' een offerand?</transcription>
+    </subscriptio>
+  </emblem>
+  <emblem xlink:href="http://emblems.let.uu.nl/ha1629007.html" page="" xml:id="ha1629007" globalID="http://hdl.handle.net/10111/EmblemRegistry:E026080">
+    <motto/>
+    <pictura xlink:href="http://emblems.let.uu.nl/static/images/ha1629/pictura/0150pl07.jpg"/>
+    <subscriptio>
+      <transcription xlink:href="http://emblems.let.uu.nl/static/images/ha1629/pages/01500077.jpg" page="77">HEeft u mijn sonde soo verstoort,Dat ghy nu naer my niet en hoort?Ick had' ghemeynt, mijn eeuvvich LevenDat sy vvas licht om te vergeven.Ick had' ghemeynt dat ghy u schijnAl vvillens dedet amper zijn,Dat ghy uyt-steldet dese kurenOm my noch meer te doen beruren.Ghelijck een Moeder vvel-ghesintDen boesem vveyghert aen haer kint,Iae haer ghelaet of sy vvau smijtenOp dat sy dat soud' hooren krijten;Of als een Voester haer gheveyst,Soo 't suyghelinck een kusken eyscht,Daer sy 't met duysent heeft gheschonckenAlst aen haer borsten lagh ghesoncken.Soo docht het my dat met u vvasAls ghy my liept ont-duycken ras,En dat ghy u daer hielt verbolghenOp dat ick u niet soude volghen.</transcription>
+    </subscriptio>
+  </emblem>
+  <emblem xlink:href="http://emblems.let.uu.nl/ha1629008.html" page="" xml:id="ha1629008" globalID="http://hdl.handle.net/10111/EmblemRegistry:E026081">
+    <motto/>
+    <pictura xlink:href="http://emblems.let.uu.nl/static/images/ha1629/pictura/0150pl08.jpg"/>
+    <subscriptio>
+      <transcription xlink:href="http://emblems.let.uu.nl/static/images/ha1629/pages/01500085.jpg" page="85">WIe sal dan nu mijn hooft met waeter over-gieten /En soo veel druppels doen als hayren daer uyt schiet&#275;?Want tot dusdaenen vloedt is een vlack-open veldtWaer teghen gheenen dijck / noch barrhem is gestelt.Och of mijn ooghen bey verkeerden in rivieren!Voorwaer ick soude die noch weten te bestieren:De traenen al soo wel en zijn my niet ghenoech /Van die hier altijdt kreet / en nimmermeer en loech. Noch al het vocht dat uyt Andromache daer woeldeWaer door hy haer ghesucht soo menichmael verkoelde /Noch Dauid u gheschrey / al wast een volle batIn 't welck ghy alle nacht u bedde maeckte nat /'T welck u in st&#233; van broodt / het voedtsel koste gheven /'T welck was al u vermaeck / u tijdt-verdrijf en leven. 'Ken acht 'et water niet dat Magdalis ontvlootMet welcke sy den Heer soo mildelijck begoot.Noch al u traenen oock traen-spruytende fonteyneWien Godt van 't eeuwich Rijck den sleutel gaf alleyne /Die u in u misdaedt soo dickmael hebt bedroeftHoe dat den traene loop u wanghen heeft doorgroeft.</transcription>
+    </subscriptio>
+  </emblem>
+  <emblem xlink:href="http://emblems.let.uu.nl/ha1629009.html" page="" xml:id="ha1629009" globalID="http://hdl.handle.net/10111/EmblemRegistry:E026082">
+    <motto/>
+    <pictura xlink:href="http://emblems.let.uu.nl/static/images/ha1629/pictura/0150pl09.jpg"/>
+    <subscriptio>
+      <transcription xlink:href="http://emblems.let.uu.nl/static/images/ha1629/pages/01500093.jpg" page="93">BEn ick als die vviert verslonden,En opgh'eten van sijn hondenZijnd' in eenen hert verkeert?Het is vvaer, de Iacht ick minneMetter hert, en met den sinne,En sy vvordt van my ghe-eert.Om verlusten mijn ionck levenHebb' ick my tot die begheven:Maer in uvv' vvaeranden niet Op-gheschorste schoon Diane,Onghevvoon ben ick te gaeneMet de tromp, en Iaegher-spriet.Onghevvoon ben ick met nettenHeele kanten af te setten,Ongevvoon oock naer het vvoudt,Mijne bracken te beschickenOm het vvilt soo te beklickenDat hem daer bedoken houdt.</transcription>
+    </subscriptio>
+  </emblem>
+  <emblem xlink:href="http://emblems.let.uu.nl/ha1629010.html" page="" xml:id="ha1629010" globalID="http://hdl.handle.net/10111/EmblemRegistry:E026083">
+    <motto/>
+    <pictura xlink:href="http://emblems.let.uu.nl/static/images/ha1629/pictura/0150pl10.jpg"/>
+    <subscriptio>
+      <transcription xlink:href="http://emblems.let.uu.nl/static/images/ha1629/pages/01500105.jpg" page="105">WAt lof behaelt den Heer met sijnen knecht te dinghen /Wat lof behaelt den knecht den Heer in recht te dwing&#275;tVerlieset doch den Heer / 't is hem een schande groot /Verlieset oock den knecht / den Heere wilt sijn doot.Mijn Godt gheloovet my / met u te moeten kijvenWaer een on-eere groot / en sottelijck bedrijven.Neen / ick en hebbe my soo verre noyt betrouwt /Noch ick en wil oock niet dat ghy my daer voor houdt.Want gheen soo kleynen saeck s'en staet al opgheschreven /En of ick niet en woude mijn verwonnen gheven /Is erghens hier een tongh' soo wacker en soo koenDe welcke my mijn saeck voor u soud' willen doen?Neen / ick en kenne gheen soo rijp in reden-taelenDie eenichsins voor u soud' konnen eer behaelen:Want ghy een Rechter zijt soo vinnich en soo strafDie noyt op iemandts woordt en ghinckt u vonnis af.'T is waer dat Al dit Al moet kennen u ghenaedeEn dat u rechter handt ons gheesselt traegh en spaede /Want soo maer uwen mont een droevich vonnis spreeckt /Van droefheydt / &#244; mijn Godt / u oock het herte breeckt.</transcription>
+    </subscriptio>
+  </emblem>
+  <emblem xlink:href="http://emblems.let.uu.nl/ha1629011.html" page="" xml:id="ha1629011" globalID="http://hdl.handle.net/10111/EmblemRegistry:E026084">
+    <motto/>
+    <pictura xlink:href="http://emblems.let.uu.nl/static/images/ha1629/pictura/0150pl11.jpg"/>
+    <subscriptio>
+      <transcription xlink:href="http://emblems.let.uu.nl/static/images/ha1629/pages/01500115.jpg" page="115">HOe onghestaedich is den padtO Zee van u aen-lockich natDaer soo veel schepen inne sincken!Ghy vloeyt soo effen als ghelasDan op, dan af, in eenen pasOm alle mensch tot u te vvincken.Somvvijl en hebt ghy gheen ghevoelGhy light soo stil als eenen poelDie nimmermeer en kan gherijsen:Maer met dat eenen storrem-vvindtU alsoo neer-ghestreken vindt,Hy doet u haest om hooghe sijsen.Van wervelen hy niet en flouwtRondtom het uytgheholde hout,VVaer teghen sy geeft sulcke spronghen,Dat neder-svvackt tot op den boort,Dat 't schijnt dat alle vvordt versmoort,En tot den gronde neer-ghedronghen.</transcription>
+    </subscriptio>
+  </emblem>
+  <emblem xlink:href="http://emblems.let.uu.nl/ha1629012.html" page="" xml:id="ha1629012" globalID="http://hdl.handle.net/10111/EmblemRegistry:E026085">
+    <motto/>
+    <pictura xlink:href="http://emblems.let.uu.nl/static/images/ha1629/pictura/0150pl12.jpg"/>
+    <subscriptio>
+      <transcription xlink:href="http://emblems.let.uu.nl/static/images/ha1629/pages/01500127.jpg" page="127">WIe sal my gheven om te schuylenDiepe, vermoste, doncker kuylenOp dat my niet en komm' ontrentU blixem-vier dat ghy af-sendt?O Godt soo my maer komt te vorenHoe kleyne vonck van uvven thoren,'K en vveet soo gheen verschoven pleckDaer ick soud' nemen mijn vertreck,Dan vvensch'ick 't diepste der foreesten,Dan een spelonck der vvilde beesten,Dan eenen konckel onder d'aerdDaer dat ick soude zijn bevvaert.Dan soud'ick om my te verstekenVVel met mijn hooft een rots' op-breken,Dan soud'ick gheren my besteenIn eenich graf by d'overleen.</transcription>
+    </subscriptio>
+  </emblem>
+  <emblem xlink:href="http://emblems.let.uu.nl/ha1629013.html" page="" xml:id="ha1629013" globalID="http://hdl.handle.net/10111/EmblemRegistry:E026086">
+    <motto/>
+    <pictura xlink:href="http://emblems.let.uu.nl/static/images/ha1629/pictura/0150pl13.jpg"/>
+    <subscriptio>
+      <transcription xlink:href="http://emblems.let.uu.nl/static/images/ha1629/pages/01500141.jpg" page="[139]">GHy soud gheeren my verblijenOm dies vville dat soo kortMijnen tijdt bevonden vvordtLiever had' ick te ghebijen,Eenen tijdt van hondert jaerDan mijn doodt te zijn soo naer.Maer helaes! vvat brooser gaerenLoopt daer door de spille raschVan mijns levens teere vlasch,Och! hoe kort sijn onse jaeren!'T kindeken vvordt oudt ghenomtMet dat in sijn putjen komt!Vele dierkens hun verrurenQuaelijck eenen heelen dagh,Quaelijck eenen oogh-opslagh,</transcription>
+    </subscriptio>
+  </emblem>
+  <emblem xlink:href="http://emblems.let.uu.nl/ha1629014.html" page="" xml:id="ha1629014" globalID="http://hdl.handle.net/10111/EmblemRegistry:E026087">
+    <motto/>
+    <pictura xlink:href="http://emblems.let.uu.nl/static/images/ha1629/pictura/0150pl14.jpg"/>
+    <subscriptio>
+      <transcription xlink:href="http://emblems.let.uu.nl/static/images/ha1629/pages/01500155.jpg" page="155">MAer kan hem oock den mensch wel alsoo bot vertooghenVan niet te sien het quaedt oft het en is voor ooghen:Zoud' iemandt die daer leeft dit achten wel ghedaenTe wesen maer beruert in teghenwoorde saecken /En niet eens op het ghen' hen staende te ghenaecken /Sijn binnenste ghedacht / oft ooghe-merck te slaen?Den Krijgher moet alvoor eer de trompetten klinckenEn eer 't alarme slaet in volle waepen blincken /Den schip-man eer hy vaert en teenegaer ontmeertHeeft neerstelijck bespiet sijn goe bequaeme winden /Dan gaet hy alder-eerst de kaebelen ontbinden /En het diep-wijde Meir Godts heughens inne-keert.Eer dat den loosen Boer schoon vruchten kan aenschouwenAl voren gaet sijn saet voorsichtelijck betrouwen /Den op-ghescheurden ruggh' van sijn ghevoedde landt.Men siet de kleyne Mier besorght voor haere daeghenGhelijck nae haere schuer het korenken aen-draeghen /Dat sy des somers gaert tot haeren onderstandt.Maer ghy / ghy dwaesen mensch / die niet en wilt ghewennenDen tijdt die komen sal van langher handt te kennen /Soudt ghy wel zijn soo plomp / soo effen / en soo slechtTe meynen dat den draedt die de Dry susters spinnenDe ketenen van stael oft yser over-winnen?O neen / het is al raes! O neen dit weder-leght!</transcription>
+      <transcription xlink:href="http://emblems.let.uu.nl/static/images/ha1629/pages/01500159.jpg" page="159">Met dat den mensche light in 't grafSoo vloeyen hem veel vvorrems af,En naer de vvorrems schrick en stanck:Soo dat den mensch dan met bedvvanckVerkeert, als hy vvordt neer-gheleydt,In vvorrems, en in vuylicheydt.</transcription>
+    </subscriptio>
+  </emblem>
+  <emblem xlink:href="http://emblems.let.uu.nl/ha1629015.html" page="" xml:id="ha1629015" globalID="http://hdl.handle.net/10111/EmblemRegistry:E026088">
+    <motto/>
+    <pictura xlink:href="http://emblems.let.uu.nl/static/images/ha1629/pictura/0150pl15.jpg"/>
+    <subscriptio>
+      <transcription xlink:href="http://emblems.let.uu.nl/static/images/ha1629/pages/01500167.jpg" page="167">WEl stond'et my dan te gheschienVan nimmermeer te moghen sienEen vrolijck daeghsken in mijn leven?Hoe my den tijdt bedroghen heeftDie my soo menigh-mael in-gheeftDat hy my morghen een soud' gheven?Maer tot als-noch noyt ick vernamWanneer dat desen morghen quamNoyt eenen dagh en vvas ick blijde.Ick meynde dat Godt overhandtDe blijdschap en den rauvve sandt.Voorsichtelijck elck t'sijnen tijde.Ghelijck der sonnen klaer ghesichtDe doncker-koude vvolcken svvichtEn doet de nacht-smuyck henen vlieden;Ghelijck de Maene d'ebb' en vloedtOp seker uren komen doetSoo docht ick 't oock hier te gheschieden.</transcription>
+      <transcription xlink:href="http://emblems.let.uu.nl/static/images/ha1629/pages/01500172.jpg" page="172">Dit is al oudt, en gaet heel vastDat hem den mensch in traenen vvaschtSoo saen hy 't leven komt ghenieten,VVaer door hy ons gheeft te verstaenDat hy noch niet en heeft ghedaen:Maer datter meer staen te verghieten.Daer is ter aerde vvel een landtAlvvaer men noyt gheen vvildt en vandt,Noch vlocke sneeuvv en comt gheresen:Maer dat oock iemandt h&#225; 't gheluckVan hier te leven sonder druck,Voorvvaer &#244; neen, 'ten can niet vvesen!</transcription>
+    </subscriptio>
+  </emblem>
+  <emblem xlink:href="http://emblems.let.uu.nl/ha1629016.html" page="" xml:id="ha1629016" globalID="http://hdl.handle.net/10111/EmblemRegistry:E026089">
+    <motto/>
+    <pictura xlink:href="http://emblems.let.uu.nl/static/images/ha1629/pictura/0150pl16.jpg"/>
+    <subscriptio>
+      <transcription xlink:href="http://emblems.let.uu.nl/static/images/ha1629/pages/01500181.jpg" page="181">NV ick in twijffel ben / wat liefd'ick soud' aenveerdenHet zy de liefde Godts / off die van deser aerden /Ick stae met als bekeurt / en ben in anghst en nootWat streke noch op 't lest sal houden mijnen boot.Ghelijcker-wijs een schip dat wagghelt metten windeVan liefde tweederley ick my ghetoghen vinde /Die alle bey begaen een twijffelbaer ghevechtWaer door dat mijnen wensch wordt teenemael gheslecht.Mijn Godt het is ghenoech! 'ken kan niet meer ghelijden /Laet immers eens mijn hop' in d'haeven heur bevrijdenNoch dat gheen' ander liefd' en komme my ontrentTen zy die ghy van hoogh self in mijn herte sendt.Neen / ick en loochen niet / 't is heughdich voor ons allenMet veelderleyen wensch te moghen werre-ballen /Die nimmermeer en wilt in pranghe zijn ghesetNoch in het alder-minst staen onder iemandts wet.Men siet hoe dat een peerdt loopt los en onbedwonghenMet dat het sijn gorreel heeft van den hals ghevronghen /Men siet hoe dat den Oss' hem wentelt in het groenAls hy sijn swaere iock heeft konnen af-ghedoen:Maer soo men die van her ten ploeghe meynt te wennenS'en willen quaelijck eens dan hun ghetuyghe kennen;</transcription>
+    </subscriptio>
+  </emblem>
+  <emblem xlink:href="http://emblems.let.uu.nl/ha1629017.html" page="" xml:id="ha1629017" globalID="http://hdl.handle.net/10111/EmblemRegistry:E026090">
+    <motto/>
+    <pictura xlink:href="http://emblems.let.uu.nl/static/images/ha1629/pictura/0150pl17.jpg"/>
+    <subscriptio>
+      <transcription xlink:href="http://emblems.let.uu.nl/static/images/ha1629/pages/01500191.jpg" page="191">WAer sal ick henen gaen? nu dese krinckel-weghenDoor twijfflheyt / en schrick / by-nae my houden tegh&#275;!Den eenen die is recht / den anderen is krom /Den eenen die is by / den anderen is om /Den eenen die is licht / den anderen is swaerder /Den eenen die is verr' / den anderen is naerder.In 't korte waer ick gaen / waer ick my wend' oft keer /Den uytganck och helaes! en vind'ick nimmermeer!'T en was soo ghenen wech / hoe wel in twee ghescheyden Die naer den hemel eens ghinck Hercules gheleyden:Noch den Meanders vloedt soo seer hem niet en kromtWeer hy sijn eyghen nat dicks te ghemoete komt. Noch D&#230;dalus en kost den dool-hof soo ghemaecken /Off hier en zijn al meer bedrieghelijcker saecken.'Ken kan hier uyt oft in / ick ben hier in bedwangh /En hier is al veel meer dat my beneemt den gangh.Ken acht dien dool-hoff niet met al sijn omme-keeren Daer 't uyt en inne gaen kost D&#230;dalus elck leeren.Maer hier wat dat ick ga / 'ken kan gheen eynde sien /Iae selfs soo komt den nacht my mijnen wegh verbien!Niet eenen voet stap laes! en kan ick hier ghespeurenOff ievers eenich mensch misschien noch waere veuren.Wat helpet dat ick tast alomme met mijn handt /En dat ick voor / en naer / my mijde t'allen kant /</transcription>
+    </subscriptio>
+  </emblem>
+  <emblem xlink:href="http://emblems.let.uu.nl/ha1629018.html" page="" xml:id="ha1629018" globalID="http://hdl.handle.net/10111/EmblemRegistry:E026091">
+    <motto/>
+    <pictura xlink:href="http://emblems.let.uu.nl/static/images/ha1629/pictura/0150pl18.jpg"/>
+    <subscriptio>
+      <transcription xlink:href="http://emblems.let.uu.nl/static/images/ha1629/pages/01500205.jpg" page="205">O Godt die soo vernuftich zijtDat ghy mijn stappen kondt ghetellen,Sal ick dan struyckelen altijdtAls ick den voet meyn vast te stellen?U ooghe doch eens neder-slaet,En siet hoe dat u schepsel gaet.Den Oyevaer vvent sijn ghebroetMet vederen de locht te snijden,'T vvelck hy van ioncks hem volghen doetTot dat'et selv' naer korte tijdenAlleene, stout, en onbevreestDen onghebaenden vvegh aen-reest,Den Arent die beroept sijn ionckMet vleughelen heel vvijt ontploken,Het vvelck met eenen vlugghen spronckHeeft oock de locht haest door-ghebroken,Die dus ghewennet sijnen VaerCloeck-moedelijk te volghen naer.</transcription>
+    </subscriptio>
+  </emblem>
+  <emblem xlink:href="http://emblems.let.uu.nl/ha1629019.html" page="" xml:id="ha1629019" globalID="http://hdl.handle.net/10111/EmblemRegistry:E026092">
+    <motto/>
+    <pictura xlink:href="http://emblems.let.uu.nl/static/images/ha1629/pictura/0150pl19.jpg"/>
+    <subscriptio>
+      <transcription xlink:href="http://emblems.let.uu.nl/static/images/ha1629/pages/01500219.jpg" page="219">DEn eersten A.B.C. en d'alder-oudtst leere /Was oyt / ghelijck men seght / de Vreese van den Heere: En wie van Salomon is trachtende den sin /Moet houden die te zijn van wijsheydt het beghin.In aldus-daene school ben ick oock onderwesen /En my wierdt dagh voor dagh dees lesse voor-ghelesen.Maer wat! ick was soo bot: ick nam soo luttel aenDat ick noch niet en weet een letter te gheraen.Ben ick dan niet wel weer palm-maeten te verdraeghen:Als hebbende verquist onnuttelijck mijn daeghen?Want gheen soo kleynen wicht / oft 't worde de letters wijsSoo dattet maer en siet wat ghispelingh van rijs.Dat wel soo vele doet / hoe dat haest wordt bequaemeDe letters een voor een te gheven hunnen naeme /En die met wetenschap te konnen onder-scheen /Hoe wel sy allegaer van verruwe zijn een.Wel hoe! sal dan het ghen' de kindtscheydt heeft gheweten /Nu in den ouderdom zijn allegaer vergheten?'T is waer: ick hebb' alleen veel saecken wel gheleert:Maer tot de vreese Godts mijn sinnen noyt ghekeert.'T is schande dat ick acht' 't ghen' weert is te versmaeden,Noch dat ick niet en vrees 't ghen' my sou konnen schaeden!</transcription>
+    </subscriptio>
+  </emblem>
+  <emblem xlink:href="http://emblems.let.uu.nl/ha1629020.html" page="" xml:id="ha1629020" globalID="http://hdl.handle.net/10111/EmblemRegistry:E026093">
+    <motto/>
+    <pictura xlink:href="http://emblems.let.uu.nl/static/images/ha1629/pictura/0150pl20.jpg"/>
+    <subscriptio>
+      <transcription xlink:href="http://emblems.let.uu.nl/static/images/ha1629/pages/01500231.jpg" page="231">Eeens heeft my een almachtigh handtTvvee sterren in het hooft gheplantWaerin dat elck houdt sijne rondeEn die bevvaert tot aller stonde.Maer off dees sterren oock vergaenOff dat sy blijven stille staenEn kan ick seker niet ghevveten;Want wonderbaer zijn hun secreten.Ick sie sy loopen op den dril,Ick sie sy zijn oock somtijdts stil,Sy soecken 't by, sy soeckent verre,Hoe noem ick dan nu elcke sterre?Kom aen, mijn Ooghen, vvilt dan zijnDit wanckelbaere sterre-schijn'T staet u-lien toe te moeten vvaecken,En my te dienen voor tvvee baecken.Maer van die baecken die de klipBy nachte toonen aen het schip,Soud'ick voorvvaer meer vvillen houvven.Sy zijn al beter te betrouvven.</transcription>
+    </subscriptio>
+  </emblem>
+  <emblem xlink:href="http://emblems.let.uu.nl/ha1629021.html" page="" xml:id="ha1629021" globalID="http://hdl.handle.net/10111/EmblemRegistry:E026094">
+    <motto/>
+    <pictura xlink:href="http://emblems.let.uu.nl/static/images/ha1629/pictura/0150pl21.jpg"/>
+    <subscriptio>
+      <transcription xlink:href="http://emblems.let.uu.nl/static/images/ha1629/pages/01500247.jpg" page="[247]">MAer Bruydegom mocht ick u vraeghen,Off het u oock vvel sou behaeghenDat ghy aenschoudet mijn aenschijn?VVant vvist ick iae: soo soud'ick loopenOm alle dinghen op te koopenDie my daertoe van noode zijn.Ick soud' met muscus my begeuren,En gaen op-soecken de coleuren,En alle waeters hier en daerBequaem om vlecken te verdrijven,En poeyer oock om m&#233; te vrijvenMijn tandekens d'een voor en naer.Ick sou my weten te blanckettenEn vvel soo lustigh op te setten,Ick soud' haest krijghen het verstandtOm heel mijn aensicht schoon te maecken:VVant lichtelijck soud'ick gheraecken Aen 't salfken dat Popp&#230;a vandt.</transcription>
+    </subscriptio>
+  </emblem>
+  <emblem xlink:href="http://emblems.let.uu.nl/ha1629022.html" page="" xml:id="ha1629022" globalID="http://hdl.handle.net/10111/EmblemRegistry:E026095">
+    <motto/>
+    <pictura xlink:href="http://emblems.let.uu.nl/static/images/ha1629/pictura/0150pl22.jpg"/>
+    <subscriptio>
+      <transcription xlink:href="http://emblems.let.uu.nl/static/images/ha1629/pages/01500263.jpg" page="263">ALderliefste 't is te langh Hier te vvoonen in bedvvangh; K&#233; gaen vvy met dit saysoen Ons verquicken in het groen? Off de Steden schoon altijdtStaen bemuert, en vvel bevrijdt,Off hun hoven sluyten vast,Op den acker beter vvast,Want hy ons de vruchten gheeftDaer den Borgher mede leeft.D'Heeren-huysen in de stadtStaen gheghevelt alsoo prat,En haer torrens fraey ghevrochtStaen verheven in de locht:Maer een hutjen van het landtStaend' in sijnen kleemen wandt.En met rieten vvel beleydtDuysent mael my meer ghereydt;</transcription>
+    </subscriptio>
+  </emblem>
+  <emblem xlink:href="http://emblems.let.uu.nl/ha1629023.html" page="" xml:id="ha1629023" globalID="http://hdl.handle.net/10111/EmblemRegistry:E026096">
+    <motto/>
+    <pictura xlink:href="http://emblems.let.uu.nl/static/images/ha1629/pictura/0150pl23.jpg"/>
+    <subscriptio>
+      <transcription xlink:href="http://emblems.let.uu.nl/static/images/ha1629/pages/01500277.jpg" page="277">GHy die mijn hertjen naer u treckt,Siet my ter aerde neer-ghestreckt.'K en ben niet als ick placht te zijn,Ghelijck een schaduvv' ick verdvvijn.'Ken vind' in 't leven gheen behaegh,'T is al dat ick my selven draegh'.Het hooft my lanckx den boesem sinckt,Mijn beenen ligghen als verminckt.Ick kroch', ick kuym', ick kuch', ic st&#233;en','Ken kan ghedueren in mijn l&#233;en,'K ben niet machtich op te staen,Veel min een voetjen voort te gaen.Als-nu bepoogh'ick met mijn handtHet hooft te doen een onderstandt;Als-nu soo keer' en vvend'ick my,Nu overruggh', dan op de zy.</transcription>
+    </subscriptio>
+  </emblem>
+  <emblem xlink:href="http://emblems.let.uu.nl/ha1629024.html" page="" xml:id="ha1629024" globalID="http://hdl.handle.net/10111/EmblemRegistry:E026097">
+    <motto/>
+    <pictura xlink:href="http://emblems.let.uu.nl/static/images/ha1629/pictura/0150pl24.jpg"/>
+    <subscriptio>
+      <transcription xlink:href="http://emblems.let.uu.nl/static/images/ha1629/pages/01500293.jpg" page="293">WIe sou den Boom dan konnen vinden,En soo verheffen ons gheslacht,Dat ghy mijn Broerken vvierdt gheacht?Neen, soo my dunckt, ten kan niet binden:VVant hoogher ick my niet en maeck,Dan achter-volghens onsen staeck:En al is 't dat mijn Vaer en Moeder,Maer zijn bekent voor stille lien,Die al dusdaene prachten vlien:Noch vvensch'ick u voor mijnen broeder,Niet als een Iongh-man net ghebaert:Maer als een kindt noch niet verjaert.'T vvelck vriendelijck daer laegh ghedrevenVast aen mijns moeder vvitte borst,</transcription>
+      <transcription xlink:href="http://emblems.let.uu.nl/static/images/ha1629/pages/01500294.jpg" page="294">Om te verslaene sijnen dorst,En daeghelijcks daer saet verhevenOp haeren aenghenaemen schoot,Als ick, eer dat ick vvas soo groot.Och! off ick u in deser voeghenVoor mijn kleyn broerken hier aensaegh,'T vvaer grootelijcks tot mijn behaegh!Dus, bidd'ick u, laet u vernoeghenTe vvorden als een lieve vvichtDat t'onsent in de vvieghe light!Want soo men siet, de kleyne kindersSijn lieffelijcker van bedrijf,Dan d'oude lieden kout en stijf,Die daer af zijn gheen ondervvinders:Den Ouderdom baert sijne deughdt.Soo doet de kindtsheydt haere vreughdt.Ter deser oorsaeck vvordt gheschildertIn de ghedaente van een kindt Cupido die 't al overvvint:Want hy is vvoest, en heel vervvildert,En allegaeder sijn bestelSchijnt malligheydt en kinder-spel.Dat ick u dan een kindt oock vvensche,De reden en is anders gheenDan om met u te zijn ghemeen.K&#233; nu, mijn lief, vvordt dan een mensche,Op dat ick soo nacht ende daghOntrent u vvieghsken sitten magh?Maer als ick u dan moeste draeghen,Wanneer ghy haddet suyghens-nootTot aen mijns moerkens boesem bloot;Hoe soude my dan dat behaeghen,Als ick soo sonder ongheriefQuaem aengheslopen met mijn lief?Kom aen mijn Hertjen, vvilt her-levenOp dat ick u somvvijlen kusEn aen u vvieghsken sitt' aldus;Het susterken mach 't broerken ghevenSoo menich soentjen alst haer lustDaer in dat elck moet zijn gherust.En off het oock noch iemandt saegheKleyn soude vvesen het verlanghIae al off ick heel uren langhVast teghen uvve lipkens laeghe;Soo soude dat ghereckebeckNoch vvesen vry van alle gheck.H&#225;! mocht ick eens my soo beroemen,Dat ghy mijn jonghste broerken vvaertHet vvaere my een hemel-vaert!K&#233; laet u dan mijn broerken noemen!Ick biddet u met al oodtmoedtDat ghy my dese vriendtschap doet!K&#233; mijn Hert-soet, vvoudt ghy dit schicken'Ken sou van blijdschap niet bevroenHoe dat ick u dat sou vergoen!Men sou my dickx by u beklickenEn by u vvieghsken vinden staenOm mijne lustjens te versaen.Ick soude daer naer mijn vermoghenVVie dattet vvaere lief oft leet,Zijn t'uvven dienst altijdt bereetEn soo vvanneer ghy hadt ghesoghenSoud'ick u met een soet ghevleyHer-locken in mijn arrems bey.En soo mijn moeder dan oock vvoudeDat ick u droeghe naer de locht,Het vvaer een speelken dat ick sochtOff dat ick u vast vvieghen soude,Ick soudet doen al vvierd'ick moeTot dat uvv' ooghskens vielen toe.Iae selver ooc ick sou benijdenDats' aen u vvieghsken met ghenaeckDen minsten vingher maer en staeck,Al mijnen druck steld'ick bezijdenSoo ick mocht hebben in bevvaerMijn alderliefste vveder-paer.Maer oft ick u soo mochte vvaeckenEn by u dus alleene zijn;'K sou propelijck van u aenschijn.Al om mijn hertjen te vermaeckenDen snuttel doeck dickx nemen af,Die my mijn Moeder voor u gaf?U mondeken sou daer ontfanghenOch lieveken den vollen vloedtVan millionen kuskens soet.Mijn slincker hand soud' u omvanghenEn aen u halsken zijn gheklestOm die te gheven alder-best.Ick soude vveten die te stelenEn Lieveken in uvven slaepNaem'ick daer van den vollen raep.K&#233; laetet u dan niet vervelen?Kleyn smulleken die nu ter tijdtMijn soete lieve broerken zijt?En soo ghy sult vvat ouder vvesen,Alsdan, &#244; kleynen nachtegal,Sal ick u leeren onse tael,En als het past mijn uytghelesen.Sal u de vvoorden segghen voorOm bath daerm&#233; te raecken door.Daernaer te groot om zijn ghedreghen,En dat ick sie dat gh'u gheneertTe reyden op een houten peerdt;Dan sal ick u vvat houden teghenEn sien off uvve voetjens netVan passe vvorden neer-gheset.En off het schoon noch al ghevieleDat ghy een steentjen erghens vondt;Ten sou niet schaen, als ick terstondtU dan van achter teghen-hiele;En dat ick u soo liepe by,Om sacht te vallen teghen my.Dit saegh'ick liefste vvel soo gherenAls u gheen hinder toe en quaem':VVant soo ick u van d'aerde naem',Ick sou ten minsten dan begheerenO broerken lief op alsoo schoonV mondeken tot mijnen loon.</transcription>
+    </subscriptio>
+  </emblem>
+  <emblem xlink:href="http://emblems.let.uu.nl/ha1629025.html" page="" xml:id="ha1629025" globalID="http://hdl.handle.net/10111/EmblemRegistry:E026098">
+    <motto/>
+    <pictura xlink:href="http://emblems.let.uu.nl/static/images/ha1629/pictura/0150pl25.jpg"/>
+    <subscriptio>
+      <transcription xlink:href="http://emblems.let.uu.nl/static/images/ha1629/pages/01500307.jpg" page="307">NEen, ick en singh' hier anders nietDan een soet-eerbaer Bruyloft liedt,Den ouden Hymen laet ick vaeren.Soo 't lichaem in een liefde blaeckt,VVordt even-eens de siel gheraeckt:Maer nimmermeer tot haer besvvaeren.Het vier dat in een siele brandtHeeft boven 't lichaem d'overhandt,Het is om liefden op te bouvven.Een hemel-fackel dat ontsteeckt,Noch alsoo licht oock niet en breecktAls van die 't lichaem maer en trouvven.Hoe vreughdich-suyver-soet voorvvaerZijn hier de soentjens allegaer,Hoe vriendelijck is 't hier om vvesen!Een ledekant staet hier bereydt,Waer alle nacht te ruste leydtDen Bruydegom sijn uytghelesen,</transcription>
+    </subscriptio>
+  </emblem>
+  <emblem xlink:href="http://emblems.let.uu.nl/ha1629026.html" page="" xml:id="ha1629026" globalID="http://hdl.handle.net/10111/EmblemRegistry:E026099">
+    <motto/>
+    <pictura xlink:href="http://emblems.let.uu.nl/static/images/ha1629/pictura/0150pl26.jpg"/>
+    <subscriptio>
+      <transcription xlink:href="http://emblems.let.uu.nl/static/images/ha1629/pages/01500325.jpg" page="325">NEen / neen / ick wil aen elck mijn faute gaen verkonden /Hadd'ick u wel ghesocht / &#244; lief / ick hadd' u vonden.Ick meynde voor ghewis dat gh'op mijn bedde laeght /Maer soo ick nu beseff ten heeft u niet behaeght.Wat wil ick dan begaen? soudt wederom my lustenOp 't selve / soo ick placht / t'herfacken mijne rusten!Neen / Liefste sonder u en hebb'ick gheenen vaeck /Ghy zijt toch mijnen troost / en alle mijn vermaeck.Al hoord'ick al 't gheruyt / en 't vreughdich tiere-lierenDer dierkens die de locht met vleughelen door swieren.Al hoord'ick neven my een beecksken dat daer ruyschtOff eenighe fonteyn hoe soetelijck sy pruyscht.Al hoord'ick al het spel der neghen sangh goddinnen /Soo en sou noch de Slaep mijn ooghen niet verwinnen /Iae off hy sijne roe quaem strijcken over my /En alle sijnen heul verquackelen daer by.Een oogh' en hebb'ick / siet / ter nauwer noot gheloken /Off sy wordt wederom van stonden opghebroken.De nachten och helaes! die schijnen my soo langh /Off elcken hadd' alleen thien nachten in bedwangh!</transcription>
+    </subscriptio>
+  </emblem>
+  <emblem xlink:href="http://emblems.let.uu.nl/ha1629027.html" page="" xml:id="ha1629027" globalID="http://hdl.handle.net/10111/EmblemRegistry:E026100">
+    <motto/>
+    <pictura xlink:href="http://emblems.let.uu.nl/static/images/ha1629/pictura/0150pl27.jpg"/>
+    <subscriptio>
+      <transcription xlink:href="http://emblems.let.uu.nl/static/images/ha1629/pages/01500337.jpg" page="337">IS hier erghens eene pleck,Oft vertreckIn 't ronde noch te vinden,Dat ick niet en heb bestaenAf te gaenOm mijnen vvel-beminden!Och helaes! ick ben vermoeytEn 't vernoeytMy langher hem te soecken.'T is ghenoech dat ick verslaeft,Door-ghedraeftHebb' allegaer dees hoecken.</transcription>
+    </subscriptio>
+  </emblem>
+  <emblem xlink:href="http://emblems.let.uu.nl/ha1629028.html" page="" xml:id="ha1629028" globalID="http://hdl.handle.net/10111/EmblemRegistry:E026101">
+    <motto/>
+    <pictura xlink:href="http://emblems.let.uu.nl/static/images/ha1629/pictura/0150pl28.jpg"/>
+    <subscriptio>
+      <transcription xlink:href="http://emblems.let.uu.nl/static/images/ha1629/pages/01500353.jpg" page="353">HOe den handel van mijn levenHerr' en ghints oyt is ghedrevenAls doet eenen ketse-bal!D'alder eerste domme lustenWaeren om my op te rusten, En aen Mars te vvaeghen al.Om eens eere te betraepen'K sette my in volle vvaepen,En het docht my vvel te gaen:Maer hier-voren hebb'ick moetenOp die torrens en redoutenDickmael sentinelle staen.Van daer hebb'ick vvel ter deghenMijnen vijandt gae ghesleghen.Dien ick den alarme gaf.'K hebbe leeren by my selvenHeele leghers te bedelvenEn die te staecketsen af.</transcription>
+    </subscriptio>
+  </emblem>
+  <emblem xlink:href="http://emblems.let.uu.nl/ha1629029.html" page="" xml:id="ha1629029" globalID="http://hdl.handle.net/10111/EmblemRegistry:E026102">
+    <motto/>
+    <pictura xlink:href="http://emblems.let.uu.nl/static/images/ha1629/pictura/0150pl29.jpg"/>
+    <subscriptio>
+      <transcription xlink:href="http://emblems.let.uu.nl/static/images/ha1629/pages/01500367.jpg" page="367">'T Was nu den tijdt dat ick bestondt te gaeneNaer eene plaets' veel menschen onbekentEn desen vveghen en hadde my niet aene,Want soo my docht vvas hy by-nae ghe-endt,En mijn betrouvven oock eer langhTe moghen staecken mijnen gangh.Maer als ick quam mijn stappen t'overmeten,Meer dan d'een helft vond'ick noch af te doen;'K vvas voor mijn hooft, alsoo my docht, gesmeten,En mijnen moer sonck my tot in de schoen,Noch ick en vviste niet voorvvaerHoe dat ick sou gheraecken daer,Zoo heb ick dan mijn ooghen opghehevenEn mijnen Godt her-grondelijck gheb&#233;en,Off iemandt my die ionste soude ghevenVan dit mijn hooft een vveynich te best&#233;en,Om af te vvijcken 't son-ghebroel.Daer erghens in een lommer-koel,</transcription>
+    </subscriptio>
+  </emblem>
+  <emblem xlink:href="http://emblems.let.uu.nl/ha1629030.html" page="" xml:id="ha1629030" globalID="http://hdl.handle.net/10111/EmblemRegistry:E026103">
+    <motto/>
+    <pictura xlink:href="http://emblems.let.uu.nl/static/images/ha1629/pictura/0150pl30.jpg"/>
+    <subscriptio>
+      <transcription xlink:href="http://emblems.let.uu.nl/static/images/ha1629/pages/01500381.jpg" page="381">WAertoe gesonghen eenich liedt,VVaertoe de snaerkens te doen beven?Neen Alder-liefste 't is voor niet:Want dit vereyscht een vrolijck leven.Daer 't hert in rauvve light versmoortNaer spel oft sangh men niet en hoort.Nochtans ghy vvilt en houdt voor vastDat beter is een liedt te singhen,Op dat het hert daer door ontlastTot vrolijckheydt hem soude dvvinghen,En oock dat daer door alle pijnSou sachter om verdraeghen zijn.'T is vvaer. Ick ghev' u dit al toe,Iae sou dit vonnis mede strijcken.Den boots-gheselle mat en moe,En sal daer niet gaen sitten kijcken:Maer met een liedt dat hem behaeghtTervvijl hy roeyt, de zee aeniaeght.</transcription>
+    </subscriptio>
+  </emblem>
+  <emblem xlink:href="http://emblems.let.uu.nl/ha1629031.html" page="" xml:id="ha1629031" globalID="http://hdl.handle.net/10111/EmblemRegistry:E026104">
+    <motto/>
+    <pictura xlink:href="http://emblems.let.uu.nl/static/images/ha1629/pictura/0150pl31.jpg"/>
+    <subscriptio>
+      <transcription xlink:href="http://emblems.let.uu.nl/static/images/ha1629/pages/01500395.jpg" page="395">SChoon suyver Sielkens alegaerIerusalemsche Maeghde-schaerDie over-langh met vvitte voetenBetrippelt dat schoon hemel-blauvv,In st&#233; van nu in druck, en rauvvMet my alhier te ligghen vroeten;Ick bidd'u-lieden door dit dichtMy van de vvaerheydt onder-richtOff mijn hert-soet mach zijn gevonden?Soo iae: en vvilt doch laeten nietHem aen-te-dienen mijn verdriet,En metten eersten te verkonden.Hoe dat ick in sijn liefde-pijnTe niete gae, en heel verdvvijn,Soo dat ick vvel magh zijn ghelekenBy eene blomme schoon ghegroeyt:Maer soo de sonne die verschroeyt,Light bladeloos daer h&#233;en ghestreken;VVant als hy over eene vvijlNaer my schoot sijnen minne-pijl,Lagh hy daer selver in ghedoken,En in mijn hertjen dus gheraeckt,Heeft daer gheberrent, en gheblaeckt,En my mijn borst heel opghebroken!Och! hoe mijn hertjen heeft ghebrandt,Van doen hy my dat pijlken sandt!Hoe hevet vier daer ligghen vvoelen! Het is als AEthna die daer spouvvtEn krachtelijck haer' vlamm' uyt-douvvt,En nimmermeer en kan verkoelen!Soeckt hy noch t'hebben meer bescheetVan allegaer mijn innich leet,'T vvelck sou te langh zijn om verhaelen;Seght hem, hoe dat dit somber beeldt,('T vvelck door de liefde sitt' en queelt)Niet vvel en is om af te maelen.Vraeght hy misschien off 't svvaere bloedtMy vvel dees heete korts' aendoet,Off dat ick haest sal zijn verbetenDoor dees' langhsaeme stille doodt,Die my kan lossen uyt den noodt;Seght vvel, en vry, dat niet te vveten.</transcription>
+    </subscriptio>
+  </emblem>
+  <emblem xlink:href="http://emblems.let.uu.nl/ha1629032.html" page="" xml:id="ha1629032" globalID="http://hdl.handle.net/10111/EmblemRegistry:E026105">
+    <motto/>
+    <pictura xlink:href="http://emblems.let.uu.nl/static/images/ha1629/pictura/0150pl32.jpg"/>
+    <subscriptio>
+      <transcription xlink:href="http://emblems.let.uu.nl/static/images/ha1629/pages/01500407.jpg" page="407">O liefde beul van mijn ghemoetHoe ghy my dat onsteken doet!Och soude vvel in iemandts borstNoch sulck een hitte zijn gheschorst?O liefd' houdt op, en brandt niet meer;Want ick in asschen heel verkeer:Houdt op, houdt op, en nu my spaert;Want ick ben al ghenoech besvvaert:Houdt op, houdt op, mijn eenich licht;Weert uvven bogh' en uvven schicht,Of soo ghy my noch eens gheraeckt,Mijn leven is daerm&#233; ghestaeckt.Houdt op, houdt op, ick vvorde moe,Och ick en vveet niet vvat ick doe,My selven ick niet meer en ken,Noch ick en vveet niet vvaer ick ben.H&#225; 't is u liefde die my dvvinghtEn teenegaer ten onder bringht,Het is u liefde door vviens gloedtVersoden vvordt mijn herte-bloedt.</transcription>
+    </subscriptio>
+  </emblem>
+  <emblem xlink:href="http://emblems.let.uu.nl/ha1629033.html" page="" xml:id="ha1629033" globalID="http://hdl.handle.net/10111/EmblemRegistry:E026106">
+    <motto/>
+    <pictura xlink:href="http://emblems.let.uu.nl/static/images/ha1629/pictura/0150pl33.jpg"/>
+    <subscriptio>
+      <transcription xlink:href="http://emblems.let.uu.nl/static/images/ha1629/pages/01500419.jpg" page="419">SAelich die met sulck verbandtAen elckander gheven d'handtDat hun onvervalscht ghemoetDraeght een bitter en een soet.Dit gheluck ick meerder achtDan ick doe eens Koninghs machtEn de ghene die soo leeftHemel-rijck op aerden heeft.Voor een vvonder vvordt vertelt Dat den Syracusschen Heldt Gheeren eens de derde vvas By Damon en Pythias,Die elckander in den nootWaeren borghe voor de doodt.VVie en soude soo niet danVVenschen te zijn me-ghespan</transcription>
+    </subscriptio>
+  </emblem>
+  <emblem xlink:href="http://emblems.let.uu.nl/ha1629034.html" page="" xml:id="ha1629034" globalID="http://hdl.handle.net/10111/EmblemRegistry:E026107">
+    <motto/>
+    <pictura xlink:href="http://emblems.let.uu.nl/static/images/ha1629/pictura/0150pl34.jpg"/>
+    <subscriptio>
+      <transcription xlink:href="http://emblems.let.uu.nl/static/images/ha1629/pages/01500437.jpg" page="437">MEt droefheydt onlanghs overlaenDie niet en is om te verkonden,Quam ick door eenen bosch ghegaenDaer veel Cypresse-boomen stonden,En in mijn traenen los ontbonden.Deed'ick by nae den heelen dachAen dese boomen mijn gheklach.De Luyt op mijne schouvver hongh,Die my mijn hert plocht te verlichten,Als ick daerop een lietjen songh,Moest alle droefheydt van my svvichten:Maer nu ghesch&#233;en uyt elcks ghesichtenBedruckt tot binnen in mijn sielTer nauvvernoodt my dit uyt-viel:Sult ghy verslenssen, &#244; mijn jeughdt,O soete Lent van mijn jaeren,En noyt ghebijen eens de vreughdt,Van met een lief te moghen paeren!Neen, dit ghepeys lae henen vaeren,</transcription>
+    </subscriptio>
+  </emblem>
+  <emblem xlink:href="http://emblems.let.uu.nl/ha1629035.html" page="" xml:id="ha1629035" globalID="http://hdl.handle.net/10111/EmblemRegistry:E026108">
+    <motto/>
+    <pictura xlink:href="http://emblems.let.uu.nl/static/images/ha1629/pictura/0150pl35.jpg"/>
+    <subscriptio>
+      <transcription xlink:href="http://emblems.let.uu.nl/static/images/ha1629/pages/01500447.jpg" page="447">OP dat ick soude sien u vriendelijck ghesicht /Op dat ik door u tael sou worden wat verlicht /In 't kort / op dat ick u hier erghens sou bekommen /Hebb'ick / &#244; eenich lief / ghedaen al dat ick mocht /De velden oversien / de kanten doorghesocht /De bosschen door-gheruysscht / de rootsen opgheklommen.Ghesuckelt hebb'ick oock door 't strobbelachtich hout /Door distels rouw / en scherp / door dorens menichfout /Die selver zijn ghemijdt van d'onghetemde beesten:Maer 't was verloren moeyt / het was verloren pijn /Soo'ck nerghens en bequam u lieffelijck aenschijn /Stond'ick weerom verstelt ghelijck van nieuwen eesten.Helaes! hoe menich-werf met droefheydt overlaenHebb'ick u dit vertoogh / al weenende ghedaen /Als ick daer moe en mat u sochte t'allen hoecken /Ist hier op desen bergh / off ghinder in dat dal /Off boven op die roots' dat ick u vinden sal /Waerom / O liefste lief / laet gh'u soo langhe soecken?D'onsekerheydt des weghs mijn voeten h&#225; ghementDoor kauters herr' en ghints mijn ooghen onbekent /En immers / soo my docht / soo was het een landauweOnvruchtbaer / uyt-gheteert / verlegen dorr' en woust /Die niemandt oyt en gaf de weldaet van den Ooghst /Als wesend' overal heel onbequaem ten bauwe.</transcription>
+    </subscriptio>
+  </emblem>
+  <emblem xlink:href="http://emblems.let.uu.nl/ha1629036.html" page="" xml:id="ha1629036" globalID="http://hdl.handle.net/10111/EmblemRegistry:E026109">
+    <motto/>
+    <pictura xlink:href="http://emblems.let.uu.nl/static/images/ha1629/pictura/0150pl36.jpg"/>
+    <subscriptio>
+      <transcription xlink:href="http://emblems.let.uu.nl/static/images/ha1629/pages/01500457.jpg" page="457">WAt vvil ick dan al bespiedenOff in hemel, off op aerdt,Off in zee noch dieper-vvaerdt?Alder-liefste daer u-liedenNiet en baeckert met u schijnWil ick iemmers oock niet zijn.'K vveet de vreughden van den hemel,'K vveet de schatten al-ghelijckVan de zee, en Aerde-rijck:Maer sy zijn min als gheschemel,Min als roock, en min als nietSoo dijn ooghe daeraf vliedt.O ghy hemel! &#244; ghy eerde!O ghy diepe-vvijde zee!Van u dryen ick versch&#233;e!Ick en achte noch in vveerde,Noch uvv' schatten allegaerAls ick miss' mijn vveder-paer.'K voele somtijdts my ghedrevenNu ter aerde, dan ter locht,</transcription>
+    </subscriptio>
+  </emblem>
+  <emblem xlink:href="http://emblems.let.uu.nl/ha1629037.html" page="" xml:id="ha1629037" globalID="http://hdl.handle.net/10111/EmblemRegistry:E026110">
+    <motto/>
+    <pictura xlink:href="http://emblems.let.uu.nl/static/images/ha1629/pictura/0150pl37.jpg"/>
+    <subscriptio>
+      <transcription xlink:href="http://emblems.let.uu.nl/static/images/ha1629/pages/01500473.jpg" page="473">MEnichmael komt my te vorenOff den Sonne-Godt niet meerMet sijn koets en doet den keer?Al hadt iemandt my ghesvvoren,'K h&#224; ghemeynt hoe dat sijn assTeenemael ghebroken vvas.'K h&#225; ghemeynt dat sijne peerdenMoesten zijn ghereden afDaer hy m&#233; met vollen drafOmme-loopt den kloot der eerden,Nu ick sie ('t vvelck my mis-haeght)Dat de jaeren zijn vertraeght!'K hebb' gheleeft in veel ellenden,'K hebb' ghekerremt, en ghekrocht,En mijn daghen, soo my docht,</transcription>
+    </subscriptio>
+  </emblem>
+  <emblem xlink:href="http://emblems.let.uu.nl/ha1629038.html" page="" xml:id="ha1629038" globalID="http://hdl.handle.net/10111/EmblemRegistry:E026111">
+    <motto/>
+    <pictura xlink:href="http://emblems.let.uu.nl/static/images/ha1629/pictura/0150pl38.jpg"/>
+    <subscriptio>
+      <transcription xlink:href="http://emblems.let.uu.nl/static/images/ha1629/pages/01500493.jpg" page="493">ONgheluckich my gheborenWat al goedts heb ick verloren!Wat al goedt &#244; aerem menschHadd'ick eens tot mijnen vvensch!Soude my met hier te treurenNoch vvel soo veel goedts ghebeuren?Neen helaecen! och het vringhtAls men het voor-l&#233;en bedinckt.Ick en soude my niet quellen,Noch alsoo my niet ontstellen,Dat ick van al mijn gheluckMaer behouden hadd' een stuck. 'T vvordt aen Adam al ghevvetenDat hy lijsigh heeft ghebetenIn den appel die hem schanck Eva teghen sijnen danck. Adam, Adam moett' al hooren, En op Eva vvy verstoorenOm dat sy-lieden zijn gheachtHet bederf van hun gheslacht.</transcription>
+    </subscriptio>
+  </emblem>
+  <emblem xlink:href="http://emblems.let.uu.nl/ha1629039.html" page="" xml:id="ha1629039" globalID="http://hdl.handle.net/10111/EmblemRegistry:E026112">
+    <motto/>
+    <pictura xlink:href="http://emblems.let.uu.nl/static/images/ha1629/pictura/0150pl39.jpg"/>
+    <subscriptio>
+      <transcription xlink:href="http://emblems.let.uu.nl/static/images/ha1629/pages/01500509.jpg" page="509">WAt sal ick doen, &#244; aerem mensch,Nu tvvee begheerten my onsteken?Eerst is de vvereldt mijnen vvensch,Dan ben ick vveer haer afghevvekenMet dat ick stauvve mijn ghesuchtTot in het hooghste van de lucht,Als-nu gheschiedet dat ick poogh'My vander aerde los te maecken,Als-dan verheff'ick my om hoogh'Om by mijn lief te moghen raecken?Want het voorvvaer aen my vernoeytSoo langh' alhier te zijn gheboeyt!Hoe menich-mael hebb'ick ghekloptOff my de doodt soud' inne laeten:Maer haere deure bleef ghestopt,En liet my daer alleene praeten: Want Lachesis vvas al te quaedtOm af te snippen mijnen draet.</transcription>
+    </subscriptio>
+  </emblem>
+  <emblem xlink:href="http://emblems.let.uu.nl/ha1629040.html" page="" xml:id="ha1629040" globalID="http://hdl.handle.net/10111/EmblemRegistry:E026113">
+    <motto/>
+    <pictura xlink:href="http://emblems.let.uu.nl/static/images/ha1629/pictura/0150pl40.jpg"/>
+    <subscriptio>
+      <transcription xlink:href="http://emblems.let.uu.nl/static/images/ha1629/pages/01500523.jpg" page="523">ICk die te voren placht in vrijdom / en ghenuchtTe vlieghen herr' en ghints langhst d'onghebaende lucht /Ben nu ghelijck een beest in dese muyt ghesloten /'T welck my van overlangh ter deghen heeft verdroten:En ghy / &#244; Lief / die 't al aensiet /Houdt uwen rel met mijn verdriet.Helaes! van dat in my de menscheydt heeft gheblekenBen ick in vel en vleesch als in een kot ghesteken /Mijn vanghenisse wierdt een beenderen gheraemt /Daer lagh ick in gheboeyt / gheknevelt en ghepraemt /Aen zenuwen / en aeder-pesen /Moest ick daer oock geketent wesen.Wat vanghenis is dit? Een die my quaelijck dientMoet ick die zijn beleeft / en toeghedaen als vriendt?Ick die my van 't gheslacht der Enghelen mach rommen /Moet ick u mijnen troost al kruypende by kommen /Ghelijck als een schildtpadde traegh?H&#225; liefste lief wat een mishaegh!Hoe dicks hebb'ick ghepeyst mijn ongheluck t'ontloopen /Off seffens met de doodt dat erghens af te koopen!Hoe dicks hebb'ick ghewenscht een koord' / oft eenen bast /Waer deure mijn verdriet sou worden wat verrascht.Iae menich mael om dat te kortenHebb'ick mijn bloedt oock willen storten!</transcription>
+    </subscriptio>
+  </emblem>
+  <emblem xlink:href="http://emblems.let.uu.nl/ha1629041.html" page="" xml:id="ha1629041" globalID="http://hdl.handle.net/10111/EmblemRegistry:E026114">
+    <motto/>
+    <pictura xlink:href="http://emblems.let.uu.nl/static/images/ha1629/pictura/0150pl41.jpg"/>
+    <subscriptio>
+      <transcription xlink:href="http://emblems.let.uu.nl/static/images/ha1629/pages/01500533.jpg" page="533">WIlt ghy dan vveten liefste boelHoe dat ick my van binnen voel?Wat fellen brandt dat my omringelt,En my mijn hertien dus versinghelt?Ick ben ghelijck als eenen beembtWie 't sonne-schijn de groese neemt,Off als een bloemme neer-ghesleghenDoor fault alleen van soeten reghen.Ick ben van d'hitte soo bestaenAls d'aerde die daer vvordt ghebraen Door Sirius die dorre sterreWelck haer&#275; brant schiet v&#257; soo verre.Ick ben soo dorstich als het sandtVan het heet Africane-landt,En alsoo dorstich als de hovenDie d'hemel-hitt' heeft op-ghekloven.En dat u noch meer is, mijn Hert-soet,'T ghen' mijnen dorst noch groeyen doet,</transcription>
+    </subscriptio>
+  </emblem>
+  <emblem xlink:href="http://emblems.let.uu.nl/ha1629042.html" page="" xml:id="ha1629042" globalID="http://hdl.handle.net/10111/EmblemRegistry:E026115">
+    <motto/>
+    <pictura xlink:href="http://emblems.let.uu.nl/static/images/ha1629/pictura/0150pl42.jpg"/>
+    <subscriptio>
+      <transcription xlink:href="http://emblems.let.uu.nl/static/images/ha1629/pages/01500547.jpg" page="547">HA lief hoe dicks hebt ghy gheseydt,Ick komm' u by, een vveynich beydt;Maer soo ick sie, 't moet u berouvven:Want u beloft vvordt ingehouvven.Dit vvoordt van kommen, soo my dincktNoch altijdt in mijn oore klinckt,Houdt dan u vvoort dat ick magh romm&#275;,En segghen siet hy is ghekommen.Hoe langh; zijn d'uren mijn Hert-soetVoor iemandt die verbeyden moet;Eer eenen dagh vvel is vervaeren'T zijn, soo my dunckt, vvel hondert iaer&#275;.Och! 't is soo menich jaer ghel&#234;enDat ick hebb' om u komst gheb&#234;en,En dat ick hebbe groot verlanghenOm in mijn arrems u t'ontfanghen!Waertoe dus langhe dan ghetoeft,En my gheterght, en my bedroeft?VVaertoe gheseydt, mijn uytghelesen,Dat ghy terstondt by my soudt vvesen?</transcription>
+    </subscriptio>
+  </emblem>
+  <emblem xlink:href="http://emblems.let.uu.nl/ha1629043.html" page="" xml:id="ha1629043" globalID="http://hdl.handle.net/10111/EmblemRegistry:E026116">
+    <motto/>
+    <pictura xlink:href="http://emblems.let.uu.nl/static/images/ha1629/pictura/0150pl43.jpg"/>
+    <subscriptio>
+      <transcription xlink:href="http://emblems.let.uu.nl/static/images/ha1629/pages/01500561.jpg" page="561">GRoote Godt die alle dinghen,En den mensche soo gheachtHebt alleene voortghebracht:Mocht ick u mijn reden bringhen,'K soud' u gheven te verstaenDat hy niet en is voldaen,Wel is vvaer, sijn heerschappijeStreckt haer over aerd' en locht,En oock allegaer het vocht:Maer dees Rijcken alle-drijeZijn te machtich even-vvelOm te staen in sijn bevel.Schepper vvijs, vvilt my vergheven,Dat ick my soo verr' verstoutMet u t'hebben desen kout;Off u schepsel is verheven,En soo vveerdich afghemaelt,Daer is iet noch aenghefaelt.</transcription>
+    </subscriptio>
+  </emblem>
+  <emblem xlink:href="http://emblems.let.uu.nl/ha1629044.html" page="" xml:id="ha1629044" globalID="http://hdl.handle.net/10111/EmblemRegistry:E026117">
+    <motto/>
+    <pictura xlink:href="http://emblems.let.uu.nl/static/images/ha1629/pictura/0150pl44.jpg"/>
+    <subscriptio>
+      <transcription xlink:href="http://emblems.let.uu.nl/static/images/ha1629/pages/01500573.jpg" page="573">GHy die daer siet van alle zyU hemel-soete borghery,En uvv' schoon Enghels over-alMet menich duysent in ghetal.H&#225; mijnen Godt hoe is u hofVervult van alle seghe-lof!Met dat ick d'ooghe daer-op slae,Dan ist dat ick verdvvellemt stae!U Koningh-stadt die eevvich duertMet schoone marber is bemuert,En haere poorten tot vercierZijn opghemetst al uyt Porphier.</transcription>
+    </subscriptio>
+  </emblem>
+  <emblem xlink:href="http://emblems.let.uu.nl/ha1629045.html" page="" xml:id="ha1629045" globalID="http://hdl.handle.net/10111/EmblemRegistry:E026118">
+    <motto/>
+    <pictura xlink:href="http://emblems.let.uu.nl/static/images/ha1629/pictura/0150pl45.jpg"/>
+    <subscriptio>
+      <transcription xlink:href="http://emblems.let.uu.nl/static/images/ha1629/pages/01500591.jpg" page="591">TSa, tsa mijn Lief spoeyt uvve ganghen.En packt u t'eenemael van hier;Want ick versinghel door u vier:Maer dese vvoorden my nu pranghen,Met meerder eer hadd'ick gheseydt,K&#233; neen, mijn Lief, staet stil en beydt,Ten sou voorvvaer my niet verdrietenAl hadd'ick u altoos by my?Maer ick besvvijcke met dat ghyU minne-vier naer my komt schieten,Soo dan mijn Lief, tsa off vertreckt.Off uvven brandt vvat meer bedeckt.Wat seggh'ick al? Ick soude stervenSoo ghy my dedet en bevelVan oock te loopen ievers el.Neen, neen mijn Lief, 'k en sou niet derven,</transcription>
+    </subscriptio>
+    <commentatio>
+      <transcription xlink:href="http://emblems.let.uu.nl/static/images/ha1629/pages/01500601.jpg" page="601">FINIS.</transcription>
+    </commentatio>
+  </emblem>
+</biblioDesc>

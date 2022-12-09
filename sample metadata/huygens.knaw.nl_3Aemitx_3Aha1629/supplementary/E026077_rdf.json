@@ -1,0 +1,25 @@
+
+      {
+   "@context": ["http://schema.org",
+    {"associatedMedia": {
+      "@id": "http://schema.org/associatedMedia",
+      "@container": "@list"
+    }    }
+  ],
+   "@id": "http://emblematica.library.illinois.edu/detail/emblem/ha1629004",
+   "sameAs": ["http://hdl.handle.net/10111/EmblemRegistry:E026077"],
+   "@type": "CreativeWork",
+   "name": [
+],
+    "thumbnailUrl": "http://emblemimages.library.illinois.edu/huygens.knaw.nl_3Aemitx_3Aha1629/_access/emblem/ha1629004.jpg",
+    "isPartOf": "http://emblematica.library.illinois.edu/detail/book/huygens.knaw.nl_3Aemitx_3Aha1629",
+   "dateCreated": "1629",
+   "genre": "http://vocab.getty.edu/page/aat/300123040",
+   "associatedMedia": [
+    "http://emblems.let.uu.nl/ha1629004.html"
+     ], "hasPart": {
+                  "@type": "VisualArtwork",
+                  "artform": "emblem pictura",
+                  "thumbnailUrl": "http://emblemimages.library.illinois.edu/huygens.knaw.nl_3Aemitx_3Aha1629/_access/pictura/ha1629004.jpg",
+                  "associatedMedia": [ "http://emblems.let.uu.nl/static/images/ha1629/pictura/0150pl04.jpg"]             
+      } } 
