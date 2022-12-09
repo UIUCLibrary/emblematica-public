@@ -1,0 +1,698 @@
+<biblioDesc xmlns="http://diglib.hab.de/rules/schema/emblem" xmlns:emblem="http://diglib.hab.de/rules/schema/emblem" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://diglib.hab.de/rules/schema/emblem http://emblemimages.grainger.illinois.edu/emblem-1-2modified.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+	<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.4">
+		<titleInfo>
+			<title>Inscriptiones picturae et emblemata quae in aula magna curiae Norimbergensis publice extant</title>
+			<subTitle>quibus ob argumenti similitudinem accesserunt, I. Chrongraphia arcuum aliquot triumphalium, II. Numi memorabiles, III. Alia[que] monumenta in varijs urbis partib[us] visu[m] jucunda, lectu[m][que] digna</subTitle>
+		</titleInfo>
+		<name type="personal" usage="primary" valueURI="http://viaf.org/viaf/44645410">
+			<namePart>Remus, Georg</namePart>
+			<namePart type="date">1561-1625</namePart>
+			<role>
+				<roleTerm type="text">author</roleTerm>
+			</role>
+		</name>
+		<name type="personal" valueURI="http://viaf.org/viaf/77107840">
+			<namePart>Iselberg, Peter</namePart>
+			<namePart type="date">approximately 1568-approximately 1630</namePart>
+			<role>
+				<roleTerm type="text">engraver</roleTerm>
+			</role>
+		</name>
+		<name type="personal" valueURI="http://viaf.org/viaf/66379729">
+			<namePart>Wing, John M. (John Mansir)</namePart>
+			<namePart type="date">1845-1917</namePart>
+			<role>
+				<roleTerm type="text">former owner</roleTerm>
+			</role>
+		</name>
+		<typeOfResource manuscript="yes">text</typeOfResource>
+		<genre authority="marcgt">bibliography</genre>
+		<genre authority="rdacontent">text</genre>
+		<genre authority="fast">Early works.</genre>
+		<genre authority="fast">History.</genre>
+		<genre authority="fast">Sources.</genre>
+		<genre authority="rbgenr">Emblem books-Germany-Nuremberg-1620.</genre>
+		<genre authority="aat">Manuscripts (document genre)-Germany-Nuremberg-1620.</genre>
+		<genre authority="gmgpc">Engravings-Germany-Nuremberg-1617.</genre>
+		<genre authority="rbprov">Armorial bookplates (Provenance)</genre>
+		<genre authority="rbbin">Vellum bindings (Binding)</genre>
+		<originInfo>
+			<place>
+				<placeTerm type="code" authority="marccountry">gw</placeTerm>
+			</place>
+			<dateCreated encoding="marc">1620</dateCreated>
+			<issuance>monographic</issuance>
+		</originInfo>
+		<originInfo>
+			<place>
+				<placeTerm type="text">N&#252;rnberg</placeTerm>
+			</place>
+			<publisher/>
+			<dateIssued>1620</dateIssued>
+		</originInfo>
+		<language>
+			<languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+		</language>
+		<language>
+			<languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+		</language>
+		<physicalDescription>
+			<form authority="marcform">print</form>
+			<extent>1 volume : illustrations (engravings) ; 20 cm</extent>
+			<form type="media" authority="rdamedia">unmediated</form>
+			<form type="carrier" authority="rdacarrier">volume</form>
+		</physicalDescription>
+		<abstract type="Summary">Manuscript describing the inscriptions and ornamental paintings in the old Nu&#776;rnberger Rathaus hall, the iconography of which was established by Albrecht Du&#776;rer and Willibald Pirckheimer, featuring emblems and the triumphs of Maximilian I.</abstract>
+		<note>Signed at end: G. Remus.</note>
+		<note>Section with heading "Civitatis bono, anno gratiae MDCXVIII. Introductum. Georgii Remi" dated at end 1620.</note>
+		<note>Thirty two leaves of plates from Peter Iselberg's Emblemata politica (Nuremberg, 1617) bound in along with the dedicatory plate and emblematic verses in German "Kurtze erkla&#776;rung nachfolgender." The plates were engraved by Iselberg after the paintings in the Nuremberg Council Hall.</note>
+		<note type="language">Latin and German.</note>
+		<note type="ownership">Armorial bookplate: Thos. Carter.</note>
+		<note type="ownership">Armorial bookplate: Old Corner Library John M. Wing.</note>
+		<subject authority="lcsh">
+			<name type="personal" valueURI="http://viaf.org/viaf/293727145">
+				<namePart>Maximilian</namePart>
+				<namePart type="termsOfAddress">I, Holy Roman Emperor</namePart>
+				<namePart type="date">1459-1519</namePart>
+			</name>
+		</subject>
+		<subject authority="fast">
+			<name type="personal">
+				<namePart>Maximilian</namePart>
+				<namePart type="termsOfAddress">I, Holy Roman Emperor</namePart>
+				<namePart type="date">1459-1519</namePart>
+			</name>
+		</subject>
+		<subject authority="lcsh">
+			<name type="corporate">
+				<namePart>Nu&#776;rnberger Rathaus (Nuremberg, Germany)</namePart>
+			</name>
+		</subject>
+		<subject authority="fast">
+			<name type="corporate">
+				<namePart>Nu&#776;rnberger Rathaus (Nuremberg, Germany)</namePart>
+			</name>
+		</subject>
+		<subject authority="lcsh">
+			<topic>Emblems</topic>
+			<genre>Early works to 1800</genre>
+		</subject>
+		<subject authority="lcsh">
+			<topic>Emblem books, German</topic>
+			<genre>Early works to 1800</genre>
+		</subject>
+		<subject authority="fast">
+			<topic>Emblem books, German</topic>
+		</subject>
+		<subject authority="fast">
+			<topic>Emblem books</topic>
+		</subject>
+		<subject authority="fast">
+			<topic>Emblems</topic>
+		</subject>
+		<subject authority="lcsh">
+			<geographic>Nuremberg (Germany)</geographic>
+			<topic>History</topic>
+			<genre>Sources</genre>
+		</subject>
+		<subject authority="fast">
+			<geographic>Germany</geographic>
+			<geographic>Nuremberg</geographic>
+		</subject>
+		<classification authority="lcc">N7740</classification>
+		<relatedItem type="constituent">
+			<titleInfo>
+				<title>Emblemata politica</title>
+			</titleInfo>
+			<name type="personal">
+				<namePart>Iselberg, Peter,</namePart>
+				<namePart type="date">approximately 1568-approximately 1630</namePart>
+			</name>
+		</relatedItem>
+		<identifier type="oclc">ocn959936022</identifier>
+		<location>
+			<url displayLabel="Newberry Digital Collections (CONTENTdm)">http://collections.carli.illinois.edu/cdm/compoundobject/collection/nby_dig/id/12363/rec/1</url>
+		</location>		
+		<recordInfo>
+			<descriptionStandard>rda</descriptionStandard>
+			<recordContentSource authority="marcorg">IBV</recordContentSource>
+			<recordCreationDate encoding="marc">161005</recordCreationDate>
+			<recordChangeDate encoding="iso8601">20180807165453.0</recordChangeDate>
+			<recordIdentifier>8650222</recordIdentifier>
+			<recordOrigin>Converted from MARCXML to MODS version 3.6 using MARC21slim2MODS3-6.xsl
+        (Revision 1.119 2018/06/21)</recordOrigin>
+			<languageOfCataloging>
+				<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+			</languageOfCataloging>
+		</recordInfo>
+	</mods>
+	<copyDesc>
+		<copyID>nwbWingMs279</copyID>
+		<owner countryCode="US">The Newberry</owner>
+		<digDesc comp="complete" scope="all" xml:id="WingMs279" globalID="http://digcoll.newberry.org/#/item/nby_dig-12363"> Digital RGB (8 bit x 3) color
+			facsimile scanned by the Newberry in Chicago, IL using a Canon EOS 5D Mark III, f/6.3, 1/60th
+			sec., ISO-400, 33 mm focal length, no flash. <copyID>nby_dig-12363</copyID>
+			<owner countryCode="US">The Newberry</owner>
+		</digDesc>
+	</copyDesc>
+          <rdf:RDF>
+	          	<rdf:Description rdf:about="http://emblematica.library.illinois.edu/detail/book/emblematapolitic00isel/anno02">
+	          		<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+	          		<oa:hasBody>
+	          			<rdf:Description rdf:about="http://emblematica.library.illinois.edu/detail/book/344939103">
+	          				<rdfs:label>HAB</rdfs:label>
+	          			</rdf:Description>
+	          		</oa:hasBody>
+	          		<oa:hasTarget>http://emblematica.library.illinois.edu/detail/book/WingMs279</oa:hasTarget>
+	          		<oa:motivatedBy rdf:resource="http://www.w3.org/ns/oa#linking"/>
+	          	</rdf:Description>
+	          	<rdf:Description rdf:about="http://emblematica.library.illinois.edu/detail/book/emblematapolitic00isel/anno04">
+	          		<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+	          		<oa:hasBody>
+	          			<rdf:Description rdf:about="http://emblematica.library.illinois.edu/detail/book/emblematapolitic00isel">
+	          				<rdfs:label>UIUC</rdfs:label>
+	          			</rdf:Description>
+	          		</oa:hasBody>
+	          		<oa:hasTarget>http://emblematica.library.illinois.edu/detail/book/WingMs279</oa:hasTarget>
+	          		<oa:motivatedBy rdf:resource="http://www.w3.org/ns/oa#linking"/>
+	          	</rdf:Description>          	
+          </rdf:RDF>	
+	<emblem xml:id="E051801" globalID="http://hdl.handle.net/10111/EmblemRegistry:E051801" citeNo="1" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12177">
+		<motto>
+			<transcription xml:lang="la">Fortuna Volubilis errat.</transcription>
+		</motto>
+		<pictura xml:id="E051801_P1" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12177" page="wing_ms_279_121">
+			<figDesc xml:lang="la" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12132">SESOSTRIS SEDENS IN CURRU, QUEM QUATUOR REGES TRAHUNT.</figDesc>
+		</pictura>
+		<subscriptio>
+			<transcription xml:lang="la" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12132" page="wing_ms_279_076">Qui minor e armis, Victori serviet, at Tu Rex victor, jungis nos
+				Reges instar equorum Essedo: Age, human&#230; memor esto condicionis, OMNIA sors rotat: ima
+				effert, premit usque superba. </transcription>
+			<transcription xml:lang="de" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12169" page="wing_ms_279_113">Von gfangnen K&#246;ngen Sesostris/ Au&#223; hochmut/ sich rein f&#252;hren lie&#223;.
+				Bald aber/ als sich's gl&#252;lck nur wand/ Wurd er blind: fiel auch durch sein hand. Das gl&#252;ck
+				eim Rad gleich sich verkert/ Vnd ist nichts bstandthaffts auff der Erd. </transcription>
+		</subscriptio>
+	</emblem>
+	<emblem xml:id="E051802" globalID="http://hdl.handle.net/10111/EmblemRegistry:E051802" citeNo="2" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12179">
+		<motto>
+			<transcription xml:lang="la">In pace quae belli sunt.</transcription>
+		</motto>
+		<pictura xml:id="E051802_P1" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12179" page="wing_ms_279_123">
+			<figDesc xml:lang="la" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12133">VULPES ET APER SUB ARBORE.</figDesc>
+		</pictura>
+		<subscriptio>
+			<transcription xml:lang="la" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12133" page="wing_ms_279_077">Adparat ad bellum se, pugnaturus in hostem Turb&#230; Act&#230;oni&#230; dente
+				tremendus aper. Sylvis dum tutus latet, Induperator in alta. Pace, ut de bello cogitet,
+				admoneo. </transcription>
+			<transcription xml:lang="de" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12169" page="wing_ms_279_113">Ein Fuchs auff list gedenckt im Wald/ Wie er k&#246;nfftig den Sieg
+				erhalt: Der wild Eber sich r&#252;st zum streit/ Eh d' Hund ihm kommen an die seit. Zur
+				Frieds-zeit man bedencken soll Wie man sich im Krieg halten woll. </transcription>
+		</subscriptio>
+	</emblem>
+	<emblem xml:id="E051803" globalID="http://hdl.handle.net/10111/EmblemRegistry:E051803" citeNo="3" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12181">
+		<motto>
+			<transcription xml:lang="la">Nosce teipsum.</transcription>
+		</motto>
+		<pictura xml:id="E051803_P1" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12181" page="wing_ms_279_125">
+			<figDesc xml:lang="la" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12134">PAVO
+				EXPLICANS CAUDAM.</figDesc>
+		</pictura>
+		<subscriptio>
+			<transcription xml:lang="la" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12134" page="wing_ms_279_078">Ales, Juno, tuus gemmantes explicat alas, Conspectis vero, dejicit
+				has, pedibus. Dotibus ingenii fisus sic tollit in altum Cristas: at meditans, deprimit has
+				homo humum. </transcription>
+			<transcription xml:lang="de" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12169" page="wing_ms_279_113">Der stoltz Pfaw an der Sonnen glantz Vberm&#252;tig auffwirfft sein
+				schwantz: So bald 'r sein f&#252;&#223; anschauen thut/ Lest er solchn fallen f&#252;r vnmuth. Wann der
+				Mensch sein schwachheit erkennt/ Nimmt bey ihm stoltz vnd pracht ein end. </transcription>
+		</subscriptio>
+	</emblem>
+	<emblem xml:id="E051804" globalID="http://hdl.handle.net/10111/EmblemRegistry:E051804" citeNo="4" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12183">
+		<motto>
+			<transcription xml:lang="la">Stultus amor nostri.</transcription>
+		</motto>
+		<pictura xml:id="E051804_P1" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12183" page="wing_ms_279_127">
+			<figDesc xml:lang="la" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12135">FOEMINA CONTEMPLANS IN SPECULO.</figDesc>
+		</pictura>
+		<subscriptio>
+			<transcription xml:lang="la" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12135" page="wing_ms_279_079">Perdit pol multos insana Philautia menteis Exoculans hominum
+				sapientum: nempe Poet&#230; Narcissum produnt c&#230;co sui amore perisse. </transcription>
+			<transcription xml:lang="de" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12169" page="wing_ms_279_113">Narcissus/ wie schreibt der Poet/ All J&#252;ngling &#252;bertreffen thet Mit
+				sch&#246;n. Als er sich selbs lieb gwahn/ Im Bronn ein schn&#246;des end er nam. Wer sich selbs liebt
+				vnd achtet sehr/ W&#252;rd gst&#252;rtzt in jammer/ noth vnd gfehr. </transcription>
+		</subscriptio>
+	</emblem>
+	<emblem xml:id="E051805" globalID="http://hdl.handle.net/10111/EmblemRegistry:E051805" citeNo="5" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12185">
+		<motto>
+			<transcription xml:lang="la">Humana Consilia Vana.</transcription>
+		</motto>
+		<pictura xml:id="E051805_P1" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12185" page="wing_ms_279_129">
+			<figDesc xml:lang="la" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12136">TURRIS BABYLONICA.</figDesc>
+		</pictura>
+		<subscriptio>
+			<transcription xml:lang="la" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12136" page="wing_ms_279_080">Turrim, qu&#230; celsum caput inter nubila condat, Exstruit effrenis
+				Babylonem natio: verum, Consilium contra DOMINI, qui temperat orbem, Nil humana valet
+				quidquam, nil machina pollet. </transcription>
+			<transcription xml:lang="de" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12170" page="wing_ms_279_114">Nimrod ein Thurn erbauen wolt/ Dessn Spitz an Himmel reichen solt.
+				Aber Gott strafft von obn herab/ Das er mit spott must lassen ab. Wer f&#252;r sich selbs ohn
+				Gottes rath Was anfeht/ dazu seltn gl&#252;ck hat. </transcription>
+		</subscriptio>
+	</emblem>
+	<emblem xml:id="E051806" globalID="http://hdl.handle.net/10111/EmblemRegistry:E051806" citeNo="6" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12187">
+		<motto>
+			<transcription xml:lang="la">Assiduitate et tollerantia.</transcription>
+		</motto>
+		<pictura xml:id="E051806_P1" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12187" page="wing_ms_279_131">
+			<figDesc xml:lang="la" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12137">MILO
+				HUMERIS FERT BOVEM.</figDesc>
+		</pictura>
+		<subscriptio>
+			<transcription xml:lang="la" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12137" page="wing_ms_279_081">E tripode edictum veneror: Labor omnia vincit Improbus: Hinc Taurum
+				fortis athleta tulit. Fortis athleta humeros vitulo subiecerat olim: Paruo adsuesce prius,
+				grande omne inde feres. </transcription>
+			<transcription xml:lang="de" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12170" page="wing_ms_279_114">Da Milo, noch von Jaren jung/ Ein kalb zutragn sich vnterfang/ Solchs
+				auch von tag zu tag fort thet/ Bi&#223; er ein Ochsen gtragen het. Wer vnvertrossen vnd embsich
+				ist Erlangt viel Ehr zu aller frist. </transcription>
+		</subscriptio>
+	</emblem>
+	<emblem xml:id="E051807" globalID="http://hdl.handle.net/10111/EmblemRegistry:E051807" citeNo="7" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12189">
+		<motto>
+			<transcription xml:lang="la">Sic Orbis iter.</transcription>
+		</motto>
+		<pictura xml:id="E051807_P1" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12189" page="wing_ms_279_133">
+			<figDesc xml:lang="la" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12138">CANCER PORTAT GLOBUM TERRENUM.</figDesc>
+		</pictura>
+		<subscriptio>
+			<transcription xml:lang="la" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12138" page="wing_ms_279_082">Miraris Cancri dorso consistere mundum: Desine, Retrogrado mundana
+				negocia cursu. Progredi amant, neque habent bene, qu&#230; rectissima Semper sunt. Quodcunque
+				feret, FER, dia nobis voluntas. </transcription>
+			<transcription xml:lang="de" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12170" page="wing_ms_279_114">Die Welt auff einem Krebs hier steht. Warumb? weil's als hinter sich
+				geht. Was d' Welt auffs kl&#252;gste greiffet an/ Wie offt gehet's ein ander ban? Wol dem der
+				sich schickt zwar in d' Welt/ Vnd doch strebt nach dem was Gott gfelt. </transcription>
+		</subscriptio>
+	</emblem>
+	<emblem xml:id="E051808" globalID="http://hdl.handle.net/10111/EmblemRegistry:E051808" citeNo="8" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12191">
+		<motto>
+			<transcription xml:lang="la">Festina lente.</transcription>
+		</motto>
+		<pictura xml:id="E051808_P1" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12191" page="wing_ms_279_135">
+			<figDesc xml:lang="la" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12139">TESTUDO FERENS VELUM EXPANSUM.</figDesc>
+		</pictura>
+		<subscriptio>
+			<transcription xml:lang="la" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12139" page="wing_ms_279_083">Hem! nimirum propere properas, Marcelle: Sed audi: Ad portam ut
+				venias vespere, mane abeas, Lente festinus pergas feliciter. Omen Hoc esto: factum sat cito,
+				si bene sat. </transcription>
+			<transcription xml:lang="de" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12170" page="wing_ms_279_114">Ein Schiltkrot/ obs schon langsam kreucht/ Jedoch so sie sich nicht
+				auffzeucht Auffm weg sondern embsig fort schreit/ Kompts auch zum ziel zur rechten zeit.
+				Wann was nur wol vnd gl&#252;cklich gschicht/ Hat man's zeitlich gnug au&#223;gericht.
+			</transcription>
+		</subscriptio>
+	</emblem>
+	<emblem xml:id="E051809" globalID="http://hdl.handle.net/10111/EmblemRegistry:E051809" citeNo="9" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12193">
+		<motto>
+			<transcription xml:lang="la">Duce Virtute, comita fortuna.</transcription>
+		</motto>
+		<pictura xml:id="E051809_P1" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12193" page="wing_ms_279_137">
+			<figDesc xml:lang="la" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12140">NAVIS
+				IN MARI VELIS EXPANSIS.</figDesc>
+		</pictura>
+		<subscriptio>
+			<transcription xml:lang="la" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12140" page="wing_ms_279_084">Macte animi virtute, Heros o inclute Jason, Educas Argo propitiis
+				animis: Ibis in adversam classem, tumidasque procellas. VIRTUTI c&#230;lum, Pontus et Aura
+				favent. </transcription>
+			<transcription xml:lang="de" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12171" page="wing_ms_279_115">Jason zum G&#252;lden Fl&#252;&#223; sich wagt Auffm Meer zu fahren vnverzagt. Die
+				lieb zur Tugnt bant ihm die Stra&#223;/ Das Gl&#252;ck drauff folgte gleicher ma&#223;. Wo Ehr vnd tugent
+				bey eim sein/ Da ziecht das gl&#252;ck f&#252;r sich selbs ein. </transcription>
+		</subscriptio>
+	</emblem>
+	<emblem xml:id="E051810" globalID="http://hdl.handle.net/10111/EmblemRegistry:E051810" citeNo="10" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12195">
+		<motto>
+			<transcription xml:lang="la">Sine numine frustra.</transcription>
+		</motto>
+		<pictura xml:id="E051810_P1" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12195" page="wing_ms_279_139">
+			<figDesc xml:lang="la" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12141">PAULUS RIGAT, APOLLO PLANTAT ARBOREM.</figDesc>
+		</pictura>
+		<subscriptio>
+			<transcription xml:lang="la" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12141" page="wing_ms_279_085">Ne quicquam, pie PAULE rigas: plantas, bone Apollo: Vivificum Genitor
+				in mittat ab &#230;there rorem. </transcription>
+			<transcription xml:lang="de" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12171" page="wing_ms_279_115">Ob schon Paulus pflantzet mit flei&#223;. Apollo nach verm&#246;gn begeust: Der
+				Baum dannoch vnfruchtbar bleibt/ So nicht der Herr segnet vnd treibt. Ohn Gottes Segen ist
+				vmb sonst Allr Menschen m&#252;h arbeit/ vnd kunst. </transcription>
+		</subscriptio>
+	</emblem>
+	<emblem xml:id="E051811" globalID="http://hdl.handle.net/10111/EmblemRegistry:E051811" citeNo="11" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12197">
+		<motto>
+			<transcription xml:lang="la">Sic cedere juvat.</transcription>
+		</motto>
+		<pictura xml:id="E051811_P1" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12197" page="wing_ms_279_141">
+			<figDesc xml:lang="la" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12142">CAPRA
+				SE SUBMITTENS, PR&#198;BET CAPRO TRANSITUM IN PONTE ANGUSTO.</figDesc>
+		</pictura>
+		<subscriptio>
+			<transcription xml:lang="la" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12142" page="wing_ms_279_086">Dux gregis ut sospes pontem pertranseat, ecce, Submittit humeros
+				capra commodum suos; Sedulus ut Patri&#230; procures commoda cur&#230;, De jure concedas tuo, quantum
+				potes. </transcription>
+			<transcription xml:lang="de" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12171" page="wing_ms_279_115">Damit nicht beyds der Bock vnd Gai&#223; Ins wassr fallen wie klug vnd
+				wei&#223; Buckt die Gai&#223; sich das n&#252;ber kan Der Bock vnd kommen beyd davon? Einer den andern
+				gerne weich/ Damit's erhalten werden z'gleich. </transcription>
+		</subscriptio>
+	</emblem>
+	<emblem xml:id="E051812" globalID="http://hdl.handle.net/10111/EmblemRegistry:E051812" citeNo="12" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12199">
+		<motto>
+			<transcription xml:lang="la">Minor esca majoris.</transcription>
+		</motto>
+		<pictura xml:id="E051812_P1" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12199" page="wing_ms_279_143">
+			<figDesc xml:lang="la" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12143">CETE
+				IN MARI DEVORAT PISCICULOS.</figDesc>
+		</pictura>
+		<subscriptio>
+			<transcription xml:lang="la" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12143" page="wing_ms_279_087">Ecquid pisciculum poterit superesse minutum, Dic, toto si sic vivitur
+				Oceano? Si sic in regno, tota &amp; grassentur in urbe Harpyi&#230;, civis pauper ubi meneat? </transcription>
+			<transcription xml:lang="de" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12171" page="wing_ms_279_115">Sihe/ wie der grosse Visch die kleinn Geitzig ziht in sein rachn
+				hinnein: Keins verschont/ dessn er mechtig ist/ Sondern ohn vnterscheid all frist. Der Reich
+				den Armen vnterdruckt/ Sein armuthey raubt vnd verschluckt. </transcription>
+		</subscriptio>
+	</emblem>
+	<emblem xml:id="E051813" globalID="http://hdl.handle.net/10111/EmblemRegistry:E051813" citeNo="13" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12201">
+		<motto>
+			<transcription xml:lang="la">Virtutis invidia comes.</transcription>
+		</motto>
+		<pictura xml:id="E051813_P1" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12201" page="wing_ms_279_145">
+			<figDesc xml:lang="la" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12144">SERPENTES SUB PALMA ARBORE.</figDesc>
+		</pictura>
+		<subscriptio>
+			<transcription xml:lang="la" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12144" page="wing_ms_279_088">Palma virens alti, en, stat recta cacumine montis Cujus radices
+				admordet frigidus anguis. Tam celso stat nullo loco unquam florida virtus, Dente Theonino
+				quam livida non petat ATE. </transcription>
+			<transcription xml:lang="de" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12172" page="wing_ms_279_116">Den Edlen Palmen so stets gr&#246;nt/ Sein Herrligkeit die Schlang
+				mi&#223;g&#246;nt/ Ihn zu verderben sich bem&#252;ht. Doch vergebens. Es glingt ihr nicht. Tugent hat viel
+				Neider allzeit/ Jedoch k&#246;nnen's ihr thun kein leid. </transcription>
+		</subscriptio>
+	</emblem>
+	<emblem xml:id="E051814" globalID="http://hdl.handle.net/10111/EmblemRegistry:E051814" citeNo="14" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12203">
+		<motto>
+			<transcription xml:lang="la">Utroque clarescere pulchrum.</transcription>
+		</motto>
+		<pictura xml:id="E051814_P1" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12203" page="wing_ms_279_147">
+			<figDesc xml:lang="la" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12145">GALEA
+				INCUMBIT LIBRO.</figDesc>
+		</pictura>
+		<subscriptio>
+			<transcription xml:lang="la" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12145" page="wing_ms_279_089">Togatus et Sagatus in Republica Si quis celebri stet loco, n&#230; magnus
+				est. </transcription>
+			<transcription xml:lang="de" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12172" page="wing_ms_279_116">D'erfahrung zwar ein Kriegsman macht/ Doch soll er haben auch in acht
+				Was von den alten ist geschriebn/ Vnd ihm dasselb lassen beliebn. Eim Kriegs F&#252;rsten/ der
+				studiert hat/ Sein anschlag stets besser fortgaht. </transcription>
+		</subscriptio>
+	</emblem>
+	<emblem xml:id="E051815" globalID="http://hdl.handle.net/10111/EmblemRegistry:E051815" citeNo="15" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12205">
+		<motto>
+			<transcription xml:lang="la">Alit et protegit.</transcription>
+		</motto>
+		<pictura xml:id="E051815_P1" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12205" page="wing_ms_279_149">
+			<figDesc xml:lang="la" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12146">GALLINA FOVET SUOS PULLOS.</figDesc>
+		</pictura>
+		<subscriptio>
+			<transcription xml:lang="la" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12146" page="wing_ms_279_090">Pullos alitque, protegitque gallina: Nutrit, tuetur, auget, ornat,
+				&amp; mactat Civeis, bonus Princeps beatitate omni. </transcription>
+			<transcription xml:lang="de" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12172" page="wing_ms_279_116">Die Gluckhenn ihr K&#252;chlein klein Versammlet/ vnd bedecket fein Mit
+				ihren Fittigen/ damit Sie eingen schaden nemen nit. Ein Christlichr F&#252;rst vnd Obrigkeit Sein
+				Vnterthanen sch&#252;tzt allzeit. </transcription>
+		</subscriptio>
+	</emblem>
+	<emblem xml:id="E051816" globalID="http://hdl.handle.net/10111/EmblemRegistry:E051816" citeNo="16" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12207">
+		<motto>
+			<transcription xml:lang="la">Spiritus durissima coquit.</transcription>
+		</motto>
+		<pictura xml:id="E051816_P1" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12207" page="wing_ms_279_151">
+			<figDesc xml:lang="la" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12147">STRUTIO CAMELUS DEVORORANS FERRUM.</figDesc>
+		</pictura>
+		<subscriptio>
+			<transcription xml:lang="la" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12147" page="wing_ms_279_091">Ferro domantur cuncta: ferro moenia Turresque disturbantur: at ferrum
+				calor Emollit, ac subigit, docebo, si placet: Struthio Camelus, ecce, ferrum concoquit. </transcription>
+			<transcription xml:lang="de" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12172" page="wing_ms_279_116">De&#223; Eisens natur ob es schon So hart das mans kaum bendign kan/ Thut
+				doch solches der strau&#223; vertragn/ Vnd verdeyt es in seinen magn: Ob wol der L&#228;strer wort
+				sehr schneidn/ Kans doch der Grecht mit gdult leicht leidn. </transcription>
+		</subscriptio>
+	</emblem>
+	<emblem xml:id="E051817" globalID="http://hdl.handle.net/10111/EmblemRegistry:E051817" citeNo="17" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12209">
+		<motto>
+			<transcription xml:lang="la">Hoc f&#339;dere tuti.</transcription>
+		</motto>
+		<pictura xml:id="E051817_P1" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12209" page="wing_ms_279_153">
+			<figDesc xml:lang="la" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12148">IRIS
+				SUPRA NORIBERGAM.</figDesc>
+		</pictura>
+		<subscriptio>
+			<transcription xml:lang="la" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12148" page="wing_ms_279_092">Foederis &#230;terni designans rite, Potestas Dia dedit nobis IRIDA,
+				mnemosynon: HOC TUTI SIGNO, mundi confidite turbis Mentes turbat&#230;: NULLA PERICLA NOCENT. </transcription>
+			<transcription xml:lang="de" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12173" page="wing_ms_279_117">Ans Himmels thron/ nach der S&#252;ndflut Sein bund der Herr auffrichten
+				thut Mit Noa/ welchr soll ewig sein Ein gnadenzeichn der Christlichn gmein. O wol vnd &#252;ber
+				wol der stat/ Die auff Gott ihr vertrauen hat! </transcription>
+		</subscriptio>
+	</emblem>
+	<emblem xml:id="E051818" globalID="http://hdl.handle.net/10111/EmblemRegistry:E051818" citeNo="18" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12211">
+		<motto>
+			<transcription xml:lang="la">Ubi Onus Ibi sonus.</transcription>
+		</motto>
+		<pictura xml:id="E051818_P1" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12211" page="wing_ms_279_155">
+			<figDesc xml:lang="la" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12149">HOROLOGIUM PONDERIBUS APPENSIS.</figDesc>
+		</pictura>
+		<subscriptio>
+			<transcription xml:lang="la" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12149" page="wing_ms_279_093">Ad legem rotulas vagulas dum pondera motant, In parteis sonitu tempus
+				secat horologeion: Herculeo virtus animos operosa labore Exercet, facta et clangore
+				renunciat orbi. </transcription>
+			<transcription xml:lang="de" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12173" page="wing_ms_279_117">Das &#252;hrlein mit m&#252;h zugericht W&#252;rd k&#252;nstlich regiert durch das
+				gwicht: Also das darob menniglich/ Vnd nicht vnbillig verwundert sich Wer was denckw&#252;rdigs
+				thut begehn Dessn nam vnd lob bleibn ewig stehn. </transcription>
+		</subscriptio>
+	</emblem>
+	<emblem xml:id="E051819" globalID="http://hdl.handle.net/10111/EmblemRegistry:E051819" citeNo="19" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12213">
+		<motto>
+			<transcription xml:lang="la">His nititur Orbis.</transcription>
+		</motto>
+		<pictura xml:id="E051819_P1" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12213" page="wing_ms_279_157">
+			<figDesc xml:lang="la" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12150">GLOBO
+				TERRENO INCUMBIT LIBER ET GLADIUS.</figDesc>
+		</pictura>
+		<subscriptio>
+			<transcription xml:lang="la" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12150" page="wing_ms_279_094">H&#230;c universi quanta quanta machina est, Quot nationes, sceptra, &amp;
+				urbes condit&#230;, His eruditis est opus chartis, opus Gladiis. Bases sint h&#230;c duo plusquam
+				aure&#230;. </transcription>
+			<transcription xml:lang="de" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12173" page="wing_ms_279_117">Gute Gsetz vnd ordnung sind: gebn/ Das jedermann darnach soll lebn.
+				Die Obrigkeit das Schwerdt drumb f&#252;hrt/ Das d'b&#246;sen straff wie sich geb&#252;rt. Mit verstandt
+				das Gesetz vnd Schwerdt In zaum halten die gantze Erd. </transcription>
+		</subscriptio>
+	</emblem>
+	<emblem xml:id="E051820" globalID="http://hdl.handle.net/10111/EmblemRegistry:E051820" citeNo="20" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12215">
+		<motto>
+			<transcription xml:lang="la">Lex regit arma tuentur.</transcription>
+		</motto>
+		<pictura xml:id="E051820_P1" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12215" page="wing_ms_279_159">
+			<figDesc xml:lang="la" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12151">TABUL&#198; MOSIS ET MANUS ARMADA GLADIO.</figDesc>
+		</pictura>
+		<subscriptio>
+			<transcription xml:lang="la" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12151" page="wing_ms_279_095">Pr&#230;scribit, en, Lex universis civibus Facienda: qu&#230; fugienda sint
+				stricte vetat: Ut illa fiant, ista caveantur probe: Legem tuetur ferrea Princeps manu. </transcription>
+			<transcription xml:lang="de" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12173" page="wing_ms_279_117">Damit gut Policey vnd Gsetz Erhalten werden vnverletzt/ Mu&#223; man dabey
+				bstandhafft verbleibn/ Was ihm z'wider/ mit gewalt abtreibn. S'Gsetz soll au&#223; Gotts bfehl
+				exequirn Ein Obrigkeit/ vnd defendirn. Oder: Das G&#246;ttlich Gsetz die Obrigkeit Manutenir
+				durch lieb vnd leid/ </transcription>
+		</subscriptio>
+	</emblem>
+	<emblem xml:id="E051821" globalID="http://hdl.handle.net/10111/EmblemRegistry:E051821" citeNo="21" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12217">
+		<motto>
+			<transcription xml:lang="la">Pro Grege.</transcription>
+		</motto>
+		<pictura xml:id="E051821_P1" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12217" page="wing_ms_279_161">
+			<figDesc xml:lang="la" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12152">GRUS
+				VIGILANS, LAPILLUM TENENS PEDE.</figDesc>
+		</pictura>
+		<subscriptio>
+			<transcription xml:lang="la" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12152" page="wing_ms_279_096">PRO GREGE pennigerum VIGILAT monitore lapillo Agminis innumeri dux,
+				Palamedis avis: PRO GREGE terrigenum, quos fac defendere ferro, Lege monente, suas Rex agit
+				excubias. </transcription>
+			<transcription xml:lang="de" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12174" page="wing_ms_279_118">Damit d'andern ruhen die nacht/ Helt hie ein Kranich fleissge wacht.
+				Auff da&#223;/ so er der Feind w&#252;rdt gwahr/ Sich vnd die sein bewaar vor gfahr/ Ein F&#252;rst/ der
+				soll sorgfeltig sein Fr&#252; vnd spat f&#252;r sein liebe Gmein/ </transcription>
+		</subscriptio>
+	</emblem>
+	<emblem xml:id="E051822" globalID="http://hdl.handle.net/10111/EmblemRegistry:E051822" citeNo="22" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12219">
+		<motto>
+			<transcription xml:lang="la">Parcere subiectis.</transcription>
+		</motto>
+		<pictura xml:id="E051822_P1" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12219" page="wing_ms_279_163">
+			<figDesc xml:lang="la" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12153">LEO
+				PARCIT CATELLO SIBI ADFOLANDIENTI.</figDesc>
+		</pictura>
+		<subscriptio>
+			<transcription xml:lang="la" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12153" page="wing_ms_279_097">Desipit in victos bilis generosa Leonum De s&#230;vire canes: se modo
+				subjiciant. Majestas Regum, virtusque augusta Dynastior, Exprompte novit parcere
+				supplicibus. </transcription>
+			<transcription xml:lang="de" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12174" page="wing_ms_279_118">Ob schon der L&#246;w sonst mechtig sehr/ Dennoch so begert er nicht mehr/
+				Das klein H&#252;ndlein bringen vmbs lebn/ Wann es sich nur ihm thut ergebn. Der &#252;berwundnen/
+				grosse Herrn/ Ghorsam zu schaden nicht begern. </transcription>
+		</subscriptio>
+	</emblem>
+	<emblem xml:id="E051823" globalID="http://hdl.handle.net/10111/EmblemRegistry:E051823" citeNo="23" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12221">
+		<motto>
+			<transcription xml:lang="la">Pro aris focisque.</transcription>
+		</motto>
+		<pictura xml:id="E051823_P1" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12221" page="wing_ms_279_165">
+			<figDesc xml:lang="la" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12154">CICONIA DEFENDIT PULLOS CONTRA MILVOS.</figDesc>
+		</pictura>
+		<subscriptio>
+			<transcription xml:lang="la" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12154" page="wing_ms_279_098">Pro nido et pullis rostrata Ciconia pugnat: Pro civitate et Urbe
+				dimicat Rex bonus. </transcription>
+			<transcription xml:lang="de" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12174" page="wing_ms_279_118">Ein Storch f&#252;r sein Jungen im nest/ Streit/ vnd ihm keins entztehen
+				lest Von den Raubv&#246;glen spart kein m&#252;h Bi&#223; er von denn getrieben sie. Ein F&#252;rst ja alle
+				Obrigkeit/ Billich f&#252;r die sein kriegt vnd streit. </transcription>
+		</subscriptio>
+	</emblem>
+	<emblem xml:id="E051824" globalID="http://hdl.handle.net/10111/EmblemRegistry:E051824" citeNo="24" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12223">
+		<motto>
+			<transcription xml:lang="la">Dulcis Concordi&#230; fructus.</transcription>
+		</motto>
+		<pictura xml:id="E051824_P1" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12223" page="wing_ms_279_167">
+			<figDesc xml:lang="la" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12155">APES
+				CIREA ALVEARIUM VOLANTES.</figDesc>
+		</pictura>
+		<subscriptio>
+			<transcription xml:lang="la" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12155" page="wing_ms_279_099">Innumerus sit Apum numerus: bene convenit alveo: Mellaque certatim
+				dulcia conficiunt. Et licet innumeros habeat Respublica cives, AUREA PAX OMNES, crede,
+				labore BEAT. </transcription>
+			<transcription xml:lang="de" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12174" page="wing_ms_279_118">In einem Stock viel Bienlein klein Machen den s&#252;ssen H&#246;nigseim/ In
+				einigkeit bleiben beysamm/ Vnd w&#252;rd keines dem andern gram Viel Burger so sie friedsam sein/
+				Mit nutz sindt in eim St&#228;tlein klein. </transcription>
+		</subscriptio>
+	</emblem>
+	<emblem xml:id="E051825" globalID="http://hdl.handle.net/10111/EmblemRegistry:E051825" citeNo="25" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12225">
+		<motto>
+			<transcription xml:lang="la">Anima Consilii silentium.</transcription>
+		</motto>
+		<pictura xml:id="E051825_P1" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12225" page="wing_ms_279_169">
+			<figDesc xml:lang="la" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12156">ALEXANDER M. HEPHESTIONIS LABIIS SIGILLUM APPRIMIT.</figDesc>
+		</pictura>
+		<subscriptio>
+			<transcription xml:lang="la" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12156" page="wing_ms_279_100">Consilium lateat, Digito compesce labellum: Obsignes quin os, moneo,
+				linguamque Sigillo: Consilium eventus tacitum comittatur amicus. Tutum adeo &amp; pulcrum
+				pr&#230;stare silentia rebus. </transcription>
+			<transcription xml:lang="de" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12175" page="wing_ms_279_119">Ein heimlichn Brieff Alexandr la&#223;/ Vnd weil Hephenstion z'gegen was/
+				Truckt er ihm auff den Mund ein ring/ Andeutent er solt gschweign der ding. Heimlicher sachn
+				verschwiegenheit Vil nutz hat gschaffet jeder zeit. </transcription>
+		</subscriptio>
+	</emblem>
+	<emblem xml:id="E051826" globalID="http://hdl.handle.net/10111/EmblemRegistry:E051826" citeNo="26" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12227">
+		<motto>
+			<transcription xml:lang="la">Ne Corrumpar.</transcription>
+		</motto>
+		<pictura xml:id="E051826_P1" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12227" page="wing_ms_279_171">
+			<figDesc xml:lang="la" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12157">IUDEX
+				CLAUSIS OCULIS AUDIT, NE CORRUMPATUR DONIS OBLATIS.</figDesc>
+		</pictura>
+		<subscriptio>
+			<transcription xml:lang="la" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12157" page="wing_ms_279_101">Auferte, tollite ocyus splendens tutum, Fabritius inquit: Haut opus
+				nummis bono est Viro, Cave, corrumpat aurum animum, cave. Virtute nil preciosius; VIRTUS
+				JUVAT. </transcription>
+			<transcription xml:lang="de" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12175" page="wing_ms_279_119">Fabritius w&#252;rdt hochgeacht/ Weil er all gschenck vnd gab veracht/ Vnd
+				jedermann gehaltten gleich Es sey gewest arm oder reich. Ein weiser Mann nach Gelt nicht
+				tracht Sondern allein der Tugent acht/ </transcription>
+		</subscriptio>
+	</emblem>
+	<emblem xml:id="E051827" globalID="http://hdl.handle.net/10111/EmblemRegistry:E051827" citeNo="27" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12229">
+		<motto>
+			<transcription xml:lang="la">Affectus Comprime.</transcription>
+		</motto>
+		<pictura xml:id="E051827_P1" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12229" page="wing_ms_279_173">
+			<figDesc xml:lang="la" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12158">MANUS
+				FORCIPE COMPRIMIT COR.</figDesc>
+		</pictura>
+		<subscriptio>
+			<transcription xml:lang="la" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12158" page="wing_ms_279_102">REGINA RATIO recta Regibus imperat, Et dictat adfectus cohercere
+				improbos. Pareto rationi: Catenis, vinculis Cohibe &#960;&#940;&#952;&#951;, tibi ut secund&#230; res eant. </transcription>
+			<transcription xml:lang="de" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12175" page="wing_ms_279_119">Inn einer Zang ein hertz hier gmalt/ Zeiget vns an/ wie gleicher
+				gstalt/ Ein vern&#252;nfftiger Mensche soll Sein eigen begierdt dempffen wol. Der sich selbs
+				&#252;berwinden kan/ Ist der sterckst vnd gl&#252;ckseligst Mann. </transcription>
+		</subscriptio>
+	</emblem>
+	<emblem xml:id="E051828" globalID="http://hdl.handle.net/10111/EmblemRegistry:E051828" citeNo="28" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12231">
+		<motto>
+			<transcription xml:lang="la">Manet altera Reo.</transcription>
+		</motto>
+		<pictura xml:id="E051828_P1" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12231" page="wing_ms_279_175">
+			<figDesc xml:lang="la" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12159">ALEXANDER M. IN AUDIENDO ACTORE, ALTERAM AUREM SERVABAT REO.</figDesc>
+		</pictura>
+		<subscriptio>
+			<transcription xml:lang="la" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12159" page="wing_ms_279_103">Actori una datur merito, datur altera juste Auricula fugienti reo.
+				Adcusasse etenim si sufficit: ipsa perit, eheu! Nocens vel INNOCENTIA. </transcription>
+			<transcription xml:lang="de" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12175" page="wing_ms_279_119">K&#246;ng Alexander im brauch hett/ Wann einer bey ihm klagen thet/ Das er
+				zuhielt das eine Ohr/ Vnd behielt's dem beklagten vor Mit urtheil f&#228;llen niemand eil/ Bi&#223;
+				abgeh&#246;rt findt beede theil. Oder: Eines Manns red ist ein halb red/ Mann soll die part
+				verh&#246;ren beed. </transcription>
+		</subscriptio>
+	</emblem>
+	<emblem xml:id="E051829" globalID="http://hdl.handle.net/10111/EmblemRegistry:E051829" citeNo="29" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12233">
+		<motto>
+			<transcription xml:lang="la">Pro meritis.</transcription>
+		</motto>
+		<pictura xml:id="E051829_P1" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12233" page="wing_ms_279_177">
+			<figDesc xml:lang="la" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12160">JUDEX
+				PR&#198;MIO BONUM, POENA IMPROBUM AFFICIT.</figDesc>
+		</pictura>
+		<subscriptio>
+			<transcription xml:lang="la" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12160" page="wing_ms_279_104">Pulcris, largitur Judex tibi castus Honores, O bone, pro meritis,
+				munere, donat opes: Improbe, decernit scuticam tibi, fragra, securim, Te addicit scalis,
+				denique Gemoniis. </transcription>
+			<transcription xml:lang="de" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12176" page="wing_ms_279_120">Eim jeden hie gegeben w&#252;rdt Was ihm von rechts wegen geb&#252;rt/ Dem der
+				sich wol ghaltn/ man gschenck bringt/ Der/ so b&#246;&#223; gstifft/ sein straff empfengt. Ein solches
+				Regiment floriert/ Wo Tugent blohnt: verbrechn strafft w&#252;rdt. </transcription>
+		</subscriptio>
+	</emblem>
+	<emblem xml:id="E051830" globalID="http://hdl.handle.net/10111/EmblemRegistry:E051830" citeNo="30" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12235">
+		<motto>
+			<transcription xml:lang="la">Sine respectu.</transcription>
+		</motto>
+		<pictura xml:id="E051830_P1" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12235" page="wing_ms_279_179">
+			<figDesc xml:lang="la" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12161">TRAIANUS IMP. GLADIUM STRICTUM OFFERT JUDICI.</figDesc>
+		</pictura>
+		<subscriptio>
+			<transcription xml:lang="la" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12161" page="wing_ms_279_105">Optume, vox, TRAIANE, tua h&#230;c fuit: accipe ferrum. In me quod
+				stringas, si male cautus agam. Pro me, si jubeam recta, et qu&#230; justa videntur; TRAIANOS
+				hodie quod dabit imperium? </transcription>
+			<transcription xml:lang="de" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12176" page="wing_ms_279_120">Trajanus seim Hoffmeister reicht/ Ein blo&#223; Schwerdt/ vnd darnebn
+				anzeicht: Er solte solches recht gebrauchn/ Wider ihn/ wann er th&#228;tte strauchn. Richter/ ohn
+				ansehn der person/ Richte das rechte Recht ohn lohn. </transcription>
+		</subscriptio>
+	</emblem>
+	<emblem xml:id="E051831" globalID="http://hdl.handle.net/10111/EmblemRegistry:E051831" citeNo="31" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12237">
+		<motto>
+			<transcription xml:lang="la">&#230;quabiliter.</transcription>
+		</motto>
+		<pictura xml:id="E051831_P1" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12237" page="wing_ms_279_181">
+			<figDesc xml:lang="la" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12162">MANUS
+				TENET BILANCEM.</figDesc>
+		</pictura>
+		<subscriptio>
+			<transcription xml:lang="la" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12162" page="wing_ms_279_106">Qu&#230; regitur &#230;quilibrio, Politeia, Regnum, Civitas, Visa Sapientibus
+				optima, Quod, DACE, perbelle capis. </transcription>
+			<transcription xml:lang="de" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12176" page="wing_ms_279_120">Wie die Wag steht vnd auff kein seitn Wangt/ also mu&#223; zu allen zeitn
+				Es bstelt sein/ wanns recht soll zugehn/ Mu&#223; man eim wie dem andrn beystehn. Lang wehrt ein
+				Regiment da z'gleich/ Der arm besch&#252;tzt w&#252;rd wie der reich. </transcription>
+		</subscriptio>
+	</emblem>
+	<emblem xml:id="E051832" globalID="http://hdl.handle.net/10111/EmblemRegistry:E051832" citeNo="32" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12239">
+		<motto>
+			<transcription xml:lang="la">Rigorem clementia temperet.</transcription>
+		</motto>
+		<pictura xml:id="E051832_P1" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12239" page="wing_ms_279_183">
+			<figDesc xml:lang="la" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12163">MANUS
+				TENET GLADIUM RAMIS OLE&#198; IMPLICATUM.</figDesc>
+		</pictura>
+		<subscriptio>
+			<transcription xml:lang="la" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12163" page="wing_ms_279_107">Bilem Catonis, C&#230;saris benignior Ubi in Senatu attemperat sententia,
+				Justum salubri &#230;quumque sit moderamine: Hoc ferrum, oliv&#230; et ramus affabre notant. </transcription>
+			<transcription xml:lang="de" xlink:href="http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12176" page="wing_ms_279_120">Die Oelzweig sich winden vmbs Schwerdt. Was bedeuts? das man nicht zu
+				hert Vnd zu scharff procediren soll/ Sondern der gnad auch gdencken wol. Den glindten Weg so
+				viel sein kan/ Allzeit ein Richter solle gan/ </transcription>
+		</subscriptio>
+	</emblem>
+</biblioDesc>

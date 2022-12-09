@@ -1,0 +1,27 @@
+
+      {
+   "@context": ["http://schema.org",
+    {"associatedMedia": {
+      "@id": "http://schema.org/associatedMedia",
+      "@container": "@list"
+    }    }
+  ],
+   "@id": "http://emblematica.library.illinois.edu/detail/emblem/E051812",
+   "sameAs": ["http://hdl.handle.net/10111/EmblemRegistry:E051812"],
+   "@type": "CreativeWork",
+   "name": [
+{"@language" : "http://id.loc.gov/vocabulary/iso639-1/la",
+"@value" : "Minor esca majoris."}
+],
+    "thumbnailUrl": "http://emblemimages.library.illinois.edu/WingMs279/_access/emblem/wing_ms_279_143.jpg",
+    "isPartOf": "http://emblematica.library.illinois.edu/detail/book/WingMs279",
+   "dateCreated": "1620",
+   "genre": "http://vocab.getty.edu/page/aat/300123040",
+   "associatedMedia": [
+    "http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12199"
+     ], "hasPart": {
+                  "@type": "VisualArtwork",
+                  "artform": "emblem pictura",
+                  "thumbnailUrl": "http://emblemimages.library.illinois.edu/WingMs279/_access/pictura/wing_ms_279_143.jpg",
+      "associatedMedia": [ "http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/12199"]             
+      } } 

@@ -1,0 +1,92 @@
+
+   {
+    "@context": "http://schema.org",
+    "@type": "Book",
+    "@id": "http://emblematica.library.illinois.edu/detail/book/WingMs279",
+"name": "Inscriptiones picturae et emblemata quae in aula magna curiae Norimbergensis publice extant: quibus ob argumenti similitudinem accesserunt, I. Chrongraphia arcuum aliquot triumphalium, II. Numi memorabiles, III. Alia[que] monumenta in varijs urbis partib[us] visu[m] jucunda, lectu[m][que] digna",
+"author": [
+{"@id": "http://viaf.org/viaf/44645410", 
+"@type": "Person", 
+"name": "Remus, Georg, 1561-1625"
+}
+],
+"about": [{ "name": "Maximilian I, Holy Roman Emperor 1459-1519", "url": ["http://viaf.org/viaf/293727145"]}, { "name": "Maximilian I, Holy Roman Emperor 1459-1519"}, { "name": "Nürnberger Rathaus (Nuremberg, Germany)"}, { "name": "Nürnberger Rathaus (Nuremberg, Germany)"}, { "name": "Emblems--Early works to 1800", "url": ["http://id.loc.gov/authorities/subjects/sh2008102967", "http://id.loc.gov/authorities/subjects/sh85042693"]}, { "name": "Emblem books, German--Early works to 1800", "url": ["http://id.loc.gov/authorities/subjects/sh85042689"]}, { "name": "Emblem books, German"}, { "name": "Emblem books"}, { "name": "Emblems"}, { "name": "Nuremberg (Germany)--History--Sources", "url": ["http://id.loc.gov/authorities/subjects/sh85061212"]}, { "name": "Germany--Nuremberg"}],
+"contributor": [
+{
+
+              "@type": "Role",
+              "additionalType": "http://id.loc.gov/vocabulary/relators",
+              "roleName": "http://id.loc.gov/vocabulary/relators/egr", 
+              "name": "engraver",
+              "contributor": {
+"@id": "http://viaf.org/viaf/77107840", 
+"@type": "Person", 
+"name": "Iselberg, Peter, approximately 1568-approximately 1630"
+}
+},
+{
+
+              "@type": "Role",
+              "additionalType": "http://id.loc.gov/vocabulary/relators",
+              "roleName": "http://id.loc.gov/vocabulary/relators/fmo", 
+              "name": "former owner",
+              "contributor": {
+"@id": "http://viaf.org/viaf/66379729", 
+"@type": "Person", 
+"name": "Wing, John M. (John Mansir), 1845-1917"
+}
+}
+],
+"locationCreated": [
+"http://id.loc.gov/vocabulary/countries/gw",
+{ "name": "Nürnberg"}
+],
+"dateCreated": "1620",
+"publisher": [
+""
+],
+"inLanguage": ["http://id.loc.gov/vocabulary/iso639-2/lat",
+"http://id.loc.gov/vocabulary/iso639-2/ger"
+],
+"hasPart": ["http://hdl.handle.net/10111/EmblemRegistry:E051801"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E051802"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E051803"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E051804"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E051805"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E051806"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E051807"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E051808"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E051809"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E051810"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E051811"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E051812"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E051813"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E051814"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E051815"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E051816"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E051817"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E051818"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E051819"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E051820"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E051821"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E051822"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E051823"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E051824"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E051825"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E051826"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E051827"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E051828"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E051829"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E051830"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E051831"
+        ,"http://hdl.handle.net/10111/EmblemRegistry:E051832"
+        ],
+"description": ["1 volume : illustrations (engravings) ; 20 cm"
+        ,"Signed at end: G. Remus."
+        ,"Section with heading 'Civitatis bono, anno gratiae MDCXVIII. Introductum. Georgii Remi' dated at end 1620."
+        ,"Thirty two leaves of plates from Peter Iselberg's Emblemata politica (Nuremberg, 1617) bound in along with the dedicatory plate and emblematic verses in German 'Kurtze erklärung nachfolgender.' The plates were engraved by Iselberg after the paintings in the Nuremberg Council Hall."
+        ,"Latin and German."
+        ,"Armorial bookplate: Thos. Carter."
+        ,"Armorial bookplate: Old Corner Library John M. Wing."
+        ]
+}
