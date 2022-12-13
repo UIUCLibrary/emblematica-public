@@ -19,8 +19,7 @@ Namespace Controllers
             Dim msArg As New XsltArgumentList
             Dim myResultString As String = ""
 
-            xsltUrl = "http://" + Request.Url.Authority + "/spinetransform/Xslt/mods2html.xslt"
-            myXslt.Load(xsltUrl)
+            myXslt.Load(Server.MapPath("~\Xslt\mods2html.xslt"))
 
             Dim regex As Regex = New Regex(myRegEx4url)
             Dim match As Match = regex.Match(url)
