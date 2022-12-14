@@ -32,8 +32,9 @@ Imports SpineTransform3
         Dim invalid_urls As List(Of String) = New List(Of String) From {
                 "https://foo.illinois.edu/somepath/foo.xml",
                 "https://weird.com/somepath/foo.xml",
-                "fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffflibrary.illinois.edu",
-                "https://lib-iis-prod.library.illinois.edu/somepath/foo"
+                "https://fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffflibrary.illinois.edu",
+                "https://lib-iis-prod.library.illinois.edu/somepath/foo",
+                "this_is_a_url"
             }
 
         For Each url As String In invalid_urls
@@ -41,5 +42,9 @@ Imports SpineTransform3
         Next
 
     End Sub
+
+
+
+
 
 End Class

@@ -1,18 +1,28 @@
 ﻿Public Class XmlTargetUrlValidator
 
     Public Shared Function Validate(raw_url As String) As Boolean
-        Throw New NotImplementedException
-        '    Dim url As Uri = New Uri(raw_url)
 
-        '    Dim uiucLibraryHostname As String = ".library.illinois.edu"
+        ' We might want to refactor this so this exception isn't 
+        ' handled here but handled higher up for 
+        ' more detailed error messages...
 
-        '    Dim hostname As String = url.Host
+        Dim url As Uri
+        Try
+            url = New Uri(raw_url)
+        Catch ex As System.UriFormatException
+            Return False
+        End Try
 
-        '    Dim is_valid As Boolean = hostname.ToLower().Equals("library.illinois.edu") _
-        '                             OrElse (hostname.EndsWith(uiucLibraryHostname) _
-        '                                    AndAlso hostname.EndsWith(".xml"))
 
-        '  Return is_valid
+        Dim uiucLibraryHostname As String = ".library.illinois.edu"
+
+        Dim hostname As String = url.Host
+
+        Dim is_valid As Boolean = hostname.ToLower().Equals("library.illinois.edu") _
+                                     OrElse (hostname.EndsWith(uiucLibraryHostname) _
+                                            AndAlso hostname.EndsWith(".xml"))
+
+        Return is_valid
 
     End Function
 
