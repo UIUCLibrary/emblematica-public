@@ -10,6 +10,18 @@ Public Module RouteConfig
         routes.IgnoreRoute("{resource}.axd/{*pathInfo}")
 
         routes.MapRoute(
+            name:="book",
+            url:="book/{url}",
+            defaults:=New With {.controller = "spinetransform", .action = "book", .url = UrlParameter.Optional}
+        )
+
+        routes.MapRoute(
+            name:="emblem",
+            url:="emblem/{url}",
+            defaults:=New With {.controller = "spinetransform", .action = "emblem", .url = UrlParameter.Optional}
+        )
+
+        routes.MapRoute(
             name:="Default",
             url:="{controller}/{action}/{url}",
             defaults:=New With {.controller = "spinetransform", .action = "book", .url = UrlParameter.Optional}
