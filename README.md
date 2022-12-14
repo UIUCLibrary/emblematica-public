@@ -12,7 +12,7 @@ This is the publicly accessible version of the code behind [Emblematica Online](
 * Uses Cantaloupe IIIF image server to display full resolution page images from specific contributors
 
 ### Sample Metadata
-Metadata from each of the contributors is gathered normalized and indexed using solr. The [Sample Metadata](sample metadata/) illustrates the metadata files (including larger 'thumbnails' of digitized emblem page images) assumed by the application. The   and   files are indexed in solr according to the [solr schemas](sample metadata/Solr-Schemas) in the Sample Metadata folder.   
+Metadata from each of the contributors is gathered normalized and indexed using solr. The [Sample Metadata](<sample metadata/>) illustrates the metadata files (including larger 'thumbnails' of digitized emblem page images) assumed by the application. The   and   files are indexed in solr according to the [solr schemas](<sample metadata/Solr-Schemas>) in the Sample Metadata folder.   
 
 ### EmblematicaAPI
 
