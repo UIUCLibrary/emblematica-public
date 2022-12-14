@@ -17,7 +17,6 @@ Namespace Controllers
 
             Dim xsltUrl As String = ""
             Dim metaXml As XPathDocument
-            Dim myRegEx4url As String = "^https?:\/\/[A-Za-z]{1,20}\.library\.illinois\.edu\/[.\S]*\.xml$"
             Dim myXslt As New XslCompiledTransform()
             Dim myStream As New MemoryStream()
             Dim msArg As New XsltArgumentList
@@ -25,9 +24,7 @@ Namespace Controllers
 
             myXslt.Load(Server.MapPath(xslt_path))
 
-            Dim regex As Regex = New Regex(myRegEx4url)
-            Dim match As Match = regex.Match(url)
-            If Not match.Success Then
+            If Not XmlTargetUrlValidator.Validate(url) Then
                 Return "<h2>Url failed.</h2>"
             End If
 
