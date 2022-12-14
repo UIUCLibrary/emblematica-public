@@ -18,9 +18,9 @@
 
         Dim hostname As String = url.Host
 
-        Dim is_valid As Boolean = hostname.ToLower().Equals("library.illinois.edu") _
-                                     OrElse (hostname.EndsWith(uiucLibraryHostname) _
-                                            AndAlso hostname.EndsWith(".xml"))
+        Dim is_valid As Boolean = (hostname.ToLower().Equals("library.illinois.edu") _
+                                   OrElse hostname.EndsWith(uiucLibraryHostname) _
+                                   AndAlso raw_url.EndsWith(".xml"))
 
         Return is_valid
 
