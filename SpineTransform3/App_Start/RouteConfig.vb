@@ -11,7 +11,7 @@ Public Module RouteConfig
 
         routes.MapRoute(
             name:="Default",
-            url:="{controller}/{action}/{url}",
+            url:="{action}/{url}/{controller}",
             defaults:=New With {.controller = "spinetransform", .action = "book", .url = UrlParameter.Optional}
         )
     End Sub
