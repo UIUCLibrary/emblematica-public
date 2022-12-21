@@ -106,25 +106,25 @@
               <ul class="dropdown-menu font-12">
                 <li>
                   <a href="#">
-                    <img src="app/img/flags/usa_square_icon_64.png"/>
+                    <img src="/app/img/flags/usa_square_icon_64.png"/>
                     English
                   </a>
                 </li>
                 <li>
                   <a href="#">
-                    <img src="app/img/flags/germany_square_icon_64.png"/>
+                    <img src="/app/img/flags/germany_square_icon_64.png"/>
                     German
                   </a>
                 </li>
                 <li>
                   <a href="#">
-                    <img src="app/img/flags/france_square_icon_64.png"/>
+                    <img src="/app/img/flags/france_square_icon_64.png"/>
                     French
                   </a>
                 </li>
                 <li>
                   <a href="#">
-                    <img src="app/img/flags/italy_square_icon_64.png"/>
+                    <img src="/app/img/flags/italy_square_icon_64.png"/>
                     Italian
                   </a>
                 </li>
