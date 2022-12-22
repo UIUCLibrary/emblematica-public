@@ -5,6 +5,7 @@ Public Class WebHelper
     Public Shared Function GetResource(url As String)
         Try
             Using webClient As New WebClient()
+				webClient.Encoding = Encoding.UTF8
                 Return webClient.DownloadString(url)
             End Using
         Catch exception As Exception
